@@ -1,6 +1,7 @@
 ---
 title:
 author: Zhanna
+date:
 categories:
 tags:
 excerpt:
