@@ -4,10 +4,10 @@
   _inputs:
     mark_type:
       type: select
-        options:
-          values:
-            - Survey Mark
-            - Reference Mark
+      options:
+        values:
+          - Survey
+          - Reference
   date:
 
 
