@@ -10,7 +10,9 @@ collections_config:
         path: schemas/post.md
     _inputs:
       layout:
-        hidden: true    
+        hidden: true
+      date:
+        type: date  
   geocaches:
     schemas:
       default:
