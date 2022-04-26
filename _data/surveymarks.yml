@@ -1,7 +1,14 @@
 - designation:
   pid:
-  type:
+  mark_type:
+  _inputs:
+    mark_type:
+      type: select
+        options:
+          values:
+            - Survey Mark
+            - Reference Mark
   date:
-  
+
 
 
