@@ -1,5 +1,5 @@
-designation:
-pid:
+designation: Test
+pid: ly1234
 mark_type: Survey Mark
 _inputs:
   mark_type:
@@ -8,7 +8,4 @@ _inputs:
       values:
         - Survey Mark
         - Reference Mark
-date:
-
-
-
+date: 2022-04-25 00:00:00
