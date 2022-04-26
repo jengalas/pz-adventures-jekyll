@@ -8,8 +8,6 @@ By {{ page.author }}
 
 {{ content }}
 
-page id - {{ page.id }}
-
 {% assign todays = site.geocaches | where: "post_id", page.post_id %}
 
 {% for item in todays %}
