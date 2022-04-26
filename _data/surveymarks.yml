@@ -1,13 +1,11 @@
+_select_data:
+  mark_types:
+    - Survey Mark
+    - Reference Mark
+
 - designation:
   pid:
   mark_type:
-  _inputs:
-    mark_type:
-      type: select
-      options:
-        values:
-          - Survey
-          - Reference
   date:
 
 
