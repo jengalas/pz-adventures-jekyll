@@ -12,3 +12,6 @@ collections_config:
     schemas:
       default:
         path: schemas/geocache.md
+    _inputs:
+      zhanna_log:
+        label: Zhanna's Log    

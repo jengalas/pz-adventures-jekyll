@@ -8,7 +8,7 @@ display_coords:
 latitude:
 longitude:
 first_stage: false
-bogus: true
+bogus: false
 zhanna_log:
 rich_log:
 layout: geocache
