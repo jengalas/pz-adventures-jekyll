@@ -8,5 +8,6 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+post_id:
 layout: post
 ---

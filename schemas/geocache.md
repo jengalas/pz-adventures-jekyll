@@ -11,5 +11,6 @@ first_stage: false
 bogus: false
 zhanna_log:
 rich_log:
+post_id:
 _schema: default
 ---
