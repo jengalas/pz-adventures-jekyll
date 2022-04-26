@@ -8,6 +8,9 @@ collections_config:
     schemas:
       default:
         path: schemas/post.md
+    _inputs:
+      layout:
+        hidden: true    
   geocaches:
     schemas:
       default:
