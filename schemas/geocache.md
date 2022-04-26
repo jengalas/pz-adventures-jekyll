@@ -11,6 +11,5 @@ first_stage: false
 bogus: false
 zhanna_log:
 rich_log:
-layout: geocache
 _schema: default
 ---

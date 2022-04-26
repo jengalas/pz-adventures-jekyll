@@ -1,7 +1,17 @@
 
+{% include head.html %}
+
 {{ page.date | date: "%b %e %Y" | upcase }}
 
 <h1>{{ page.title }}</h1>
 By {{ page.author }}
 
 {{ content }}
+
+page id - {{ page.id }}
+
+{% assign todays = site.geocaches | where: "post_id", page.post_id %}
+
+{% for item in todays %}
+  {{ item.title }}
+{% endfor %}  

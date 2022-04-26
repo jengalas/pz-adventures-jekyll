@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Captivating Math
+title: "Captivating Math"
 url: https://www.geocaching.com/geocache/GC9C6AG
 owner: Tri-State Geocachers
 log_date: 2021-08-21 00:00:00
@@ -25,5 +25,5 @@ zhanna_log: >-
 
   Zhanna and ~Rich in NEPA~
 rich_log:
-layout: geocache
+post_id: 3
 ---
