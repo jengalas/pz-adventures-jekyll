@@ -14,4 +14,10 @@ collections_config:
         path: schemas/geocache.md
     _inputs:
       zhanna_log:
-        label: Zhanna's Log    
+        label: Zhanna's Log
+        type: markdown
+      rich_log:
+        label: Rich's Log
+        type: markdown
+      layout:
+        hidden: true
