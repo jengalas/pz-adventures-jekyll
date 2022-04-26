@@ -2,3 +2,9 @@ _select_data:
   mark_types:
     - Survey Mark
     - Reference Mark
+
+collections_config:
+  posts:
+    schemas:
+      default:
+        path: schemas/post.md    
