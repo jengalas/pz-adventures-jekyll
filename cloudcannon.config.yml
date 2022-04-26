@@ -13,7 +13,12 @@ collections_config:
       default:
         path: schemas/geocache.md
     _enabled_editors:
-      - data    
+      - data
+    _select_data:
+      log_type:
+        - Found it
+        - Didn't find it
+        - Note  
     _inputs:
       zhanna_log:
         label: Zhanna's Log
