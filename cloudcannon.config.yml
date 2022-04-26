@@ -26,5 +26,7 @@ collections_config:
       rich_log:
         label: Rich's Log
         type: markdown
+      log_type:
+        type: select  
       layout:
         hidden: true
