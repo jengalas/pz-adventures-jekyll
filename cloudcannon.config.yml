@@ -28,5 +28,5 @@ collections_config:
         type: markdown
       log_type:
         type: select  
-      layout:
-        hidden: true
+      post_id:
+        type: number
