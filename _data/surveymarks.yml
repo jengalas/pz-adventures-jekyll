@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 - designation:
   pid:
   mark_type: Survey Mark
@@ -11,18 +10,3 @@
           - Reference Mark
   date:
 
-
-
-=======
-designation: Test
-pid: ly1234
-mark_type: Survey Mark
-_inputs:
-  mark_type:
-    type: select
-    options:
-      values:
-        - Survey Mark
-        - Reference Mark
-date: 2022-04-25 00:00:00
->>>>>>> 495298261eeb40bc7ad5fdbcf6716940269ef18e
