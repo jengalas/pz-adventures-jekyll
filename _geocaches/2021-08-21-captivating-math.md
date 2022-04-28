@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Captivating Math"
-url: https://www.geocaching.com/geocache/GC9C6AG
+link: https://www.geocaching.com/geocache/GC9C6AG
 owner: Tri-State Geocachers
 log_date: 2021-08-21 00:00:00
 log_type: Note

@@ -2,11 +2,14 @@
   pid: LY1234
   mark_type: Survey Mark
   date: 2022-04-12 00:00:00
+  post_id: 3
 - designation: Test 2
   pid: LY1235
   mark_type: Reference Mark
   date: 2022-04-26 00:00:00
+  post_id: 3
 - designation: Test 3
   pid: PE1896
   mark_type: Survey Mark
   date: 2022-04-26 00:00:00
+  post_id: 4

@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Zoophillistic Music Men"
-url: https://www.geocaching.com/geocache/GC8YT0T
+link: https://www.geocaching.com/geocache/GC8YT0T
 owner: Brewer Fan Club
 log_date: 2020-10-14 00:00:00
 log_type: Note

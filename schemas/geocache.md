@@ -1,6 +1,6 @@
 ---
 title:
-url:
+link:
 owner:
 log_date:
 log_type:

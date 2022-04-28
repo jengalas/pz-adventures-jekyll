@@ -4,8 +4,7 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 collections:
   geocaches:
-    output: true
-    permalink: /:collection
+    output: false
   posts:
     permalink: /:year/:month/:day/:title
 
