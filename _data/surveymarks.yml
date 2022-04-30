@@ -1,15 +1,18 @@
-- designation: Test 1
-  pid: LY1234
+- designation: 223 LRP
+  pid: 
   mark_type: Survey Mark
-  date: 2022-04-12 00:00:00
+  date: 2020-07-10 00:00:00
+  custom_permalink:
   post_id: 3
 - designation: Test 2
   pid: LY1235
   mark_type: Reference Mark
   date: 2022-04-26 00:00:00
+  custom_permalink:
   post_id: 3
 - designation: Test 3
   pid: PE1896
   mark_type: Survey Mark
   date: 2022-04-26 00:00:00
+  custom_permalink:
   post_id: 4
