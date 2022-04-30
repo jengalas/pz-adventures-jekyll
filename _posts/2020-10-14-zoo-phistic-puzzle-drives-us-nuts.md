@@ -2,7 +2,7 @@
 _schema: default
 title: Zoo-phistic Puzzle Drives Us Nuts
 author: Zhanna
-date: 2020-10-14
+date: 2020-10-14 00:00:00
 categories:
   - geocaching
 tags:
@@ -14,7 +14,7 @@ header:
   teaser:
 geocaches: true
 surveymarks: false
-post_id: '4'
+post_id: '12673'
 layout: post
 ---
 This was a strange puzzle that sent us in many different (incorrect) directions over the course of several weeks. As usual, you realize it’s relatively simple once you’ve figured it out, but there are so many rabbit holes to fall down along the way (especially when you have experience with more complicated puzzles\!) that it can end up being harder than was probably intended.
