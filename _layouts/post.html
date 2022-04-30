@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 {% include head.html %}
 
 {{ page.date | date: "%b %e %Y" | upcase }}
@@ -9,38 +11,11 @@ By {{ page.author }}
 {{ content }}
 
 {% if page.geocaches %}
-    {% assign todays = site.geocaches | where: "post_id", page.post_id %}
-
-    {% for geocache in todays %}
-        {{ geocache.title }} <br>
-        <b>Owner:</b> {{ geocache.owner }} <br>
-        <b>Location:</b> {{ geocache.display_coords }} <br>
-        <b>Log Type:</b> {{ geocache.log_type }} <br>
-        <b>Date:</b> {{ geocache.log_date | date: "%e %B %Y" }} <br>
-        <a href="{{ geocache.link }}">Original Geocaching.com listing</a>
-
-        <iframe style="border:1px solid black;height:300px;width:400px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://planetzhanna.com/leaflet/geocache-single-marker-map.html?lat={{ geocache.latitude }}&amp;lng={{ geocache.longitude }}&amp;zoom=15&amp;marker={{ geocache.title }}"></iframe>
-
-        {% if geocache.zhanna_log %}
-            <h3>Zhanna's Log</h3>
-            {{ geocache.zhanna_log | markdownify }}
-        {% endif %}
-
-        {% if geocache.rich_log %}
-            <h3>Rich's Log</h3>
-            {{ geocache.rich_log | markdownify }}
-        {% endif %}
-    {% endfor %}
+    {% include geocache.html %}    
 {% endif %}
 
 {% if page.surveymarks %}
-
-{% assign todaysm = site.data.surveymarks | where: "post_id", page.post_id %}
-    <ul>
-    {% for mark in todaysm %}
-        <li>{{ mark.pid }}</li>
-    {% endfor %}
-    </ul>
+    {% include surveymark.html %}    
 {% endif %}
 
 {% include footer.html %}

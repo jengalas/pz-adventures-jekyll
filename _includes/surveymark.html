@@ -1,0 +1,14 @@
+{% assign todaysm = site.data.surveymarks | where: "post_id", page.post_id %}
+<ul>
+{% for mark in todaysm %}
+
+
+{% if mark.pid %}
+    <li><a href="https://thesurveystation.com/surveymarks/{{ mark.pid | slugify }}">{{ mark.pid }}</a></li>
+    {% else %}
+    <li><a href="https://thesurveystation.com/surveymarks/{{ mark.designation | slugify }}">{{ mark.designation }}</a></li>
+
+{% endif %}
+
+{% endfor %}
+</ul>
