@@ -1,7 +1,7 @@
-{% assign todays = site.geocaches | where: "post_id", page.post_id %}
+{% assign todays = site.geocaches | where: "post_id", page.post_id | sort: 'date'  %}
 
 {% for geocache in todays %}
-    {{ geocache.title }} <br>
+    <h2>{{ geocache.title }}</h2>
     <b>Owner:</b> {{ geocache.owner }} <br>
     <b>Location:</b> {{ geocache.display_coords }} <br>
     <b>Log Type:</b> {{ geocache.log_type }} <br>
