@@ -1,6 +1,7 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
+timezone: America/New_York
 
 collections:
   geocaches:
@@ -10,3 +11,5 @@ collections:
   posts:
     permalink: /:year/:month/:day/:title
 
+plugins:
+  - jemoji  # https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/
