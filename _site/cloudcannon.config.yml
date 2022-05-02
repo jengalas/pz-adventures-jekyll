@@ -1,0 +1,40 @@
+timezone:
+  "-05:00"
+
+_select_data:
+  mark_types:
+    - Survey Mark
+    - Reference Mark
+
+collections_config:
+  posts:
+    schemas:
+      default:
+        path: schemas/post.md
+    _inputs:
+      layout:
+        hidden: true
+      date:
+        type: date  
+  geocaches:
+    schemas:
+      default:
+        path: schemas/geocache.md
+    _enabled_editors:
+      - data
+    _select_data:
+      log_type:
+        - Found it
+        - Didn't find it
+        - Note  
+    _inputs:
+      zhanna_log:
+        label: Zhanna's Log
+        type: markdown
+      rich_log:
+        label: Rich's Log
+        type: markdown
+      log_type:
+        type: select  
+      post_id:
+        type: number
