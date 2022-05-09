@@ -6,6 +6,7 @@ $footerColor: #ffffff;
 
 body {
   background: $bodyBackgroundColor;
+  box-sizing: border-box;
   color: $bodyColor;
   font-family: $bodyFont;
 }
@@ -13,8 +14,8 @@ body {
 main {
   background: $innerBackgroundColor;
   margin: 0 auto;
-  padding: 1rem;
-  width: 70%; 
+  padding: 3rem 5.263rem;
+  max-width: 880px; 
 }
 
 .emoji {
@@ -25,3 +26,70 @@ main {
   color: $footerColor;
   text-align: center;
 }
+
+// ACCORDION (for Geocaches)
+
+.collapsible {
+  background-color: #eee;
+  border: none;
+  color: #444;
+  cursor: pointer;  
+  font-size: 15px;
+  padding: 18px;
+  text-align: left;
+  width: 100%;  
+
+  &:after {
+    color: #ffffff;
+    content: '\02795';
+    float: right;
+    font-size: 13px;  
+    margin-left: 5px;
+  }
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  background-color: #ffffff;  
+  max-height: 0;
+  overflow: hidden;
+  padding: 0 18px;
+  transition: max-height 0.2s ease-out;
+}
+
+.active:after {
+  content: "\2796";
+}
+
+// IMAGE GALLERIES
+
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  flex-basis: calc(100% / 4);
+
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+  }
+
+  div {
+    flex: 1;
+    flex-basis: 240px;
+    margin: 0.263rem;    
+
+    @media (max-width: 768px) {
+      margin: 0 auto 0.5rem auto;
+    }
+  }
+
+  img {
+    height: auto;
+    width: 100%;  
+  }
+}
+
+// TABS

@@ -1,9 +1,29 @@
-body { background: #60829e; color: #000000; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+body { background: #60829e; box-sizing: border-box; color: #000000; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
-main { background: #ffffff; margin: 0 auto; padding: 1rem; width: 70%; }
+main { background: #ffffff; margin: 0 auto; padding: 3rem 5.263rem; max-width: 880px; }
 
 .emoji { vertical-align: text-bottom; }
 
 .site-info { color: #ffffff; text-align: center; }
+
+.collapsible { background-color: #eee; border: none; color: #444; cursor: pointer; font-size: 15px; padding: 18px; text-align: left; width: 100%; }
+
+.collapsible:after { color: #ffffff; content: '\02795'; float: right; font-size: 13px; margin-left: 5px; }
+
+.active, .collapsible:hover { background-color: #ccc; }
+
+.panel { background-color: #ffffff; max-height: 0; overflow: hidden; padding: 0 18px; transition: max-height 0.2s ease-out; }
+
+.active:after { content: "\2796"; }
+
+.gallery { display: flex; justify-content: space-around; flex-flow: row wrap; flex-basis: calc(100% / 4); }
+
+@media (max-width: 768px) { .gallery { flex-wrap: wrap; } }
+
+.gallery div { flex: 1; flex-basis: 240px; margin: 0.263rem; }
+
+@media (max-width: 768px) { .gallery div { margin: 0 auto 0.5rem auto; } }
+
+.gallery img { height: auto; width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
