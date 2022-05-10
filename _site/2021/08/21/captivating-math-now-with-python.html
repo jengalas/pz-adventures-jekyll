@@ -30,12 +30,12 @@ By Zhanna
 
     
 
+<h2>Today's Geocaches</h2>
 
 
-<!--<h2>1</h2>  Use this to create unique IDs for tabbed sections -->
-
-    <button type="button" class="collapsible">Captivating Math</button>
-    <div class="panel">
+<div class="accordionItem">
+    <h2>Captivating Math</h2>
+    <div>
         <b>Owner:</b> Tri-State Geocachers <br>
         <b>Location:</b> N 41° 27.300' W 074° 24.900' <br>
         <b>Log Type:</b> Note <br>
@@ -44,9 +44,18 @@ By Zhanna
 
         <iframe style="border:1px solid black;height:300px;width:400px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://planetzhanna.com/leaflet/geocache-single-marker-map.html?lat=41.455&amp;lng=-74.415&amp;zoom=15&amp;marker=Captivating Math"></iframe>
 
-        
-            <h3>Zhanna's Log</h3>
-            <p>Hi, Tri-State Geocachers!</p>
+        <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="example-tabs">
+            <ul class="js-tablist">
+                
+                    <li class="js-tablist__item">
+                        <a href="#id_first-1" class="js-tablist__link" data-selected="1">Zhanna's Log</a>
+                    </li>
+                
+                
+            </ul>
+                
+                    <div id="id_first-1" class="js-tabcontent">                        
+                        <p>Hi, Tri-State Geocachers!</p>
 
 <p>Rich and I had a lot of fun “amassing our data” and eventually getting confirmation from Certitude. We thought the theme was great, but some ambiguities made it more difficult than we expected. The posted hint was a big help. Someday we hope to visit the area to search for the cache.</p>
 
@@ -54,10 +63,14 @@ By Zhanna
 
 <p>Zhanna and ~Rich in NEPA~</p>
 
-        
-
-        
+                    </div>
+                
+                
+          </div>
     </div>
+  </div>
+
+
     
 
 
@@ -76,6 +89,7 @@ By Zhanna
 </footer>
 
 <script src="/assets/js/main.js"></script>
+<script src="/assets/js/accessible-tabs.js"></script>
 
 </body>
 </html>    

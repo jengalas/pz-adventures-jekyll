@@ -29,39 +29,33 @@ main {
 
 // ACCORDION (for Geocaches)
 
-.collapsible {
-  background-color: #eee;
-  border: none;
-  color: #444;
-  cursor: pointer;  
-  font-size: 15px;
-  padding: 18px;
-  text-align: left;
-  width: 100%;  
+.accordionItem {
+  border-bottom: 1px solid #ddd;
 
-  &:after {
-    color: #ffffff;
-    content: '\02795';
-    float: right;
-    font-size: 13px;  
-    margin-left: 5px;
+  h2 { 
+    margin: 0; 
+    font-size: 1.1em; 
+    padding: 0.4em; 
+  
+    &:hover { 
+      cursor: pointer; 
+    }
   }
-}
 
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
+  div { 
+    margin: 0; 
+    padding: 1em 0.4em; 
+  }
 
-.panel {
-  background-color: #ffffff;  
-  max-height: 0;
-  overflow: hidden;
-  padding: 0 18px;
-  transition: max-height 0.2s ease-out;
-}
+  &.hide {
+    h2 { 
+      color: #000; 
+    }
 
-.active:after {
-  content: "\2796";
+    div { 
+      display: none; 
+    }
+  }
 }
 
 // IMAGE GALLERIES
@@ -93,3 +87,43 @@ main {
 }
 
 // TABS
+
+.invisible {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.example-tabs-tabs__list {
+  margin: 0;
+  padding: 0;
+}
+.example-tabs-tabs__item {
+  display: inline-block;
+}
+
+.example-tabs-tabs__link {
+  display: inline-block;
+  padding: 1em  2em;
+  background: #f2f2f2;
+  cursor: pointer;
+  color: #148297;
+}
+
+[aria-selected="true"].example-tabs-tabs__link {
+  color: #000;
+}
+
+.example-tabs-tabs__content {
+  background: #f2f2f2;
+  padding: 1em;
+}
+
+[aria-hidden="true"].example-tabs-tabs__content {
+  display: none;
+}

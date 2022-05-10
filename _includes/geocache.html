@@ -1,11 +1,11 @@
 {% assign todays = site.geocaches | where: "post_id", page.post_id | sort: 'date'  %}
 
+<h2>Today's Geocaches</h2>
+
 {% for geocache in todays %}
-
-<!--<h2>{{ forloop.index }}</h2>  Use this to create unique IDs for tabbed sections -->
-
-    <button type="button" class="collapsible">{{ geocache.title }}</button>
-    <div class="panel">
+<div class="accordionItem">
+    <h2>{{ geocache.title }}</h2>
+    <div>
         <b>Owner:</b> {{ geocache.owner }} <br>
         <b>Location:</b> {{ geocache.display_coords }} <br>
         <b>Log Type:</b> {{ geocache.log_type }} <br>
@@ -14,14 +14,31 @@
 
         <iframe style="border:1px solid black;height:300px;width:400px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://planetzhanna.com/leaflet/geocache-single-marker-map.html?lat={{ geocache.latitude }}&amp;lng={{ geocache.longitude }}&amp;zoom=15&amp;marker={{ geocache.title }}"></iframe>
 
-        {% if geocache.zhanna_log %}
-            <h3>Zhanna's Log</h3>
-            {{ geocache.zhanna_log | markdownify }}
-        {% endif %}
-
-        {% if geocache.rich_log %}
-            <h3>Rich's Log</h3>
-            {{ geocache.rich_log | markdownify }}
-        {% endif %}
+        <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="example-tabs">
+            <ul class="js-tablist">
+                {% if geocache.zhanna_log %}
+                    <li class="js-tablist__item">
+                        <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's Log</a>
+                    </li>
+                {% endif %}
+                {% if geocache.rich_log %}
+                    <li class="js-tablist__item">
+                        <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's Log</a>
+                    </li>
+                {% endif %}
+            </ul>
+                {% if geocache.zhanna_log %}
+                    <div id="id_first-{{ forloop.index }}" class="js-tabcontent">                        
+                        {{ geocache.zhanna_log | markdownify }}
+                    </div>
+                {% endif %}
+                {% if geocache.rich_log %}
+                    <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+                        {{ geocache.rich_log | markdownify }}
+                    </div>
+                {% endif %}
+          </div>
     </div>
+  </div>
 {% endfor %}
+
