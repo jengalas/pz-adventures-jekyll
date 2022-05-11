@@ -3,6 +3,11 @@ layout: default
 ---
 {% include head.html %}
 
+{% for category in page.categories %}
+    <a href="/categories/{{ category }}">{{ category | upcase }}</a>
+{% endfor %}
+<br>
+
 {{ page.date | date: "%b %e %Y" | upcase }}
 
 <h1>{{ page.title }}</h1>
@@ -14,12 +19,16 @@ By {{ page.author }}
     {% include geocache.html %}    
 {% endif %}
 
+{% capture year %}{{ page.date | date: "%Y" }}{% endcapture %}
+{% capture month %}{{ page.date | date: "%m" }}{% endcapture %}
+{% capture day %}{{ page.date | date: "%d" }}{% endcapture %}
+<!-- changed to class from id - will it work? -->
 <div class="gallery">
     {% for image in page.gallery %}
-        <div>
-            <a href="{{ image.large_file }}"><img src="{{ image.thumb }}" alt="{{ image.alt }}" title="{{ image.title }}"></a>
-        </div>
-    {% endfor %}
+        <a href="https://planetzhanna.com/images/{{ year }}/{{ month }}/{{ day }}/{{ image.large_file }}">
+            <img alt="{{ image.alt }}" title="{{ image.title }}" src="https://planetzhanna.com/images/{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.thumb }}"/>
+        </a>
+    {% endfor %}    
 </div>
 
 {% if page.surveymarks %}

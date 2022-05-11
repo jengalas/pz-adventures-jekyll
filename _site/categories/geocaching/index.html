@@ -5,6 +5,9 @@
     <meta charset="utf-8">
     <title>Posts about Geocaching - </title>
     <link rel="stylesheet" href="/assets/css/main.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/assets/css/justifiedGallery.min.css" />
+    <script src="/assets/js/jquery.justifiedGallery.min.js"></script> 
   </head>
   <body>
 <main>
@@ -113,6 +116,12 @@
 
 <script src="/assets/js/main.js"></script>
 <script src="/assets/js/accessible-tabs.js"></script>
-
+<script>
+  $(".gallery").justifiedGallery({
+    rowHeight : 200,
+    margins : 4,
+    lastRow: 'justify'
+  });
+</script>
 </body>
 </html>    

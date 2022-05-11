@@ -44,7 +44,7 @@ main {
 
   div { 
     margin: 0; 
-    padding: 1em 0.4em; 
+    padding: 1em 0.4em;
   }
 
   &.hide {
@@ -53,7 +53,7 @@ main {
     }
 
     div { 
-      display: none; 
+      display: none;      
     }
   }
 }
