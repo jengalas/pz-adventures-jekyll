@@ -17,10 +17,11 @@ title: PlanetZhanna Adventures Categories
       <div class="category">
         {% for inner in cat%} {% if forloop.first == true %}
         <span class="span-cat">
-          <a href="/categories/{{cat[0]}}">{{cat[0] | capitalize}}</a></span>
-        -
+          <a href="/categories/{{cat[0]}}">{{cat[0] | capitalize}}</a>
+        </span>        
         <span class="span-count">
-          <a href="/categories/{{cat[0]}}">{{site.categories[inner].size}}</a></span>
+          (<a href="/categories/{{cat[0]}}">{{ site.categories[inner].size }}</a>)
+        </span>
         {% endif %} {% endfor %}
       </div>
       {% endfor %}

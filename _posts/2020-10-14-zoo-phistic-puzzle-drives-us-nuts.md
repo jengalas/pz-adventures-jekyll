@@ -17,6 +17,7 @@ surveymarks: false
 post_id: 12673
 layout: post
 ---
+
 This was a strange puzzle that sent us in many different (incorrect) directions over the course of several weeks. As usual, you realize it’s relatively simple once you’ve figured it out, but there are so many rabbit holes to fall down along the way (especially when you have experience with more complicated puzzles\!) that it can end up being harder than was probably intended.
 
 I tend to like elegant puzzles that have layers of meaning for the solvers to discover along the way. In this case, our initial idea would have fit the bill perfectly. Alas, it was not correct, nor were any of the other dozen or so ideas we came up with as we researched the people and animals in the clues, tried every cryptographic variation under the sun, and even tried brute-forcing the numbers just to get anything that would make some sense and end up in Shannen Park, as specified in the cache description.

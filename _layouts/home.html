@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-
-{{ content }}
+<section>
+    {{ content }}
+</section>
 
 <section>
     {% for post in site.posts %}
-      <article>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </article>
+        <article>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </article>
     {% endfor %}
 </section>
