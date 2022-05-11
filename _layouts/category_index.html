@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<section class="small-intro">
+  <div class="container">
+    <h2>
+      {{page.category | capitalize}}
+    </h2>
+  </div>
+</section>
+<section class="category-excerpts">
+  <div class="container">
+    {% for post in site.posts %} {% if post.categories contains page.category %}
+
+    <article class="post">
+      <h1>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <div class="meta">
+        <span class="post_date">{{ post.date | date: "%B %e, %Y" }}</span>     
+        {% for category in post.categories%}
+        <span class="category">
+          <a href="/categories/{{category}}">{{ category | capitalize }}</a>
+        </span>
+        {% endfor %}
+      </div>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+          Read More
+      </a>
+    </article>
+    {% endif %} {% endfor %}
+  </div>
+</section>
