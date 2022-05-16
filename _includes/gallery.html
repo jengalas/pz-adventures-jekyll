@@ -1,7 +1,7 @@
 {% capture year %}{{ page.date | date: "%Y" }}{% endcapture %}
 {% capture month %}{{ page.date | date: "%m" }}{% endcapture %}
 {% capture day %}{{ page.date | date: "%d" }}{% endcapture %}
-<!-- changed to class from id - will it work? -->
+<!-- changed to class from id - will it work? Seems to. -->
 
 <div class="gallery">
     {% for image in page.galleries[include.gallery_id].images %}
