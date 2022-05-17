@@ -1,0 +1,9 @@
+{% capture imagePath %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/{{ include.large_file }}{% endcapture %}
+
+
+<figure>
+    <a href="{{ imagePath }}">
+        <img src="{{ imagePath }}" alt="" width="800" height="600">
+        </a>
+    <figcaption>{{ include.caption }}</figcaption>
+</figure>
