@@ -120,7 +120,7 @@ galleries:
     - large_file: P1029432clx.jpg
       thumb: P1029432csm.jpg
       alt: Streamside scene
-      title: Streamside scene                
+      title: Streamside scene                 
 ---
 
 Over the past week, Rich and I have spent several afternoons at Lackawanna State Park, searching for and photographing the emerging spring wildflowers. In a landscape still bleak from a long winter, it’s always a surprise to spot these sudden signs of life that seem to appear overnight. It’s like a little treasure hunt, as we round the corner on a trail or peek around a tree trunk to see a burst of color, sometimes faint and delicate, sometimes bright.
@@ -128,7 +128,5 @@ Over the past week, Rich and I have spent several afternoons at Lackawanna State
 Near the lake, the park was beyond busy, with hundreds of winter- and quarantine-weary people from several states enjoying the beautiful weather. We poked around in the woods, avoiding nearly everyone, on Saturday. Sunday we investigated the North Woods Trail south of Trostle Pond, and I crossed White’s Creek on a large fallen log to connect to the swampy area west of the Bull Hill Trail.
 
 Today, Rich and I both went back to the Bull Hill Trail area for a most exciting discovery of several Jack-in-the-pulpits! We had found their habitat last fall when their stalks full of bright red berries gave away their location. We decided then to come back in the spring and look for the strangely-shaped inflorescences. I found a small one growing up alongside a discarded tire, and a larger one in full bloom with a deep purple “Jack” inside!
-
-<h2>Gallery 1</h2>
 
 {% include gallery.html gallery_id="gallery1" %}

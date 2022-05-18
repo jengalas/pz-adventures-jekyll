@@ -27,6 +27,72 @@ main {
   text-align: center;
 }
 
+// POST META
+
+.entry-header {
+  color: #595959;
+  display: flex;
+
+  .cat-links{
+    font-family: Muli, Arial;
+    font-size: 12px;
+    letter-spacing: 1px;    
+    text-transform: uppercase;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        color: #1e73be;
+      }
+    }
+  }
+    
+  h1 {
+    margin: 0;
+  }
+}
+
+.post-date {
+  background-color: #fff;
+  border: solid 1px #bebebe;
+  float: left;
+  margin: 5px 12px 5px 0;
+  text-align: center;
+  width: 52px;
+  border-radius: 38px;
+  padding: 10px;
+
+  .month {
+    background-image: none;
+    box-shadow: none;
+    display: block;
+    font: 11px/100% Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    padding: 2px 0;
+    text-transform: uppercase;
+    padding: 2px 0;
+    position: relative;
+    top: -1px;
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .day {
+    color: #36e7f4;
+    display: block;
+    font: bold 18px/100% Arial,Helvetica,sans-serif;
+    padding: 2px 0 4px;
+  }
+  
+  .year {
+    color: #999;
+    display: block;
+    font: 10px/100% Arial,Helvetica,sans-serif;
+    padding: 0 0 4px;
+  }
+}
+
 // ACCORDION (for Geocaches)
 
 .accordionItem {
