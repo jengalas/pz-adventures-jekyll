@@ -14,4 +14,6 @@ surveymarks: false
 post_id: '12605'
 layout: post
 ---
-Today's puzzles were quite varied. The first one we tried was pretty clear (to us, anyway) about what needed to be done. There were a few ambiguities depending on which source(s) you consulted, but we were able to arrive at the correct answer pretty quickly. The second puzzle was straightforward, fun, and unique. And the third ... that one had us going crazy for over an hour this evening\!&nbsp;<br>&nbsp;
+Today's puzzles were quite varied. The first one we tried was pretty clear (to us, anyway) about what needed to be done. There were a few ambiguities depending on which source(s) you consulted, but we were able to arrive at the correct answer pretty quickly. The second puzzle was straightforward, fun, and unique. And the third ... that one had us going crazy for over an hour this evening\!
+
+{% include image.html large_file="stamps.jpg" thumb="stamps.jpg" caption="Can you identify these?" %}
