@@ -3,7 +3,7 @@ _schema: default
 title: Please Don’t Hate Me!
 link: https://www.geocaching.com/geocache/GC8YM19
 owner: Edward Nygma
-log_date: 2020-09-08 00:00:00
+date: 2020-09-08 00:00:00
 log_type: Note
 display_coords: N 41° 26.000' W 074° 29.000'
 latitude: '41.433333'

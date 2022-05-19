@@ -3,7 +3,7 @@ _schema: default
 title: Pfefferminz
 link: https://www.geocaching.com/geocache/GC8X0CF
 owner: Gilwell1
-log_date: 2020-08-30 00:00:00
+date: 2020-08-30 00:00:00
 log_type: Note
 display_coords: N 41° 27.228' W 074° 29.071'
 latitude: '41.4538'

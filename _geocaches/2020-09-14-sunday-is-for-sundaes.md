@@ -3,7 +3,7 @@ _schema: default
 title: Sunday is for Sundaes!
 link: https://www.geocaching.com/geocache/GC8Y407
 owner: Gilwell1
-log_date: 2020-09-14 01:00:00
+date: 2020-09-14 01:00:00
 log_type: Note
 display_coords: N 41° 24.500' W 074° 24.500'
 latitude: '41.408333'

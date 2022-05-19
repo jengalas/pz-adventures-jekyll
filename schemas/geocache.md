@@ -2,7 +2,7 @@
 title:
 link:
 owner:
-log_date:
+date:
 log_type:
 display_coords:
 latitude:

@@ -3,7 +3,7 @@ _schema: default
 title: 7 1/2 million years of Deep Thought
 link: https://www.geocaching.com/geocache/GC8RVM5
 owner: Douglas Adams
-log_date: 2020-10-13 00:00:00
+date: 2020-10-13 00:00:00
 log_type: Note
 display_coords: N 41° 10.617' W 075° 44.065'
 latitude: '41.17695'

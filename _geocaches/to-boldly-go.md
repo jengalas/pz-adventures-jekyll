@@ -3,7 +3,7 @@ _schema: default
 title: To Boldly Go….
 link: https://www.geocaching.com/geocache/GC8YJF7
 owner: Jim Bridenstine
-log_date: 2020-09-03 00:00:00
+date: 2020-09-03 00:00:00
 log_type: Note
 display_coords: N 41° 25.999' W 074° 28.000'
 latitude: '41.433317'

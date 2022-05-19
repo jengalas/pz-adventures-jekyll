@@ -3,7 +3,7 @@ _schema: default
 title: S.S. Minnow
 link: https://www.geocaching.com/geocache/GC8VWR6
 owner: Gilwell1
-log_date: 2020-08-30 00:00:00
+date: 2020-08-30 00:00:00
 log_type: Note
 display_coords: N 41° 27.229' W 074° 29.072'
 latitude: '41.453816'
