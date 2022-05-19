@@ -3,7 +3,7 @@ _schema: default
 title: The Gold Bug
 link: https://www.geocaching.com/geocache/GC8YT1M
 owner: Mr Montressor
-date: 2020-08-31 00:00:00
+date: 2020-08-31 00:00:01
 log_type: Note
 display_coords: N 41° 26.999' W 074° 28.000'
 latitude: '41.449983'

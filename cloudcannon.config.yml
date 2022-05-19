@@ -14,7 +14,7 @@ collections_config:
       layout:
         hidden: true
       date:
-        type: date  
+        type: datetime  
   geocaches:
     schemas:
       default:
