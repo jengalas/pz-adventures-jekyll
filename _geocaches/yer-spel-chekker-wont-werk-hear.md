@@ -3,7 +3,7 @@ _schema: default
 title: YER SPEL CHEKKER WONT WERK HEAR!
 link: https://www.geocaching.com/geocache/GC8X21K
 owner: Gilwell1
-date: 2020-08-30 00:00:00
+date: 2020-08-30 00:03:00
 log_type: Note
 display_coords: N 41° 27.229' W 074° 29.072'
 latitude: '41.453816'
