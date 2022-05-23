@@ -1,9 +1,11 @@
 {% capture imagePath %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/{{ include.large_file }}{% endcapture %}
+{% capture thumb %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{{ include.thumb }}{% endcapture %}
 
-
-<figure>
-    <a href="{{ imagePath }}">
-        <img src="{{ imagePath }}" alt="">
-        </a>
-    <figcaption>{{ include.caption }}</figcaption>
-</figure>
+<div class="gallery"> 
+    <a data-sub-html="<div class='lg-relative-caption-item'>{{ include.caption }}</div>" href="{{ imagePath }}" title="{{ include.caption }}">
+        <figure> 
+            <img alt="{{ include.caption }}" src="{{ thumb }}">
+            <figcaption>{{ include.caption }}</figcaption>
+        </figure>
+    </a>
+</div>
