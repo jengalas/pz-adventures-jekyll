@@ -18,33 +18,21 @@ tracklog: 10OCT20.gpx
 galleries:
   gallery1:
     images:
-    - large_file: P1001283clx.jpg
-      thumb: P1001283csm.jpg
+    - filename: P1001283
       alt: "Milkweed seed in fall light"
-      title: "Milkweed seed in fall light"
-    - large_file: P1001293clx.jpg
-      thumb: P1001293csm.jpg
-      alt: "Jack in the Pulpit nearing its end, but with bright fruit"
-      title: "Jack in the Pulpit nearing its end, but with bright fruit"      
-    - large_file: P1021772clx.jpg
-      thumb: P1021772csm.jpg
-      alt: "Hemlock varnish shelf fungus (<i>Ganoderma tsugae</i>)"
-      title: "Hemlock varnish shelf fungus (<i>Ganoderma tsugae</i>)" 
-    - large_file: P1021811clx.jpg
-      thumb: P1021811csm.jpg
+    - filename: P1001293
+      alt: "Jack in the Pulpit nearing its end, but with bright fruit"     
+    - filename: P1021772
+      alt: "Hemlock varnish shelf fungus (<i>Ganoderma tsugae</i>)" 
+    - filename: P1021811
       alt: "Unidentified fungus"
-      title: "Unidentified fungus"
-    - large_file: P1021825clx.jpg
-      thumb: P1021825csm.jpg
-      alt: "Pheasant near Trostle Pond"
-      title: "Pheasant near Trostle Pond"      
-    - large_file: P1021838clx.jpg
-      thumb: P1021838csm.jpg
-      alt: "Fall color along the North Woods Trail"
-      title: "Fall color along the North Woods Trail"                 
+    - filename: P1021825
+      alt: "Pheasant near Trostle Pond"      
+    - filename: P1021838
+      alt: "Fall color along the North Woods Trail"                 
 ---
 
-{% include image.html large_file="P1021840clx.jpg" thumb="P1021840b.jpg" caption="One of my favorite spots, at Whites Creek along the North Woods Trail" %}
+{% include image.html filename="P1021840clx.jpg" thumb="P1021840b.jpg" caption="One of my favorite spots, at Whites Creek along the North Woods Trail" %}
 
 Today was very warm and sunny, and we really wanted to spend some time outside on a photo walk. It has been a while since we checked on the Jack in the Pulpits at the State Park, so we made that our goal for the day. Looks like we were just a little too late, though. There was no sign remaining of most of the “Jacks.” Only one had a nice group of fruit still attached, but its stalk was bent and it was lying on the ground.
 

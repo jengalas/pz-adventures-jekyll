@@ -17,110 +17,58 @@ layout: post
 galleries:
   gallery1:
     images:
-    - large_file: P1029263clx.jpg
-      thumb: P1029263csm.jpg
+    - filename: P1029263
       alt: "Yellow trout lily: <i>Erythronium americanum</i>"
-      title: "Yellow trout lily: <i>Erythronium americanum</i>"
-    - large_file: P1029248clx.jpg
-      thumb: P1029248csm.jpg
+    - filename: P1029248
       alt: "Yellow trout lily: <i>Erythronium americanum</i>"
-      title: "Yellow trout lily: <i>Erythronium americanum</i>"
-    - large_file: "P1029298clx.jpg"
-      thumb: P1029298csm.jpg
+    - filename: P1029298
       alt: "Spring beauty: <i>Claytonia virginica</i>"
-      title: "Spring beauty: <i>Claytonia virginica</i>"
-    - large_file: P1029319clx.jpg
-      thumb: P1029319csm.jpg
+    - filename: P1029319
       alt: <i>Trillium erectum</i>
-      title: <i>Trillium erectum</i>
-    - large_file: P1029340clx.jpg
-      thumb: P1029340csm.jpg
-      alt: <i>Trillium erectum</i> 
-      title:  <i>Trillium erectum</i> 
-    - large_file: P1029352clx.jpg
-      thumb: P1029352csm.jpg
-      alt: "Mayapples: <i>Podophyllum peltatum</i>"
-      title: "Mayapples: <i>Podophyllum peltatum</i>"
-    - large_file: P1000515clx.jpg
-      thumb: P1000515csm.jpg
+    - filename: P1029340
       alt: <i>Trillium erectum</i>
-      title: <i>Trillium erectum</i>
-    - large_file: P1000478clx.jpg
-      thumb: P1000478csm.jpg
-      alt: "Spring beauty: <i>Claytonia virginica</i>"
-      title: "Spring beauty: <i>Claytonia virginica</i>"
-    - large_file: P1029304clx.jpg
-      thumb: P1029304csm.jpg
+    - filename: P1029352
       alt: "Mayapples: <i>Podophyllum peltatum</i>"
-      title: "Mayapples: <i>Podophyllum peltatum</i>"     
-    - large_file: P1029276clx.jpg
-      thumb: P1029276csm.jpg
-      alt: "Yellow trout lily: <i>Erythronium americanum</i>"
-      title: "Yellow trout lily: <i>Erythronium americanum</i>"
-    - large_file: P1000473clx.jpg
-      thumb: P1000473csm.jpg
+    - filename: P1000515
+      alt: <i>Trillium erectum</i>
+    - filename: P1000478
       alt: "Spring beauty: <i>Claytonia virginica</i>"
-      title: "Spring beauty: <i>Claytonia virginica</i>"
-    - large_file: P1029331clx.jpg
-      thumb: P1029331csm.jpg
+    - filename: P1029304
+      alt: "Mayapples: <i>Podophyllum peltatum</i>"    
+    - filename: P1029276
+      alt: "Yellow trout lily: <i>Erythronium americanum</i>"
+    - filename: P1000473
+      alt: "Spring beauty: <i>Claytonia virginica</i>"
+    - filename: P1029331
       alt: A trio of trilliums!
-      title: A trio of trilliums!
-    - large_file: P1000466clx.jpg
-      thumb: P1000466csm.jpg
+    - filename: P1000466
+      alt: "Yellow trout lily: <i>Erythronium americanum</i>"     
+    - filename: P1000445
       alt: "Yellow trout lily: <i>Erythronium americanum</i>"
-      title: "Yellow trout lily: <i>Erythronium americanum</i>"      
-    - large_file: P1000445clx.jpg
-      thumb: P1000445csm.jpg
-      alt: "Yellow trout lily: <i>Erythronium americanum</i>"
-      title: "Yellow trout lily: <i>Erythronium americanum</i>"
-    - large_file: P1000524clx.jpg
-      thumb: P1000524csm.jpg
+    - filename: P1000524
       alt: "Common blue violet: <i>Viola sororia</i>"
-      title: "Common blue violet: <i>Viola sororia</i>"
-    - large_file: P1029366clx.jpg
-      thumb: P1029366csm.jpg
+    - filename: P1029366
       alt: "Callery/Bradford pear: <i>Pyrus calleryana</i>"
-      title: "Callery/Bradford pear: <i>Pyrus calleryana</i>"
-    - large_file: P1029367clx.jpg
-      thumb: P1029367csm.jpg
-      alt: Pear blossoms
-      title: Pear blossoms     
-    - large_file: P1000534clx.jpg
-      thumb: P1000534csm.jpg
+    - filename: P1029367
+      alt: Pear blossoms    
+    - filename: P1000534
       alt: "Dutchman's breeches: <i>Dicentra cucullaria</i>"
-      title: "Dutchman's breeches: <i>Dicentra cucullaria</i>"
-    - large_file: P1000549clx.jpg
-      thumb: P1000549csm.jpg
+    - filename: P1000549
       alt: "Dutchman's breeches: <i>Dicentra cucullaria</i>"
-      title: "Dutchman's breeches: <i>Dicentra cucullaria</i>"
-    - large_file: P1000567clx.jpg
-      thumb: P1000567csm.jpg
+    - filename: P1000567
       alt: The <i>Dicentra's</i> pollinator, a bumblebee, just hanging on
-      title: The <i>Dicentra's</i> pollinator, a bumblebee, just hanging on
-    - large_file: P1000541clx.jpg
-      thumb: P1000541csm.jpg
+    - filename: P1000541
+      alt: "Dutchman's breeches: <i>Dicentra cucullaria</i>"     
+    - filename: P1029384
       alt: "Dutchman's breeches: <i>Dicentra cucullaria</i>"
-      title: "Dutchman's breeches: <i>Dicentra cucullaria</i>"     
-    - large_file: P1029384clx.jpg
-      thumb: P1029384csm.jpg
-      alt: "Dutchman's breeches: <i>Dicentra cucullaria</i>"
-      title: "Dutchman's breeches: <i>Dicentra cucullaria</i>"
-    - large_file: P1000502clx.jpg
-      thumb: P1000502csm.jpg
+    - filename: P1000502
       alt: A fresh trillium
-      title: A fresh trillium
-    - large_file: P1029405clx.jpg
-      thumb: P1029405csm.jpg
+    - filename: P1029405
       alt: Scene along the North Woods Trail
-      title: Scene along the North Woods Trail
-    - large_file: P1000585clx.jpg
-      thumb: P1000585csm.jpg
-      alt: "Jack-in-the-pulpit: <i>Arisaema triphyllum</i>"
-      title: "Jack-in-the-pulpit: <i>Arisaema triphyllum</i>"     
-    - large_file: P1029432clx.jpg
-      thumb: P1029432csm.jpg
-      alt: Streamside scene
-      title: Streamside scene                 
+    - filename: P1000585
+      alt: "Jack-in-the-pulpit: <i>Arisaema triphyllum</i>"    
+    - filename: P1029432
+      alt: Streamside scene                
 ---
 
 Over the past week, Rich and I have spent several afternoons at Lackawanna State Park, searching for and photographing the emerging spring wildflowers. In a landscape still bleak from a long winter, it’s always a surprise to spot these sudden signs of life that seem to appear overnight. It’s like a little treasure hunt, as we round the corner on a trail or peek around a tree trunk to see a burst of color, sometimes faint and delicate, sometimes bright.
