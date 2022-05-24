@@ -1,12 +1,21 @@
 {% capture year %}{{ page.date | date: "%Y" }}{% endcapture %}
 {% capture month %}{{ page.date | date: "%m" }}{% endcapture %}
 {% capture day %}{{ page.date | date: "%d" }}{% endcapture %}
-<!-- changed to class from id - will it work? Seems to. -->
 
-<div class="gallery">
+{% assign image_host_url = "https://planetzhanna.com/images/" %}
+{% assign gclass = include.class %}
+
+<div class="jg {{ gclass }}">
     {% for image in page.galleries[include.gallery_id].images %}
-        <a href="https://planetzhanna.com/images/{{ year }}/{{ month }}/{{ day }}/{{ image.large_file }}">
-            <img alt="{{ image.alt }}" title="{{ image.title }}" src="https://planetzhanna.com/images/{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.thumb }}"/>
+
+        {% if image.title %}
+           {% assign title = image.title %}
+           {% else %}
+           {% assign title = image.alt %}
+        {% endif %}
+
+        <a href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}clx.jpg">
+            <img alt="{{ image.alt }}" title="{{ title | strip_html }}" src="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg"/>
         </a>
     {% endfor %}    
 </div>

@@ -6,13 +6,23 @@
 <script src="/assets/js/accessible-tabs.js"></script>
 <script src="/assets/js/lightgallery.min.js"></script>
 <script>
+  document.querySelectorAll('.jg').forEach((lightGalleryElement) => {
+    lightGallery(lightGalleryElement, {
+      // options
+    })
+  });
   document.querySelectorAll('.gallery').forEach((lightGalleryElement) => {
     lightGallery(lightGalleryElement, {
       // options
     })
   });
-  $('.gallery').justifiedGallery({
+  $('.jg').justifiedGallery({
     rowHeight : 200,
+    margins : 4,
+    lastRow: 'justify'
+  });
+  $('.jg.2by2').justifiedGallery({
+    rowHeight : 220,
     margins : 4,
     lastRow: 'justify'
   });
