@@ -1,18 +1,27 @@
-- designation: 223 LRP
-  pid: 
+- designation: X 144
+  pid: PE0275 
   mark_type: Survey Mark
-  date: 2020-07-10 00:00:00
+  date: 2018-09-15 00:00:00
   custom_permalink:
-  post_id: 3
-- designation: Test 2
-  pid: LY1235
-  mark_type: Reference Mark
-  date: 2022-04-26 00:00:00
-  custom_permalink:
-  post_id: 3
-- designation: Test 3
-  pid: PE1896
+  post_id: 10994
+- designation: Z 144
   mark_type: Survey Mark
-  date: 2022-04-26 00:00:00
+  date: 2018-09-15 00:01:00
+  custom_permalink: pe0272-2
+  post_id: 10994  
+- designation: K 19
+  mark_type: Survey Mark
+  date: 2018-09-10 00:00:00
+  custom_permalink: k-19
+  post_id: 10968
+- designation: W 18
+  pid: PE0372
+  mark_type: Survey Mark
+  date: 2018-09-06 00:00:00
   custom_permalink:
-  post_id: 4
+  post_id: 11100
+- designation: 841 3320 TIDAL G
+  mark_type: Survey Mark
+  date: 2018-09-06 00:01:00
+  custom_permalink: 841-3320-tidal-g
+  post_id: 11100

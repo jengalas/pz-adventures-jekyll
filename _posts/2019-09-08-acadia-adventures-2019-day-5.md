@@ -8,8 +8,8 @@ categories:
   - abandoned trails
   - acadia
   - hiking
-  - travel
   - mines
+  - travel
 tags:
 excerpt: >-
   What an amazing day full of unexpected adventures and finds! It all began this morning when we realized we both were in the mood for a light breakfast. 
@@ -97,7 +97,7 @@ Well, the place on Kennebec Street is amazing. Such a cute setup with everything
 
 Today's goal was to find another one of those carved crosses, this one on Kebo Mountain, just south of the Hemlock Trail right before it reaches the Kebo Mountain Trail.
 
-```Beginning at a large hemlock tree in the west line of land of Charles C, Burrill, said tree marking the southwest corner of the Humphrey Stanwood lot, so-called; [...] then on the same course, S 6° 30′ W, following the west line of land of John B. How and the estate of Charles T. How, 412.5 feet to an iron bolt set in the ledge and a cross cut in the ledge on Kebo Mountain, said bolt marking the southwest corner of said land of How; [...].```
+> Beginning at a large hemlock tree in the west line of land of Charles C, Burrill, said tree marking the southwest corner of the Humphrey Stanwood lot, so-called; [...] then on the same course, S 6° 30′ W, following the west line of land of John B. How and the estate of Charles T. How, 412.5 feet to an iron bolt set in the ledge and a cross cut in the ledge on Kebo Mountain, said bolt marking the southwest corner of said land of How; [...].
 
 We took the Sand Beach bus to Sieur de Monts, noticing that the schedule has changed this year, both the timing and the route. We will have to keep this in mind. We won't be able to take that bus back to the village green from Sieur de Monts anymore; we'll have to take the Blackwoods bus. 
 
