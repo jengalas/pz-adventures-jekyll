@@ -2,34 +2,37 @@
 layout: default
 ---
 
-<header class="entry-header">
-    <div>
-        <div class="post-date">
-            <span class="month">{{ page.date | date: "%b" | upcase }}</span> 
-            <span class="day">{{ page.date | date: "%e" }}</span> 
-            <span class="year">{{ page.date | date: "%Y" }}</span>
+<section>
+    <header class="entry-header">
+        <div>
+            <div class="post-date">
+                <span class="month">{{ page.date | date: "%b" | upcase }}</span> 
+                <span class="day">{{ page.date | date: "%e" }}</span> 
+                <span class="year">{{ page.date | date: "%Y" }}</span>
+            </div>
         </div>
-    </div>
-    <div>
-        <span class="cat-links">
-            {% for category in page.categories %}
-                <a href="/categories/{{ category }}">{{ category | upcase }}</a>
-            {% endfor %}
-        </span>
-        <h1 class="entry-title">{{ page.title }}</h1>
-        <span class="byline">By {{ page.author }}</span>
-    </div>    
-</header>
+        <div>
+            <span class="cat-links">
+                {% for category in page.categories %}
+                    <a href="/categories/{{ category }}">{{ category | upcase }}</a>{% unless forloop.last %} • {% endunless %}
+                {% endfor %}
+            </span>
+            <h1 class="entry-title">{{ page.title }}</h1>
+            <span class="byline">By {{ page.author }}</span>
+        </div>    
+    </header>
+    <article>
+        {{ content }}
 
-{{ content }}
+        {% if page.geocaches %}
+            {% include geocache.html %}    
+        {% endif %}
 
-{% if page.geocaches %}
-    {% include geocache.html %}    
-{% endif %}
+        {% if page.surveymarks %}
+            {% include surveymark.html %}    
+        {% endif %}
+        
+    </article>
+</section>
 
-
-
-{% if page.surveymarks %}
-    {% include surveymark.html %}    
-{% endif %}
 
