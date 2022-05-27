@@ -1,14 +1,18 @@
 {% assign todaysm = site.data.surveymarks | where: "post_id", page.post_id %}
+
+<h2>Today's Survey Marks</h2>
+
 <ul>
 {% for mark in todaysm %}
 
-
-{% if mark.pid %}
-    <li><a href="https://thesurveystation.com/surveymarks/{{ mark.pid | slugify }}">{{ mark.pid }}</a></li>
+    {% if mark.pid %}
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.pid | slugify }}">{{ mark.designation }}</a></li>
+    {% elsif mark.custom_permalink %}
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }}</a></li>
     {% else %}
-    <li><a href="https://thesurveystation.com/surveymarks/{{ mark.designation | slugify }}">{{ mark.designation }}</a></li>
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.designation | slugify }}">{{ mark.designation }}</a></li>
 
-{% endif %}
+    {% endif %}
 
 {% endfor %}
 </ul>
