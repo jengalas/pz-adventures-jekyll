@@ -1,6 +1,9 @@
 $bodyBackgroundColor: #60829e;
-$bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyColor: #6f6361;
+$bodyFont: proxima-nova,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFontSize: 1.125rem;
+$bodyFontWeight: 400;
+$headingFont: 'Handlee', cursive;
 $innerBackgroundColor: #ffffff;
 $footerColor: #ffffff;
 
@@ -9,13 +12,23 @@ body {
   box-sizing: border-box;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: $bodyFontSize;
+  font-weight: $bodyFontWeight;
+  line-height: 1.8;
 }
 
 main {
-  background: $innerBackgroundColor;
+  background-color: rgba(255,255,255,0.5);
+  max-width: 1050px;
   margin: 0 auto;
-  padding: 3rem 5.263rem;
-  max-width: 880px; 
+  padding: 1.15em;
+
+  section {
+    background: $innerBackgroundColor;
+    margin: 0 auto;
+    padding: 3rem 5.263rem;
+    max-width: 880px; 
+  }  
 }
 
 .emoji {
@@ -25,6 +38,35 @@ main {
 .site-info {
   color: $footerColor;
   text-align: center;
+}
+
+h1 {
+  font-family: $headingFont;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: $headingFont;
+  font-size: 1.375rem;
+  font-weight: 700;
+}
+
+em, i {
+  font-family: Lora, serif;
+  font-style: italic;
+}
+
+blockquote {
+  font-family: Lora, 'Times Roman', serif;
+  font-size: 1.09rem;
+  font-style: italic;
+  line-height: 1.625rem;
+  margin: 28px 0 28px;
+  padding-bottom: 0;
+  padding-top: 0;
+  border-left: 5px solid #d1dce5;
+  padding: 0 20px;
 }
 
 // POST META
@@ -40,6 +82,8 @@ main {
     text-transform: uppercase;
 
     a {
+      border: 0;
+      color: #595959;
       text-decoration: none;
 
       &:hover {
@@ -48,20 +92,21 @@ main {
     }
   }
     
-  h1 {
+  h1 {    
     margin: 0;
   }
 }
 
 .post-date {
   background-color: #fff;
-  border: solid 1px #bebebe;
+  border-bottom: solid 5px #d1dee9;  
+  border-radius: 38px;
+  border-top: solid 5px #d1dee9;  
   float: left;
-  margin: 5px 12px 5px 0;
+  margin: 5px 24px 5px 0;
+  padding: 10px;
   text-align: center;
   width: 52px;
-  border-radius: 38px;
-  padding: 10px;
 
   .month {
     background-image: none;
@@ -79,17 +124,31 @@ main {
   }
 
   .day {
-    color: #36e7f4;
+    color: #60829e;
     display: block;
-    font: bold 18px/100% Arial,Helvetica,sans-serif;
+    font: bold 24px/100% Arial,Helvetica,sans-serif;
     padding: 2px 0 4px;
   }
   
   .year {
-    color: #999;
+    color: #666;
     display: block;
-    font: 10px/100% Arial,Helvetica,sans-serif;
+    font: 14px/100% Arial,Helvetica,sans-serif;
     padding: 0 0 4px;
+  }
+}
+
+// ARTICLE/ENTRY CONTENT
+
+article a {
+  border-bottom: 1px dashed #80a5c5;
+  color: #1e73be;
+  text-decoration: none;
+
+  &:hover,&:active,&:focus {
+    border-bottom: 1px solid #018ed3;
+    color: #018ed3;
+    text-decoration: none;
   }
 }
 
@@ -127,13 +186,25 @@ main {
 // IMAGE GALLERIES
 
 .gallery {
+  background-color: #e7ecf0;
   display: flex;
   justify-content: space-around;
   flex-flow: row wrap;
   flex-basis: calc(100% / 4);
+  margin-bottom: 1.25rem;
 
   @media (max-width: 768px) {
     flex-wrap: wrap;
+  }
+
+  a {    
+    border-bottom: 0;
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 0;
+      text-decoration: none;
+    }
   }
 
   div {
@@ -149,6 +220,26 @@ main {
   img {
     height: auto;
     width: 100%;  
+  }
+
+  figcaption {  
+    color: #444;  
+    font-family: Lora, serif;
+    font-size: 1rem;
+    font-style: italic;    
+    line-height: 1.2rem;
+    text-align: center;
+  }
+}
+
+.justified-gallery {
+  
+  a {
+    border-bottom: 0;
+
+    &:hover,&:active,&:focus {
+      border-bottom: 0;
+    }
   }
 }
 
@@ -192,4 +283,12 @@ main {
 
 [aria-hidden="true"].example-tabs-tabs__content {
   display: none;
+}
+
+.js-tablist__item a {
+  border: 0;
+
+  &:hover {
+    border: 0;
+  }
 }
