@@ -1,9 +1,13 @@
 {% include head.html %}
 {% include header.html %}
 <main>
-    <article>
+    
         {{ content }}
-    </article>
+    
+
+    <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+ 
+    <a href="{{page.next.url}}" style="float: right;">{{page.next.title}}</a>
 </main>
 
 {% include footer.html %}    
