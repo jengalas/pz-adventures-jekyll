@@ -20,5 +20,7 @@ rich_log:  >-
 
 
   ~Rich in NEPA~ and Zhanna
+image_gallery_r: gallery1
+image_gallery_r_class: single
 post_id: 12634
 ---

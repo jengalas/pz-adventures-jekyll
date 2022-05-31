@@ -6,13 +6,20 @@
 <div class="accordionItem">
     <h2>{{ geocache.title }}</h2>
     <div>
-        <b>Owner:</b> {{ geocache.owner }} <br>
-        <b>Location:</b> {{ geocache.display_coords }} <br>
-        <b>Log Type:</b> {{ geocache.log_type }} <br>
-        <b>Date:</b> {{ geocache.date | date: "%e %B %Y" }} <br>
-        <a href="{{ geocache.link }}">Original Geocaching.com listing</a>
-
-        <iframe style="border:1px solid black;height:300px;width:400px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://planetzhanna.com/leaflet/geocache-single-marker-map.html?lat={{ geocache.latitude }}&amp;lng={{ geocache.longitude }}&amp;zoom=15&amp;marker={{ geocache.title }}"></iframe>
+        <div class="geocache-data-wrapper">
+            <div class="geocache-data">
+                <ul>
+                    <li><b>Owner:</b> {{ geocache.owner }}</li>
+                    <li><b>Location:</b> {{ geocache.display_coords }}</li>
+                    <li><b>Log Type:</b> {{ geocache.log_type }}</li>
+                    <li><b>Date:</b> {{ geocache.date | date: "%e %B %Y" }}</li>
+                    <li><a href="{{ geocache.link }}">Original Geocaching.com listing</a></li>
+                </ul>
+            </div>
+            <div class="geocache-map">
+                <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://planetzhanna.com/leaflet/geocache-single-marker-map.html?lat={{ geocache.latitude }}&amp;lng={{ geocache.longitude }}&amp;zoom=15&amp;marker={{ geocache.title }}"></iframe>
+            </div>
+        </div>
 
         <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="example-tabs">
             <ul class="js-tablist">
@@ -30,15 +37,25 @@
                 {% if geocache.zhanna_log %}
                     <div id="id_first-{{ forloop.index }}" class="js-tabcontent">                        
                         {{ geocache.zhanna_log | markdownify }}
+                        {% if geocache.image_gallery_zh %}
+                            {% assign gal_zh = geocache.image_gallery_zh %}
+                            {% assign gal_zh_class = geocache.image_gallery_zh_class %}
+                            {% include gallery.html gallery_id=gal_zh class=gal_zh_class %}
+                        {% endif %}
                     </div>
                 {% endif %}
                 {% if geocache.rich_log %}
                     <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
                         {{ geocache.rich_log | markdownify }}
+                        {% if geocache.image_gallery_r %}
+                            {% assign gal_r = geocache.image_gallery_r %}
+                            {% assign gal_r_class = geocache.image_gallery_r_class %}
+                            {% include gallery.html gallery_id=gal_r class=gal_r_class %}
+                        {% endif %}
                     </div>
                 {% endif %}
           </div>
     </div>
-  </div>
+</div>
 {% endfor %}
 

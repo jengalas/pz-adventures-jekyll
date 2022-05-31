@@ -12,6 +12,11 @@ header:
   teaser:
 geocaches: true
 surveymarks: false
+galleries:
+  gallery1:
+    images:
+    - filename: captain-nemo
+      alt: How about Captain Nemo's Steak Subs?!
 post_id: 12634
 layout: post 
 ---
