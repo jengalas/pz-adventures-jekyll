@@ -3,7 +3,7 @@ _schema: default
 title: The Philatelist President
 link: https://www.geocaching.com/geocache/GC8YF2P
 owner: John Scott
-date: 2020-09-03 00:00:00
+date: 2020-09-03 02:00:00
 log_type: Note
 display_coords: N 41° 26.666' W 074° 28.666'
 latitude: '41.444433'
