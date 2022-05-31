@@ -31,6 +31,41 @@ main {
   }  
 }
 
+.post-navigation {
+  background-color: #b0c1cf;
+  margin: 0 auto;
+  max-width: 1050px;
+  padding: 1rem 0 0 0;  
+  font-weight: bold;  
+
+  a  {
+    color: #fff;
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 1px dashed white;
+    }   
+  }
+
+  .prev-post {
+    &::before {
+      content: "\02C2";
+      margin-right: 0.5rem;
+    }
+  }
+
+  .next-post {
+    &::after {
+      content: "\02C3";
+      margin-left: 0.5rem;
+    }
+  }  
+
+  a:hover::before {
+    text-decoration: none;
+  }
+}
+
 .emoji {
   vertical-align: text-bottom;
 }
@@ -152,6 +187,31 @@ article a {
   }
 }
 
+// GEOCACHE INDIVIDUAL LAYOUT
+
+.geocache-data-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0;
+
+  ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.geocache-map iframe {
+  border:1px solid #000;
+  height:300px;
+  width:400px;
+}
+
+
 // ACCORDION (for Geocaches)
 
 .accordionItem {
@@ -167,7 +227,7 @@ article a {
     }
   }
 
-  div { 
+  > div { 
     margin: 0; 
     padding: 1em 0.4em;
   }
@@ -259,25 +319,47 @@ article a {
 .example-tabs-tabs__list {
   margin: 0;
   padding: 0;
+  border-bottom: 1px solid #ddd;
 }
+
 .example-tabs-tabs__item {
-  display: inline-block;
+  display: inline-block;  
 }
 
 .example-tabs-tabs__link {
   display: inline-block;
-  padding: 1em  2em;
-  background: #f2f2f2;
+  padding: 0.5rem 1rem;
+  background: transparent;
   cursor: pointer;
   color: #148297;
 }
 
 [aria-selected="true"].example-tabs-tabs__link {
   color: #000;
+  border: 1px solid #ccc;
+  border-bottom: 1px solid #fff;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  margin-bottom: -1px;
+
+  &:hover {
+    border: 1px solid #ccc;
+    border-bottom: 1px solid #fff;
+  }
+}
+
+[aria-selected="false"].example-tabs-tabs__link {
+  border: 1px solid transparent;
+  border-bottom: 0;
+
+  &:hover {
+    border: 1px solid #ccc;
+    border-bottom: 0;
+  }
 }
 
 .example-tabs-tabs__content {
-  background: #f2f2f2;
+  background: transparent;
   padding: 1em;
 }
 
