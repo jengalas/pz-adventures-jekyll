@@ -261,7 +261,7 @@ article a {
     border-bottom: 0;
     text-decoration: none;
 
-    &:hover {
+    &:hover, &:active, &:focus {
       border-bottom: 0;
       text-decoration: none;
     }
