@@ -25,6 +25,47 @@
   date: 2018-09-06 00:01:00
   custom_permalink: 841-3320-tidal-g
   post_id: 11100
+- designation: WONDERLAND 
+  mark_type: Survey Mark
+  date: 2017-09-17 00:00:00
+  post_id: 8418
+- designation: TIDAL 6 STA 13
+  pid: PE0307 
+  mark_type: Survey Mark
+  date: 2017-09-17 00:00:00
+  post_id: 8418
+- designation: TIDAL 4 STA 13
+  pid: PE0311 
+  mark_type: Survey Mark
+  date: 2017-09-17 00:00:00
+  post_id: 8418
+- designation: K 14
+  pid: PE0305 
+  mark_type: Survey Mark
+  date: 2017-09-17 00:00:00
+  post_id: 8418
+- designation: H 145
+  pid: PE0314
+  mark_type: Survey Mark
+  date: 2017-09-17 00:00:00
+  post_id: 8418
+- designation: LONG POND FIRE ROAD 
+  mark_type: Survey Mark
+  date: 2017-09-17 00:00:00   
+  post_id: 8418         
+- designation: GHEAD 
+  mark_type: Survey Mark
+  date: 2017-09-16 00:00:00
+  post_id: 8412  
+- designation: JDR/JDR/PVT 
+  mark_type: Survey Mark
+  date: 2017-09-15 00:00:00
+  custom_permalink: jdrjdrpvt
+  post_id: 8409
+- designation: BAKER 
+  mark_type: Survey Mark
+  date: 2017-09-14 00:00:00
+  post_id: 8405     
 - designation: MARS 
   mark_type: Survey Mark
   date: 2017-09-13 00:00:00
