@@ -31,29 +31,15 @@ layout: default
         {% if page.surveymarks %}
             {% include surveymark.html %}    
         {% endif %}
-        
-        <script src="https://giscus.app/client.js"
-                data-repo="jengalas/pz-adventures-jekyll"
-                data-repo-id="R_kgDOHOsfig"
-                data-category="Announcements"
-                data-category-id="DIC_kwDOHOsfis4CPhrR"
-                data-mapping="pathname"
-                data-reactions-enabled="0"
-                data-emit-metadata="0"
-                data-input-position="bottom"
-                data-theme="https://planetzhanna.com/adventures/jekyll/assets/css/giscus_theme.css"
-                data-lang="en"
-                data-loading="lazy"
-                crossorigin="anonymous"
-                async>
-        </script>
-
     </article>
 </section>
 <section class="post-navigation">
     <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
  
     <a class="next-post" href="{{page.next.url}}" style="float: right;">{{page.next.title}}</a>
+</section>
+<section>
+    {% include comments.html %}
 </section>
 
 
