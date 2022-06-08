@@ -1,3 +1,6 @@
 {
-    "origins": ["https://giscus.app"]
-}
+    "origins": ["https://jocular-tayaki-bd1369.netlify.app/"],
+    "originsRegex": [
+      "http://localhost:[0-9]+"
+    ]
+  }
