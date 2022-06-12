@@ -1,1 +1,30 @@
-<nav></nav>
+<nav class="sidenav">
+  {% if site.data.navigation.toc2[0] %}
+    {% for item in site.data.navigation.toc2 %}
+    <ul>
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% if item.subfolderitems[0] %}
+        <button class="dropdown-btn">Dropdown
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <ul class="dropdown-container">
+            {% for entry in item.subfolderitems %}
+                <li><a href="{{ entry.url }}">{{ entry.page }}</a>
+                  {% if entry.subsubfolderitems[0] %}
+                  <button class="dropdown-btn">Dropdown
+                    <i class="fa fa-caret-down"></i>
+                  </button>
+                    <ul>
+                    {% for subentry in entry.subsubfolderitems %}
+                        <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
+                </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+        </ul>
+      {% endfor %}
+  {% endif %}
+</nav>
