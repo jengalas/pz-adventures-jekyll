@@ -7,7 +7,7 @@ categories:
   - survey mark hunting
   - geocaching
 tags:
-excerpt: 
+excerpt: This was a challenging and ultimately very ingenious puzzle cache that kep us amused and frustrated for days ... until inspiration struck!
 header:
   teaser:
 geocaches: true
