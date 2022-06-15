@@ -1,0 +1,17 @@
+
+{% capture cat_1 %}{{include.category_1}}{% endcapture %}
+{% if include.category_2 %}
+  {% capture cat_2 %}{{include.category_2}}{% endcapture %}
+{% endif %}
+
+<h2>{{ cat_1 | capitalize }} {{ cat_2 | capitalize }}</h2>
+
+{% if cat_2 %}
+  {% assign filtered_posts = site.posts | sort:"date" | where_exp: "item", "item.categories contains cat_1 and item.categories contains cat_2" %}
+{% else %}
+  {% assign filtered_posts = site.posts | sort:"date" | where_exp: "item", "item.categories contains cat_1" %}
+{% endif %}
+
+{% for post in filtered_posts %}
+   <a href="{{ post.url }}">{{ post.title }}</a><br>
+{% endfor %}  
