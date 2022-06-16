@@ -3,7 +3,7 @@ _schema: default
 title: "Acadia Adventures 2019 – Day 1"
 author: Zhanna
 date: 2019-09-04 00:00:00
-categories:
+categories: 
   - '2019'
   - acadia
   - travel
@@ -40,5 +40,3 @@ Our snack at Rein's Deli was quick: chili and coffee for Rich, and lox cream che
 We made it to the rest area just before 11:00pm, tired but excited for whatever adventures are to come!
 
 {% include gallery.html gallery_id="gallery1" %}
-
-
