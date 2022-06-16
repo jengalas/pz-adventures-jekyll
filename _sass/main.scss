@@ -104,6 +104,15 @@ blockquote {
   padding: 0 20px;
 }
 
+small {
+  font-size: 1.1rem;
+
+  a {
+    color: #fff;
+    text-decoration: none
+  };
+}
+
 // POST META
 
 .entry-header {
