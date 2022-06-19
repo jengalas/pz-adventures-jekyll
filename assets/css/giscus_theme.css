@@ -84,16 +84,20 @@
   color-scheme: light;
 }
 
-main {
+.btn {
   border-radius: 0;
 }
 
-.btn {
+.rounded-md {
   border-radius: 0;
 }
 
 .gsc-comment-box-textarea {
   border-radius: 0;
+}
+
+.gsc-social-reaction-summary-item {
+  border-width: 0;
 }
 
 main .pagination-loader-container {
