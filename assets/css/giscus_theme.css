@@ -88,6 +88,10 @@
   border-radius: 0;
 }
 
+.gsc-comment-box-textarea {
+  border-radius: 0;
+}
+
 main .pagination-loader-container {
   background-image: url("https://github.com/images/modules/pulls/progressive-disclosure-line.svg");
 }
