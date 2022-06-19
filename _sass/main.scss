@@ -32,10 +32,10 @@ main {
 }
 
 .post-navigation {
-  background-color: #b0c1cf;
+  background-color: transparent;
   margin: 0 auto;
   max-width: 1050px;
-  padding: 1rem 0 0 0;  
+  padding: 1rem 0;  
   font-weight: bold;  
 
   a  {
@@ -139,6 +139,10 @@ small {
   h1 {    
     margin: 0;
   }
+
+  .byline {
+    font-size: 0.875rem;
+  }
 }
 
 .post-date {
@@ -194,6 +198,29 @@ article a {
     color: #018ed3;
     text-decoration: none;
   }
+
+  &.button {
+    background: #666666;
+    border-bottom: 0;
+    color: #fff;    
+    display: inline-block;
+    padding: 10px 20px;      
+
+    &:hover,&:active,&:focus {
+      background-color: #3f3f3f;
+    }
+  }
+}
+
+// POST COMMENTS (Giscus)
+
+section.comments {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.comment-reply-header {
+  font-size: 1rem;
+  text-transform: uppercase;
 }
 
 // GEOCACHE INDIVIDUAL LAYOUT
@@ -449,4 +476,58 @@ article a {
 .fa-caret-down {
   float: right;
   padding-right: 8px;
+}
+
+// ARCHIVE PAGES
+
+.page-header {
+  border-bottom: 1px solid #eee;
+  margin: 0.625rem 0 1.875rem;
+
+  .archive-title {
+    color: #fff;
+    font-family: $bodyFont;
+    font-size: 1.75rem;
+    font-weight: 500;
+    margin: 0;
+    padding-bottom: 0.625rem;    
+    text-transform: uppercase;
+  }
+}
+
+.archive-grid.cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  gap: 1rem;  
+
+  a {
+    color: $bodyColor;
+    text-decoration: none;
+  }
+
+  .card {
+    background-color: #fff;
+    padding: 1rem;
+    padding-bottom: 0.6rem;
+
+    img {
+      height: auto;
+      width: 100%;
+    }
+
+    h2 {
+      font-family: $bodyFont;
+      margin: 0;
+      text-align: center;
+    }
+  }
+
+  @media (min-width: 600px) {
+    grid-template-columns: repeat(2, 1fr);
+  } 
+  
+  @media (min-width: 900px) {
+    grid-template-columns: repeat(4, 1fr);
+  }  
 }

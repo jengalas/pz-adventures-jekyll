@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% assign image_host_url = "https://planetzhanna.com/images/" %}
+
+<header class="page-header">
+  <h1 class="archive-title">{{ page.title }}</h1>
+</header>
+
+<div class="archive-grid cards">
+  {% for card in page.grid_items.cards %}
+  <a href="{{ card.link }}">
+    <div class="card">    
+      <img src="{{ image_host_url }}{{ card.image_filename }}" alt="{{ card.year }}">      
+      <h2>{{ card.year }}</h2> 
+    </div>
+  </a>
+  {% endfor %}
+</div>
