@@ -95,3 +95,11 @@ main .pagination-loader-container {
 main .gsc-loading-image {
   background-image: url("https://github.githubassets.com/images/mona-loading-default.gif");
 }
+
+.gsc-header {
+  justify-content: end;
+}
+
+.gsc-left-header {
+  display: none;
+}
