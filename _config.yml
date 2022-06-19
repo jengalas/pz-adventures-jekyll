@@ -15,3 +15,14 @@ collections:
 plugins:
   - jemoji  # https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/
   - jekyll-archives
+  
+jekyll-archives:
+  enabled: all
+  layout: default
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/' 
+ 
