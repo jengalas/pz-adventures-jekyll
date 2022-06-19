@@ -84,22 +84,6 @@
   color-scheme: light;
 }
 
-.btn {
-  border-radius: 0;
-}
-
-.rounded-md {
-  border-radius: 0;
-}
-
-.gsc-comment-box-textarea {
-  border-radius: 0;
-}
-
-.gsc-social-reaction-summary-item {
-  border-width: 0;
-}
-
 main .pagination-loader-container {
   background-image: url("https://github.com/images/modules/pulls/progressive-disclosure-line.svg");
 }
@@ -114,4 +98,14 @@ main .gsc-loading-image {
 
 .gsc-left-header {
   display: none;
+}
+
+.btn,
+.rounded-md,
+.gsc-comment-box-textarea {
+  border-radius: 0;
+}
+
+.gsc-social-reaction-summary-item {
+  border-width: 0;
 }
