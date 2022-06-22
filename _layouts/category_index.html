@@ -13,20 +13,23 @@ layout: default
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h1>
+      <div class="entry">
+        {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+          Read More
+        </a>
+      </div>      
       <div class="meta">
-        <span class="post_date">{{ post.date | date: "%B %e, %Y" }}</span>     
+        <span class="post_date">
+          <i class="fa-solid fa-calendar-days"></i>
+          {{ post.date | date: "%e %b %Y" }}</span>     
         {% for category in post.categories%}
         <span class="category">
+          <i class="fa-solid fa-folder"></i>
           <a href="/categories/{{category}}">{{ category | capitalize }}</a>
         </span>
         {% endfor %}
       </div>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
-          Read More
-      </a>
     </article>
     {% endif %} {% endfor %}
   </div>
