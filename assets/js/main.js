@@ -40,15 +40,14 @@ var accordionItems = new Array();
       }
     }
 
-/* Open */
-function openNav() {
-  document.getElementById("myNav").style.height = "100%";
-}
+let navButton = document.querySelector(".nav-button");
 
-/* Close */
-function closeNav() {
-  document.getElementById("myNav").style.height = "0%";
-}
+navButton.addEventListener("click", (e) => { 
+  e.preventDefault();
+  
+  // toggle nav state
+  document.body.classList.toggle("nav-visible");
+});
 
 /* Dropdown accordion in menu overlay */
 var list = document.querySelectorAll('.list');

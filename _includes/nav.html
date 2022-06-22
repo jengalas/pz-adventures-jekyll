@@ -1,10 +1,10 @@
-<div id="myNav" class="overlay">
-
-  <!-- Button to close the overlay navigation -->
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-
-  <!-- Overlay content -->
-  <nav>
+<header class="navhead">
+  <button aria-label='Toggle menu' class='nav-button button-lines button-lines-x close' role='button' type='button'>
+    <span class='lines'></span>
+  </button>
+</header>
+<!-- Overlay content -->
+  <nav class='nav-wrapper'>
     {% if site.data.navigation.toc2[0] %}
       <ul class="menu">
         {% for item in site.data.navigation.toc2 %}  
@@ -26,5 +26,3 @@
 
 </div>
 
-<!-- Use any element to open/show the overlay navigation menu -->
-<span onclick="openNav()" style="float: right;">Menu</span>
