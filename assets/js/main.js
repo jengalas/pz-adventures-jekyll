@@ -39,3 +39,34 @@ var accordionItems = new Array();
         if ( element.childNodes[i].nodeName == tagName ) return element.childNodes[i];
       }
     }
+
+/* Open */
+function openNav() {
+  document.getElementById("myNav").style.height = "100%";
+}
+
+/* Close */
+function closeNav() {
+  document.getElementById("myNav").style.height = "0%";
+}
+
+/* Dropdown accordion in menu overlay */
+var list = document.querySelectorAll('.list');
+function accordion(e) {
+  e.stopPropagation();
+  if (this.classList.contains('active')) {
+      this.classList.remove('active');
+  } else
+  if (this.parentElement.parentElement.classList.contains('active')) {
+      this.classList.add('active');
+  } else
+  {
+      for (i = 0; i < list.length; i++) {
+          list[i].classList.remove('active');
+      }
+      this.classList.add('active');
+  }
+}
+for (i = 0; i < list.length; i++) {
+  list[i].addEventListener('click', accordion);
+}
