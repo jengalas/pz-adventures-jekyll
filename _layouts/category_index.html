@@ -25,12 +25,10 @@ layout: default
           {{ post.date | date: "%e %b %Y" }}</span> 
           
           <i class="fa-solid fa-folder"></i>
-        {% for category in post.categories%}
-  
-        <span class="category">
-          
-          <a href="/categories/{{category}}">{{ category | capitalize }}</a>
-        </span>
+        {% for category in post.categories%}  
+          <span class="category">
+            <a href="/categories/{{ category }}">{{ category | capitalize }}</a>{% unless forloop.last %}, {% endunless %}
+          </span>
         {% endfor %}
       </div>
     </article>
