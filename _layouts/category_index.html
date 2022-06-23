@@ -22,10 +22,13 @@ layout: default
       <div class="meta">
         <span class="post_date">
           <i class="fa-solid fa-calendar-days"></i>
-          {{ post.date | date: "%e %b %Y" }}</span>     
-        {% for category in post.categories%}
-        <span class="category">
+          {{ post.date | date: "%e %b %Y" }}</span> 
+          
           <i class="fa-solid fa-folder"></i>
+        {% for category in post.categories%}
+  
+        <span class="category">
+          
           <a href="/categories/{{category}}">{{ category | capitalize }}</a>
         </span>
         {% endfor %}

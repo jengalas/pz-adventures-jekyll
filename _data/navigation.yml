@@ -20,6 +20,6 @@ toc2:
   - title: Travel
     subfolderitems:
       - page: Acadia
-        url: acadia.html 
+        url: /categories/acadia
       - page: Arizona
         url: /thing2.html
