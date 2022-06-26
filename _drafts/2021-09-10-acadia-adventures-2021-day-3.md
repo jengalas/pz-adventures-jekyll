@@ -4,10 +4,10 @@ title: Acadia Adventures 2021 – Day 3
 author: Zhanna
 date: 2021-09-10 00:00:00
 categories:
-  - survey mark hunting
   - travel
   - acadia
   - '2021'
+  - survey mark hunting
 tags:
 excerpt: 
 header:

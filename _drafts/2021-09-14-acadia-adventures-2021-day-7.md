@@ -4,11 +4,11 @@ title: Acadia Adventures 2021 – Day 7
 author: Zhanna
 date: 2021-09-14 00:00:00
 categories:
-  - abandoned trails
-  - hiking
   - travel
   - acadia
   - '2021'
+  - abandoned trails
+  - hiking
 tags:
 excerpt: 
 header:

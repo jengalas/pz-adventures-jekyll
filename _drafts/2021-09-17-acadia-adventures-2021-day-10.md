@@ -4,12 +4,12 @@ title: Acadia Adventures 2021 – Day 10
 author: Zhanna
 date: 2021-09-17 00:00:00
 categories:
-  - abandoned trails
-  - hiking
-  - survey mark hunting
   - travel
   - acadia
   - '2021'
+  - abandoned trails
+  - hiking
+  - survey mark hunting
 tags:
 excerpt: 
 header:

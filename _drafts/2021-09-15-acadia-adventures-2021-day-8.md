@@ -4,10 +4,10 @@ title: Acadia Adventures 2021 – Day 8
 author: Zhanna
 date: 2021-09-15 00:00:00
 categories:
-  - hiking
   - travel
   - acadia
-  - '2021'
+  - '2021' 
+  - hiking
 tags:
 excerpt: 
 header:
