@@ -435,20 +435,15 @@ $nav-transition-speed:         .6s;
 $nav-width:                    25vw;
 $zindex-header:                500;
 
-header.navhead {
+.navhead {
   height: $header-height;
-  left: 0;
+  right: 0;
   padding: 0.5rem;
   position: fixed;
   text-align: right;
   top: 0;
   transition: transform $nav-transition-speed;
-  width: 100%;
   z-index: $zindex-header;
-  
-  .nav-visible & {
-    //transform: translateX(-$nav-width);
-  }
 }
 
 .container {
@@ -540,7 +535,7 @@ header.navhead {
   color: deeppink;
 }
 
-//== Menu toggle (hamburgen)
+//== Menu toggle (hamburger)
 //
 @mixin button-lines {
   background: $color-white;
@@ -548,10 +543,6 @@ header.navhead {
   display: inline-block;
   height: $nav-toggle-size/10;
   width: $nav-toggle-size;
-  
-  &:hover {
-    background: #000;
-  }
 }
 
 .button-lines {
