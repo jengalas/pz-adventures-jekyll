@@ -4,9 +4,9 @@ title: "Acadia Adventures 2019 – Day 3"
 author: Zhanna
 date: 2019-09-06 00:00:00
 categories:
-  - '2019'
-  - abandoned trails
+  - travel
   - acadia
+  - '2019'
   - hiking
   - travel
 tags:

@@ -4,9 +4,9 @@ title: "Southwest Adventures 2019 – Day 1"
 author: Zhanna
 date: 2019-03-19 00:00:00
 categories:
-  - '2019'
-  - southwest
   - travel
+  - southwest
+  - '2019'
 tags:
 excerpt: >-
   The Mooses are heading to Maine!

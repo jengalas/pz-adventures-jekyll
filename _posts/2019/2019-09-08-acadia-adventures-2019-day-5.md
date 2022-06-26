@@ -4,12 +4,12 @@ title: "Acadia Adventures 2019 – Day 5"
 author: Zhanna
 date: 2019-09-08 00:00:00
 categories:
+  - travel
+  - acadia
   - '2019'
   - abandoned trails
-  - acadia
   - hiking
   - mines
-  - travel
 tags:
 excerpt: >-
   What an amazing day full of unexpected adventures and finds! It all began this morning when we realized we both were in the mood for a light breakfast. 

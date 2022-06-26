@@ -4,9 +4,9 @@ title: "Acadia Adventures 2019 – Day 1"
 author: Zhanna
 date: 2019-09-04 00:00:00
 categories: 
-  - '2019'
-  - acadia
   - travel
+  - acadia
+  - '2019'
 tags:
 excerpt: >-
   The Mooses are heading to Maine!
