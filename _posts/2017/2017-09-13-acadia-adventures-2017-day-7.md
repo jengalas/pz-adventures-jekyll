@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 7"
 author: Zhanna
 date: 2017-09-13 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
   - survey mark hunting
   - hiking
 tags:

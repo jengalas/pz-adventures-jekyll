@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 13"
 author: Zhanna
 date: 2017-09-19 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
 tags:
 excerpt: >-
   Time to head for home. Another fantastic Maine vacation complete, as always too soon.

@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 2"
 author: Zhanna
 date: 2017-09-08 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
 tags:
 excerpt: >-
   The tide was high and the ocean was angry on this quiet day of rest and light exploration.

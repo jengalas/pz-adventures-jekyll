@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 1"
 author: Zhanna
 date: 2017-09-07 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
 tags:
 excerpt: >-
   A late start means no traffic and an easy (but long) drive for Rich and Zhanna. First day meals include unexpected Mexican and Rosalie's pizza!

@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 9"
 author: Zhanna
 date: 2017-09-15 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
   - survey mark hunting
   - hiking
   - abandoned trails

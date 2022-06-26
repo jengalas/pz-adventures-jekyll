@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 4"
 author: Zhanna
 date: 2017-09-10 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
   - abandoned trails
   - hiking
 tags:

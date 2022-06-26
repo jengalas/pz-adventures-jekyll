@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 3"
 author: Zhanna
 date: 2017-09-09 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
 tags:
 excerpt: >-
   It was a beautiful day for a picnic on Great Hill—and more abandoned trail finding!

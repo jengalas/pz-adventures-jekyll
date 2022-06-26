@@ -4,9 +4,9 @@ title: "Acadia Adventures 2017 – Day 6"
 author: Zhanna
 date: 2017-09-12 00:00:00
 categories:
-  - '2017'
-  - acadia
   - travel
+  - acadia
+  - '2017'
   - hiking
 tags:
 excerpt: >-
