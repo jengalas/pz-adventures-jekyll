@@ -14,7 +14,7 @@ excerpt:
 header:
   teaser:
 geocaches: false
-surveymarks: false
+surveymarks: true
 tracklog: 11SEP21.gpx
 post_id: 13234
 layout: post
@@ -41,6 +41,8 @@ We passed alongside the Kebo Valley Country Club golf course which is always int
 Anoter thing that was really amusing to R was the snack cart we passed on the way up the hill to rejoin the trail. I had heard about hot dog carts staffed by young women at country club courses before but it was new to R and he got a kick out of it (note, this particular hot dog cart was not staffed by a young woman but apparently by an old guy). They had snacks, hot dogs and some drinks - I saw hard seltzer for one thing.
 
 While near the course, I also spotted a stone monument holding an NPS disk that I'm pretty sure we haven't recovered before, so we did that before moving on. Futher along the trail, we crossed something that was obviously an old road of some kind. I took coordinates at the intersection and walked west a ways so I could get a tracklog. I'm not sure but it appears to be in the area of the "Red Rock Spring" shown on the old maps just south of Harden Farm Road. I will have to investigate it more, and also investigate Harden Farm Road itself. Vehicles are prohibited from driving down it, looks like maybe there are some park-related buildings at the end? But it doesn't say we can't walk down it, which we would like to do.
+
+{% include tracklog.html %}
 
 And in the sidewalk near Holland Avenue, we spotted a brand new MaineDOT benchmark disk from 2020. We had no idea it was there, but it was another very exciting find!
 
