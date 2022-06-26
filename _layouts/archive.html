@@ -7,16 +7,16 @@ layout: default
   {% capture cat_2 %}{{page.category_2}}{% endcapture %}
 {% endif %}
 
-<h1 class="archive-title">{{ cat_1 | capitalize }} > {{ cat_2 | capitalize }}</h1>
+<header class="page-header">
+  <h1 class="archive-title">{{ cat_1 | capitalize }} > {{ cat_2 | capitalize }}</h1>
+</header>
 
-<section>
-  {% if cat_2 %}
-    {% assign filtered_posts = site.posts | sort:"date" | where_exp: "item", "item.categories contains cat_1 and item.categories contains cat_2" %}
-  {% else %}
-    {% assign filtered_posts = site.posts | sort:"date" | where_exp: "item", "item.categories contains cat_1" %}
-  {% endif %}
+{% if cat_2 %}
+  {% assign filtered_posts = site.posts | sort:"date" | where_exp: "item", "item.categories contains cat_1 and item.categories contains cat_2" %}
+{% else %}
+  {% assign filtered_posts = site.posts | sort:"date" | where_exp: "item", "item.categories contains cat_1" %}
+{% endif %}
 
-  {% for post in filtered_posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a><br>
-  {% endfor %}  
-</section>
+{% for post in filtered_posts %}
+  {% include post-archive.html %}
+{% endfor %}  

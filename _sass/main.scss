@@ -1,11 +1,17 @@
 $bodyBackgroundColor: #60829e;
 $bodyColor: #6f6361;
-$bodyFont: proxima-nova,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: Mulish,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $bodyFontSize: 1.125rem;
 $bodyFontWeight: 400;
 $headingFont: 'Handlee', cursive;
-$innerBackgroundColor: #ffffff;
-$footerColor: #ffffff;
+$lightHeadingColor: #fff;
+$innerBackgroundColor: #fff;
+$footerColor: #fff;
+
+@mixin italic-text {
+  font-family: Lora, serif;
+  font-style: italic;
+}
 
 body {
   background: $bodyBackgroundColor;
@@ -14,7 +20,7 @@ body {
   font-family: $bodyFont;
   font-size: $bodyFontSize;
   font-weight: $bodyFontWeight;
-  line-height: 1.8;
+  line-height: 1.6;
 }
 
 main {
@@ -70,12 +76,17 @@ main {
   vertical-align: text-bottom;
 }
 
+.site-title {
+  color: $lightHeadingColor;
+}
+
 .site-info {
   color: $footerColor;
   text-align: center;
 }
 
 h1 {
+  color: $bodyColor;
   font-family: $headingFont;
   font-size: 1.75rem;
   font-weight: 700;
@@ -87,9 +98,8 @@ h2 {
   font-weight: 700;
 }
 
-em, i {
-  font-family: Lora, serif;
-  font-style: italic;
+em, i, cite {
+  @include italic-text;
 }
 
 blockquote {
@@ -711,12 +721,72 @@ ul.menu .active .list a {
 
 // ARCHIVE PAGES
 
+.category-excerpts {
+  background-color: #b0c1cf; 
+  max-width: 1100px;
+  padding: 0; 
+}
+
+.archive-excerpt {
+  background-color: #fff; 
+  margin-bottom: 1em;
+  padding: 2rem 5rem;
+
+  h2 {
+    font-size: 1.65rem;
+    margin-bottom: 1rem;
+    margin-top: 0;
+
+    a {
+      border: 0;
+      color: $bodyColor;
+
+      &:hover {
+        color: #79b0c3;
+      }
+    }
+  }
+
+  .read-more {
+    @include italic-text;
+    border: 0;
+    font-size: 90%;
+    margin-left: 0.7rem;
+    white-space: nowrap;
+  }
+}
+
+.archive-meta {
+  margin-top: 1.5rem;
+
+  .date,
+  .category,
+  .fa-solid {
+    color: #90a8bb;
+    font-size: 80%;
+  }
+  .date {
+    margin-right: 1rem;
+  }
+  a {   
+    border: 0;
+    color: #90a8bb;
+    text-decoration: none;
+
+    &:hover,&:focus,&:active {
+      border: 0;
+      color: #90a8bb;
+      text-decoration: none;
+    }
+  }
+}
+
 .page-header {
   border-bottom: 1px solid #eee;
   margin: 0.625rem 0 1.875rem;
 
   .archive-title {
-    color: #fff;
+    color: $lightHeadingColor;
     font-family: $bodyFont;
     font-size: 1.75rem;
     font-weight: 500;

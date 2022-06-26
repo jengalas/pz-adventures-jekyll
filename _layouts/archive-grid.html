@@ -10,11 +10,11 @@ layout: default
 
 <div class="archive-grid cards">
   {% for card in page.grid_items.cards %}
-  <a href="{{ card.link }}">
-    <div class="card">    
-      <img src="{{ image_host_url }}{{ card.image_filename }}" alt="{{ card.year }}">      
-      <h2>{{ card.year }}</h2> 
-    </div>
-  </a>
+    <a href="{{ card.link }}">
+      <div class="card">    
+        <img src="{{ image_host_url }}{{ card.image_filename }}" alt="{{ card.year }}">      
+        <h2>{{ card.year }}</h2> 
+      </div>
+    </a>
   {% endfor %}
 </div>
