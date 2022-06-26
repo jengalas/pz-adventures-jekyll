@@ -4,9 +4,9 @@ title: "Acadia Adventures 2018 – Day 5"
 author: Zhanna
 date: 2018-09-09 00:00:00
 categories:
-  - '2018'
-  - acadia
   - travel
+  - acadia
+  - '2018' 
   - abandoned trails
   - hiking
 tags:

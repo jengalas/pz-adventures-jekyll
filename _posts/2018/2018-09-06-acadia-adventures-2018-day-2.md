@@ -4,9 +4,9 @@ title: "Acadia Adventures 2018 – Day 2"
 author: Zhanna
 date: 2018-09-06 00:00:00
 categories:
-  - '2018'
-  - acadia
   - travel
+  - acadia
+  - '2018' 
   - survey mark hunting
 tags:
 excerpt: >-

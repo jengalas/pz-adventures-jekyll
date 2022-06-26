@@ -4,12 +4,12 @@ title: "Acadia Adventures 2018 – Day 6"
 author: Zhanna
 date: 2018-09-10 00:00:00
 categories:
-  - '2018'
+  - travel
   - acadia
+  - '2018' 
   - abandoned trails
   - hiking
   - survey mark hunting
-  - travel
 tags:
 excerpt: >-
   The activity that appealed to us most was checking out the old abandoned Boyd Road near Hunters Brook, and then searching, once again, for the USGS survey marker K 19 that has thus far eluded us. 
