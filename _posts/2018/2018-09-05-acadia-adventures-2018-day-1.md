@@ -4,9 +4,9 @@ title: "Acadia Adventures 2018 – Day 1"
 author: Zhanna
 date: 2018-09-05 00:00:00
 categories:
-  - '2018'
-  - acadia
   - travel
+  - acadia
+  - '2018' 
 tags:
 excerpt: >-
   Light traffic and a humid night to start off our 2018 trip to Maine ...
