@@ -7,7 +7,7 @@ categories:
   - hiking
   - geocaching
 tags:
-excerpt: 
+excerpt: Today was another very hot and humid, but still beautiful, day. Rich and I decided to take a short walk on the Trolley Trail (the Glenburn section) to see what plants we might be able to find and photograph. The trail wasn't busy at all, surprisingly for such a nice Sunday, but it also wasn't too fruitful as far as wildflowers go. It's heavily shaded and very lush, and ferns dominate. We found only a few small foxglove stalks, some thistles emerging, some berries beginning to form, and lots and lots of the aforementioned ferns! 
 header:
   teaser:
 geocaches: true
