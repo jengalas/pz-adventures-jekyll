@@ -4,7 +4,7 @@ $bodyFont: Mulish,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sa
 $bodyFontSize: 1.125rem;
 $bodyFontWeight: 400;
 $headingFont: 'Handlee', cursive;
-$lightHeadingColor: #fff;
+$lightHeadingColor: #efefef;
 $innerBackgroundColor: #fff;
 $footerColor: #fff;
 
@@ -25,6 +25,7 @@ body {
 
 main {
   background-color: rgba(255,255,255,0.5);
+  clear: both;
   max-width: 1050px;
   margin: 0 auto;
   padding: 1.15em;
@@ -37,39 +38,9 @@ main {
   }  
 }
 
-.post-navigation {
-  background-color: transparent;
+.inside-header {
   margin: 0 auto;
-  max-width: 1050px;
-  padding: 1rem 0;  
-  font-weight: bold;  
-
-  a  {
-    color: #fff;
-    text-decoration: none;
-
-    &:hover {
-      border-bottom: 1px dashed white;
-    }   
-  }
-
-  .prev-post {
-    &::before {
-      content: "\02C2";
-      margin-right: 0.5rem;
-    }
-  }
-
-  .next-post {
-    &::after {
-      content: "\02C3";
-      margin-left: 0.5rem;
-    }
-  }  
-
-  a:hover::before {
-    text-decoration: none;
-  }
+  max-width: 1100px;
 }
 
 .emoji {
@@ -77,7 +48,13 @@ main {
 }
 
 .site-title {
-  color: $lightHeadingColor;
+  float: left;
+  
+  a {
+    color: $lightHeadingColor;
+    font-size: 2rem;
+    text-decoration: none;
+  }
 }
 
 .site-info {
@@ -122,6 +99,44 @@ small {
     text-decoration: none
   };
 }
+
+// SINGLE POST LAYOUT
+
+.post-navigation {
+  background-color: transparent;
+  margin: 0 auto;
+  max-width: 1050px;
+  padding: 1rem 0;  
+  font-weight: bold;  
+
+  a  {
+    color: #fff;
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 1px dashed white;
+    }   
+  }
+
+  .prev-post {
+    &::before {
+      content: "\02C2";
+      margin-right: 0.5rem;
+    }
+  }
+
+  .next-post {
+    &::after {
+      content: "\02C3";
+      margin-left: 0.5rem;
+    }
+  }  
+
+  a:hover::before {
+    text-decoration: none;
+  }
+}
+
 
 // POST META
 
@@ -236,6 +251,12 @@ section.comments {
 
 // GEOCACHE INDIVIDUAL LAYOUT
 
+.geocache-heading {
+  font-family: $bodyFont;
+  font-size: 1.3125rem;
+  font-weight: 600;
+}
+
 .geocache-data-wrapper {
   display: flex;
   justify-content: space-between;
@@ -258,15 +279,17 @@ section.comments {
   width:400px;
 }
 
-
 // ACCORDION (for Geocaches)
 
 .accordionItem {
   border-bottom: 1px solid #ddd;
 
-  h2 { 
-    margin: 0; 
-    font-size: 1.1em; 
+  h3 { 
+    color: #246193;
+    font-family: $bodyFont;
+    font-size: 1.125rem;
+    font-weight: 400;
+    margin: 0;     
     padding: 0.4em; 
   
     &:hover { 
@@ -280,10 +303,6 @@ section.comments {
   }
 
   &.hide {
-    h2 { 
-      color: #000; 
-    }
-
     div { 
       display: none;      
     }
@@ -437,11 +456,14 @@ $zindex-header:                500;
 
 .navhead {
   height: $header-height;
-  right: 0;
-  padding: 0.5rem;
-  position: fixed;
+  // right: 0;
+  // padding: 0.5rem;
+  // position: fixed;
+  margin-top: 1rem;
+  position: relative;
   text-align: right;
   top: 0;
+  float: right;
   transition: transform $nav-transition-speed;
   z-index: $zindex-header;
 }
@@ -456,8 +478,7 @@ $zindex-header:                500;
 }
 
 .nav-wrapper {
-  background-color: #343c55;
-  box-shadow: -1px 0px 3px 0px rgba(0, 0, 0, 0.75);
+  background-color: #000;
   height: 100vh;
   padding-top: $header-height;
   perspective: 1000px;
@@ -474,6 +495,11 @@ $zindex-header:                500;
     transform: translateX(0);
     visibility: visible;
   }
+}
+
+.nav-visible .navhead > button {
+  position: fixed;
+  right: 2%;
 }
 
 .nav {
@@ -502,7 +528,6 @@ $zindex-header:                500;
     
     &:focus,
     &:hover {
-      background-color: #2b3145;
       text-decoration: none;
     }
   }
@@ -612,75 +637,89 @@ $zindex-header:                500;
 ul.menu {
   padding: 0;
   list-style: none;
-  width: 400px;
+  width: 100%;
   margin: 20px auto;
-  font-family: 'Roboto';
-  box-shadow: 0px 0px 25px #00000070;
+  font-family: $bodyFont;
   clear: both;
   display: table;
 }
 ul.menu .list,
 ul.menu button {
-  font-size: 14px;
-  border-bottom: 1px solid #324252;
+  font-size: 1rem;
+  padding-left: 20px;
   position: relative;
   width: 100%;
   box-sizing: border-box;
-  height: 50px;
-  vertical-align: sub;
-  background: #3e5165;
+  line-height: 29px;
   clear: both;
   text-align: left;
 }
-ul.menu .list.submenu:after {
+ul.menu .list.submenu button:after {
   content: "\f107";
   font-family: FontAwesome;
   position: absolute;
-  right: 17px;
-  top: 17px;
-  padding: 0px 5px;
+  right: 5px;
+  top: 0;
+  padding: 0px 25px;
   color: #fff;
+}
+ul.menu .list.submenu button {
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+  font-family: $bodyFont;
+  padding-left: 8px;
+
+  &:hover {
+    background-color: #3f3f3f;
+    transition: 300ms all;
+    cursor: pointer;
+  }
+
+  &.active {
+    background-color: #3f3f3f;
+  }
 }
 ul.menu .list a {
   text-decoration: none;
   color: #fff;
-  padding: 17px 0px 17px 45px;
+  padding: 0.2rem 0.2rem 0.2rem 0.5rem;
   display: block;
   height: 100%;
   box-sizing: border-box;
 }
 ul.menu .list a:hover {
-  background-color: #324252;
+  background-color: #3f3f3f;
   transition: 300ms all;
-  color: #09fbd2;
 }
 ul.menu .list .items {
   height: 0px;
   overflow: hidden;
 }
 ul.menu .list .items a {
-  padding: 17px;
+  padding: 0;
+  padding-left: 22px;
 }
 ul.menu .list .items a:hover {
-  background-color: #3f5d79;
+  background-color: #4f4f4f;
   color: #fff;
   transition: 300ms all;
 }
 ul.menu .list:last-child {
   border-bottom: none;
 }
-ul.menu .submenu.active:after {
+ul.menu .submenu.active button:after {
   content: "\f106";
   font-family: FontAwesome;
   position: absolute;
-  right: 17px;
-  top: 17px;
-  padding: 0px 5px;
+  right: 5px;
+  top: 0;
+  padding: 0px 25px;
   color: #fff;
 }
 ul.menu .active > .items {
   display: block;
-  background: #23313f;
+  background: transparent;
   padding: 0px;
   height: auto;
   color: #fff;
@@ -692,7 +731,6 @@ ul.menu .active > .items {
 }
 ul.menu .active > .items li {
   padding: 0px;
-  border-bottom: 1px solid #324252;
   list-style: none;
 }
 ul.menu .active > .items li:last-child {
@@ -702,7 +740,6 @@ ul.menu .active > .items li:last-child {
 ul.menu .active > .items .active > .items {
   background-color: #2f4b67;
 }
-ul.menu .active > a {}
 ul.menu .active .list {
   background: #697d92;
 }
@@ -715,7 +752,7 @@ ul.menu .active .list a {
 
 .category-excerpts {
   background-color: #b0c1cf; 
-  max-width: 1100px;
+  max-width: 1090px;
   padding: 0; 
 }
 
@@ -732,10 +769,6 @@ ul.menu .active .list a {
     a {
       border: 0;
       color: $bodyColor;
-
-      &:hover {
-        color: #79b0c3;
-      }
     }
   }
 
