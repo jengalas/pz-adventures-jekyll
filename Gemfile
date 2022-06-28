@@ -15,3 +15,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jemoji'
 
 gem 'jekyll-archives'
+
+gem 'jekyll-paginate-v2'
