@@ -309,6 +309,35 @@ section.comments {
   }
 }
 
+// SURVEY MARK LIST
+
+.surveymark-heading {
+  font-family: $bodyFont;
+  font-size: 1.3125rem;
+  font-weight: 600;
+}
+
+.surveymark-list {
+  margin: 1em 0;
+  list-style-type: none;
+  padding-left: 8px;
+
+  li {
+    border-bottom: 1px solid #0000001a;
+    line-height: 2.2;
+
+    a {
+      border: 0;
+    }
+  }
+  
+  .fa-arrow-up-right-from-square {
+    color: #4a96d9;
+    font-size: 80%;
+    margin-left: 0.5rem;
+  }
+}
+
 // IMAGE GALLERIES
 
 .gallery {
