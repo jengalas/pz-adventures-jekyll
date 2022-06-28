@@ -1,10 +1,16 @@
 {% assign todays = site.geocaches | where: "post_id", page.post_id | sort: 'date'  %}
 
-<h2>Today's Geocaches</h2>
+<h2 class="geocache-heading">
+  {% if todays.size == 1 %}
+    Today's Geocache
+  {% else %}  
+    Today's Geocaches
+  {% endif %}
+</h2>
 
 {% for geocache in todays %}
 <div class="accordionItem">
-    <h2>{{ geocache.title }}</h2>
+    <h3>{{ geocache.title }}</h3>
     <div>
         <div class="geocache-data-wrapper">
             <div class="geocache-data">
