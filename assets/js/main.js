@@ -10,8 +10,8 @@ var accordionItems = new Array();
 
       // Assign onclick events to the accordion item headings
       for ( var i = 0; i < accordionItems.length; i++ ) {
-        var h2 = getFirstChildWithTagName( accordionItems[i], 'H2' );
-        h2.onclick = toggleItem;
+        var h3 = getFirstChildWithTagName( accordionItems[i], 'H3' );
+        h3.onclick = toggleItem;
       }
 
       // Hide all accordion item bodies except the first
