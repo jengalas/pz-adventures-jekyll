@@ -3,7 +3,27 @@
 {% include header.html %}
 <main>
     
-        {{ content }}
+  {{ content }}
+  
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}">Previous</a>
+    {% endif %}
+    {% if paginator.page_trail %}
+      {% for trail in paginator.page_trail %}
+        {% if trail.num == paginator.page %}
+          <span>{{ trail.num }}</span>
+        {% else %}
+          <a href="{{ trail.path }}">{{ trail.num }}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}">Next</a>
+    {% endif %}
+  </div>
+{% endif %}
 
 </main>
 

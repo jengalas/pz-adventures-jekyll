@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="archive-container">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {% include post-archive.html %}
   {% endfor %}
 </div>
