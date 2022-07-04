@@ -45,7 +45,25 @@ galleries:
     - filename: P1030522
       alt: Amazing baby back ribs, cole slaw and applesauce
     - filename: P1030524
-      alt: Beer battered fish & chips with cole slaw                    
+      alt: Beer battered fish & chips with cole slaw   
+  gallery3:
+    images:    
+    - filename: P1030453
+      alt: Zhanna and dad on the green trail
+    - filename: P1030484
+      alt: Getting ready to open the container
+    - filename: P1030466
+      alt: The trees are still bare, but spring is coming! 
+    - filename: P1030456
+      alt: Zhanna and dad at the overlook    
+  gallery4:
+    images:    
+    - filename: P1030471
+      alt: Rich located the container quite easily.
+    - filename: P1030467
+      alt: Sadly, the interior was soaked.
+    - filename: P1030463
+      alt: Zhanna and Rich at the overlook                               
 ---
 
 After a relatively mild early and mid-winter, we've suffered through a brutally cold and snowy March and April. Finally yesterday and today were beautiful days with sunshine and temperatures in the mid 60s! I wasn't as stiff or sore after yesterday's Death Hike as I expected, and I was thrilled to go for another hike today at a new place for us, [Bear Creek Preserve](https://natlands.org/bear-creek-preserve/). We traditionally hike in the morning hours before heading to the local showing of the Banff Mountain Film Festival World Tour, and today was the day.
