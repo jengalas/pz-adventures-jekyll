@@ -6,7 +6,7 @@ date: 2018-04-22 00:00:00
 categories:
   - geocaching
   - hiking
-  - survery mark hunting
+  - survey mark hunting
 tags:
 excerpt: >-
   Some photos from our mid-winter warm day walk to the neighborhood park
