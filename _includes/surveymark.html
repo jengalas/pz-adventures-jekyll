@@ -8,13 +8,19 @@
     {% endif %}
   </h2>
 
+<!-- // TODO: check logic here for reference marks! -->
+
 <ul class="surveymark-list">
 {% for mark in todaysm %}
 
     {% if mark.pid %}
         <li><a href="https://thesurveystation.com/surveymarks/{{ mark.pid | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
     {% elsif mark.custom_permalink %}
+      {% if mark.mark_type == "Reference Mark" %}
+        <li><a href="https://thesurveystation.com/reference-marks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+      {% else %}
         <li><a href="https://thesurveystation.com/surveymarks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+      {% endif %}
     {% else %}
         <li><a href="https://thesurveystation.com/surveymarks/{{ mark.designation | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
 
