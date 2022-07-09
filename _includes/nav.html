@@ -1,4 +1,4 @@
-<nav>
+<nav style="display: flex; margin-left: auto;">
   <nav class="navhead">
     <button aria-label='Toggle menu' class='nav-button button-lines button-lines-x close' role='button' type='button'>
       <span class='lines'></span>
@@ -7,7 +7,7 @@
 <!-- Overlay content -->
   <nav class='nav-wrapper'>
     {% if site.data.navigation.toc2[0] %}
-      <ul class="menu">
+      <ul class="menu"  style="padding-bottom: 100px;">
         {% for item in site.data.navigation.toc2 %}  
           {% if item.subfolderitems[0] %}
             <li class="list submenu"><button>{{ item.title }}</button>
