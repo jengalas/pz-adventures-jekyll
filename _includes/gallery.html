@@ -4,6 +4,7 @@
 
 {% assign image_host_url = "https://planetzhanna.com/images/" %}
 {% assign gclass = include.class %}
+{% assign suffix = page.galleries[include.gallery_id].suffix %}
 
 <div class="jg {{ gclass }}">
     {% for image in page.galleries[include.gallery_id].images %}
@@ -14,8 +15,13 @@
            {% assign title = image.alt %}
         {% endif %}
 
-        <a href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}clx.jpg">
-            <img alt="{{ image.alt }}" title="{{ title | strip_html }}" src="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg"/>
+        {% if suffix %}
+          <a href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}{{ suffix }}.jpg">
+        {% else %}
+          <a href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}clx.jpg">
+        {% endif %}
+      
+        <img alt="{{ image.alt }}" title="{{ title | strip_html }}" src="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg"/>
         </a>
     {% endfor %}    
 </div>
