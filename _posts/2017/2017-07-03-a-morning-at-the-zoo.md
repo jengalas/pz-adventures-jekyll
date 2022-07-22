@@ -16,6 +16,7 @@ post_id: 7992
 layout: post                      
 galleries:
   gallery1:
+    suffix: cl
     images:
     - filename: P1040386
       alt: This goat looks like a gray version of Petal!
