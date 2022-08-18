@@ -15,7 +15,7 @@ grid_items:
     link: /travel/acadia/2017
   - image_filename: 2016/09/12/thumbnails/P1070351csm.jpg
     year: 2016
-    link:
+    link: /travel/acadia/2016
   - image_filename: 2015/09/20/thumbnails/P1150370csm.jpg
     year: 2015
     link:

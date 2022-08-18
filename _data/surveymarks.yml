@@ -188,4 +188,45 @@
 - designation: C 73 
   mark_type: Survey Mark
   date: 2017-04-23 00:00:00
-  post_id: 7992     
+  post_id: 7992 
+- designation: S 229 
+  mark_type: Survey Mark
+  date: 2016-09-12 00:00:00
+  post_id: 7171  
+- designation: ODENS ODOM LEDGE BEACON
+  pid: PE2188
+  mark_type: Survey Mark
+  date: 2016-09-08 00:00:00
+  post_id: 7158  
+- designation: FORT KNOX 1863
+  pid: PE2186
+  mark_type: Survey Mark
+  date: 2016-09-08 00:00:00
+  post_id: 7158         
+- designation: FORT KNOX RM 1
+  mark_type: Reference Mark
+  date: 2016-09-08 00:00:00
+  custom_permalink: pe2186-rm-1
+  post_id: 7158 
+- designation: FORT KNOX RM 2
+  mark_type: Reference Mark
+  date: 2016-09-08 00:00:00
+  custom_permalink: pe2186-rm-2
+  post_id: 7158   
+- designation: TT 69 TH
+  mark_type: Survey Mark
+  date: 2016-08-14 00:00:00
+  post_id: 7136   
+- designation: 09-65-1005-1
+  mark_type: Survey Mark
+  date: 2016-07-26 00:00:00
+  post_id: 6646  
+- designation: PDH 10
+  mark_type: Survey Mark
+  date: 2016-04-24 00:00:00
+  post_id: 6332    
+- designation: G 58
+  pid: LY0190
+  mark_type: Survey Mark
+  date: 2016-01-30 00:00:00
+  post_id: 6171   
