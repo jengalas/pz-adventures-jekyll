@@ -1,4 +1,5 @@
-url: localhost:4000
+# url: localhost:4000
+url: https://zhannas-adventures.netlify.app
 # url: "https://planetzhanna.com" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "/adventures/jekyll" # the subpath of your site, e.g. /blog
 title: "Zhanna's Adventures" # the name of your site, e.g. ACME Corp.
