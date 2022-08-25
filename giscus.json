@@ -1,5 +1,5 @@
 {
-    "origins": ["https://jocular-tayaki-bd1369.netlify.app"],
+    "origins": ["https://zhannas-adventures.netlify.app"],
     "originsRegex": [
       "http://localhost:[0-9]+",
       "http://127.0.0.1:[0-9]+"
