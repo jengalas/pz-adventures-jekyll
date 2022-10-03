@@ -1,0 +1,38 @@
+---
+_schema: default
+title: "Acadia Adventures 2022 – Days 1 & 2"
+author: Zhanna
+date: 2022-09-08 00:00:00
+categories: 
+  - travel
+  - acadia
+  - '2022'
+  - survey mark hunting
+tags:
+excerpt: >-
+  
+header:
+  teaser:
+geocaches: false
+surveymarks: true
+post_id: 
+layout: post  
+---
+
+We were having trouble all week deciding when to leave on our journey. Our first thought was to try leaving around midnight like we did, successfully, in 2017. We ended up pretty close to that, leaving at 11pm. After a pretty routine morning and afternoon (if you can ignore the three solid days of nonstop rain that resulted in 4.3 inches in the gauge and persistent showers over us all morign and afternoon - we couldn't ignore them), we lay down for some rest around 6:45pm and planned to get up around 10. We stayed close to that schedule, getting up arond 10:15, having something to eat (frozen past and veggies) and leaving the house at 11pm. Traffic wasn't too bad, althoug it was heavie than in 2017. Almost all trucks for the first several hours, and they were mostly behaving. A few cars joined now and then, and were coming onto the highway in greater numbers (and crazier speeds) by the time we were on the Mass Pike and 495. W took a quick detour through Vernon around 2:30 looking for coffee, but nothing was open. We continued on to the Charleton plaza East, where even the McDonalds was closed at 3:30am. (We were able to get a self-serve coffee from this weird attached convenience store that we both thought looked and felt like something from another universe or at least another galazy. SO bizarre inclding the character that worked there.) Back on the highway and it was busy but smooth sailing until the start of I-95 (Maine turnpike) where 495 ended. Right at the toll area (where we had unintentionally chosen the cash side, but it still had ezpay) We found ourselves suddenyl in this fog bank so thick it was impossible to see anything for a few (rather terrifying) seconds. It was like driving into a white wall. Fortunatlye it let up just enough that we could see and then follow the trucks coming through the ezpass side of the toll area. While there was some fog for the rest of the night's ravel it wa wispy and did not really affect visibility. Almost exactly consistent with our timng in 2017 (just one hour earlier) we reached the Kittery rest area at 5:30am. I'd had no sleep all day (could not sleep while we were resting in the afternoon and evening) and thought I would get a few hours easily while at the rest aeea. Our eye masks worked great, blocking the light that would always hit us squarely in the eyes no matter where we parked or how we angled the car. And I was veryr comfortblae termperature wise and at least somewhat cofortable otherwise, but simply could not sleep. Rich (having had a decent rest) woke me up around 7:15 and we headed back out around 7:40. 
+
+Trafic wasn't terrible this morning, and there was sme fog but it was light. We reached our first stop, Youngs Lobster Pound, at 10am. Ordered our usual rolls and wandered around the dock whle we waited, taking a few photos and ooking for snakes (sea seroents?) The rolls came out after 10 minutes or so, and we sat at the picnic tales to eat. We were starving by this point! The rolls were burstng with meat, and were such a pleasure as our first Maine meal of the year sitting in the vey strong, war sunshine on the platform behind the lobster pound building. Other times we've bene here it has been fogy and very windy, so this was the perfect weather for this venue. Served as always with a bag of Utz ettle chips and some sliced pickles it was a perfect breakfast! We darnk a ottel or Mandarin Polar seltzer water with our rolls. Then we continued on.
+
+After crossing the bridge near Fort Knox and then the Verona bridge, and finding ourselves at te t-intersection in bucksprt where we usually turn riht, Rich said, "Let's go left." This was a great decision! We found so many cool things here. Rich pakred alongside Main Street and asked if there were any benchmarks nearby. I used my app to see that there were a bunch of landmark stations, a bolt with washer near what looked like railroad tracks, and a tri-station at the top of a hill called Mount Olive. That didn;t look too far awy so we decided to take a walk towad it. Well, it was straight uphill and much farther than it appeared form the map, so we changed course once we reached School and Elm Streets and headed back down toward Main st. We checked out a few of the old buildings here and examined the post office to see if there might be any USGS marks set in its foundation. No luck, but as we came around the back of the post office we saw a smal farmers marlet in the adjacent lot. We weren't able to buy any vegetables but there was a man selling (and giving samples of) chaga tea. I had to have some (I've had it before as a sample from my friend Mickie). In fact, Mickie is watching my plants while we're away, so I bought a bag of chaga tea as a little thank you gift for her. That was a cool find!
+
+Then we crossed Main st heading toward the waterfront. We spotted a birck pathway that looked like a walking trail leading on both directions,and right next to it, a section of obviously historic rairoad tracks. Could these take uso to the benchmark> We followed the walking path, which was so pretty and lined all along the way with plaques explaining the history of the town, the bridge, the forst, etc. Once at the location, Rich asked what we were looking for and I sad it was a bolt with a washer. "Well, here's a washer!" he said. "Are you kindding?" I siad thinking he had actually aready found it. No, it was in fact just a plain washer on the ground tht he spotted right when I said the word. I kept it as a souvenir.
+
+We walked all around the little park where the bolt was suppoedly set but saw nothing else that loked similar. We even checked the Geocahing page fr this mark. It was so fnny, that after no logs at all for 22 years, someone was here and logged a "Not Found" just last Monday. Weird. (And no, it wasnt Geeoh!) Another weird thing is that the datasheet didn't say scaled or adjusted but rather ____ which I've never seen before (I would expect it to be adjusted but if not, we may have been in the wrong spot). Also, since the parl was built beginning in 1984 and the bolt was set in 1982 it may have been removed or covered over long ago.
+
+This town is worth a lot more exploration. I think we'll come back to look for a few more benchmarks! BEfre leavin we took a drive up Central Street to check out the location of the Mount Olive mark. It's definitley in deep woods ona a high knoll, but I didn't see any opsted signs and it looks doable with significant effort as long as we can find a good place to park. 
+
+Just as we were leaving ton I spotted a disk on a bridge bannister. Rich pulled down into another parl along the water ront trail while i recovered it (MaineODOT mark from 2021). We really need to find out more aout the history and extent of this trail!
+
+Our trip to BH was uneventful except for the weird dirt section of Route 3 where they have the trafic going down this steep hill and then curvng back up to meet the regulra road surface. It was short but very weird.
+
+We arrived in town and checed in at 1:55. Our room was ready adn we colapsed! Didn;t go for pizza until 5:30. It was great as sual with two large Allagash White ales. We ate the whole thing while invoved in deep conversation. Then after a quick trp to crazy Hannaford we came back to the room to continue our conversation and get ready for bed. 
