@@ -16,6 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: true
+tracklog: 10SEP22.gpx
 post_id: 
 layout: post  
 ---
@@ -37,5 +38,7 @@ We began the steep climb on a cariage road spur up to the carriage road itself, 
 I descended again to the carriage road and then headed down the steps, which are a little tricky at first, but once i got down below them it was realtively easy to walk around. There's a stream that winds through this area, and I ended up crossing it a few times in my attempts to find any sign of a trail, more steps or stonework, cairns, etc. Notice that I said attempts. Sad to say but I dind't find much of anything other than that first set of steps. I saw one rock placed on another in an open, centrail location and I woudl bet that was a cairn, but no matter where I looked I could not spot another one, nor did I see any signs of graded land or anyone having walked there. I did spot a boundary marker while I was walking around. On my way back to the carriage road, after determinngi that I needed more information and would have to come back, I made my way to the boundary marker and took some photographs and awaypoint. Then I crossed the stream again and took a few more steps upward ... and I have no idea what made me look down at that point, but I saw a brown pattern that looked at first like some kind of cord. But of course, it was a snake! Right at my feet, so amazing that he was just there at my feet in the midle of the woods like that. I took a few quick photos with my phone because I fully expected him to skitter right off. He dind't. I got my camera out and took a few photos with that. Then I moved a branch off of him so I could get a better view. He still didn't move. At this point I was alittle woried that he was dead, even though he looeked perfecly plump and alive. I gently stroked his back and it took a few seconds, but he evntually shook hinself into motion, raised his head, and flicked his tongue a few times. Then he sat still again, and posed for more phots. What a sweet, gentle snake! It was a beautiful, small maritime garter snake, and such a beautiful encounter.
 
 I hoisted myself back up to the carriage road and found rich, who had been wandering a bit in search fo photographic subjects. I reported on my findings or not-findings, and then we continued west toward Jordan Pond. It has been a dry year here and we dind't see much other than a few fungi and Monotropa hypophytis. We got to Jordan Pond House right as the bus to the visitors center was arriving, so we dind't have time to poke around, but that was Ok. 
+
+{% include tracklog.html %}
 
 Supper tonight was the simple pizza we'd been looking forward to all day. We got half pepperoni, half onion, and sat in a booth upstairs. We also got two large Alagash Whites again ("These peps are making me thirsty!") With no room for dessert, we just wandered around the waterfront a bit and Rich practiced his street photography. As we were passing one of the hotels on west Street, what passed by but a Dodge van with Wisconsin plates. Could it be? YES, it was them again!!! 

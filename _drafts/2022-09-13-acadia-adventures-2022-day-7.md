@@ -15,6 +15,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+tracklog: 13SEP22.gpx
 post_id: 
 layout: post  
 ---
@@ -28,6 +29,8 @@ This isn't an easy area to reach by bus, so we decided to drive like we did last
 We walked slowly, taking care to look for any interesting mushrooms and plants along our way, evn on the trail in to the carriage roads. We saw afew mushrooms but nt much else, as it has apparently been a dry year and most of the plants are looking water-stressed or otherwise past their prime. Near the end of the trail, not far from where it intersects with the carraige roads, i spotted someting springing around in the grass.  A beautifully patterned pickerel frog! I followed him around for a few minutes and was eventually able to get a few decent photos. 
 
 We spent the rest of the morning exploring, slowly and in detail, a small area along the western side of Witch Hole Pond. We found some more mushrooms and quite a few more frogs, and some hatched turtle eggs (sadly, no turtles or snakes today). It was a perfect day for photography with some sun peeking through earlier in the day, and a cooler breeze and darker, misty conditions settling in later. 
+
+{% include tracklog.html %}
 
 We returned to our room around 2:30pm. I took a walk up to the Island Place next door, where my father is staying, to find that he had just arrived. We talked for a few minutes as he got his things arranged. The fog was turning to mist, and it was chilly. 
 

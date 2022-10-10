@@ -18,6 +18,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: true
+tracklog: 11SEP22.gpx
 post_id: 
 layout: post  
 ---
@@ -39,6 +40,8 @@ We headed back toward that narrow trail we had foud, and as soon as we began hik
 After we reached this second summmit, it was a quick .14 miles downhill to make the connection with the carriage road and the Barr Hill trail across it. When we reached that intersection, Rich said he needed to pee and went to stand behind a large tree. He called to me a second later, "Hey, guess what?" My first thought was that he had found a tick on himself! My second thought was that he had found either asnake or a survey benchmark. It was neither- in fact, it was a letterbox ("Triple Crown Trio") hidden under a rock at the base of the tree! So cool. It contained a stamp but no book to stamp into (not that I had my letterboxing supplies with me, anyway). 
 
 We finished our hike by walking the carriage roads back to Stanley Brook Rd. When we got there we dsicovered that the Seaside Path runs alongide it, and we need to investigate and map that path in the future. I stopped for a minute to photograph an NPS boundary marker on the carigage road while Rich went back up to the Park Loop Road to wait for the bus. One came aong soon enough (in fact it was the same driver we'd had this morning) but he said the bus was full and we'd have to wait for the next one. We were debating walking the .7 miles up to JPH, figuring that his bus was prbably full due to all the peopel going to JPH on a Sunday afternoon, and that it was likely the next one would be full too. But we waited, and fortunately there were some open seats on the second bus. We made it back to the visitrs center, and then to the room without incident. (We took a quick drive around Hulls Cove to see if we cuold locate Brandan and Monika's new house, but we couldn't find anything other than private drives.)
+
+{% include tracklog.html %}
 
 We were so ready to eat by 5:00pm and were thrilled that we had a reservation at HAvana. We started with mojitos, as always, and enjoyed a litle amuse bouche of shortbread with mascarpone and dried apricot (Rich called it a round Lorna Doone). The bread basket is always delicious but we have to be careful not to fill up on it - it always contains a whoel grain seed bread and a cornbread of some kind (tonight's was blueberry). The spreads were cinnamon butter, chili oil, and black bean spread. All were great! Our appetizer was the usual mushroom spring rolls, always one of the best snacky foods I've ever had (would love to see something like this at Ciao). Then I had the halibut with panko and coconut crust, accompanied by steamed cabbage, spaghetti squash cake, fried kale, and shishito pepper, dressed with blood orange beurre blanc and finished with bruleed lemon and roasted cherry tomatoes. Rich had the chicken roasted with Cubsn marinade and served with lime-basil sauce, beets in balsamic vinaigrette, and forbidden rice with white beans (aso tasted like it had coconut milk), topped with pineapple salsa. Everything was so good! And filing but not overly so, just right. We didn't have room for dessert but had an extra cocktail instead (Havana Martini).
 

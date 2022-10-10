@@ -16,6 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: true
+tracklog: 14SEP22.gpx
 post_id: 
 layout: post  
 ---
@@ -39,6 +40,8 @@ We hiked the trail all the way to the cariage road just south of Jordan Pond Hou
 The best part was that we didn't see anyone at all on the trail until very near the end, when one couple and a huge bear-like dog passed us by quickly. 
 
 The area around JPH was crazy, as expected. We had no trouble getting a bus from there back tot he visitors center, but then had to wait almost an hour for the bus back tot eh village green. On the bus from JPH we talked with a woman who had been a driver for the Island Explorer this season and had finished up on Monday. She was heading back the next day to her new home beng built in North Carolina. She raved about the job and said it was absolutely phenomenal and so much fun. We were trying to get dad to sign up as a driver for next year!
+
+{% include tracklog.html %}
 
 Rather than going back to the room and then back into town, we decided (as we di 5 years ago or so) to just go directly for a late lunch/early supper at Paddy's. We stopped at a two of the "Acadia shops" along the way to look for the blueberry-mango jam that Elaine liked so much. I didn't see it, but I did find a few others that she might like (blueberry marmalade and blueberry-lime-ginger) in addition to her usual wild blueberry jam that I get for her every year.
 
