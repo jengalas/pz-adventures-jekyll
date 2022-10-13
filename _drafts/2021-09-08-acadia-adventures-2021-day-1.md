@@ -19,8 +19,6 @@ layout: post
 
 We have been fortunate.  For us, the past year and a half was different, tough at times, but mostly business as usual or easy enough to adapt to. The one thing we really missed was traveling. We were so sure when we had to cancel our Maine trip last September that we would be back, and everything else would be back in normal working order too, in 2021—certainly by _September_ 2021. 
 
-Well, for those of you who have been living in this present reality, it should not be a surprise that we were still unsure what things would be like and whether we would even be able to make the trip. Fortunately for us, things mostly worked out (state restrictions lifted, etc.) and we, fully vaccinated and now at ease with mask wearing and other precautions, decided to give it a try. 
-
 Having already heard about the record number of visitors to the island and the unprecedented stressed they had placed throughout the summer on already short-staffed and struggling businesses, we decided to try to have few expectations and certainly not to assume we would be visiting the Acadia of the past, of our recent past. We decided to treat it partially as a new location and just see what unfolded each day. Flexibility was a key word for 2020 and, as it turns out, for 2021 perhaps even more.
 
 That's not to say there weren't undertones of anxiety as we prepared for the trip. And the weather just had to make it worse. While every other day this week was pleasant, beautiful, and sunny, severe storms were predicted for Wednesday afternoon through Thursday morning, precisely the times during which we planned to travel. As we were expected to be in Maine by midafternoon Thursday, we didn't have much leeway as far as departure or travel times.
