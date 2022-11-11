@@ -3,18 +3,18 @@ url: https://zhannas-adventures.netlify.app
 # url: "https://planetzhanna.com" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "/adventures/jekyll" # the subpath of your site, e.g. /blog
 title: "Zhanna's Adventures" # the name of your site, e.g. ACME Corp.
-# timezone: America/New_York
+timezone: America/New_York
 
 collections:
   geocaches:
     output: false
   pages:
-    output: true  
+    output: true
   posts:
     permalink: /:year/:month/:day/:title
 
 plugins:
-  - jemoji  # https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/
+  - jemoji # https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/
   - jekyll-archives
   - jekyll-paginate-v2
 
@@ -22,10 +22,10 @@ pagination:
   enabled: true
   per_page: 5
   sort_reverse: true
-  trail: 
+  trail:
     before: 2 # The number of links before the current page
-    after: 2  # The number of links after the current page
-  
+    after: 2 # The number of links after the current page
+
 jekyll-archives:
   enabled: all
   layout: default
@@ -34,5 +34,4 @@ jekyll-archives:
     month: '/:year/:month/'
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
-    category: '/category/:name/' 
- 
+    category: '/category/:name/'
