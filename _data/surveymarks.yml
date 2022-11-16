@@ -1,8 +1,28 @@
 - designation: R/US
   mark_type: Survey Mark
   date: 2022-09-14 00:00:00
+  custom_permalink: r-us
+  post_id: 14016
+- designation: R/US
+  mark_type: Survey Mark
+  date: 2022-09-14 00:00:00
+  custom_permalink: r-us-2
+  post_id: 14016
+- designation: R/US
+  mark_type: Survey Mark
+  date: 2022-09-14 00:00:00
   custom_permalink: r-us-3
   post_id: 14016
+- designation: R/US
+  mark_type: Survey Mark
+  date: 2022-09-14 00:00:00
+  custom_permalink: r-us-4
+  post_id: 14016        
+- designation: S 114
+  mark_type: Survey Mark
+  date: 2022-09-14 00:00:00
+  custom_permalink: s-114-2
+  post_id: 14016          
 - designation: 223 LRP
   mark_type: Survey Mark
   date: 2020-07-10 00:00:00
