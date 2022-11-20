@@ -1,0 +1,47 @@
+---
+_schema: default
+title: "Acadia Adventures 2019 – Day 7"
+author: Zhanna
+date: 2019-09-10 00:00:00
+categories: 
+  - travel
+  - acadia
+  - '2019'
+  - abandoned trails
+  - hiking
+  - survey mark hunting
+tags:
+excerpt: >-
+  
+header:
+  teaser:
+geocaches: false
+surveymarks: true
+tracklog: 10SEP19.gpx
+post_id: 11923
+layout: post  
+---
+
+This was a day full of unexpected adventures! We were very unsure this morning about what to do and what area to explore. We narrowed it down to either the area around Witch Hole Pond, which we could reach from the visitor center, or the carriage roads around Barr Hill, which we didn't think we had ever hiked before. After a near-repeat of yesterday's breakfast at Mount Dessert Bakery (cheese bagels with veggie cream cheese for both of us, and no sticky bun) we decided on the Witch Hole Pond area. It turned out to be a wise choice!
+
+We drove to the visitors center rather than taking the bus because we figured it would be more efficient and that there would be plenty of parking at the center. The lot is large but it sure was filling up quickly! We found a decent corner spot, though, and headed out. Rich's idea, and it was a good one, was that there might be a way onto Breakneck Road from one of the access roads heading out toward Route 3 from the Visitors center. We found a little dead end road leading toward  some kind of park maintenance shed and we could clearly see the brook down below, but no sign of any trail crossing it to reach Breakneck Road. At this point who should come driving by but a park ranger. Rich asked if there was any way across to Breakneck Road via a trail, and the ranger said no, and that furthermore there was private property down by the brook so he could not endorse that we try to make our way through. He recommended parking by the general store in Hulls Cove and accesing the road from there. We are familiar with the store at the northern end of the road, but had no plans to park there, so we walked down there instead (we retraced our steps to the other access road that would take us out to Route 3, and followed Route 3 downhill for a hundred yards or so toward the road with the store). 
+
+We were greeted by an elaborate exhibit of Breakneck Road history - something we had never seen before and that was apparently funded by the artist who has a small museum (and objects of sculpture) at the northern end of Breakneck. We were so interested to read about the history of this "cross-island road" charted in 1777 that is still essentially in use today. Much of it has been overlaid with the modern Routes 233, 102, and 198 but there are still a few sections used as walking paths, namely the section we hiked today and the Valley Trail near Beech Mountain. Beech Mountain road was also part of the route. There is only one little section "Lovers Lane" that is currently private and unmarked.
+
+We soon headed up along Breakneck Road and came upon two NPS boundary monuments, both with disks, one on each side of the road. They were unusual disks, small and gold/brown in color. We documented them and moved on. The road is a wide path in this area, mostly open and sunlit, dry and rocky but easy to walk. We spotted one small deer and then three more in the woods a few minutes later - the group of three was a mother and two fawns. We passed by the pond which is now mostly grown in, to Rich's surprise. It used to be quite full with water coming up close to the road. Now if there is a trickle, it's far enough into the vegetation that it's invisible from the road. There are still some cattails, reeds and other water plants growing, so it must still be moist enough.
+
+Continuing further we entered a darker area where we found some interesting mushrooms to photograph (potentially baby chanterelles?), as well as logs full of termites and about a million mosquitoes. All in a day's play! Just a bit further we found a little side trail just a few yards long that approached the brook; I had to investigate. While we were walking toward the brook we noticed an obvious road grade on the other side and, if we still had any doubt that this was a constructed road, a stone retaining wall along the brook. What was this?!?! I followed it south, where after a hundred feet or so it just came out on the Breakneck Road at a Y intersection. Then I followed it northerly for a good distance until I could tell that it appeared to be skirting the eastern side of the now-dry pond. What was this road? At one point some obviously placed logs offered passage across a small tributary to the brook. Then as it got close to the dry pond the road narrowed considerably and became sodden. I wasn't prepared to wade through that today but I made a tracklog so we could figure it all out later. It was clear we had found some kind of old road but where it came from and where it went and why would remain a mystery for now. I know there are other abandoned trails in this area, so we will need to return anyway at some point to check them all out.
+
+We continued along the Breakneck Road southerly until we  There is a steep rocky hill at one point that makes it clear where the road may have earned its name! But above that it levels out again, and opens up to the sunlight again, traversing some surface bedrock and back to the pine debris, soft surface, narrowing here, widening there, but always easy to follow. We had been looking all along the way for the old roads that Rich remembered heading off to the southern shore of Lake Wood; I think we found one of them, but we didn't follow it today to be sure. At one point an obvious trail leads east toward the carriage road but we didn't want to take it. We continued on Breakneck until Breakneck Ponds, at which point we walked up through the woods 20 yards or so onto the carriage roads for the second part of our journey.
+
+Typical carriage road scenery (as much as you could term the beauty of these woods "typical") passed by until we reached a small pond. <!-- Halfmoon Pond. --> One glance and I knew this was going to be interesting. Protruding above the marsh grasses was a cluster of four or five golden orange Sarracenia (pitcher plant) blooms. They are unmistakable in their alien weirdness and I was thrilled beyond belief, having never seen them in the wild (I love them and I do grow them at home, but there is nothing like coming across special plants in their native habitat!). The bog area around the pond is fragile and as I entered it, I could see pitchers all around of all shapes and sizes, and across the full spectrum of pitcher plant colors from pale green to solid saturated burgundy. Each step was carefully placed as I didn't want to trample any of them. It helped that there were some rocks and logs submerged that offered safe resting areas. I took some photos and then turned to my left to see ... a log covered with sundews!!!  This is getting even better. I was wild with excitement, Rich can tell you!
+
+I eventually pulled myself out of the bog, arranging everything so nothing appeared disturbed. we moved on along the carriage road and we soon came to another tiny pond. At first it didn't seem like much, just a typical pond covered with lilypads, but we looked to the drier area to the north and spotted a HUGE specimen of pitcher plant, in full (several dozen) bloom. This one was so easy to access that we were able to walk right to it without any danger of wet (or, in my case, wetter) feet. And once we looked carefully at the ground, we could see it was literally covered with sundews. What a treasure!!! I just hope that this area stays wet enough overall to sustain this population of carnivores. We saw a man and woman wh appeared to be somewhat serious photographers enjoying the lilies in the pond so we pointed out the pitchers to them too. 
+
+{% include tracklog.html %}
+
+It was getting late in the afternoon and we were expecting my father to arrive, so we didn't spend too much more time here today, but Witch Hole Pond will also be a great spot for photography. We have already seen the sundews and many pitcher plants there too. And thanks to JR Libby we have verified a quicker and easier way into the Witch Hole area so we don't have to climb the long, steep access road from the visitors center to access the carriage roads.
+
+(Remember how the people we met on the trail drove off with their trunk open and water bottle on top of the car. Fortunately they realized it quickly. "OH that's not good!")
+
+We arrived back at our room a little after 3:00 and dad arrived a little before 5:00. We headed down to Rosalie's for pizza around 5:30. It was busy but we were able to grab a booth on the second floor. A large plain pizza was perfect for us, along with Baxter IPA. And we had just enough room left for ice cream after a walk down by the pier (and telling dad the story of Dave and te captain's platter). Ice cream was blueberry sour cream crumble for R, cranberry bliss for Dad and blueberry basil for me.
