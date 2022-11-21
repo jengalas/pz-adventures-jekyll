@@ -15,7 +15,7 @@ excerpt: >-
 header:
   teaser:
 geocaches: false
-surveymarks: false
+surveymarks: true
 tracklog: 09SEP19.gpx
 post_id: 11915
 layout: post  

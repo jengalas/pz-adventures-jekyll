@@ -13,7 +13,7 @@ excerpt: >-
 header:
   teaser:
 geocaches: false
-surveymarks: true
+surveymarks: false
 post_id: 11909
 layout: post  
 ---
