@@ -343,3 +343,37 @@
   date: 2015-09-10 00:00:00
   custom_permalink: pe0381-2
   post_id: 5742
+- designation: WYALUSING
+  pid: LZ0015
+  mark_type: Survey Mark
+  date: 2015-07-17 00:00:00
+  post_id: 5438
+- designation: WYALUSING RM 1
+  pid: LZ0014
+  mark_type: Reference Mark
+  date: 2015-07-17 00:00:00
+  post_id: 5438
+- designation: WYALUSING RM 2
+  pid: LZ0016
+  mark_type: Reference Mark
+  date: 2015-07-17 00:00:00
+  post_id: 5438
+- designation: 62 HLZ
+  mark_type: Survey Mark
+  date: 2015-07-17 00:00:00
+  post_id: 5438
+- designation: DRM 070
+  mark_type: Survey Mark
+  date: 2015-07-17 00:00:00
+  post_id: 5438
+- designation: N 53
+  pid: LZ0025
+  mark_type: Survey Mark
+  date: 2015-07-17 00:00:00
+  post_id: 5438
+- designation: 05-65-3001-3
+  mark_type: Survey Mark
+  date: 2015-07-17 00:00:00
+  post_id: 5438     
+
+    
