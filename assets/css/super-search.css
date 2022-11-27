@@ -14,12 +14,12 @@ MIT Licensed
 
 .super-search {
 	position: fixed;
-	background-color: rgba(0, 191, 255, 0.85);
+	background-color: rgba(4, 51, 90, 0.85);
 	left: 0;
 	right: 0;
 	top: 0;
 	bottom: 0;
-	z-index: 1;
+	z-index: 1000;
 	transition: 0.2s ease;
 	visibility: hidden;
 	opacity: 0;
@@ -33,7 +33,7 @@ MIT Licensed
 }
 .super-search__input {
 	border: 0;
-	font-size: 50px;
+	font-size: 2rem;
 	border-left: none;
 	border-right: none;
 	color: #999;

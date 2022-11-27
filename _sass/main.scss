@@ -1,6 +1,6 @@
 $bodyBackgroundColor: #60829e;
 $bodyColor: #6f6361;
-$bodyFont: Mulish,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: Mulish, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $bodyFontSize: 1.125rem;
 $bodyFontWeight: 400;
 $headingFont: 'Handlee', cursive;
@@ -24,7 +24,7 @@ body {
 }
 
 main {
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(255, 255, 255, 0.5);
   clear: both;
   max-width: 1050px;
   margin: 0 auto;
@@ -34,8 +34,8 @@ main {
     background: $innerBackgroundColor;
     margin: 0 auto;
     padding: 3rem 5.263rem;
-    max-width: 880px; 
-  }  
+    max-width: 880px;
+  }
 }
 
 .inside-header {
@@ -49,7 +49,7 @@ main {
 
 .site-title {
   float: left;
-  
+
   a {
     color: $lightHeadingColor;
     font-size: 2rem;
@@ -75,7 +75,9 @@ h2 {
   font-weight: 700;
 }
 
-em, i, cite {
+em,
+i,
+cite {
   @include italic-text;
 }
 
@@ -97,7 +99,9 @@ small {
   a {
     color: #fff;
     text-decoration: none
-  };
+  }
+
+  ;
 }
 
 .alert {
@@ -120,16 +124,16 @@ small {
   background-color: transparent;
   margin: 0 auto;
   max-width: 1050px;
-  padding: 1rem 0;  
-  font-weight: bold;  
+  padding: 1rem 0;
+  font-weight: bold;
 
-  a  {
+  a {
     color: #fff;
     text-decoration: none;
 
     &:hover {
       border-bottom: 1px dashed white;
-    }   
+    }
   }
 
   .prev-post {
@@ -144,7 +148,7 @@ small {
       content: "\02C3";
       margin-left: 0.5rem;
     }
-  }  
+  }
 
   a:hover::before {
     text-decoration: none;
@@ -158,10 +162,10 @@ small {
   display: flex;
   margin-bottom: 4rem;
 
-  .cat-links{
+  .cat-links {
     font-family: Muli, Arial;
     font-size: 12px;
-    letter-spacing: 1px;    
+    letter-spacing: 1px;
     text-transform: uppercase;
 
     a {
@@ -174,8 +178,8 @@ small {
       }
     }
   }
-    
-  h1 {    
+
+  h1 {
     margin: 0;
   }
 
@@ -186,9 +190,9 @@ small {
 
 .post-date {
   background-color: #fff;
-  border-bottom: solid 5px #d1dee9;  
+  border-bottom: solid 5px #d1dee9;
   border-radius: 38px;
-  border-top: solid 5px #d1dee9;  
+  border-top: solid 5px #d1dee9;
   float: left;
   margin: 5px 24px 5px 0;
   padding: 10px;
@@ -199,7 +203,7 @@ small {
     background-image: none;
     box-shadow: none;
     display: block;
-    font: 11px/100% Arial,Helvetica,sans-serif;
+    font: 11px/100% Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
     padding: 2px 0;
     text-transform: uppercase;
@@ -213,14 +217,14 @@ small {
   .day {
     color: #60829e;
     display: block;
-    font: bold 24px/100% Arial,Helvetica,sans-serif;
+    font: bold 24px/100% Arial, Helvetica, sans-serif;
     padding: 2px 0 4px;
   }
-  
+
   .year {
     color: #666;
     display: block;
-    font: 14px/100% Arial,Helvetica,sans-serif;
+    font: 14px/100% Arial, Helvetica, sans-serif;
     padding: 0 0 4px;
   }
 }
@@ -232,7 +236,9 @@ article a {
   color: #1e73be;
   text-decoration: none;
 
-  &:hover,&:active,&:focus {
+  &:hover,
+  &:active,
+  &:focus {
     border-bottom: 1px solid #018ed3;
     color: #018ed3;
     text-decoration: none;
@@ -241,11 +247,13 @@ article a {
   &.button {
     background: #666666;
     border-bottom: 0;
-    color: #fff;    
+    color: #fff;
     display: inline-block;
-    padding: 10px 20px;      
+    padding: 10px 20px;
 
-    &:hover,&:active,&:focus {
+    &:hover,
+    &:active,
+    &:focus {
       background-color: #3f3f3f;
     }
   }
@@ -287,9 +295,9 @@ section.comments {
 }
 
 .geocache-map iframe {
-  border:1px solid #000;
-  height:300px;
-  width:400px;
+  border: 1px solid #000;
+  height: 300px;
+  width: 400px;
 }
 
 // ACCORDION (for Geocaches)
@@ -297,27 +305,27 @@ section.comments {
 .accordionItem {
   border-bottom: 1px solid #ddd;
 
-  h3 { 
+  h3 {
     color: #246193;
     font-family: $bodyFont;
     font-size: 1.125rem;
     font-weight: 400;
-    margin: 0;     
-    padding: 0.4em; 
-  
-    &:hover { 
-      cursor: pointer; 
+    margin: 0;
+    padding: 0.4em;
+
+    &:hover {
+      cursor: pointer;
     }
   }
 
-  > div { 
-    margin: 0; 
+  >div {
+    margin: 0;
     padding: 1em 0.4em;
   }
 
   &.hide {
-    div { 
-      display: none;      
+    div {
+      display: none;
     }
   }
 }
@@ -343,7 +351,7 @@ section.comments {
       border: 0;
     }
   }
-  
+
   .fa-arrow-up-right-from-square {
     color: #4a96d9;
     font-size: 80%;
@@ -365,11 +373,13 @@ section.comments {
     flex-wrap: wrap;
   }
 
-  a {    
+  a {
     border-bottom: 0;
     text-decoration: none;
 
-    &:hover, &:active, &:focus {
+    &:hover,
+    &:active,
+    &:focus {
       border-bottom: 0;
       text-decoration: none;
     }
@@ -378,7 +388,7 @@ section.comments {
   div {
     flex: 1;
     flex-basis: 240px;
-    margin: 0.263rem;    
+    margin: 0.263rem;
 
     @media (max-width: 768px) {
       margin: 0 auto 0.5rem auto;
@@ -387,25 +397,27 @@ section.comments {
 
   img {
     height: auto;
-    width: 100%;  
+    width: 100%;
   }
 
-  figcaption {  
-    color: #444;  
+  figcaption {
+    color: #444;
     font-family: Lora, serif;
     font-size: 1rem;
-    font-style: italic;    
+    font-style: italic;
     line-height: 1.2rem;
     text-align: center;
   }
 }
 
 .justified-gallery {
-  
+
   a {
     border-bottom: 0;
 
-    &:hover,&:active,&:focus {
+    &:hover,
+    &:active,
+    &:focus {
       border-bottom: 0;
     }
   }
@@ -431,7 +443,7 @@ section.comments {
 }
 
 .example-tabs-tabs__item {
-  display: inline-block;  
+  display: inline-block;
 }
 
 .example-tabs-tabs__link {
@@ -486,15 +498,15 @@ section.comments {
 // NAVIGATION
 //== Variables
 //
-$color-white:                  #fff;
-$color-white-darker:           darken($color-white, 5%);
-$color-white-darken:           darken($color-white, 15%);
-$header-height:                80px;
-$nav-toggle-size:              2rem;
-$nav-toggle-transition-speed:  .3s;
-$nav-transition-speed:         .6s;
-$nav-width:                    25vw;
-$zindex-header:                500;
+$color-white: #fff;
+$color-white-darker: darken($color-white, 5%);
+$color-white-darken: darken($color-white, 15%);
+$header-height: 80px;
+$nav-toggle-size: 2rem;
+$nav-toggle-transition-speed: .3s;
+$nav-transition-speed: .6s;
+$nav-width: 25vw;
+$zindex-header: 500;
 
 .navhead {
   height: $header-height;
@@ -532,14 +544,14 @@ $zindex-header:                500;
   visibility: hidden;
   width: $nav-width;
   overflow-y: auto;
-  
+
   .nav-visible & {
     transform: translateX(0);
     visibility: visible;
   }
 }
 
-.nav-visible .navhead > button {
+.nav-visible .navhead>button {
   position: fixed;
   right: 2%;
 }
@@ -549,11 +561,11 @@ $zindex-header:                500;
   transform: rotateY(90deg);
   transform-origin: left center;
   transition: transform $nav-transition-speed;
-  
+
   .nav-visible & {
     transform: rotateY(0deg);
   }
-  
+
   li {
     &.active {
       a {
@@ -561,13 +573,13 @@ $zindex-header:                500;
       }
     }
   }
-  
+
   a {
     display: block;
     line-height: 1.4;
     padding: 0.7em 0.5em 0.7em 1.4em;
     text-transform: uppercase;
-    
+
     &:focus,
     &:hover {
       text-decoration: none;
@@ -584,7 +596,7 @@ $zindex-header:                500;
   right: 0;
   top: $header-height;
   width: 3px;
-  
+
   &:before {
     border: 5px solid transparent;
     border-right-color: inherit;
@@ -624,7 +636,7 @@ $zindex-header:                500;
 .lines {
   @include button-lines;
   position: relative;
-  
+
   &:after,
   &:before {
     @include button-lines;
@@ -636,7 +648,7 @@ $zindex-header:                500;
   &:after {
     top: $nav-toggle-size/4;
   }
-  
+
   &:before {
     top: -$nav-toggle-size/4;
   }
@@ -650,27 +662,33 @@ $zindex-header:                500;
     &:before {
       transform-origin: 50% 50% 0;
       transition: top .3s .4s ease, transform .3s ease;
-    }    
+    }
   }
 
   .nav-visible & {
     .lines {
       background: transparent;
-      
+
       &:after,
       &:before {
         top: 0;
         transition: top .3s ease, transform .3s .3s ease;
       }
-      
+
       &:after {
         transform: rotate3d(0, 0, 1, 45deg);
       }
-      
+
       &:before {
         transform: rotate3d(0, 0, 1, -45deg);
       }
     }
+  }
+}
+
+.fa-search {
+  .nav-visible & {
+    margin-right: 1.68em;
   }
 }
 
@@ -685,6 +703,7 @@ ul.menu {
   clear: both;
   display: table;
 }
+
 ul.menu .list,
 ul.menu button {
   font-size: 1rem;
@@ -696,6 +715,7 @@ ul.menu button {
   clear: both;
   text-align: left;
 }
+
 ul.menu .list.submenu button:after {
   content: "\f107";
   font-family: FontAwesome;
@@ -705,6 +725,7 @@ ul.menu .list.submenu button:after {
   padding: 0px 25px;
   color: #fff;
 }
+
 ul.menu .list.submenu button {
   background-color: transparent;
   border: 0;
@@ -722,6 +743,7 @@ ul.menu .list.submenu button {
     background-color: #3f3f3f;
   }
 }
+
 ul.menu .list a {
   text-decoration: none;
   color: #fff;
@@ -730,26 +752,32 @@ ul.menu .list a {
   height: 100%;
   box-sizing: border-box;
 }
+
 ul.menu .list a:hover {
   background-color: #3f3f3f;
   transition: 300ms all;
 }
+
 ul.menu .list .items {
   height: 0px;
   overflow: hidden;
 }
+
 ul.menu .list .items a {
   padding: 0;
   padding-left: 22px;
 }
+
 ul.menu .list .items a:hover {
   background-color: #4f4f4f;
   color: #fff;
   transition: 300ms all;
 }
+
 ul.menu .list:last-child {
   border-bottom: none;
 }
+
 ul.menu .submenu.active button:after {
   content: "\f106";
   font-family: FontAwesome;
@@ -759,7 +787,8 @@ ul.menu .submenu.active button:after {
   padding: 0px 25px;
   color: #fff;
 }
-ul.menu .active > .items {
+
+ul.menu .active>.items {
   display: block;
   background: transparent;
   padding: 0px;
@@ -771,20 +800,25 @@ ul.menu .active > .items {
   float: left;
   width: 100%;
 }
-ul.menu .active > .items li {
+
+ul.menu .active>.items li {
   padding: 0px;
   list-style: none;
 }
-ul.menu .active > .items li:last-child {
+
+ul.menu .active>.items li:last-child {
   border-color: transparent;
   padding-bottom: 0px;
 }
-ul.menu .active > .items .active > .items {
+
+ul.menu .active>.items .active>.items {
   background-color: #2f4b67;
 }
+
 ul.menu .active .list {
   background: #697d92;
 }
+
 ul.menu .active .list a {
   padding: 17px 0px 17px 45px;
 }
@@ -793,13 +827,13 @@ ul.menu .active .list a {
 // ARCHIVE PAGES
 
 .category-excerpts {
-  background-color: #b0c1cf; 
+  background-color: #b0c1cf;
   max-width: 1090px;
-  padding: 0; 
+  padding: 0;
 }
 
 .archive-excerpt {
-  background-color: #fff; 
+  background-color: #fff;
   margin-bottom: 1em;
   padding: 2rem 5rem;
 
@@ -832,15 +866,19 @@ ul.menu .active .list a {
     color: #90a8bb;
     font-size: 80%;
   }
+
   .date {
     margin-right: 1rem;
   }
-  a {   
+
+  a {
     border: 0;
     color: #90a8bb;
     text-decoration: none;
 
-    &:hover,&:focus,&:active {
+    &:hover,
+    &:focus,
+    &:active {
       border: 0;
       color: #90a8bb;
       text-decoration: none;
@@ -858,7 +896,7 @@ ul.menu .active .list a {
     font-size: 1.75rem;
     font-weight: 500;
     margin: 0;
-    padding-bottom: 0.625rem;    
+    padding-bottom: 0.625rem;
     text-transform: uppercase;
   }
 }
@@ -867,7 +905,7 @@ ul.menu .active .list a {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
-  gap: 1rem;  
+  gap: 1rem;
 
   a {
     color: $bodyColor;
@@ -893,18 +931,18 @@ ul.menu .active .list a {
 
   @media (min-width: 600px) {
     grid-template-columns: repeat(2, 1fr);
-  } 
-  
+  }
+
   @media (min-width: 900px) {
     grid-template-columns: repeat(4, 1fr);
-  }  
+  }
 }
 
 // YOUTUBE
 
 .embed-youtube {
   position: relative;
-  padding-bottom: 56.25%; 
+  padding-bottom: 56.25%;
   padding-top: 30px;
   height: 0;
   overflow: hidden;
