@@ -18,18 +18,10 @@ galleries:
   gallery1:
     suffix: cm
     images:
-    - filename: 48dswg1
-      alt: Eyelevel view of the disk (and poison ivy) on the bridge wingwall.
-    - filename: penndot-unstamped-3g2
-      alt: Looking SW along Middle Creek Road.
-    - filename: 10-63-2034-4g3
-      alt: Pennsylvania Coal Company gravity railroad bridge
-    - filename: tt8jg4
-      alt: Closeup of the front of the restored schoolhouse.
-    - filename: 03-63-3018-6g2
-      alt: Looking W along St. Tikhon’s Road.
-    - filename: 52dswg2
-      alt: Paint indicating ‘BM 1335-1’       
+    - filename: tt2jx
+      alt: St. Catherine’s Church
+    - filename: tt2j-loc
+      alt: Side-by-side views from 1938 (showing the church) and the current setting, with the church gone.  
 ---
 
 A few weeks ago, while we were hiking along old Route 611 (now a trail in Gouldsboro State Park) toward the coordinates for WANNA AZ MK, Rich was reminiscing about his family's drives to New York on old Route 611. "I remember there was this neat old roadside place that had a windmill. It was somewhere south of Daleville. We never stopped there, but I think they sold hot dogs, or ice cream. I just remember seeing the windmill." I literally stopped in my tracks. "Really?! I just read a benchmark description where I swear they mentioned that place!"
@@ -44,7 +36,7 @@ Today we brought our documentation to the caretaker's building. We were fortunat
 
 The groundskeeper hadn't been around that long, but he pulled a framed photograph off the wall and said "I have an idea where it is, and this should help us figure it out!" I just love this kind of thing. We were able to use the two prominent grave monuments shown in the photo (which, of course, still exist) to determine where the church had been and how it was oriented.
 
-[justified_image_grid]
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 The current St. Catherine's Church is located on Church Street in the center of Moscow. That church was built in 1923. The first church was in the cemetery, and it is this church that the mark was near. It's not clear when the first church was built or when (or how) it was destroyed. We couldn't find anything and we suspect that the monument was removed or, more likely, just covered over. Rich and I moved on along the highway toward Daleville and, we hoped, X 281.
 
@@ -58,4 +50,3 @@ Anyway, we moved on to the next building, which although it was closer to the in
 
 We realized ahead of time that the first two marks we intended to search for today were long shots, so we chose **`Z 281`** as a confidence booster. The description is quite definitive, so we knew the mark would be easy to find—or at the very least, easy to determine if it was gone. We drove just about 1.2 miles further southeast along Route 435 form Knecht's Country Store and easily found the concrete bridge over Tamarack Creek. Rich parked on the west shoulder of the highway while I crossed and found the mark on the southeast end of the south abutment.
 
-[wpv-view name="Survey Mark display"]

@@ -375,6 +375,26 @@
   mark_type: Survey Mark
   date: 2015-07-17 00:00:00
   post_id: 5438
+- designation: 96-35-1013-2
+  mark_type: Survey Mark
+  date: 2015-06-20 00:00:00
+  post_id: 5212   
+- designation: 96-35-1013-1
+  mark_type: Survey Mark
+  date: 2015-06-20 00:00:00
+  post_id: 5212  
+- designation: TT 31 A
+  mark_type: Survey Mark
+  date: 2015-06-20 00:00:00
+  post_id: 5212  
+- designation: 38 M
+  mark_type: Survey Mark
+  date: 2015-06-20 00:00:00
+  post_id: 5212  
+- designation: 37 M
+  mark_type: Survey Mark
+  date: 2015-06-20 00:00:00
+  post_id: 5212  
 - designation: TT 15 T
   mark_type: Survey Mark
   date: 2015-06-13 00:00:00
@@ -543,12 +563,106 @@
 - designation: 52 DSW
   mark_type: Survey Mark
   date: 2014-06-28 00:00:00
-  post_id: 4890      
+  post_id: 4890   
+- designation: TT 2 J
+  mark_type: Survey Mark
+  date: 2014-06-21 00:00:00
+  post_id: 4878 
+- designation: X 281
+  pid: LY1614
+  mark_type: Survey Mark
+  date: 2014-06-21 00:00:00
+  post_id: 4878 
+- designation: Z 281
+  pid: LY1616
+  mark_type: Survey Mark
+  date: 2014-06-21 00:00:00
+  post_id: 4878    
 - designation: '319'
   pid: LY0117
   mark_type: Survey Mark
   date: 2014-06-14 00:00:00
-  post_id: 4788           
+  post_id: 4788 
+- designation: 2062 TBY
+  mark_type: Survey Mark
+  date: 2014-05-31 00:00:00
+  post_id: 4772 
+- designation: TT 34 T
+  mark_type: Survey Mark
+  date: 2014-05-26 00:00:00
+  post_id: 5299 
+- designation: 35 JPN
+  mark_type: Survey Mark
+  date: 2014-05-26 00:00:00
+  post_id: 5299  
+- designation: TT 1 J
+  mark_type: Survey Mark
+  date: 2014-05-26 00:00:00
+  post_id: 5299
+- designation: WANNA
+  pid: LY1248
+  mark_type: Survey Mark
+  date: 2014-05-26 00:00:00
+  post_id: 5299 
+- designation: WANNA AZ MK RESET 1966
+  pid: LY1250
+  mark_type: Reference Mark
+  date: 2014-05-26 00:00:00
+  post_id: 5299
+- designation: WANNA RM 1
+  pid: LY1247
+  mark_type: Reference Mark
+  date: 2014-05-26 00:00:00
+  post_id: 5299
+- designation: WANNA RM 2
+  pid: LY1246
+  mark_type: Reference Mark
+  date: 2014-05-26 00:00:00
+  post_id: 5299       
+- designation: TT 38 T
+  mark_type: Survey Mark
+  date: 2014-05-14 00:00:00
+  post_id: 4768 
+- designation: LAKE SCRANTON W. W.
+  mark_type: Survey Mark
+  date: 2014-05-13 00:00:00
+  post_id: 4590
+- designation: URBAN
+  pid: LY1199
+  mark_type: Survey Mark
+  date: 2014-05-03 00:00:00
+  post_id: 4390  
+- designation: URBAN RM 1
+  pid: LY1198
+  mark_type: Reference Mark
+  date: 2014-05-03 00:00:00
+  post_id: 4390 
+- designation: URBAN RM 2
+  pid: LY1200
+  mark_type: Reference Mark
+  date: 2014-05-03 00:00:00
+  post_id: 4390
+- designation: URBAN AZ MK
+  mark_type: Reference Mark
+  custom_permalink: ly1199-az-mk
+  date: 2014-05-03 00:00:00
+  post_id: 4390   
+- designation: N 328
+  pid: AA0216
+  mark_type: Survey Mark  
+  date: 2014-02-20 00:00:00
+  post_id: 4260
+- designation: PERKY SW BASE
+  pid: AA1033
+  mark_type: Survey Mark  
+  date: 2014-02-20 00:00:00
+  post_id: 4260
+- designation: PERKY SW BASE AZ MK
+  pid: AA0130
+  mark_type: Reference Mark  
+  date: 2014-02-20 00:00:00
+  post_id: 4260    
+
 
                
 
