@@ -661,7 +661,101 @@
   pid: AA0130
   mark_type: Reference Mark  
   date: 2014-02-20 00:00:00
-  post_id: 4260    
+  post_id: 4260   
+- designation: H 58 RESET 1966
+  pid: LZ0034
+  mark_type: Survey Mark  
+  date: 2013-11-30 00:00:00
+  post_id: 12737    
+- designation: TT 7 J
+  mark_type: Survey Mark  
+  date: 2013-10-05 00:00:00
+  post_id: 10144  
+- designation: SAMS POINT RESET
+  mark_type: Survey Mark  
+  custom_permalink: ly2900-2
+  date: 2013-09-28 00:00:00
+  post_id: 3909
+- designation: SAMS POINT RM 1
+  mark_type: Reference Mark  
+  custom_permalink: ly2900-rm-1-2
+  date: 2013-09-28 00:00:00
+  post_id: 3909  
+- designation: SAMS POINT RM 2
+  mark_type: Reference Mark  
+  custom_permalink: ly2900-rm-2-2
+  date: 2013-09-28 00:00:00
+  post_id: 3909  
+- designation: SAMS POINT AZ MK
+  mark_type: Reference Mark  
+  custom_permalink: ly2900-az-mk-2
+  date: 2013-09-28 00:00:00
+  post_id: 3909    
+- designation: K 20
+  mark_type: Survey Mark  
+  date: 2013-09-08 00:00:00
+  post_id: 3836 
+- designation: 16718-11
+  mark_type: Survey Mark  
+  date: 2013-09-08 00:00:00
+  post_id: 3836
+- designation: 16718-10
+  mark_type: Survey Mark  
+  date: 2013-09-08 00:00:00
+  post_id: 3836 
+- designation: ROBINSON MOUNTAIN 1870
+  mark_type: Survey Mark  
+  custom_permalink: pe1895-2
+  date: 2013-09-07 00:00:00
+  post_id: 3840 
+- designation: ROBINSON MOUNTAIN 1870 RM 1
+  mark_type: Reference Mark  
+  custom_permalink: pe1895-rm-1-2
+  date: 2013-09-07 00:00:00
+  post_id: 3840 
+- designation: ROBINSON MOUNTAIN 1870 RM 2
+  mark_type: Reference Mark  
+  custom_permalink: pe1895-rm-2-2
+  date: 2013-09-07 00:00:00
+  post_id: 3840    
+- designation: D 147
+  pid: PE0379
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828  
+- designation: FORT POINT LH
+  pid: PE2109
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828
+- designation: FORT POINT LEDGE BEACON
+  pid: PE2110
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828  
+- designation: TIDAL 30 STA 30
+  pid: PE0381
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828
+- designation: TIDAL 3 STA 30
+  pid: PE0382
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828 
+- designation: TIDAL 2 STA 30
+  pid: PE0383
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828  
+- designation: 841 4721 B TIDAL
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828  
+- designation: WO 33
+  mark_type: Survey Mark  
+  date: 2013-09-05 00:00:00
+  post_id: 3828                
 
 
                
