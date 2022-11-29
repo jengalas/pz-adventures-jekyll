@@ -2,7 +2,7 @@
 {% capture thumb %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{{ include.thumb }}{% endcapture %}
 
 <div class="gallery"> 
-    <a data-sub-html="<div class='lg-relative-caption-item'>{{ include.caption }}</div>" href="{{ imagePath }}" title="{{ include.caption }}">
+    <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ include.caption }}</div>" href="{{ imagePath }}" title="{{ include.caption }}">
         <figure> 
             <img alt="{{ include.caption }}" src="{{ thumb }}">
             <figcaption>{{ include.caption }}</figcaption>

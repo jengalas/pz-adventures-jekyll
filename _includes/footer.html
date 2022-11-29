@@ -5,15 +5,22 @@
 <script src="/assets/js/main.js"></script>
 <script src="/assets/js/accessible-tabs.js"></script>
 <script src="/assets/js/lightgallery.min.js"></script>
+<script src="/assets/js/plugins/relativeCaption/lg-relative-caption.min.js"></script>
 <script>
   document.querySelectorAll('.jg').forEach((lightGalleryElement) => {
     lightGallery(lightGalleryElement, {
-      // options
+      selector: ".card",
+      plugins: [lgRelativeCaption],
+      appendSubHtmlTo: '.lg-item',
+      relativeCaption: true,
     })
   });
   document.querySelectorAll('.gallery').forEach((lightGalleryElement) => {
     lightGallery(lightGalleryElement, {
-      // options
+      selector: ".card",
+      plugins: [lgRelativeCaption],
+      appendSubHtmlTo: '.lg-item',
+      relativeCaption: true,
     })
   });
   $('.jg').justifiedGallery({

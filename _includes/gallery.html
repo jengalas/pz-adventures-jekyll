@@ -16,9 +16,9 @@
         {% endif %}
 
         {% if suffix %}
-          <a href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}{{ suffix }}.jpg">
+          <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ title }}</div>" href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}{{ suffix }}.jpg">
         {% else %}
-          <a href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}clx.jpg">
+          <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ title }}</div>" href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}clx.jpg">
         {% endif %}
       
         <img alt="{{ image.alt }}" title="{{ title | strip_html }}" src="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg"/>
