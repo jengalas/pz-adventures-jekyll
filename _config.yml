@@ -25,11 +25,12 @@ pagination:
   trail:
     before: 2 # The number of links before the current page
     after: 2 # The number of links after the current page
+  title: ':title'  
 
 autopages:  
   enabled: true
   collections:
-    enabled: false
+    enabled: false    
   categories:
     layouts: 
       - 'category-archive.html'
