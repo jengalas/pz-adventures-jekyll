@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<section class="category-excerpts">
+  <header class="page-header">
+    <h1 class="archive-title">{{ page.date | date: "%B %-d, %Y" }}</h1>
+  </header>
+
+  <div class="archive-container">
+    {% for post in page.posts %}      
+      {% include post-archive.html %}      
+    {% endfor %}
+  </div>
+</section>

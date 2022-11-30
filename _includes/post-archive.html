@@ -16,7 +16,7 @@
       <i class="fa-solid fa-folder"></i>
     {% for category in post.categories%}  
       <span class="category">
-        <a href="/categories/{{ category }}">{{ category | capitalize }}</a>{% unless forloop.last %}, {% endunless %}
+        <a href="/categories/{{ category | slugify }}">{{ category | capitalize }}</a>{% unless forloop.last %}, {% endunless %}
       </span>
     {% endfor %}
     </footer>
