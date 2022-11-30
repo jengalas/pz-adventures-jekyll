@@ -7,8 +7,10 @@ layout: default
   </header>
 
   <div class="archive-container">
-    {% for post in site.posts %} {% if post.categories contains page.category %}
-  {% include post-archive.html %}
-  {% endif %} {% endfor %}
+    {% for post in site.posts %} 
+      {% if post.categories contains page.category %}
+        {% include post-archive.html %}
+      {% endif %} 
+    {% endfor %}
   </div>
 </section>

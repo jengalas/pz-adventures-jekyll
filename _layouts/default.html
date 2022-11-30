@@ -1,14 +1,14 @@
-       
+  
 {% include head.html %}
 {% include header.html %}
-<main>
+<main class="default-template">
     
   {{ content }}
   
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}">Previous</a>
+      <a href="{{ paginator.previous_page_path }}"><i class="fa-solid fa-arrow-left"></i></a>
     {% endif %}
     {% if paginator.page_trail %}
       {% for trail in paginator.page_trail %}
@@ -20,7 +20,7 @@
       {% endfor %}
     {% endif %}
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}">Next</a>
+      <a href="{{ paginator.next_page_path }}"><i class="fa-solid fa-arrow-right"></i></a>
     {% endif %}
   </div>
 {% endif %}

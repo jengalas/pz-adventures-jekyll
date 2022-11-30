@@ -26,6 +26,21 @@ pagination:
     before: 2 # The number of links before the current page
     after: 2 # The number of links after the current page
 
+# autopages:  
+#   enabled: true
+#   categories:
+#     layouts: 
+#       - 'category_index.html'
+#     title: 'Posts in category :cat'
+#     # Optional, the permalink for the  pagination page (:cat is replaced), 
+#     # the pagination permalink path is then appended to this permalink structure
+#     permalink: '/category/:cat'
+#     # Optional, when true logging related to category pages will be supressed.
+#     silent: false
+#     slugify:
+#       mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
+#       case: false       # Whether to replace all uppercase letters with their lowercase counterparts  
+
 jekyll-archives:
   enabled: all
   layout: default
