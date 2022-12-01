@@ -30,7 +30,9 @@ pagination:
 autopages:  
   enabled: true
   collections:
-    enabled: false    
+    enabled: false 
+  tags:
+    enabled: false     
   categories:
     layouts: 
       - 'category-archive.html'
