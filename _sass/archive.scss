@@ -1,0 +1,114 @@
+// ARCHIVE PAGES
+
+.category-excerpts {
+    background-color: #b0c1cf;
+    max-width: 1090px;
+    padding: 0;
+  }
+  
+  .archive-excerpt {
+    background-color: #fff;
+    margin-bottom: 1em;
+    padding: 2rem 5rem;
+  
+    h2 {
+      font-size: 1.65rem;
+      margin-bottom: 1rem;
+      margin-top: 0;
+  
+      a {
+        border: 0;
+        color: $bodyColor;
+      }
+    }
+  
+    .read-more {
+      @include italic-text;
+      border: 0;
+      font-size: 90%;
+      margin-left: 0.7rem;
+      white-space: nowrap;
+    }
+  }
+  
+  .archive-meta {
+    margin-top: 1.5rem;
+  
+    .date,
+    .category,
+    .fa-solid {
+      color: #90a8bb;
+      font-size: 80%;
+    }
+  
+    .date {
+      margin-right: 1rem;
+    }
+  
+    a {
+      border: 0;
+      color: #90a8bb;
+      text-decoration: none;
+  
+      &:hover,
+      &:focus,
+      &:active {
+        border: 0;
+        color: #90a8bb;
+        text-decoration: none;
+      }
+    }
+  }
+  
+  .page-header {
+    border-bottom: 1px solid #eee;
+    margin: 0.625rem 0 1.875rem;
+  
+    .archive-title {
+      color: $lightHeadingColor;
+      font-family: $bodyFont;
+      font-size: 1.75rem;
+      font-weight: 500;
+      margin: 0;
+      padding-bottom: 0.625rem;
+      text-transform: uppercase;
+    }
+  }
+  
+  .archive-grid.cards {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    gap: 1rem;
+  
+    a {
+      color: $bodyColor;
+      text-decoration: none;
+    }
+  
+    .card {
+      background-color: #fff;
+      padding: 1rem;
+      padding-bottom: 0.6rem;
+  
+      img {
+        height: auto;
+        width: 100%;
+      }
+  
+      h2 {
+        font-family: $bodyFont;
+        margin: 0;
+        text-align: center;
+      }
+    }
+  
+    @media (min-width: 600px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  
+    @media (min-width: 900px) {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
