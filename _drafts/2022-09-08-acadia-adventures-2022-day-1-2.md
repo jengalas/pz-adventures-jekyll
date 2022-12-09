@@ -29,6 +29,8 @@ Traffic wasn't too bad, although it was heavier than during our late-night drive
 
 Traffic wasn't terrible this morning, and although some fog drifted by occasionally, it was light and wispy, and caused no problems on the roads. We reached our first stop, Youngs Lobster Pound, at 10:00am. Rich ordered two lobster rolls for us, as usual, and we wandered around the dock while we waited for our food to be prepared. I couldn't resist looking for snakes (sea serpents?!) among the rocks, even though I knew I was very unlikely to see one.
 
+{% include image.html filename="P1052174-Panocvx.jpg" thumb="P1052174-Panob.jpg" caption="" %}
+
 The early September sun warmed us up quickly—finally we had perfect weather for this venue! Other times we've visited this lobster pound we've had to deal with fog, clouds, rain, and strong winds, so the weather made this morning's visit a delight.
 
 Our lobster rolls were ready after about ten minutes, and we took them to the picnic tables on the waterfront platform behind the lobster pound. We were starving by this point! The rolls were bursting with fresh lobster meat, and they were such a pleasure to bite into and enjoy as our first Maine meal of the year.  Served as always with a bag of Utz kettle chips and some sliced pickles, the rolls were a perfect breakfast! Along with our lobster rolls, we finished up a bottle of mandarin orange-flavored Polar seltzer water. Then we continued on.
