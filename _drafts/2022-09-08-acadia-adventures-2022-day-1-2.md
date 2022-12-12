@@ -16,14 +16,34 @@ header:
 geocaches: false
 surveymarks: true
 post_id: 14010
-layout: post  
+layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+      - filename: P1052157
+        alt:
+      - filename: P1052156
+        alt:
+      - filename: P1052164
+        alt:
+      - filename: P1052160
+        alt: 
+  gallery2:
+    suffix: cvx
+    images:
+      - filename: '20220908_102658'
+        alt:
+      - filename: '20220908_103003'
+        alt:
+
 ---
 
 ## Day 1: September 8
 
 We were having trouble all week deciding when to leave on our journey. Our first thought was to try leaving around midnight like we did, successfully, in 2017. We ended up pretty close to that, leaving at 11pm. After a pretty routine morning and afternoon (if you can ignore the three solid days of nonstop rain that resulted in 4.3 inches in the gauge and persistent showers over us all morning and afternoon - *we* couldn't ignore them), we lay down for some rest around 6:45pm and planned to get up around 10. We kept close to that schedule, getting up around 10:15, having something to eat (frozen past and veggies) and leaving the house at 11pm. 
 
-Traffic wasn't too bad, although it was heavier than during our late-night drive in 2017. Almost all trucks for the first several hours, and they were mostly behaving. A few cars joined now and then, and were coming onto the highway in greater numbers (and crazier speeds) by the time we were on the Mass Pike and 495. W took a quick detour through Vernon around 2:30 looking for coffee, but nothing was open. We continued on to the Charleton plaza East, where even the McDonalds was closed at 3:30am. (We were able to get a self-serve coffee from this weird attached convenience store that we both thought looked and felt like something from another universe or at least another galazy. SO bizarre inclding the character that worked there.) Back on the highway and it was busy but smooth sailing until the start of I-95 (Maine turnpike) where 495 ended. Right at the toll area (where we had unintentionally chosen the cash side, but it still had ezpay) We found ourselves suddenyl in this fog bank so thick it was impossible to see anything for a few (rather terrifying) seconds. It was like driving into a white wall. Fortunatlye it let up just enough that we could see and then follow the trucks coming through the ezpass side of the toll area. While there was some fog for the rest of the night's ravel it wa wispy and did not really affect visibility. Almost exactly consistent with our timng in 2017 (just one hour earlier) we reached the Kittery rest area at 5:30am. I'd had no sleep all day (could not sleep while we were resting in the afternoon and evening) and thought I would get a few hours easily while at the rest aeea. Our eye masks worked great, blocking the light that would always hit us squarely in the eyes no matter where we parked or how we angled the car. And I was veryr comfortblae termperature wise and at least somewhat cofortable otherwise, but simply could not sleep. Rich (having had a decent rest) woke me up around 7:15 and we headed back out around 7:40. 
+Traffic wasn't too bad, although it was heavier than during our late-night drive in 2017. Almost all trucks for the first several hours, and they were mostly behaving. A few cars joined now and then, and were coming onto the highway in greater numbers (and crazier speeds) by the time we were on the Mass Pike and 495. W took a quick detour through Vernon around 2:30 looking for coffee, but nothing was open. We continued on to the Charleton plaza East, where even the McDonalds was closed at 3:30am. (We were able to get a self-serve coffee from this weird attached convenience store that we both thought looked and felt like something from another universe or at least another galazy. SO bizarre inclding the character that worked there.) Back on the highway and it was busy but smooth sailing until the start of I-95 (Maine turnpike) where 495 ended. Right at the toll area (where we had unintentionally chosen the cash side, but it still had ezpay) We found ourselves suddenyl in this fog bank so thick it was impossible to see anything for a few (rather terrifying) seconds. It was like driving into a white wall. Fortunately it let up just enough that we could see and then follow the trucks coming through the ezpass side of the toll area. While there was some fog for the rest of the night's ravel it wa wispy and did not really affect visibility. Almost exactly consistent with our timng in 2017 (just one hour earlier) we reached the Kittery rest area at 5:30am. I'd had no sleep all day (could not sleep while we were resting in the afternoon and evening) and thought I would get a few hours easily while at the rest aeea. Our eye masks worked great, blocking the light that would always hit us squarely in the eyes no matter where we parked or how we angled the car. And I was veryr comfortblae termperature wise and at least somewhat cofortable otherwise, but simply could not sleep. Rich (having had a decent rest) woke me up around 7:15 and we headed back out on the highway around 7:40. 
 
 ## Day 2: September 9
 
@@ -33,7 +53,11 @@ Traffic wasn't terrible this morning, and although some fog drifted by occasiona
 
 The early September sun warmed us up quickly—finally we had perfect weather for this venue! Other times we've visited this lobster pound we've had to deal with fog, clouds, rain, and strong winds, so the weather made this morning's visit a delight.
 
+{% include gallery.html gallery_id="gallery2" class="2by2" %}
+
 Our lobster rolls were ready after about ten minutes, and we took them to the picnic tables on the waterfront platform behind the lobster pound. We were starving by this point! The rolls were bursting with fresh lobster meat, and they were such a pleasure to bite into and enjoy as our first Maine meal of the year.  Served as always with a bag of Utz kettle chips and some sliced pickles, the rolls were a perfect breakfast! Along with our lobster rolls, we finished up a bottle of mandarin orange-flavored Polar seltzer water. Then we continued on.
+
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 After crossing the bridge near Fort Knox followed by the bridge at Verona, and finding ourselves at the T-intersection in Bucksport where we usually turn right, Rich said, "... Let's go left." 
 
