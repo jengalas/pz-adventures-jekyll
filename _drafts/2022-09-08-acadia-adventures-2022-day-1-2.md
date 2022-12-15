@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2022 – Days 1 & 2"
 author: Zhanna
-date: 2022-09-08 00:00:00
+date: 2022-09-08
 categories: 
   - travel
   - acadia
@@ -53,11 +53,11 @@ Traffic wasn't terrible this morning, and although some fog drifted by occasiona
 
 The early September sun warmed us up quickly—finally we had perfect weather for this venue! Other times we've visited this lobster pound we've had to deal with fog, clouds, rain, and strong winds, so the weather made this morning's visit a delight.
 
-{% include gallery.html gallery_id="gallery2" class="2by2" %}
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 Our lobster rolls were ready after about ten minutes, and we took them to the picnic tables on the waterfront platform behind the lobster pound. We were starving by this point! The rolls were bursting with fresh lobster meat, and they were such a pleasure to bite into and enjoy as our first Maine meal of the year.  Served as always with a bag of Utz kettle chips and some sliced pickles, the rolls were a perfect breakfast! Along with our lobster rolls, we finished up a bottle of mandarin orange-flavored Polar seltzer water. Then we continued on.
 
-{% include gallery.html gallery_id="gallery1" class="2by2" %}
+{% include gallery.html gallery_id="gallery2" class="2by2" %}
 
 After crossing the bridge near Fort Knox followed by the bridge at Verona, and finding ourselves at the T-intersection in Bucksport where we usually turn right, Rich said, "... Let's go left." 
 
