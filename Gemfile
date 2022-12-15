@@ -12,6 +12,8 @@ gem "tzinfo", "~> 2.0"
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
+gem 'jekyll-sass-converter'
+
 gem 'jemoji'
 
 gem 'jekyll-archives'
