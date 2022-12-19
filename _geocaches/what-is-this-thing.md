@@ -3,7 +3,7 @@ _schema: default
 title: What Is This Thing?
 link: https://www.geocaching.com/geocache/GC4RY4N
 owner: PaulCasey
-date: 2015-05-02 00:00:00
+date: 2015-05-02
 log_type: Found It
 display_coords: N 41° 24.867' W 075° 39.988'
 latitude: '41.41445'

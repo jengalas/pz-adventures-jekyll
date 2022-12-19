@@ -3,7 +3,7 @@ _schema: default
 title: 'Anthracite! Piecing Together the Past #9'
 link: https://www.geocaching.com/geocache/GC73TPK_anthracite-piecing-together-the-past-9
 owner: STEARanger
-date: 2017-07-28 00:00:00
+date: 2017-07-28
 log_type: Found it
 display_coords: N 41° 25.031' W 075° 42.977'
 latitude: '41.417183'

@@ -3,7 +3,7 @@ _schema: default
 title: Night time at the preserve
 link: https://www.geocaching.com/geocache/GC3A18V
 owner: Shoob&Sheeb
-date: 2012-12-14 00:00:00
+date: 2012-12-14
 log_type: Didn't find it
 display_coords: N 41° 25.906' W 075° 31.536'
 latitude: '41.431766'

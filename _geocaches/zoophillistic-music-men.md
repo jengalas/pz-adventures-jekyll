@@ -3,7 +3,7 @@ _schema: default
 title: Zoophillistic Music Men
 link: https://www.geocaching.com/geocache/GC8YT0T
 owner: Brewer Fan Club
-date: 2020-10-14 00:00:00
+date: 2020-10-14
 log_type: Note
 display_coords: N 41° 27.300' W 074° 24.900'
 latitude: '41.455'

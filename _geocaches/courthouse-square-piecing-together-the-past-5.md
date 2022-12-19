@@ -3,7 +3,7 @@ _schema: default
 title: 'Courthouse Square! Piecing Together the Past #5'
 link: https://www.geocaching.com/geocache/GC73RQ1_courthouse-square-piecing-together-the-past-5
 owner: STEARanger
-date: 2017-07-18 00:00:00
+date: 2017-07-18
 log_type: Found it
 display_coords: N 41° 24.500' W 075° 39.654'
 latitude: '41.408333'

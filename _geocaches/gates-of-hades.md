@@ -3,7 +3,7 @@ _schema: default
 title: Gates of Hades
 link: https://www.geocaching.com/geocache/GC40Y73
 owner: nishollow and Pserine
-date: 2012-12-14 00:00:00
+date: 2012-12-14
 log_type: Found it
 display_coords: N 41° 26.148' W 075° 33.204'
 latitude: '41.4358'

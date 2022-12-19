@@ -3,7 +3,7 @@ _schema: default
 title: Saturday Night Special
 link: https://www.geocaching.com/geocache/GC6MXVE
 owner: Bigmada
-date: 2016-07-26 00:00:00
+date: 2016-07-26
 log_type: Didn't find it
 display_coords: N 41° 35.822' W 075° 55.774'
 latitude: '41.597033'

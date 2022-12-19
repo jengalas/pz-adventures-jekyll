@@ -3,7 +3,7 @@ _schema: default
 title: BIG PINE PUZZLE CACHE
 link: https://www.geocaching.com/geocache/GC8RVM5
 owner: travelnbhappy21
-date: 2013-03-07 00:00:00
+date: 2013-03-07
 log_type: Note
 display_coords: N 41° 21.221' W 075° 46.321'
 latitude: '41.353683'

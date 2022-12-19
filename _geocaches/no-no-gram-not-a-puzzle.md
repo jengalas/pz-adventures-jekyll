@@ -3,7 +3,7 @@ _schema: default
 title: NO NO GRAM, NOT A PUZZLE!
 link: https://www.geocaching.com/geocache/GC8R5AA
 owner: Gilwell1
-date: 2020-08-31 00:00:00
+date: 2020-08-31
 log_type: Note
 display_coords: N 41° 22.500' W 074° 33.500'
 latitude: '41.375'

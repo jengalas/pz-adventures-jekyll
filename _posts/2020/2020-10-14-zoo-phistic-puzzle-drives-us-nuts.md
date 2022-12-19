@@ -2,7 +2,7 @@
 _schema: default
 title: Zoo-phistic Puzzle Drives Us Nuts
 author: Zhanna
-date: 2020-10-14 00:00:00
+date: 2020-10-14
 categories:
   - geocaching
 tags:

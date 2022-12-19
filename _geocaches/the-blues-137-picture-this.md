@@ -3,7 +3,7 @@ _schema: default
 title: 'The Blues #137 – Picture This'
 link: https://www.geocaching.com/geocache/GC8W9RX
 owner: zzbob
-date: 2020-07-14 00:00:00
+date: 2020-07-14
 log_type: Found It
 display_coords: N 41° 34.081' W 075° 32.271'
 latitude: '41.568016'

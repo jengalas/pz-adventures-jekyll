@@ -3,7 +3,7 @@ _schema: default
 title: 'Among the Volumes! Piecing Together the Past #8'
 link: https://www.geocaching.com/geocache/GC73TN2_among-the-volumes-piecing-together-the-past-8
 owner: STEARanger
-date: 2017-07-19 00:00:00
+date: 2017-07-19
 log_type: Found it
 display_coords: N 41° 24.682' W 075° 39.565'
 latitude: '41.411366'

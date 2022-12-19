@@ -3,7 +3,7 @@ _schema: default
 title: 'All Aboard! Piecing Together the Past #11'
 link: https://www.geocaching.com/seek/cache_details.aspx?wp=GC73VP9
 owner: STEARanger
-date: 2017-07-13 00:00:00
+date: 2017-07-13
 log_type: Found it
 display_coords: N 41° 24.320' W 075° 39.713'
 latitude: '41.405333'

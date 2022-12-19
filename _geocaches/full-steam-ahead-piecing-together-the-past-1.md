@@ -3,7 +3,7 @@ _schema: default
 title: 'Full Steam Ahead! Piecing Together the Past #1'
 link: https://www.geocaching.com/geocache/GC73CVF_full-steam-ahead-piecing-together-the-past-1
 owner: STEARanger
-date: 2017-07-16 00:00:00
+date: 2017-07-16
 log_type: Found it
 display_coords: N 41° 24.499' W 075° 40.428'
 latitude: '41.408317'

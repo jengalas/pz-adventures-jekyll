@@ -3,7 +3,7 @@ _schema: default
 title: Captivating Math
 link: https://www.geocaching.com/geocache/GC9C6AG
 owner: Tri-State Geocachers
-date: 2021-08-21 00:00:00
+date: 2021-08-21
 log_type: Note
 display_coords: N 41° 27.300' W 074° 24.900'
 latitude: '41.455'

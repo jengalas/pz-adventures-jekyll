@@ -3,7 +3,7 @@ _schema: default
 title: 'Mining for Coal! Piecing Together the Past #10'
 link: https://www.geocaching.com/geocache/GC73VMP_mining-for-coal-piecing-together-the-past-10
 owner: STEARanger
-date: 2017-07-28 00:00:00
+date: 2017-07-28
 log_type: Found it
 display_coords: N 41° 24.991' W 075° 42.861'
 latitude: '41.416516'

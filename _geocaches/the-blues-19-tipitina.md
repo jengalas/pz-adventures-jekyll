@@ -3,7 +3,7 @@ _schema: default
 title: 'The Blues #19 – Tipitina'
 link: https://www.geocaching.com/geocache/GC7739B
 owner: zzbob
-date: 2020-07-17 00:00:00
+date: 2020-07-17
 log_type: Note
 display_coords: N 41° 40.926' W 075° 47.206'
 latitude: '41.6821'

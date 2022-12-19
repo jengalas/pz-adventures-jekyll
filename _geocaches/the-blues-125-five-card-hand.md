@@ -3,7 +3,7 @@ _schema: default
 title: 'The Blues #125 – Five Card Hand'
 link: https://www.geocaching.com/geocache/GC69BVJ
 owner: zzbob
-date: 2020-07-16 00:00:00
+date: 2020-07-16
 log_type: Note
 display_coords: N 41° 31.500' W 075° 31.917'
 latitude: '41.525'

@@ -3,7 +3,7 @@ _schema: default
 title: "Ghost Zone #15"
 link: https://www.geocaching.com/geocache/GC8W57R_ghost-zone-15
 owner: Baldeagle14
-date: 2020-07-05 00:00:00
+date: 2020-07-05
 log_type: Found it
 display_coords: N 41° 34.410' W 075° 37.499'
 latitude: '41.5735'
