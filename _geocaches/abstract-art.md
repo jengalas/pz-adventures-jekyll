@@ -3,7 +3,7 @@ _schema: default
 title: Abstract Art
 link: https://www.geocaching.com/geocache/GC8YT19
 owner: Gilwell1
-date: 2020-09-14 02:00:00
+date: 2020-09-14 01:00:00 -0500
 log_type: Note
 display_coords: N 41° 25.999' W 074° 28.000'
 latitude: '41.433316'

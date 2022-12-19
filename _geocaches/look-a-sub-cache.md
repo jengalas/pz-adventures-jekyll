@@ -3,7 +3,7 @@ _schema: default
 title: 'LOOK! A “SUB” Cache!'
 link: https://www.geocaching.com/geocache/GC8Y596
 owner: Captain Nemo
-date: 2020-09-14
+date: 2020-09-14 02:00:00 -0500
 log_type: Note
 display_coords: N 41° 26.555' W 074° 29.000'
 latitude: '41.442583'
