@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2019 – Day 13"
 author: Zhanna
-date: 2019-09-16 00:00:00
+date: 2019-09-16
 categories: 
   - travel
   - acadia

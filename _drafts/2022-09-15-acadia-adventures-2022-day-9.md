@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2022 – Day 9"
 author: Zhanna
-date: "2022-09-15 00:00:00"
+date: "2022-09-15"
 categories: 
   - travel
   - acadia

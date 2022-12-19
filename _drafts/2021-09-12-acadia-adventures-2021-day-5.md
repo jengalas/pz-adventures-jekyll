@@ -2,7 +2,7 @@
 _schema: default
 title: Acadia Adventures 2021 – Day 5
 author: Zhanna
-date: 2021-09-12 00:00:00
+date: 2021-09-12
 categories:
   - travel
   - acadia

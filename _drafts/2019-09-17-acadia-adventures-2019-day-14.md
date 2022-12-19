@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2019 – Day 14"
 author: Zhanna
-date: 2019-09-17 00:00:00
+date: 2019-09-17
 categories: 
   - travel
   - acadia

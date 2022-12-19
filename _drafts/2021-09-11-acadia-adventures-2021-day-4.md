@@ -2,7 +2,7 @@
 _schema: default
 title: Acadia Adventures 2021 – Day 4
 author: Zhanna
-date: 2021-09-11 00:00:00
+date: 2021-09-11
 categories:
   - travel
   - acadia
