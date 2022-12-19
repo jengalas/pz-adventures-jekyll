@@ -2,7 +2,7 @@
 _schema: default
 title: "Summer Fun: Benchmark Attempts and Pizza (Yes, Again)!"
 author: Zhanna
-date: 2018-07-20 00:00:00
+date: 2018-07-20
 categories:
   - survey mark hunting
 tags:

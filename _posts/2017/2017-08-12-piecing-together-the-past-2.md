@@ -2,7 +2,7 @@
 _schema: default
 title: "Piecing Together the Past #2"
 author: Zhanna
-date: 2017-08-12 00:00:00
+date: 2017-08-12
 categories:
   - geocaching
 tags:

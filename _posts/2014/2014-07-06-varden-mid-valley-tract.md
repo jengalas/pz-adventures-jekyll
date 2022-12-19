@@ -2,7 +2,7 @@
 _schema: default
 title: "Varden Mid Valley Tract"
 author: Zhanna
-date: 2014-07-06 00:00:00
+date: 2014-07-06
 categories:
   - hiking
   - survey mark hunting

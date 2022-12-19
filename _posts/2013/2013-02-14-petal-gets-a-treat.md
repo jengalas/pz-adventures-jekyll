@@ -2,7 +2,7 @@
 _schema: default
 title: "Petal Gets a Treat"
 author: Zhanna
-date: 2013-02-14 00:00:00
+date: 2013-02-14
 categories:
   - moosellaneous
 tags:

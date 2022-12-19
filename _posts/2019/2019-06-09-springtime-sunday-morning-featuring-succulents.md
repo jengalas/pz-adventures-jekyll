@@ -2,7 +2,7 @@
 _schema: default
 title: "Springtime Sunday Morning, Featuring Succulents!"
 author: Zhanna
-date: 2019-06-09 00:00:00
+date: 2019-06-09
 categories:
   - moosellaneous
 tags:

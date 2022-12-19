@@ -2,7 +2,7 @@
 _schema: default
 title: Puzzle Solvers
 author: Zhanna
-date: 2020-10-09 00:00:00
+date: 2020-10-09
 categories:
   - geocaching
 tags:

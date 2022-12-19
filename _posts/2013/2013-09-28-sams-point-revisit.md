@@ -2,7 +2,7 @@
 _schema: default
 title: "Sam's Point Revisit"
 author: Zhanna
-date: 2013-09-28 00:00:00
+date: 2013-09-28
 categories:
   - hiking
   - survey mark hunting

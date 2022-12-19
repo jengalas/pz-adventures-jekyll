@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2015 – Day 8"
 author: Zhanna
-date: 2015-09-16 00:00:00
+date: 2015-09-16
 categories:
   - travel
   - acadia

@@ -2,7 +2,7 @@
 _schema: default
 title: Mid-October Wander
 author: Zhanna
-date: 2020-10-14 00:00:00
+date: 2020-10-14
 categories:
   - hiking
 tags:

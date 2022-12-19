@@ -2,7 +2,7 @@
 _schema: default
 title: "Nay Aug Explorations"
 author: Zhanna
-date: 2017-04-09 00:00:00
+date: 2017-04-09
 categories:
   - hiking
 tags:

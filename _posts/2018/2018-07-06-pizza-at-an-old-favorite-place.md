@@ -2,7 +2,7 @@
 _schema: default
 title: "Pizza at an Old Favorite Place"
 author: Zhanna
-date: 2018-07-06 00:00:00
+date: 2018-07-06
 categories:
   - survey mark hunting
 tags:

@@ -2,7 +2,7 @@
 _schema: default
 title: "Summer Hangs On ..."
 author: Zhanna
-date: 2017-10-14 00:00:00
+date: 2017-10-14
 categories:
   - hiking
 tags:

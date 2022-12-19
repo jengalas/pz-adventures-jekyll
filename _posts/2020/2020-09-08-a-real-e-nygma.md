@@ -2,7 +2,7 @@
 _schema: default
 title: 'A Real E. Nygma'
 author: Zhanna
-date: 2020-09-08 00:00:00
+date: 2020-09-08
 categories:
   - geocaching
 tags:

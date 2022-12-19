@@ -2,7 +2,7 @@
 _schema: default
 title: "Ghosts of the Past"
 author: Zhanna
-date: 2020-07-05 00:00:00
+date: 2020-07-05
 categories:
   - hiking
   - geocaching

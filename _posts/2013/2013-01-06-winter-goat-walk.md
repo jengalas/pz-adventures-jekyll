@@ -2,7 +2,7 @@
 _schema: default
 title: "Winter Goat Walk"
 author: Zhanna
-date: 2013-01-06 00:00:00
+date: 2013-01-06
 categories:
   - hiking
   - moosellaneous

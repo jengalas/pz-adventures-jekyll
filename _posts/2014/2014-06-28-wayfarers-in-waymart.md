@@ -2,7 +2,7 @@
 _schema: default
 title: "Wayfarers in Waymart"
 author: Zhanna
-date: 2014-06-28 00:00:00
+date: 2014-06-28
 categories:
   - survey mark hunting
 tags:

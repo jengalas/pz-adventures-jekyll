@@ -2,7 +2,7 @@
 _schema: default
 title: "A Morning in Montrose and Woodbourne"
 author: Zhanna
-date: 2016-08-05 00:00:00
+date: 2016-08-05
 categories:
   - hiking
 tags:

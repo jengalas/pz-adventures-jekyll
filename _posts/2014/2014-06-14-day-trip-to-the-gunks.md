@@ -2,7 +2,7 @@
 _schema: default
 title: "Day Trip to the Gunks"
 author: Zhanna
-date: 2014-06-14 00:00:00
+date: 2014-06-14
 categories:
   - hiking
   - survey mark hunting

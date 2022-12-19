@@ -2,7 +2,7 @@
 _schema: default
 title: "The Gates of Hades"
 author: Zhanna
-date: 2012-11-30 00:00:00
+date: 2012-11-30
 categories:
   - geocaching
 tags:

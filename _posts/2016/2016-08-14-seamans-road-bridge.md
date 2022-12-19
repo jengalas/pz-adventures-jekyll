@@ -2,7 +2,7 @@
 _schema: default
 title: "Seamans Road Bridge"
 author: Zhanna
-date: 2016-08-14 00:00:00
+date: 2016-08-14
 categories:
   - survey mark hunting
 tags:

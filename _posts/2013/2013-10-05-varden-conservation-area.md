@@ -2,7 +2,7 @@
 _schema: default
 title: "Varden Conservation Area"
 author: Zhanna
-date: 2013-10-05 00:00:00
+date: 2013-10-05
 categories:
   - hiking
   - survey mark hunting

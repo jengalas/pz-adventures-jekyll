@@ -2,7 +2,7 @@
 _schema: default
 title: "Countdown Craziness and Cacti"
 author: Zhanna
-date: 2020-07-10 00:00:00
+date: 2020-07-10
 categories:
   - survey mark hunting
   - geocaching

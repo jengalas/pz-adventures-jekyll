@@ -2,7 +2,7 @@
 _schema: default
 title: "An Unexpectedly Easy Bench Mark Find"
 author: Zhanna
-date: 2014-05-14 00:00:00
+date: 2014-05-14
 categories:
   - survey mark hunting
 tags:

@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2017 – Day 1"
 author: Zhanna
-date: 2017-09-07 00:00:00
+date: 2017-09-07
 categories:
   - travel
   - acadia

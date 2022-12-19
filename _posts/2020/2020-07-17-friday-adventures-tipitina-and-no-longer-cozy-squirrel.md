@@ -2,7 +2,7 @@
 _schema: default
 title: "Friday Adventures: Tipitina and No-Longer-Cozy Squirrel"
 author: Zhanna
-date: 2020-07-17 00:00:00
+date: 2020-07-17
 categories:
   - hiking
   - geocaching

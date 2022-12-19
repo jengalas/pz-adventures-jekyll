@@ -2,7 +2,7 @@
 _schema: default
 title: 'Summer Hike on "Winter" Trails'
 author: Zhanna
-date: 2020-07-31 00:00:00
+date: 2020-07-31
 categories:
   - hiking
 tags:

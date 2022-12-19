@@ -2,7 +2,7 @@
 _schema: default
 title: "Jupiter's Moons"
 author: Zhanna
-date: 2019-08-05 00:00:00
+date: 2019-08-05
 categories:
   - skywatching
 tags:

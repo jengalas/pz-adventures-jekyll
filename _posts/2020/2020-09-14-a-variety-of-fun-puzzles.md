@@ -2,7 +2,7 @@
 _schema: default
 title: A Variety of Fun Puzzles
 author: Zhanna
-date: 2020-09-14 00:00:00
+date: 2020-09-14
 categories:
   - geocaching
 tags:

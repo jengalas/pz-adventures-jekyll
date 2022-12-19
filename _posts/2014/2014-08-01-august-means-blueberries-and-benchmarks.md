@@ -2,7 +2,7 @@
 _schema: default
 title: "August Means Blueberries ... and Benchmarks"
 author: Zhanna
-date: 2014-08-01 00:00:00
+date: 2014-08-01
 categories:
   - hiking
   - survey mark hunting

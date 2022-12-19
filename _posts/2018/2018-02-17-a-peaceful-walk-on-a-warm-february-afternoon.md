@@ -2,7 +2,7 @@
 _schema: default
 title: "A Peaceful Walk on a Warm February Afternoon"
 author: Zhanna
-date: 2018-02-17 00:00:00
+date: 2018-02-17
 categories:
   - moosellaneous
 tags:

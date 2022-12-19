@@ -2,7 +2,7 @@
 _schema: default
 title: "Wyalusing Rocks!"
 author: Zhanna
-date: 2015-07-17 00:00:00
+date: 2015-07-17
 categories:
   - hiking
   - survey mark hunting

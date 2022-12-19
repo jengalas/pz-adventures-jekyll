@@ -2,7 +2,7 @@
 _schema: default
 title: "Beer for Breakfast!"
 author: Zhanna
-date: 2012-04-20 00:00:00
+date: 2012-04-20
 categories:
   - hiking
   - survey mark hunting

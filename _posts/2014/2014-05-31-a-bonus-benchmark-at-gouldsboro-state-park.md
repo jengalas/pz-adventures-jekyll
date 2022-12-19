@@ -2,7 +2,7 @@
 _schema: default
 title: "A Bonus Benchmark At Gouldsboro State Park"
 author: Zhanna
-date: 2014-05-31 00:00:00
+date: 2014-05-31
 categories:
   - hiking
   - survey mark hunting

@@ -2,7 +2,7 @@
 _schema: default
 title: "We WANNA Find Benchmarks!"
 author: Zhanna
-date: 2014-05-26 00:00:00
+date: 2014-05-26
 categories:
   - hiking
   - survey mark hunting

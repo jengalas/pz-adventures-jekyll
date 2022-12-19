@@ -2,7 +2,7 @@
 _schema: default
 title: The Answer to Life, the Universe and Everything
 author: Zhanna
-date: 2020-10-13 00:00:00
+date: 2020-10-13
 categories:
   - geocaching
 tags:

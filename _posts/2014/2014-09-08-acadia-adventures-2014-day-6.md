@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2014 – Day 6"
 author: Zhanna
-date: 2014-09-08 00:00:00
+date: 2014-09-08
 categories:
   - travel
   - acadia

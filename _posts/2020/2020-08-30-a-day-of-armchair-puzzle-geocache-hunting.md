@@ -2,7 +2,7 @@
 _schema: default
 title: A Day of Armchair Puzzle-Geocache Hunting
 author: Zhanna
-date: 2020-08-30 00:00:00
+date: 2020-08-30
 categories:
   - geocaching
 tags:

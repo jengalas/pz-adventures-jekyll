@@ -2,7 +2,7 @@
 _schema: default
 title: "It’s Not Arizona, but it’s Still Sunny and Beautiful …"
 author: Zhanna
-date: 2020-03-13 00:00:00
+date: 2020-03-13
 categories:
   - hiking
 tags:

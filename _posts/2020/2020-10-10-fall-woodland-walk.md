@@ -2,7 +2,7 @@
 _schema: default
 title: "Fall Woodland Walk"
 author: Zhanna
-date: 2020-10-10 00:00:00
+date: 2020-10-10
 categories:
   - hiking
 tags:

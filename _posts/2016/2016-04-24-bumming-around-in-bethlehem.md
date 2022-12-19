@@ -2,7 +2,7 @@
 _schema: default
 title: "Bumming Around in Bethlehem"
 author: Zhanna
-date: 2016-04-24 00:00:00
+date: 2016-04-24
 categories:
   - hiking
   - survey mark hunting

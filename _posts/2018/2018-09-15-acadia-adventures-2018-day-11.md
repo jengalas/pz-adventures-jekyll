@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2018 – Day 11"
 author: Zhanna
-date: 2018-09-15 00:00:00
+date: 2018-09-15
 categories:
   - travel
   - acadia

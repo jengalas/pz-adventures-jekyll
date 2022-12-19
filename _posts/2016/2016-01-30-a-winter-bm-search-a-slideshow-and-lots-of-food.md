@@ -2,7 +2,7 @@
 _schema: default
 title: "A Winter BM Search, a Slideshow, and Lots of Food"
 author: Zhanna
-date: 2016-01-30 00:00:00
+date: 2016-01-30
 categories:
   - survey mark hunting
 tags:

@@ -2,7 +2,7 @@
 _schema: default
 title: "South Florida Adventures 2014 — Day 4"
 author: Zhanna
-date: 2014-02-20 00:00:00
+date: 2014-02-20
 categories:
   - travel
   - south Florida

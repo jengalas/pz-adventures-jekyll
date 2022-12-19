@@ -2,7 +2,7 @@
 _schema: default
 title: "We Have No Idea Either!"
 author: Zhanna
-date: 2015-05-02 00:00:00
+date: 2015-05-02
 categories:
   - geocaching
 tags:

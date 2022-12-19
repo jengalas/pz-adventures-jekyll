@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2013 – Day 4"
 author: Zhanna
-date: 2013-09-07 00:00:00
+date: 2013-09-07
 categories:
   - travel
   - acadia

@@ -2,7 +2,7 @@
 _schema: default
 title: "Paradise Park"
 author: Zhanna
-date: 2016-08-20 00:00:00
+date: 2016-08-20
 categories:
   - moosellaneous
 tags:

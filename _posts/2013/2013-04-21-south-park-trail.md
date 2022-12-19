@@ -2,7 +2,7 @@
 _schema: default
 title: "South Park Trail"
 author: Zhanna
-date: 2013-04-21 00:00:00
+date: 2013-04-21
 categories:
   - hiking
   - mountain biking

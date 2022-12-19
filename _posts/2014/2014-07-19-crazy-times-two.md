@@ -2,7 +2,7 @@
 _schema: default
 title: "Crazy Times Two"
 author: Zhanna
-date: 2014-07-19 00:00:00
+date: 2014-07-19
 categories:
   - survey mark hunting
 tags:

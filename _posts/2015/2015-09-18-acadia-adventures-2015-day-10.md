@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2015 – Day 10"
 author: Zhanna
-date: 2015-09-18 00:00:00
+date: 2015-09-18
 categories:
   - travel
   - acadia

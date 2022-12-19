@@ -2,7 +2,7 @@
 _schema: default
 title: Picture This
 author: Zhanna
-date: 2020-07-14 00:00:00
+date: 2020-07-14
 categories:
   - geocaching
 tags:

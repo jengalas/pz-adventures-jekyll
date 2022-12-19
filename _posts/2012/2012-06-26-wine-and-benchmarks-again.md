@@ -2,7 +2,7 @@
 _schema: default
 title: "Wine and Benchmarks Again!"
 author: Zhanna
-date: 2012-06-26 00:00:00
+date: 2012-06-26
 categories:
   - survey mark hunting
 tags:

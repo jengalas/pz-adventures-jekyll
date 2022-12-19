@@ -2,7 +2,7 @@
 _schema: default
 title: "Blueberries, Hiking and Spiedies!!!"
 author: Zhanna
-date: 2017-08-05 00:00:00
+date: 2017-08-05
 categories:
   - hiking
 tags:

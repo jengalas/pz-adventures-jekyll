@@ -2,7 +2,7 @@
 _schema: default
 title: "A Morning at the Zoo"
 author: Zhanna
-date: 2017-07-03 00:00:00
+date: 2017-07-03
 categories:
   - moosellaneous
 tags:

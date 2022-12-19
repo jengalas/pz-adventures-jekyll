@@ -2,7 +2,7 @@
 _schema: default
 title: "PokéMontrose Go?"
 author: Zhanna
-date: 2016-07-17 00:00:00
+date: 2016-07-17
 categories:
   - moosellaneous
 tags:

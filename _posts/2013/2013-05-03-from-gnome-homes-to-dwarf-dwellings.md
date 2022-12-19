@@ -2,7 +2,7 @@
 _schema: default
 title: "From Gnome Homes to Dwarf Dwellings"
 author: Zhanna
-date: 2013-05-03 00:00:00
+date: 2013-05-03
 categories:
   - geocaching
 tags:

@@ -2,7 +2,7 @@
 _schema: default
 title: "Afternoon at the Preserve"
 author: Zhanna
-date: 2013-04-26 00:00:00
+date: 2013-04-26
 categories:
   - hiking
   - geocaching

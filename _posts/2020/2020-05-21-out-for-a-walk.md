@@ -2,7 +2,7 @@
 _schema: default
 title: "Out for a Walk ..."
 author: Zhanna
-date: 2020-05-21 00:00:00
+date: 2020-05-21
 categories:
   - hiking
   - moosellaneous

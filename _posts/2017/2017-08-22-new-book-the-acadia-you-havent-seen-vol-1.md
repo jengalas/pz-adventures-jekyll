@@ -2,7 +2,7 @@
 _schema: default
 title: "New Book: The Acadia You Haven't Seen, Vol. 1"
 author: Zhanna
-date: 2017-08-22 00:00:00
+date: 2017-08-22
 categories:
   - abandoned trails
   - moosellaneous

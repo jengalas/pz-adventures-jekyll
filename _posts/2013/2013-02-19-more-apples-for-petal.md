@@ -2,7 +2,7 @@
 _schema: default
 title: "More Apples for Petal"
 author: Zhanna
-date: 2013-02-19 00:00:00
+date: 2013-02-19
 categories:
   - moosellaneous
 tags:

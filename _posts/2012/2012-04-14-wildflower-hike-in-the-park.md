@@ -2,7 +2,7 @@
 _schema: default
 title: "Wildflower Hike in the Park"
 author: Zhanna
-date: 2012-04-14 00:00:00
+date: 2012-04-14
 categories:
   - hiking
 tags:

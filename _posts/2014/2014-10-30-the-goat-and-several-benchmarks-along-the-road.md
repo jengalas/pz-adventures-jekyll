@@ -2,7 +2,7 @@
 _schema: default
 title: "The Goat (and Several Benchmarks) Along the Road"
 author: Zhanna
-date: 2014-10-30 00:00:00
+date: 2014-10-30
 categories:
   - survey mark hunting
 tags:

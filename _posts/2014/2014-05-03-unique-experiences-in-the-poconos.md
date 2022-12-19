@@ -2,7 +2,7 @@
 _schema: default
 title: "Unique Experiences in the Poconos"
 author: Zhanna
-date: 2014-05-03 00:00:00
+date: 2014-05-03
 categories:
   - hiking
   - survey mark hunting

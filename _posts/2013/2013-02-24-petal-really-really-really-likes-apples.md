@@ -2,7 +2,7 @@
 _schema: default
 title: "Petal Really, Really, Really Likes Apples!"
 author: Zhanna
-date: 2013-02-24 00:00:00
+date: 2013-02-24
 categories:
   - moosellaneous
 tags:

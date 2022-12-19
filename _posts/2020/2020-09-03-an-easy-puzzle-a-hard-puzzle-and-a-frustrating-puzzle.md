@@ -2,7 +2,7 @@
 _schema: default
 title: An Easy Puzzle, a “HARD” Puzzle, and a Frustrating Puzzle
 author: Zhanna
-date: 2020-09-03 00:00:00
+date: 2020-09-03
 categories:
   - geocaching
 tags:

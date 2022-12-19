@@ -2,7 +2,7 @@
 _schema: default
 title: "Early Morning Bear Bandit"
 author: Zhanna
-date: 2013-06-14 00:00:00
+date: 2013-06-14
 categories:
   - moosellaneous
 tags:

@@ -2,7 +2,7 @@
 _schema: default
 title: "Vosburg Neck"
 author: Zhanna
-date: 2013-11-30 00:00:00
+date: 2013-11-30
 categories:
   - survey mark hunting
 tags:

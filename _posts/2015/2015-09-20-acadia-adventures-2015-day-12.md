@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2015 – Day 12"
 author: Zhanna
-date: 2015-09-20 00:00:00
+date: 2015-09-20
 categories:
   - travel
   - acadia

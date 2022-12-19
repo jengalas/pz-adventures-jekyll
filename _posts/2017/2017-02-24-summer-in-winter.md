@@ -2,7 +2,7 @@
 _schema: default
 title: "Summer in Winter"
 author: Zhanna
-date: 2017-02-24 00:00:00
+date: 2017-02-24
 categories:
   - moosellaneous
 tags:

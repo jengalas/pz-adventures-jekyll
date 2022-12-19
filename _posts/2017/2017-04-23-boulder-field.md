@@ -2,7 +2,7 @@
 _schema: default
 title: "Boulder Field"
 author: Zhanna
-date: 2017-04-23 00:00:00
+date: 2017-04-23
 categories:
   - hiking
   - survey mark hunting

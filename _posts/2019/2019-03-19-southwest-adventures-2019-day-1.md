@@ -2,7 +2,7 @@
 _schema: default
 title: "Southwest Adventures 2019 – Day 1"
 author: Zhanna
-date: 2019-03-19 00:00:00
+date: 2019-03-19
 categories:
   - travel
   - southwest

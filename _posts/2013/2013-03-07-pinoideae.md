@@ -2,7 +2,7 @@
 _schema: default
 title: "Pinoideae"
 author: Zhanna
-date: 2013-03-07 00:00:00
+date: 2013-03-07
 categories:
   - geocaching
 tags:

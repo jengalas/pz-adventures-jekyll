@@ -2,7 +2,7 @@
 _schema: default
 title: "Coffee, a Walk, and an Unexpected Benchmark"
 author: Zhanna
-date: 2014-05-13 00:00:00
+date: 2014-05-13
 categories:
   - survey mark hunting
 tags:

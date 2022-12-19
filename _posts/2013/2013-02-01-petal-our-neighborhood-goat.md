@@ -2,7 +2,7 @@
 _schema: default
 title: "Petal, Our Neighborhood Goat"
 author: Zhanna
-date: 2013-02-01 00:00:00
+date: 2013-02-01
 categories:
   - moosellaneous
 tags:

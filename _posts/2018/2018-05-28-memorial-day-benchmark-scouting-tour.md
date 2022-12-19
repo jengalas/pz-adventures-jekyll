@@ -2,7 +2,7 @@
 _schema: default
 title: "Memorial Day Benchmark Scouting Tour"
 author: Zhanna
-date: 2018-05-28 00:00:00
+date: 2018-05-28
 categories:
   - survey mark hunting
 tags:

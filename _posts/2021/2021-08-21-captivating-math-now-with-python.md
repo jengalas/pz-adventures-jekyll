@@ -2,7 +2,7 @@
 _schema: default
 title: Captivating Math … Now With Python!
 author: Zhanna
-date: 2021-08-21 00:00:00
+date: 2021-08-21
 categories:
   - geocaching
 tags:

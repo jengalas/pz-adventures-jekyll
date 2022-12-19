@@ -2,7 +2,7 @@
 _schema: default
 title: R.I.P., Cozy Squirrel!
 author: Zhanna
-date: 2020-07-24 00:00:00
+date: 2020-07-24
 categories:
   - hiking
   - geocaching

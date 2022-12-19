@@ -2,7 +2,7 @@
 _schema: default
 title: "Autumn Walkabout"
 author: Zhanna
-date: 2016-10-29 00:00:00
+date: 2016-10-29
 categories:
   - hiking
 tags:

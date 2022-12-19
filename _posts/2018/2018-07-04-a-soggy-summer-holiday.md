@@ -2,7 +2,7 @@
 _schema: default
 title: "A Soggy Summer Holiday"
 author: Zhanna
-date: 2018-07-04 00:00:00
+date: 2018-07-04
 categories:
   - survey mark hunting
 tags:

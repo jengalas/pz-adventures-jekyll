@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2018 – Day 6"
 author: Zhanna
-date: 2018-09-10 00:00:00
+date: 2018-09-10
 categories:
   - travel
   - acadia

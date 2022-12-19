@@ -2,7 +2,7 @@
 _schema: default
 title: "Chasing Windmills and Benchmarks in Daleville"
 author: Zhanna
-date: 2014-06-21 00:00:00
+date: 2014-06-21
 categories:
   - survey mark hunting
 tags:

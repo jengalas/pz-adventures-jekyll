@@ -2,7 +2,7 @@
 _schema: default
 title: More Puzzles ...
 author: Zhanna
-date: 2020-08-31 00:00:00
+date: 2020-08-31
 categories:
   - geocaching
 tags:

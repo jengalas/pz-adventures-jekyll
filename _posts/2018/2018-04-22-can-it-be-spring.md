@@ -2,7 +2,7 @@
 _schema: default
 title: "Can it be ... Spring?"
 author: Zhanna
-date: 2018-04-22 00:00:00
+date: 2018-04-22
 categories:
   - geocaching
   - hiking

@@ -2,7 +2,7 @@
 _schema: default
 title: "PokéMontrose Go?—The Exciting Conclusion"
 author: Zhanna
-date: 2016-07-26 00:00:00
+date: 2016-07-26
 categories:
   - moosellaneous
 tags:

@@ -2,7 +2,7 @@
 _schema: default
 title: "Spiedies, a Unimog and No Benchmarks"
 author: Zhanna
-date: 2018-05-20 00:00:00
+date: 2018-05-20
 categories:
   - survey mark hunting
 tags:
