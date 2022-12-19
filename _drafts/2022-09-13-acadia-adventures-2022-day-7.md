@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2022 – Day 7"
 author: Zhanna
-date: 2022-09-13 00:00:00
+date: 2022-09-13
 categories: 
   - travel
   - acadia

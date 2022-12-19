@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2022 – Days 1 & 2"
 author: Zhanna
-date: 2022-09-08
+date: "2022-09-08 00:00:00"
 categories: 
   - travel
   - acadia

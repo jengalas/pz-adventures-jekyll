@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2022 – Day 11"
 author: Zhanna
-date: 2022-09-17 00:00:00
+date: "2022-09-17 00:00:00"
 categories: 
   - travel
   - acadia
@@ -16,6 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+tracklog: 17SEP22.gpx
 post_id: 
 layout: post  
 ---
@@ -39,6 +40,8 @@ Although we didn't plan on trying to follow it all the way to Lake Wood today, j
 There was no good way to make this a loop hike, so we walked back the way we had come. On the way back we reminisced about his mountain biking and finding this road so many years ago. I looked for evidence of the Fawm Pond trail leading down toward Breakneck Ponds that supposedly contains an  old set of steps, but I dind't see anything all that promising. 
 
 When we got back to the point where we would turn east to head toward Fawn Pond, I went a bit further to make a tracklog for the road segment that we suspect is the one that leads to Lake Wood. While there, I also spotted a well-worn trail leading off to the southwest that will also require investigation!
+
+{% include tracklog.html %}
 
 We were so hungry by the time we came back that we couldn't resist a small snack of the Lamb Chopper cheese and garlic-thyme Firehook crackers we bought last night. We only had a few bites but it really hit the spot. We rested for a little while longer, all the while debating whether we should got for pizza, or go back to Ciao. It was a hard decision! But we realized that Ciao isn't open tomorrow but Rosalie's is, so if we went to Ciao tonigth we could still go for pizza tomorrow.
 

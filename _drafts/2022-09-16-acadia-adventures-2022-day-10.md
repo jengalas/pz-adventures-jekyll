@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2022 – Day 10"
 author: Zhanna
-date: 2022-09-16 00:00:00
+date: "2022-09-16 00:00:00"
 categories: 
   - travel
   - acadia
@@ -16,6 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+tracklog: 16SEP22.gpx
 post_id: 
 layout: post  
 ---
@@ -27,6 +28,8 @@ It was a brisk morning, particularly by the ocean, but the sun was already warmi
 Dad left for Vermont around 9:00am and we took some time to figure out what we wanted to do today. We wnated a restful day after all the recent activity. I've been eager to check out this abandoned road that I've noticed while riding by on the bus a few times. It cuts across a smal triangle of land between the Park Loop Road and Route 3 in the vicinity of Sieur de Monts and Jackson Lab. We were unsure whether we wanted to try taking the bus today or parking at or near Sieur de Monts, but we were lucky enough to find a completely open parking pulloff along the Park Loop Road only about 350ft from the western end of the road. 
 
 approaching the road it was clear that it had been a wide road and was still in quite good condition, although it wouldn't be passable now in acar because of a couple fallen trees across the roadbed. This road appears on the 1942 topo map (and earlier maps) and appears to have led into Robinhood Park, which was on the property where Jackson Lab now sits. Apparently this was hte former propoerty of Morrell, who dedicated a small greenspace park at the eastern end of the road to the people of the town of Bar Harbor. Supposedly at the Bear Brook picnic area on the other side of the lab there are some fence posts remaining from the old Robinhood Park. Lots more history to discover here!
+
+{% include tracklog.html %}
 
 After that little adventure which allowed us to add something new to our map, we venured into the Sieur de Monts parking lot and after waiting for a crew of (drunk?) yahoos to stop milling around, pulled into the one open parking space. It took a few minutes for us to figure out what we wanted to do, something at Sieur de Monts? Nothing realy was pulling us today so Rich suggested taking a drive up to see what the Burning Tree is like now. I know it has changed from a sit-down fine dining restaurant to more of a wine shop that also sells some fancy prepared foods for takeout, as well as some baked goods. 
 

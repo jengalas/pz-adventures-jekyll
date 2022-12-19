@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2022 – Day 9"
 author: Zhanna
-date: 2022-09-15 00:00:00
+date: "2022-09-15 00:00:00"
 categories: 
   - travel
   - acadia
@@ -15,6 +15,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+tracklog: 15SEP22.gpx
 post_id: 
 layout: post  
 ---
@@ -34,6 +35,8 @@ Not long after we started walking, Dad said "ooh!" and pointed ahead of himself 
 After that excitement, we continued on and then turned up onto the steep Hemlock Trail. It is rocky and steep with some steps and stairs to climb, but it's relatively short. We connected with the Kebo Mountain trail and headed north. I have to say that the trail here is not marked very well, at leat northbound. Even in spite of having done this trail in 2019, we still got off track twice and had to backtrack to find the actual trail.  there are many "false trails" (proably made and subsequetly followed by other misdirected hikers) throuhg some of the screen fields, and hte lack ot blazes for the northbound hiker makes route findint here challening, althouhg all you really need to do is get up to the ridge, so there is no real danger of actually getting lost. 
 
 The hike aling the ridge was easuer and quite short because we were only going about .2 miles before we would reach the point where we would turn down intot he woods to find the steps. This was challenigng because although i had a tracklog and waypoints from my previous visit to wokr from, the limited accuracy of the gps in these wooded areas makes it difficult to find something as small as a cairn or a single step. We made our way through, even thought it's steep the worst part was at the top and then it became much easier as we neared the bottom. It's only about 600 feet and while that can feel like a mile in rought errain, i really wasn't that bad.
+
+{% include tracklog.html %}
 
 We walked back on Stratheden. When we reached the Hemlock Road, dad decided that he wanted to walk back to town via the Jesup Path and Kebo Street. Rich and I decided to return to Sieur de Monts and take the Blackwoods bus back to the village green.
 
