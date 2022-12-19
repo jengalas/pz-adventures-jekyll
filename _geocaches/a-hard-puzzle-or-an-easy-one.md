@@ -3,7 +3,7 @@ _schema: default
 title: A HARD Puzzle (or an easy one)?
 link: https://www.geocaching.com/geocache/GC8ZA8K
 owner: Rocky Balboa
-date: 2020-09-03
+date: 2020-09-03 03:00:00 -0500
 log_type: Note
 display_coords: N 41° 27.000' W 074° 28.999'
 latitude: '41.45'
