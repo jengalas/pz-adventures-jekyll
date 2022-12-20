@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: "Acadia Adventures 2022 – Days 1 & 2"
+title: "Acadia Adventures 2022 – Day 2"
 author: Zhanna
 date: "2022-09-08"
 categories: 
@@ -36,18 +36,29 @@ galleries:
         alt:
       - filename: '20220908_103003'
         alt:
+  gallery3:
+    suffix: cvx
+    images:
+      - filename: '20220908_102658'
+        alt:
+      - filename: '20220908_103003'
+        alt: 
+      - filename: '20220908_102658'
+        alt:
+      - filename: '20220908_103003'
+        alt:   
+  gallery4:
+    suffix: cvx
+    images:
+      - filename: '2496'
+        alt:
+      - filename: 2496g2
+        alt:             
 
 ---
 
-## Day 1: September 8
 
-We were having trouble all week deciding when to leave on our journey. Our first thought was to try leaving around midnight like we did, successfully, in 2017. We ended up pretty close to that, leaving at 11pm. After a pretty routine morning and afternoon (if you can ignore the three solid days of nonstop rain that resulted in 4.3 inches in the gauge and persistent showers over us all morning and afternoon - *we* couldn't ignore them), we lay down for some rest around 6:45pm and planned to get up around 10. We kept close to that schedule, getting up around 10:15, having something to eat (frozen past and veggies) and leaving the house at 11pm. 
-
-Traffic wasn't too bad, although it was heavier than during our late-night drive in 2017. Almost all trucks for the first several hours, and they were mostly behaving. A few cars joined now and then, and were coming onto the highway in greater numbers (and crazier speeds) by the time we were on the Mass Pike and 495. W took a quick detour through Vernon around 2:30 looking for coffee, but nothing was open. We continued on to the Charleton plaza East, where even the McDonalds was closed at 3:30am. (We were able to get a self-serve coffee from this weird attached convenience store that we both thought looked and felt like something from another universe or at least another galazy. SO bizarre inclding the character that worked there.) Back on the highway and it was busy but smooth sailing until the start of I-95 (Maine turnpike) where 495 ended. Right at the toll area (where we had unintentionally chosen the cash side, but it still had ezpay) We found ourselves suddenyl in this fog bank so thick it was impossible to see anything for a few (rather terrifying) seconds. It was like driving into a white wall. Fortunately it let up just enough that we could see and then follow the trucks coming through the ezpass side of the toll area. While there was some fog for the rest of the night's ravel it wa wispy and did not really affect visibility. Almost exactly consistent with our timng in 2017 (just one hour earlier) we reached the Kittery rest area at 5:30am. I'd had no sleep all day (could not sleep while we were resting in the afternoon and evening) and thought I would get a few hours easily while at the rest aeea. Our eye masks worked great, blocking the light that would always hit us squarely in the eyes no matter where we parked or how we angled the car. And I was veryr comfortblae termperature wise and at least somewhat cofortable otherwise, but simply could not sleep. Rich (having had a decent rest) woke me up around 7:15 and we headed back out on the highway around 7:40. 
-
-## Day 2: September 9
-
-Traffic wasn't terrible this morning, and although some fog drifted by occasionally, it was light and wispy, and caused no problems on the roads. We reached our first stop, Youngs Lobster Pound, at 10:00am. Rich ordered two lobster rolls for us, as usual, and we wandered around the dock while we waited for our food to be prepared. I couldn't resist looking for snakes (sea serpents?!) among the rocks, even though I knew I was very unlikely to see one.
+Traffic volume was reasonable this morning, and although some fog drifted by occasionally, it was light and wispy, and caused no problems on the roads. We reached our first destination, Youngs Lobster Pound, at 10:00am. Rich ordered two lobster rolls for us, as usual, and we wandered around the dock while we waited for our food to be prepared. I couldn't resist looking for snakes (sea serpents?!) among the rocks, even though I knew I was very unlikely to see one.
 
 {% include image.html filename="P1052174-Panocvx.jpg" thumb="P1052174-Panob.jpg" caption="" %}
 
@@ -88,6 +99,8 @@ Also, since the park was built beginning in 1984 and the bolt was set in 1982, i
 This town is worthy of much deeper exploration. Among other things, I think we'll come back to look for a few more benchmarks! Before leaving, we took a drive up Central Street to check out the location of the Mount Olive mark. It's in deep woods on a high knoll, but I didn't see any "posted" signs and it looks doable—with significant effort—as long as we can find a good place to park. 
 
 Just as we were leaving town I spotted a disk on a bridge bannister. Rich pulled down into another small parking lot along the waterfront trail and waited while I photographed the disk (it was a MaineDOT mark from 2021). We really need to find out more about the history and extent of this trail!
+
+{% include gallery.html gallery_id="gallery4" class="" %}
 
 Our trip to Bar Harbor was uneventful except for a brief section of Route 3 that had been completely stripped of pavement and is down to literal dirt. Traffic descends a steep hill and then curves back up sharply to meet the regular road surface. It was short but very weird. And I have no idea how some of the longer RVs we spotted on the road later would have handled it.
 
