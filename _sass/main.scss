@@ -336,6 +336,7 @@ $zindex-header: 500;
   visibility: hidden;
   width: $nav-width;
   overflow-y: auto;
+  z-index: 100;
 
   .nav-visible & {
     transform: translateX(0);
@@ -511,8 +512,10 @@ ul.menu button {
 ul.menu .list.submenu button:after {
   content: "\f107";
   font-family: FontAwesome;
-  position: absolute;
-  right: 5px;
+  // position: absolute;
+  // right: 5px;
+  position: relative;
+  left: 100px;
   top: 0;
   padding: 0px 25px;
   color: #fff;
@@ -573,8 +576,10 @@ ul.menu .list:last-child {
 ul.menu .submenu.active button:after {
   content: "\f106";
   font-family: FontAwesome;
-  position: absolute;
-  right: 5px;
+  // position: absolute;
+  // right: 5px;
+  position: relative;
+  left: 100px;
   top: 0;
   padding: 0px 25px;
   color: #fff;
