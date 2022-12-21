@@ -53,7 +53,7 @@ galleries:
       - filename: '2496'
         alt: MaineDOT Survey Control Mark 2496
       - filename: 2496g2
-        alt: Looking NW across Main Street (Maine Route 15)           
+        alt: Looking NW across Main Street (Maine Route 15)  
 
 ---
 
