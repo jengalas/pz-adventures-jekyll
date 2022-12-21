@@ -792,7 +792,36 @@
   pid: KW0081
   mark_type: Survey Mark  
   date: 2012-04-20
-  post_id: 2833          
+  post_id: 2833  
+- designation: 98-35-1013-3
+  mark_type: Survey Mark  
+  date: 2011-11-07
+  post_id: 2836
+- designation: BETH
+  pid: KV3603
+  mark_type: Survey Mark  
+  date: 2011-04-21
+  post_id: 2153    
+- designation: BETH RM 1
+  mark_type: Survey Mark  
+  custom_permalink: kv3603-rm-1
+  date: 2011-04-21
+  post_id: 2153 
+- designation: BETH RM 2
+  mark_type: Survey Mark  
+  custom_permalink: kv3603-rm-2
+  date: 2011-04-21
+  post_id: 2153  
+- designation: BETH RM 3
+  mark_type: Survey Mark  
+  custom_permalink: kv3603-rm-3
+  date: 2011-04-21
+  post_id: 2153   
+- designation: F 269
+  pid: KV1659
+  mark_type: Survey Mark  
+  date: 2011-04-21
+  post_id: 2153     
 
 
                
