@@ -5,9 +5,10 @@
     </button>
   </nav>
 <!-- Overlay content -->
-  <nav class='nav-wrapper'>
+  <nav class="nav-wrapper">
     {% if site.data.navigation.toc2[0] %}
-      <ul class="menu"  style="padding-bottom: 100px;">
+      <ul class="menu">
+        <h2>Categories</h2>
         {% for item in site.data.navigation.toc2 %}  
           {% if item.subfolderitems[0] %}
             <li class="list submenu"><button>{{ item.title }}</button>
@@ -18,7 +19,7 @@
               </ul>
             </li>            
           {% else %}
-            <li class="list"><a href="{{ item.url }}">{{ item.title }}</a></li>
+            <li class="list"><a href="{{ item.url | replace: ' ', '-'}}">{{ item.title }}</a></li>
           {% endif %}              
         {% endfor %}
       </ul>

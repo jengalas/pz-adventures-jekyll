@@ -1,12 +1,19 @@
+<!-- Try https://stackoverflow.com/questions/40772841/how-to-position-fixed-the-navbar-when-using-flexbox -->
+<div class="wrapper" style="position: fixed;
+  width: 100%;
+  top: 0;
+  height:100px;
+  z-index: 400;">
 <header id="masthead" class="site-header">
-  <div class="inside-header" style="display: flex;">   
+  <div class="inside-header">   
     <h1 class="site-title"><a href="{{ site.baseurl }}/">{{site.title | downcase}}</a></h1>    
     <div class="super-search" id="js-super-search">      
-      <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn"><i class="fa fa-times" aria-hidden="true" style="font-size: 2rem;"></i></a>
+      <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn"><i class="fa fa-times" aria-hidden="true"></i></a>
       <input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
       <ul class="super-search__results" id="js-super-search__results"></ul>
     </div>
-    <span style="display: flex; font-size: 1.8rem; justify-content: flex-end; flex: 1; margin-right: 24px; margin-top: 20px;"><a href="javascript:void(0)" onclick="superSearch.toggle()"><i class="fa fa-search" aria-hidden="true" style="color: #efefef;"></i></a></span>     
+    <span class="search-toggle"><a href="javascript:void(0)" onclick="superSearch.toggle()"><i class="fa fa-search" aria-hidden="true"></i></a></span>     
    {% include nav.html %}
   </div>
 </header>
+</div>
