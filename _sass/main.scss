@@ -18,7 +18,8 @@ body {
 }
 
 #masthead {
-  margin: 0 8px;
+  margin: 0;
+  padding: 0 8px;
   
   .fa-search {
     color: #efefef;
@@ -60,6 +61,7 @@ main {
 
 .inside-header {
   display: flex;
+  height: 80px;
   margin: 0 auto;
   max-width: 1100px;
 }
@@ -357,16 +359,19 @@ $zindex-header: 500;
   text-transform: uppercase;
 }
 
-.nav-wrapper {
+.nav-wrapper {  
   background-color: #000;
   height: 100vh;
-  padding-top: $header-height;
+  margin-top: 80px;
+  margin-left: 0;
+  margin-right: 0;
+  // padding-top: $header-height;
   perspective: 1000px;
   position: fixed;
   right: 0;
   top: 0;
-  transform: translateY(-100%);
-  transition: transform $nav-transition-speed, visibility $nav-transition-speed;
+  // transform: translateY(-100%);
+  // transition: transform $nav-transition-speed, visibility $nav-transition-speed;
   visibility: hidden;
   width: $nav-width;
   overflow-y: auto;
@@ -522,7 +527,7 @@ $zindex-header: 500;
 
 /* Accordion menu */
 
-ul.menu {
+ul.menu {  
   padding: 0;
   list-style: none;
   width: 100%;
@@ -532,6 +537,7 @@ ul.menu {
   display: table;
   text-align: center;
   width: 25vw;
+
 
   h2 {
     color: #efefef;
@@ -580,12 +586,18 @@ ul.menu .list.submenu button {
 }
 
 ul.menu .list a {
+  animation: fadeIn 5s;
   text-decoration: none;
   color: #fff;
   padding: 0.2rem;
   display: block;
   height: 100%;
   box-sizing: border-box;
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
 }
 
 ul.menu .list a:hover {
