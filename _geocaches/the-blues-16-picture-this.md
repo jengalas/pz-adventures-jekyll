@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'The Blues #137 – Picture This'
+title: 'The Blues #16 – Picture This'
 link: https://www.geocaching.com/geocache/GC8W9RX
 owner: zzbob
 date: 2020-07-14

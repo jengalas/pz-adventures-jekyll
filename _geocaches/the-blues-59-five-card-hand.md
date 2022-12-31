@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'The Blues #125 – Five Card Hand'
+title: 'The Blues #59 – Five Card Hand'
 link: https://www.geocaching.com/geocache/GC69BVJ
 owner: zzbob
 date: 2020-07-16
