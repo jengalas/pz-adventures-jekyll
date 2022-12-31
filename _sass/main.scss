@@ -1,6 +1,6 @@
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 80px; /* height of sticky header */
+  scroll-padding-top: $headerHeight; /* height of sticky header */
 }
 
 body {
@@ -23,7 +23,7 @@ body {
 }
 
 .wrapper {
-  height: 90px;
+  height: $headerHeight;
   position: fixed;
   top: 0;
   width: 100%;    
@@ -31,7 +31,7 @@ body {
 
   &.active {
     background-color: rgba(42,52,65,0.95);
-  transition: all 400ms ease;
+    transition: all 400ms ease;
   }
 }
 
@@ -79,7 +79,7 @@ main {
 
 .inside-header {
   display: flex;
-  height: 80px;
+  height: $headerHeight;
   margin: 0 auto;
   max-width: 1100px;
 }
@@ -372,7 +372,7 @@ section.comments {
 $color-white: #fff;
 $color-white-darker: darken($color-white, 5%);
 $color-white-darken: darken($color-white, 15%);
-$header-height: 80px;
+$header-height: $headerHeight;
 $nav-toggle-size: 2rem;
 $nav-toggle-transition-speed: .3s;
 $nav-transition-speed: .6s;
