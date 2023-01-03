@@ -17,7 +17,8 @@ body {
   scrollbar-gutter: stable;
 
   &.nav-visible {
-    height: 100%; 
+    // height: 100%; 
+    height: 80vh;
     overflow: hidden;
   }
 }
@@ -419,7 +420,8 @@ $zindex-header: 500;
   margin-right: 0;
   perspective: 1000px;
   position: fixed;
-  right: 0;
+  right: 0;  
+  scrollbar-gutter: stable;
   top: 0;
   visibility: hidden;
   width: $nav-width;
