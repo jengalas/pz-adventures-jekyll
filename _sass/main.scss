@@ -41,11 +41,7 @@ body {
   
   .fa-search {
     color: #efefef;
-    margin-top: 30px;
-  }
-
-  .fa-times {
-    font-size: 2rem;
+    margin-top: 28px;
   }
 
   .search-toggle {
@@ -58,6 +54,22 @@ body {
 
     .nav-visible & {
       background-color: #000;
+    }
+  }
+
+  .super-search {
+
+    &__input {
+      color: #999;
+      font-size: 3rem;
+      height: $headerHeight;
+    }
+
+    &__close-btn {
+      color: $bodyBackgroundColor;
+      font-size: 3rem;
+      right: 24px;
+      top: 12px;
     }
   }
 }
@@ -84,10 +96,6 @@ main {
   max-width: 1100px;
 }
 
-.emoji {
-  vertical-align: text-bottom;
-}
-
 .site-title {
   float: left;
   z-index: 110;
@@ -101,25 +109,26 @@ main {
 
 .site-info {
   color: $footerColor;
+  padding: 2rem;
   text-align: center;
 }
 
 #scroll-to-top {
-  display: none; 
-  position: fixed; 
-  bottom: 20px; 
-  right: 30px; 
-  z-index: 99; 
-  border: none; 
-  outline: none; 
   background-color: rgba( 0,0,0,0.4 ); 
-  color: white; 
-  cursor: pointer; 
-  padding: 12px 12px 7px 12px; 
-  border-radius: 3px; 
+  border: none;
+  border-radius: 3px;
+  bottom: 20px;
+  color: white;
+  cursor: pointer;
+  display: none; 
   font-size: 18px;
   font-weight: 700;
+  outline: none; 
+  padding: 12px 12px 7px 12px; 
+  position: fixed;    
+  right: 30px; 
   transition: all 3s ease-in-out;
+  z-index: 99;
 
   &:hover {
     background-color: rgba( 0,0,0,0.6 );
@@ -145,10 +154,9 @@ cite {
   @include italic-text;
 }
 
-blockquote {
-  font-family: Lora, 'Times Roman', serif;
+blockquote {  
+  @include italic-text;
   font-size: 1.09rem;
-  font-style: italic;
   line-height: 1.625rem;
   margin: 28px 0 28px;
   padding-bottom: 0;
@@ -180,6 +188,10 @@ small {
   color: #155724;
   background-color: #d4edda;
   border-color: #c3e6cb;
+}
+
+.emoji {
+  vertical-align: text-bottom;
 }
 
 // SINGLE POST LAYOUT
@@ -279,7 +291,7 @@ small {
   }
 
   .day {
-    color: #60829e;
+    color: $bodyBackgroundColor;
     display: block;
     font: bold 24px/100% Arial, Helvetica, sans-serif;
     padding: 2px 0 4px;
@@ -405,13 +417,10 @@ $zindex-header: 500;
   margin-top: 80px;
   margin-left: 0;
   margin-right: 0;
-  // padding-top: $header-height;
   perspective: 1000px;
   position: fixed;
   right: 0;
   top: 0;
-  // transform: translateY(-100%);
-  // transition: transform $nav-transition-speed, visibility $nav-transition-speed;
   visibility: hidden;
   width: $nav-width;
   overflow-y: auto;
@@ -678,7 +687,6 @@ ul.menu .active>.items {
   padding: 0px;
   height: auto;
   color: #fff;
-  // transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
   transition: all 200ms;
   clear: both;
   float: left;
@@ -731,7 +739,7 @@ ul.menu .active .list a {
     background-color: #d1dde6;
     border: 1px solid #fff;
     border-radius: 20px;
-    color: #60829e;
+    color: $bodyBackgroundColor;
     padding: 8px 12px;
     text-decoration: none;
 
