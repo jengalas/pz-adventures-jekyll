@@ -825,7 +825,27 @@
 - designation: LSP CHISELED SQUARE
   mark_type: Survey Mark  
   date: 2010-10-25
-  post_id: 1663       
+  post_id: 1663   
+- designation: GREEN
+  pid: LY2755
+  mark_type: Survey Mark  
+  date: 2010-08-14
+  post_id: 1210  
+- designation: GREEN RM 1
+  mark_type: Reference Mark
+  custom_permalink: ly2755-rm-1
+  date: 2010-08-14
+  post_id: 1210 
+- designation: GREEN RM 2
+  mark_type: Reference Mark  
+  custom_permalink: ly2755-rm-2  
+  date: 2010-08-14
+  post_id: 1210
+- designation: GREEN AZ MK
+  mark_type: Reference Mark  
+  custom_permalink: ly2755-az-mk  
+  date: 2010-08-14
+  post_id: 1210        
 
 
                
