@@ -429,7 +429,8 @@ $zindex-header: 500;
   z-index: 100;
 
   .nav-visible & {
-    transform: translateX(0);
+    height: 100vh;
+    transform: translateX(0);  
     visibility: visible;
   }
 }
@@ -596,6 +597,7 @@ ul.menu {
   }
 
   @media (max-width: 768px) {
+    height: 100vh;
     width: 100vw;
   }
 }
