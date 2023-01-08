@@ -9,7 +9,7 @@ categories:
   - '2019'
 tags:
 excerpt: >-
-  The Mooses are heading to Maine!
+  The Mooses are heading to Arizona!
 header:
   teaser:
 geocaches: false
