@@ -5,7 +5,7 @@ author: Zhanna
 date: 2014-02-20
 categories:
   - travel
-  - south Florida
+  - florida
   - '2014'
   - hiking
   - survey mark hunting

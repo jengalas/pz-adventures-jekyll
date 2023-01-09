@@ -21,5 +21,7 @@ toc2:
     subfolderitems:
       - page: Acadia
         url: /travel/acadia
+      - page: Florida
+        url: /travel/florida  
       - page: Southwest
         url: /travel/southwest
