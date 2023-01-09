@@ -22,31 +22,29 @@ galleries:
     suffix: cvx
     images:
       - filename: P1052157
-        alt:
+        alt: I'll take one of each!
       - filename: P1052156
-        alt:
+        alt: Obligatory Captain Seaweed photo
       - filename: P1052164
-        alt:
+        alt: Lobsters everywhere!
       - filename: P1052160
-        alt: 
+        alt: These guys are hard workers.
   gallery2:
     suffix: cvx
     images:
       - filename: '20220908_102658'
-        alt:
+        alt: One of the best breakfasts of the year!
       - filename: '20220908_103003'
-        alt:
+        alt: Rich is enjoying the lobster roll!
   gallery3:
     suffix: cvx
     images:
-      - filename: '20220908_102658'
-        alt:
-      - filename: '20220908_103003'
-        alt: 
-      - filename: '20220908_102658'
-        alt:
-      - filename: '20220908_103003'
-        alt:   
+      - filename: '20220908_123731'
+        alt: Near the suspected site of ROSEN
+      - filename: '20220908_123740'
+        alt: A peaceful spot along the waterfront      
+      - filename: '20220908_122032'
+        alt: Looking across the Penobscot River toward the Penobscot Narrows Bridge and Fort Knox
   gallery4:
     suffix: cvx
     images:
@@ -57,6 +55,7 @@ galleries:
 
 ---
 
+<!-- TODO Add photos of plaques in park, and pizza! -->
 
 Traffic volume was reasonable this morning, and although some fog drifted by occasionally, it was light and wispy, and caused no problems on the roads. We reached our first destination, Youngs Lobster Pound, at 10:00am. Rich ordered two lobster rolls for us, as usual, and we wandered around the dock while we waited for our food to be prepared. I couldn't resist looking for snakes (sea serpents?!) among the rocks, even though I knew I was very unlikely to see one.
 
@@ -66,7 +65,7 @@ The early September sun warmed us up quickly—finally we had perfect weather fo
 
 {% include gallery.html gallery_id="gallery1" class="2by2" %}
 
-Our lobster rolls were ready after about ten minutes, and we took them to the picnic tables on the waterfront platform behind the lobster pound. We were starving by this point! The rolls were bursting with fresh lobster meat, and they were such a pleasure to bite into and enjoy as our first Maine meal of the year.  Served as always with a bag of Utz kettle chips and some sliced pickles, the rolls were a perfect breakfast! Along with our lobster rolls, we finished up a bottle of mandarin orange-flavored Polar seltzer water. Then we continued on.
+The lobster rolls were ready after about ten minutes, and we took them to the picnic tables on the waterfront platform behind the lobster pound. We were starving by this point! The rolls were bursting with fresh lobster meat, and they were such a pleasure to bite into and enjoy as our first Maine meal of the year.  Served as always with a bag of Utz kettle chips and some sliced pickles, the rolls were a perfect breakfast! Along with our lobster rolls, we finished up a bottle of mandarin orange-flavored Polar seltzer water. Then we continued on.
 
 {% include gallery.html gallery_id="gallery2" class="2by2" %}
 
@@ -74,7 +73,7 @@ After crossing the bridge near Fort Knox followed by the bridge at Verona, and f
 
 Exploring the town of Bucksport was a great decision! We found so many cool things here. Rich parked along Main Street and asked me if there were any benchmarks nearby. 
 
-Obviously I had nothing prepared, because I didn't expect we would be stopping in Bucksport. But I used the little app I had developed to find that there were a bunch of landmark stations in town, a bolt with washer near what looked like railroad tracks, and a triangulation station (**`BUCKSPORT`**) at the top of a hill called Mount Olive. 
+Obviously I had nothing prepared, because I didn't expect we would be stopping in Bucksport. But I used the little app I had developed to find that there were a bunch of landmark stations in town, a bolt with washer (**`ROSEN`**) near what looked like railroad tracks, and a triangulation station (**`BUCKSPORT`**) at the top of a hill called Mount Olive. 
 
 That triangulation station didn't look too far away, so we decided to take a walk toward it. Turns out it was straight uphill and much farther than it appeared from the map. So once we reached the intersection of School and Elm Streets, we changed course and headed back down toward Main Street, where we checked out a few of the old buildings and examined the post office to see if there might be any USGS marks set in its foundation. 
 
@@ -82,7 +81,7 @@ We had no luck at the post office, but as we came around the back of that brick 
 
 Then we crossed Main Street, heading toward the waterfront. We spotted a brick pathway that looked like a walking trail leading in both directions along the water, and right next to it, a section of abandoned railroad tracks. Could these take us to the benchmark near the old railroad tracks? 
 
-We followed the walking path, which was so pretty and all along the way lined with plaques explaining the history of the town, the bridge, the fort, and the various prominent people of Bucksport's history. Once at the coordinates for the benchmark, Rich asked what type of mark we were looking for, and I said it was a bolt with a washer. 
+We followed the walking path, which was so pretty and all along the way lined with plaques explaining the history of the town, the bridge, the fort, and the various prominent people of Bucksport's history. When we arrived at the coordinates for the benchmark, Rich asked what type of mark we were looking for, and I said it was a bolt with a washer. 
 
 "Well, here's a washer!" he said. 
 
@@ -92,9 +91,11 @@ No, it was in fact just a plain washer on the ground that he happened to spot ri
 
 We continued our search around the little park where the bolt was supposedly set, but we saw nothing else that looked like even a remote possibility. We even checked the Geocaching page for this mark. Strangely enough, after no logs at all for 22 years, someone was here and logged a "Not Found" just last Monday. Weird. (And no, it wasn't Geeoh!) 
 
-Another weird thing is that the datasheet didn't say `SCALED` or `ADJUSTED` but rather `NO CHECK`, which I've never seen before (I would expect this type of mark to be adjusted, but if not, we may have been in the wrong spot). 
+Another weird thing is that the datasheet didn't say `SCALED` or `ADJUSTED` but rather `NO CHECK`, which I've never seen before (I would expect this type of mark to be adjusted, but if it wasn't, we may have been in the wrong spot). 
 
 Also, since the park was built beginning in 1984 and the bolt was set in 1982, it may have been removed or covered over long ago.
+
+{% include gallery.html gallery_id="gallery3" class="" %}
 
 This town is worthy of much deeper exploration. Among other things, I think we'll come back to look for a few more benchmarks! Before leaving, we took a drive up Central Street to check out the location of the Mount Olive mark. It's in deep woods on a high knoll, but I didn't see any "posted" signs and it looks doable—with significant effort—as long as we can find a good place to park. 
 
@@ -102,6 +103,8 @@ Just as we were leaving town I spotted a disk on a bridge bannister. Rich pulled
 
 {% include gallery.html gallery_id="gallery4" class="" %}
 
-Our trip to Bar Harbor was uneventful except for a brief section of Route 3 that had been completely stripped of pavement and is down to literal dirt. Traffic descends a steep hill and then curves back up sharply to meet the regular road surface. It was short but very weird. And I have no idea how some of the longer RVs we spotted on the road later would have handled it.
+Our drive to Bar Harbor was uneventful except for a brief section of Route 3 that had been completely stripped of pavement and is down to literal dirt. Traffic descends a steep hill and then curves back up sharply to meet the regular road surface. It was very short and very weird. And I have no idea how some of the longer RVs we spotted on the road later would have handled it.
 
-We arrived in town and checked in at our hotel at 1:55pm. Our room was ready, earlier than expected, and we collapsed onto the bed! We don't like arriving too late at Rosalie's Pizza, but we needed rest and didn't go for pizza until 5:30. Our plain pie was great as usual with two large Allagash White Ales. We ate the whole medium pizza while involved in deep conversation. Then after a quick trip to a very crazy Hannaford we came back to the room to continue our conversation and get ready for bed. 
+We arrived in town and checked in at our hotel at 1:55pm. Our room was ready (earlier than expected) and we collapsed onto the bed! We don't like arriving too late at Rosalie's Pizza, but we needed rest and didn't go for pizza until 5:30. Our plain pie was great as usual, accompanied by two large Allagash White Ales. We ate the whole medium pizza while involved in deep conversation. Then after a quick trip to an insanely busy Hannaford, we came back to the room to continue our conversation and get ready for bed. 
+
+<!-- TODO Finish benchmark recoveries! -->
