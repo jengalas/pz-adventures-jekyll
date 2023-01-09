@@ -10,7 +10,7 @@ categories:
   - survey mark hunting
 tags:
 excerpt: >-
-  
+  This year's trip to Maine is off to a good start: lobster rolls, benchmark hunting, and pizza!
 header:
   teaser:
 geocaches: false
