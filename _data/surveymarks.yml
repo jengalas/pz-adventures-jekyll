@@ -778,6 +778,41 @@
   mark_type: Survey Mark  
   date: 2013-09-05
   post_id: 3828     
+- designation: D 187
+  pid: KV2076
+  mark_type: Survey Mark  
+  date: 2013-04-21
+  post_id: 3626
+- designation: ELEPHANT
+  pid: KV3657
+  mark_type: Survey Mark  
+  date: 2013-04-21
+  post_id: 3626   
+- designation: ELEPHANT AZ MK
+  mark_type: Reference Mark  
+  date: 2013-04-21
+  custom_permalink: kv3657-az-mk
+  post_id: 3626
+- designation: ELEPHANT RM 1
+  mark_type: Reference Mark  
+  date: 2013-04-21
+  custom_permalink: kv3657-rm-1
+  post_id: 3626   
+- designation: ELEPHANT RM 2
+  mark_type: Reference Mark  
+  date: 2013-04-21
+  custom_permalink: kv3657-rm-2
+  post_id: 3626
+- designation: QUAKERTOWN TOHICKON CH SPIRE
+  pid: KV3775
+  mark_type: Survey Mark  
+  date: 2013-04-21  
+  post_id: 3626   
+- designation: BETHLEHEM REFORMED CH SPIRE
+  pid: KV3605
+  mark_type: Survey Mark  
+  date: 2013-04-21  
+  post_id: 3626  
 - designation: '476'
   pid: NB0427
   mark_type: Survey Mark  
