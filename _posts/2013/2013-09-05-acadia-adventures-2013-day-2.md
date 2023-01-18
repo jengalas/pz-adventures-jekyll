@@ -106,9 +106,7 @@ And as an almost unbelievable bonus, there's not one but _two_ survey markers on
 
 After eating we strolled across Franks Flat bridge to watch the powerful tidal outflow.  I tried to video it but the thunderous MaineDOT trucks passing by probably ruined the atmospheric sound of gull calls.  (Ever wonder why this road is so nicely paved and maintained?  We did, until we tried the food at the Bagaduce Lunch.  Now we know that the MaineDOT guys find _any_ reason they can to hang out here during the summer season!)
 
-<div class="embed-youtube">
-  <iframe width="880" height="495" src="https://www.youtube.com/embed/AhChvpAorz0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtube.html embed_code="AhChvpAorz0" %}
 
 Our next stop was what I've been looking forward to since I discovered it online a week ago: Sunset Acres GOAT Farm!!!  We drove down the sandy road toward the farm and immediately saw gorgeous goats perched on a pile of boulders!  This was a good sign.  A farmhand directed us to the bucks, yearlings and milkers before returning to his welding.  The bucks and yearlings were absolutely adorable!  My favorite turned out to be #1300 who came right over to me, gave me lots of goat kisses, tried eating my jacket.  He had the funniest poof of hair on top of his head and a fuzzy little beard, and I couldn't get enough of him.  His little sister eventually became curious and came over to visit too, and she stole my heart as well.
 
@@ -116,9 +114,7 @@ Our next stop was what I've been looking forward to since I discovered it online
 
 We asked the farmhand about purchasing some cheese, and at that moment the farm's owner, Bob, appeared and introduced himself.  Bob is a rather jolly man who with his white beard looked somewhat like a goat himself (but not in a bad way!).  He showed us his cheese room, where fresh goat milk curd was hanging to reduce the moisture content.  His wife Ann, who looked familiar to me even though I'm sure I've never had occasion to meet her before, soon appeared.  She sold us two tubs of spreadable cheese ("just plain" and parisienne, with herbs like tarragon) and confirmed that they would be at the Bar Harbor farmers' market on Sunday.  After a few more minutes of goat watching, we were on our way.
 
-<div class="embed-youtube">
-  <iframe width="880" height="495" src="https://www.youtube.com/embed/jGK6Mv9HgT0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtube.html embed_code="jGK6Mv9HgT0" %}
 
 Once in Bar Harbor, we wanted nothing more than to rest after all of the day's adventures.  After a nap we took a quick run to the Hannaford for some necessary supplies, and then headed directly to Rosalie's, of course, for our traditional first night pizza.  It was absolutely stellar, with a perfectly crisp crust and sauce and cheese that went all the way to the edge.  Shipyard Summer Ale rounded out the meal. 
 

@@ -18,6 +18,4 @@ layout: post
 
 It's not Petal, but we found another cute goat along the road (Route 292 near Falls, PA)!
 
-<div class="embed-youtube">
-  <iframe width="880" height="495" src="https://www.youtube.com/embed/e1SyLaFoWrk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtube.html embed_code="e1SyLaFoWrk" %}

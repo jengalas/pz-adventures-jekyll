@@ -49,9 +49,6 @@ galleries:
 
 {% include gallery.html gallery_id="gallery2" class="" %}
 
-<div class="embed-youtube">
-  <iframe width="880" height="495" src="https://www.youtube.com/embed/Sa9i_sHFiuU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{% include youtube.html embed_code="Sa9i_sHFiuU" %}
 
 
