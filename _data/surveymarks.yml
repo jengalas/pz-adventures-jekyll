@@ -888,7 +888,23 @@
   mark_type: Reference Mark  
   custom_permalink: ly2755-az-mk  
   date: 2010-08-14
-  post_id: 1210        
+  post_id: 1210 
+- designation: 42 DSW
+  mark_type: Survey Mark  
+  date: 2009-09-26
+  post_id: 773 
+- designation: 5 HLZ
+  mark_type: Survey Mark  
+  date: 2009-09-26
+  post_id: 773
+- designation: TT 5 J
+  mark_type: Survey Mark  
+  date: 2009-09-26
+  post_id: 773  
+- designation: 2 HLZ
+  mark_type: Survey Mark  
+  date: 2009-09-26
+  post_id: 773              
 
 
                
