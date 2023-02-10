@@ -12,7 +12,9 @@
 {% for mark in todaysm %}
 
     {% if mark.pid %}
-      {% if mark.mark_type == "Reference Mark" %}
+      {% if mark.custom_permalink %}
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+      {% elsif mark.mark_type == "Reference Mark" %}
         <li><a href="https://thesurveystation.com/reference-marks/{{ mark.pid | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
       {% else %}
         <li><a href="https://thesurveystation.com/surveymarks/{{ mark.pid | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
