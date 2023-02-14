@@ -956,6 +956,12 @@
   mark_type: Survey Mark  
   date: 2009-09-26
   post_id: 773  
+- designation: 854 5530 TIDAL 29
+  pid: JU0272
+  mark_type: Survey Mark  
+  date: 2009-06-12
+  custom_permalink: ju0727-2
+  post_id: 1026    
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  

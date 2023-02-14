@@ -24,5 +24,9 @@ We got turned back about halfway by an impassable section of mud and water-fille
 
 {% include tracklog.html %}
 
-See <cite><a href="https://books.google.com/books?id=UHcMAAAAYAAJ&pg=PA349&lpg=PA349&dq=panther+creek+viaduct&source=bl&ots=WfzyhnxKqR&sig=Np9rt9C-uBBC56GwXw2H43Myr8U&hl=en&ei=meN1SpGpA5CNtgfZps2WCQ&sa=X&oi=book_result&ct=result#v=onepage&q=panther%20creek%20viaduct&f=false">The Foundations of the Panther Creek Viaduct, Pa., U.S.</a></cite> for more information about the viaduct.
+See _[The Foundations of the Panther Creek Viaduct, Pa., U.S.](/assets/docs/foundations-of-panther-creek-viaduct.pdf)_ (source: <i>Minutes of Proceedings of the Institution of Civil Engineers</i>, Volume 118, 1894) for more information about the viaduct.
+
+{% include image.html filename="panther-creek-viaduct.jpg" thumb="panther-creek-viaductb.jpg" caption="An image of the Panther Creek Viaduct under construction (source: <i>Frank Leslie's Popular Monthly</i>, Vol. 52, 1901)" %}
+
+
 
