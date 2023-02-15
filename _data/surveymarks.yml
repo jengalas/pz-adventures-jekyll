@@ -961,7 +961,12 @@
   mark_type: Survey Mark  
   date: 2009-06-12
   custom_permalink: ju0727-2
-  post_id: 1026    
+  post_id: 1026  
+- designation: B 256
+  pid: LY0177
+  mark_type: Survey Mark  
+  date: 2009-05-31
+  post_id: 332     
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
