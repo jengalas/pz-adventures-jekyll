@@ -1184,6 +1184,84 @@
   mark_type: Survey Mark  
   date: 2008-08-27
   post_id: 197   
+- designation: LOP
+  pid: PE1825
+  mark_type: Survey Mark  
+  date: 2008-06-22
+  post_id: 825  
+- designation: DUKY
+  pid: PE1910
+  mark_type: Survey Mark  
+  date: 2008-06-22
+  post_id: 825  
+- designation: 'NPS (Unstamped, Acadia #6)'
+  mark_type: Survey Mark  
+  date: 2008-06-22
+  post_id: 825 
+- designation: ISLE AU HAUT LIGHTHOUSE
+  pid: PE2040
+  mark_type: Survey Mark  
+  date: 2008-06-21
+  post_id: 829   
+- designation: ISLE AU HAUT CHURCH SPIRE
+  pid: PE2026
+  mark_type: Survey Mark  
+  date: 2008-06-21
+  post_id: 829  
+- designation: DUCK HARBOR MOUNTAIN
+  pid: PE2033
+  mark_type: Survey Mark  
+  date: 2008-06-21
+  post_id: 829   
+- designation: DUCK HARBOR MOUNTAIN RM 1
+  mark_type: Reference Mark  
+  date: 2008-06-21
+  custom_permalink: pe2033-rm-1
+  post_id: 829  
+- designation: DUCK HARBOR MOUNTAIN RM 2
+  mark_type: Reference Mark  
+  date: 2008-06-21
+  custom_permalink: pe2033-rm-2
+  post_id: 829    
+- designation: WO 6
+  pid: PE0346
+  mark_type: Survey Mark  
+  date: 2008-06-21
+  post_id: 829 
+- designation: 10201-11
+  mark_type: Survey Mark  
+  date: 2008-06-21
+  custom_permalink: 10201-11
+  post_id: 829   
+- designation: 'NPS (Unstamped, Acadia #3)'
+  mark_type: Survey Mark  
+  date: 2008-06-20
+  post_id: 947   
+- designation: 'NPS (Unstamped, Acadia #4)'
+  mark_type: Survey Mark  
+  date: 2008-06-20
+  post_id: 947  
+- designation: 'NPS (Unstamped, Acadia #5)'
+  mark_type: Survey Mark  
+  date: 2008-06-20
+  post_id: 947  
+- designation: JDR/PVT
+  mark_type: Survey Mark  
+  date: 2008-06-20
+  custom_permalink: jdrpvt
+  post_id: 947  
+- designation: '195.10'
+  mark_type: Survey Mark  
+  date: 2008-06-15
+  post_id: 244 
+- designation: K 26
+  mark_type: Survey Mark  
+  date: 2008-06-15
+  post_id: 244 
+- designation: '1455.46'
+  mark_type: Survey Mark  
+  date: 2008-06-15
+  post_id: 244       
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
