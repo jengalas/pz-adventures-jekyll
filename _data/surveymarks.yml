@@ -1258,6 +1258,10 @@
   mark_type: Survey Mark  
   date: 2008-06-15
   post_id: 244 
+- designation: '1455.46'
+  mark_type: Survey Mark  
+  date: 2008-06-15
+  post_id: 244 
 - designation: LENOX
   pid: LY2796
   mark_type: Survey Mark  
@@ -1302,11 +1306,61 @@
   mark_type: Reference Mark  
   date: 2007-10-28
   custom_permalink: ly2791-rm-2
-  post_id: 140      
-- designation: '1455.46'
+  post_id: 140        
+- designation: RICHARDS 1865
+  pid: PE1885
   mark_type: Survey Mark  
-  date: 2008-06-15
-  post_id: 244       
+  date: 2007-09-18
+  post_id: 138       
+- designation: HADLEYS POINT
+  pid: PE1884
+  mark_type: Survey Mark  
+  date: 2007-09-18
+  post_id: 138 
+- designation: HADLEYS POINT RM 1
+  mark_type: Reference Mark  
+  date: 2007-09-18
+  custom_permalink: pe1884-rm-1
+  post_id: 138  
+- designation: HADLEYS POINT RM 2
+  mark_type: Reference Mark  
+  date: 2007-09-18
+  custom_permalink: pe1884-rm-2
+  post_id: 138    
+- designation: BARH B
+  pid: AI8314
+  mark_type: Survey Mark  
+  date: 2007-09-17
+  post_id: 137
+- designation: K 10
+  mark_type: Survey Mark  
+  date: 2007-09-17
+  post_id: 137  
+- designation: HULL 1944
+  pid: PE1804
+  mark_type: Survey Mark  
+  date: 2007-09-17
+  post_id: 137  
+- designation: W 144
+  pid: PE0276
+  mark_type: Survey Mark  
+  date: 2007-09-08
+  post_id: 128   
+- designation: PARKER 1870
+  pid: PE1898
+  mark_type: Survey Mark  
+  date: 2007-09-08
+  post_id: 128   
+- designation: PARKER 1870 RM 1
+  mark_type: Reference Mark  
+  date: 2007-09-08
+  custom_permalink: pe1898-rm-1
+  post_id: 128  
+- designation: PARKER 1870 RM 2
+  mark_type: Reference Mark  
+  date: 2007-09-08
+  custom_permalink: pe1898-rm-2
+  post_id: 128   
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
