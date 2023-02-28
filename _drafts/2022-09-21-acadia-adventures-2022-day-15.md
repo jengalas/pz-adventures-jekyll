@@ -30,7 +30,7 @@ We found some very intersting photographic subjects, and the morning light was p
 
 I met up with R and took hi down the tral too, back to the snake spot. We coud;n't spot either of them. We noted that the trail seems to continue across the carriage road - something else to explore next time!
 
-The rest of our morning was spent exploring the carriage road loop, and that interesitng "circle" we spotted on the map. It was a beautiful, peaceful grassy carriage road loop, just as it appeared. We're tinking maybe it was some kind of turnaround point for cariages? I can't imagine what it could have been if not somethig like that. It reminded me so much of our early trips to Acadia, when you could find thsi kind of peace on Day Mountain. Scent of balsam in the air, pine needles on the ground, rock ledges to explore, Rockefeller's teeth lining the pathway, sunshine, warmth, and _no people_!
+The rest of our morning was spent exploring the carriage road loop, and that interesitng "circle" we spotted on the map. It was a beautiful, peaceful grassy carriage road loop, just as it appeared. We're tinking maybe it was some kind of turnaround point for cariages? I can't imagine what it could have been if not somethig like that. It reminded me so much of our early trips to Acadia, when you could find this kind of peace on Day Mountain. Scent of balsam in the air, pine needles on the ground, rock ledges to explore, Rockefeller's teeth lining the pathway, sunshine, warmth, and _no people_!
 
 Once we returned to the parking lot, I had to take one more look for that elusive BM, K 19. Ther'es always a chance that something happened to expose the ledge! No luck, though, of course. But it wouldn't be a proper trip here without at least trying once.
 
