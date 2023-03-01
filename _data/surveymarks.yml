@@ -1341,6 +1341,49 @@
   mark_type: Survey Mark  
   date: 2007-09-17
   post_id: 137  
+- designation: BASS HARBOR RESET
+  pid: PE1836
+  mark_type: Survey Mark  
+  date: 2007-09-11
+  post_id: 131
+- designation: BASS HARBOR RESET RM 1
+  mark_type: Reference Mark  
+  date: 2007-09-11
+  custom_permalink: pe1836-rm-1
+  post_id: 131  
+- designation: BASS HARBOR RESET RM 2
+  mark_type: Reference Mark  
+  date: 2007-09-11
+  custom_permalink: pe1836-rm-2
+  post_id: 131     
+- designation: FERNALD HILL 1870
+  pid: PE1896
+  mark_type: Survey Mark  
+  date: 2007-09-10
+  post_id: 130
+- designation: FERNALD HILL RM 1
+  mark_type: Reference Mark  
+  date: 2007-09-10
+  custom_permalink: pe1896-rm-1
+  post_id: 130  
+- designation: FERNALD HILL RM 2
+  mark_type: Reference Mark  
+  date: 2007-09-10
+  custom_permalink: pe1896-rm-2
+  post_id: 130   
+- designation: K 25
+  mark_type: Survey Mark  
+  date: 2007-09-10
+  post_id: 130  
+- designation: K 25 RM
+  mark_type: Reference Mark  
+  date: 2007-09-10
+  custom_permalink: k-25-rm
+  post_id: 130  
+- designation: CADILLAC
+  mark_type: Survey Mark  
+  date: 2007-09-10
+  post_id: 130  
 - designation: WEST PEAK
   pid: PE1905
   mark_type: Survey Mark  
