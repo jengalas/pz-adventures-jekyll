@@ -17,6 +17,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: true
+tracklog: 19SEP22.gpx
 post_id: 14011
 layout: post  
 ---
@@ -38,6 +39,8 @@ There was clearly no way to make my way over to the supposed "foundation" (anoth
 So we headed back up the road toward the parking area and noticed that what we had seen on our way down but thought wasn't much, was actually very much a road! It was wide, clear, and easy to follow. We followed it until another, smaller, road or trail led down toward Lake Wood. We didn't find the few points of interest that were supposed to be here, ut we did find an easy to follow trail that led us alongside the lae, although not hugging the shoreline. It was a short distance up a ridge to the west. We followed this trail until it became completely obscured. It may well still exist, but it woudl be best for us to plot a few points further south (taken from the topo map) and see if we could pick the trail back up at some point. 
 
 Having explored enough of this trail for today, we headed back to the road and followed it to its end (or as far as we could legally walk) at the property boundary of the National Park and Wild Iris Farm.  The road continued but we could tell that it simply led to the horse farm. We turned around and after getting back to the car, drove up the crooked Road another quarter mile to find the Wild Iris horse farm.
+
+{% include tracklog.html %}
 
 We had a little energy left, so we took a drive up Kebo Street toward Harden Farm Rd. to check out the old road I had seen leading west from the Gret Meadow path just north of the quarry. We coudn't park at Harden Farm Rd but we got one of the parking spots a little further down alongside the golf course. It was a quick walk to the old road, but following it wasn't easy past the first 100 feet or so. It basically devolved into grassy open area dotted with rose bushes (that were covered with oval=shaped rosehips). There was b=no road, old grade, or even hint of a path evident. I found one place that looked slightly more promising than anything else and worked my way out to the Park Loop road. We'l check the tracklog to find out if it matches what we saw on the map. 
 

@@ -21,10 +21,10 @@ layout: post
 galleries:
   gallery1:
     suffix: cs
-    images:
-    - filename:
+    images: 
+    - filename: IMG_1706
       alt: 
-    - filename: 
+    - filename: P1040447
       alt:     
 ---
 
@@ -45,6 +45,8 @@ We napped briefly after getting settled, and then headed off to hike/climb the m
 While I'm not sure the birds would be bothered by anyone's presence on the cliffs, the park service seems to think they would, and therefore closes the trail from mid-April to mid-August (yes, that's a very significant portion of the hiking season in this area of the country).  
 
 I have an affinity for these "non-technical climbing trails," ones that don't require ropes but have plenty of difficult rock scrambles and climbs on rock faces with the aid of rungs, ladders, handrails, etc.  Many of them require some tricky moves and nerves of steel to overcome the sheer exposures, and I love the challenges whether physical or mental.
+
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 The heat and humidity were going to be a problem, I could tell from the start.  We both suffer from leg cramps (oh, there is _no_ pain like waking at 2:00am with legs in knots, and if you've ever felt them you know exactly what I mean).  I was also concerned for Rich's knees, which have also been troublesome lately.  But we climbed slowly, savoring each view over the ocean though the day was hazy, and resting on each ledge that was wide enough for comfortable standing.  We checked the marshland below the cliffs for moose, our optimism fading as the afternoon wore on.  And no, we never saw our moose, but we did reach the summit of Champlain Mountain!  High hooves all around, and of course I wanted to repeat the trail immediately.  Hiking down is more difficult, though, and not as much fun.  We had planned to hike down the Bear Brook Trail (newly renamed the North Ridge Trail) to the East Face Trail, and after resting a few moments and checking on [**`NEWPORT 1860`**](https://thesurveystation.com/surveymarks/pe1780/), that's exactly what we did.
 

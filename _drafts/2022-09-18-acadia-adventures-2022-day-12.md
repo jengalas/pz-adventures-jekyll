@@ -16,6 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+tracklog: 18SEP22.gpx
 post_id: 14010
 layout: post  
 ---
@@ -27,6 +28,8 @@ While eating on our porch, we decided on our day's activities - a walk from town
 At Sieur de Monts it became cooler and darker, although this might have been just because we were deeper in the woods. It did feel like rain was very close by, thuogh. We began to walk the Wild Garden Path toward the Tarn, and very soon we came upon what looked at first to be a large culvert lined with large granite blocks in the typical Acadian building style. I turned to look at it from a few feet further down the trail, thoguh, and at the same time as Rich, reazlied that there was actually a road grade passing over this culvert. It was the remnants of an old, wide road passing over this bridge! We were suddenly so excited, realizing that this may have been one of the original entry routs into the park! (We later found a road that matches up with this area on the 1921 and 1930 maps. We also found a road that matches up with the other old road I discovered last year, just north of the quarry along Great Meadow path. That seems to head over toward the Kebo steps and is prbably the Kebo Mountain, East Side (#374) path mentioned in Pathmakrs. They make no mention of the steps, but could they have been part of this trail?)
 
 The bus schedules didn't work out for us today (it's so much harder to get to and from Sieur de Monts this year) so we ended up walking back to town.
+
+{% include tracklog.html %}
 
 It turned chilly while we were at Sieur de Monts and although the sky brihgtened and it warmed up considerably while we were walking back to town, by an hour and a half later when we were leaving for supper, it was raining lightly and felt very chilly. We had decided on Rosalie's again, always comforting on a chily day and after a long walk, and good for something more casual and lighter. We planned to be there by 4pm when tehy opened so we would have our choice of tables, and it worked out well. (Although the place surprisingly wasn't as busy as I expected for a cold, drizzly Sunday evening.) We took the first booth on the 1st floor, which is relaively secluded, althuogh it was chilly at first becase the door was kept open. It became much cozier later, when the workers there closed the door and at that point I felt like I could have stayed and talked about the old raods and trails for another hour! Too bad we were almost done with our pizza and beer. We sipped on the remainder of our beer for a whiel just to enjoy the warmth and continue discussing the apaths. Tonight's pizza was half "peps" and half House Veggie, a combination of tomato, onion, garlic, green pepper, and broccoli tht I had been dying to try and that was _very_ good. Rich admitted he was a bit skeptcial at first, particularly about the green pepper, but he ended up really enjoying it. We'll get it again.
 

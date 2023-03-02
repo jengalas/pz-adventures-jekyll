@@ -1341,6 +1341,37 @@
   mark_type: Survey Mark  
   date: 2007-09-17
   post_id: 137  
+- designation: 841 3320 TIDAL A
+  mark_type: Survey Mark  
+  date: 2007-09-13
+  post_id: 133 
+- designation: 841 3320 TIDAL C
+  mark_type: Survey Mark  
+  date: 2007-09-13
+  post_id: 133
+- designation: 841 3320 TIDAL F
+  mark_type: Survey Mark  
+  date: 2007-09-13
+  post_id: 133     
+- designation: "USNPS (Unstamped, Acadia #2)"
+  mark_type: Survey Mark  
+  date: 2007-09-13
+  post_id: 133    
+- designation: TIDAL 8 STA 12
+  pid: PE0297
+  mark_type: Survey Mark  
+  date: 2007-09-12
+  post_id: 132  
+- designation: SOUTHWEST HARBOR CHURCH SPIRE
+  pid: PE1897
+  mark_type: Survey Mark  
+  date: 2007-09-12
+  post_id: 132  
+- designation: K 13
+  pid: PE0296
+  mark_type: Survey Mark  
+  date: 2007-09-12
+  post_id: 132   
 - designation: BASS HARBOR RESET
   pid: PE1836
   mark_type: Survey Mark  
