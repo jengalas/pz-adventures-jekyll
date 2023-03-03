@@ -18,6 +18,31 @@ geocaches: false
 surveymarks: true
 post_id: 129
 layout: post
+galleries:
+  gallery1:
+    suffix: cs
+    images:
+    - filename: P1040449
+      alt: I love these moss and lichen covered ledges!
+    - filename: IMG_1743
+      alt: Rich in the middle of a colorful scene.
+    - filename: IMG_1745
+      alt: Fall is coming soon.      
+    - filename: IMG_1746
+      alt: Beautiful ocean views     
+    - filename: IMG_1749
+      alt: A splash of color!      
+    - filename: P1040461
+      alt: The trail was slippery in spots!   
+  gallery2:
+    suffix: cs
+    images:
+    - filename: pe1905
+      alt: NGS Triangulation Station Disk WEST PEAK
+    - filename: pe1905g3
+      alt: Our measurements and observations make us almost certain these are the anchors from the old summer house mentioned in the description.
+    - filename: pe1905rm1g2
+      alt: Looking SSE toward RM 1 (on the small outcropping in the distance) from the summit sign near the station.        
 ---
 
 This Sunday morning dawned clear and bright.  Of course, we were still in bed long past sunrise so we missed the spectacle of it all, but the weatherman and the cool morning air assured me that the skies had stayed clear right through the night.  
@@ -36,9 +61,13 @@ The area near Seal Cove is densely wooded, and it gives no hint of being so near
 
 The West Ledge Trail, like many Acadia trails, leads through woods on its first stretch, with rocks everywhere underfoot for us to avoid (or not).  The trail soon becomes much steeper, and we peeked out onto an open bedrock ledge every once in a while, though we were still surrounded by trees on most sides.  Then, the payoff: a wide expanse of bedrock leading us to 180° views over Seal Cove, the low densely forested hills along the shoreline, and the ocean.  Fiery oranges and golds were just beginning to appear in the trees.  These fall leaves trembled in the breeze and the ocean sparkled in the sunshine—the whole scene was shimmering and lovely.  We could see it all from our natural rock bench on the ledges, where we sat to share a drink and snack.
 
+{% include gallery.html gallery_id="gallery1" class="" %}
+
 With somewhat rested knees we resumed our hike, and the trail soon took us into the woods again, winding through some lush green areas as well as some strangely dark and spooky ones.  When we emerged, just a few hundred feet from the tri-station coordinates, we saw on the rock ledge before us four iron rods set out in a square, and a ring set into the rock at the midpoint.  Could this have been the remains of the "small summer house built of native timber and chained to the rock"?  The proximity to the station disk, and the fact that the direction checks as well, is strong evidence that it was.  How neat!  We were both thrilled to have discovered such an "artifact" and, thanks to the datasheet, to know what once stood there.
 
 Rich and I walked right up to the station disk, and found it to be in good condition, as was RM 1.  RM 2 required a fair amount of measuring and digging (oh yes, we were sure to roll back the moss carpet!) but Rich eventually uncovered it.  I wanted him to rest his knees while I took my photos of the marks; he rested for a minute and ate some peanut butter crackers, but was on his feet again soon to offer a helping hand with the photos.  We have so much fun doing this together!
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 While we were tidying up the area, I suddenly felt a chill.  Was it because I had finally cooled off from the hike and all the activity at the summit?  More likely it was due to the increasing clouds and a chilly, damp breeze.  That breeze turned to wind as we headed back on the trail the way we had come, and before long, I could feel rain.  
 

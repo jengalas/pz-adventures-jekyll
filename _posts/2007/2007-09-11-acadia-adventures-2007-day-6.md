@@ -17,6 +17,16 @@ geocaches: false
 surveymarks: true
 post_id: 131
 layout: post
+galleries:
+  gallery1:
+    suffix: cs
+    images:
+    - filename: IMG_1864
+      alt: One of the beautiful wooden bridges
+    - filename: pe1836
+      alt: NGS Copper Bolt BASS HARBOR RESET
+    - filename: pe1836rm2g1
+      alt: Eyelevel view of RM 2 in bedrock.
 ---
 
 Ah, yes, Tuesday.  It's the rain day you've all been waiting for (you knew it was coming, right?!).  We awoke mildly disappointed but determined to enjoy the day anyway.  Our activities began with breakfast at Jeannie's, where I had pancakes again (banana this time) and Rich ordered the French toast made with thick slices of Jeannie's homemade oatmeal bread.  
@@ -30,6 +40,8 @@ The only hint of a trail we found (and promptly lost) began at the lighthouse pa
 The woods were incredibly thick with pine, blueberry, and other scratchy scrub trees which cut us up as we picked our way toward the coordinates.  Eventually we reached an area clear of trees, although we were still waist deep in scrub.  Small rock outcroppings appeared here and there, and though it took us a while to zero in on the bolt, we eventually found it just a few feet from a large pile of rocks.  
 
 The reference marks soon followed, fortunately, because by this point the mist had turned to a heavy sprinkle, and our equipment was getting wet.  We measured and photographed, and then picked our way back out through the moist mossy gnarled woods.  Somehow on our way back we stumbled across some different segments of trail, and some new bridges.  I'm very impressed with the quality of workmanship!
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 Tempted by Beal's, we drove over to Southwest Harbor.  It struck me that there were some USGS marks in this area; one was supposed to be on the post office, which appeared before us on Clark Point Road.  The building was from the 1930s, so it was possible that this was the original post office, though it didn't quite look right.  We parked and rounded the corner to the north side of the building, making our way to the northeast corner.  The mark was supposed to be set into the building foundation one foot above the ground and 12 feet in from that corner.  Nothing matched up, though.  Not only was there a wall from some sort of enclosure (admittedly a recent addition to the building) right at the 12-foot mark, but the concrete foundation didn't stretch more than nine inches above the ground before the layer of brick began.  There was no room for a mark.  The young man in the post office was a new employee and had no idea about its history, though a man waiting behind us in line claimed that the old post office had been up on Main Street and was now the Little Notch Bakery.  File that away for later.
 
