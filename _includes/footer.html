@@ -18,6 +18,11 @@
       plugins: [lgRelativeCaption],
       appendSubHtmlTo: '.lg-item',
       relativeCaption: true,
+      mobileSettings: {
+        controls: false, 
+        showCloseIcon: true, 
+        download: true,
+      },
     })
   });
   document.querySelectorAll('.gallery').forEach((lightGalleryElement) => {
