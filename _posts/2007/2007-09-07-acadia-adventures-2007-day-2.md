@@ -23,9 +23,11 @@ galleries:
     suffix: cs
     images: 
     - filename: IMG_1706
-      alt: 
+      alt: Looking toward the Porcupines from the sheer cliffs of the Precipice
     - filename: P1040447
-      alt:     
+      alt: Wooden bridge and iron railing along the way    
+    - filename: P9050009
+      alt: Warning sign at the top of the trail         
 ---
 
 I was half asleep by the time we exited the highway at the I-95 rest stop in Kittery, just after crossing from New Hampshire into Maine (so it's a good thing I wasn't driving).  It was 1:30am.  For the second year in a row, the women's restrooms were being cleaned when we arrived, so I washed up in the handicapped restroom instead, which was quite posh in comparison.
@@ -48,8 +50,8 @@ I have an affinity for these "non-technical climbing trails," ones that don't re
 
 {% include gallery.html gallery_id="gallery1" class="2by2" %}
 
-The heat and humidity were going to be a problem, I could tell from the start.  We both suffer from leg cramps (oh, there is _no_ pain like waking at 2:00am with legs in knots, and if you've ever felt them you know exactly what I mean).  I was also concerned for Rich's knees, which have also been troublesome lately.  But we climbed slowly, savoring each view over the ocean though the day was hazy, and resting on each ledge that was wide enough for comfortable standing.  We checked the marshland below the cliffs for moose, our optimism fading as the afternoon wore on.  And no, we never saw our moose, but we did reach the summit of Champlain Mountain!  High hooves all around, and of course I wanted to repeat the trail immediately.  Hiking down is more difficult, though, and not as much fun.  We had planned to hike down the Bear Brook Trail (newly renamed the North Ridge Trail) to the East Face Trail, and after resting a few moments and checking on [**`NEWPORT 1860`**](https://thesurveystation.com/surveymarks/pe1780/), that's exactly what we did.
+The heat and humidity were going to be a problem, I could tell from the start.  We both suffer from leg cramps (oh, there is _no_ pain like waking at 2:00am with legs in knots, and if you've ever felt them you know exactly what I mean).  I was also concerned for Rich's knees, which have also been troublesome lately.  But we climbed slowly, savoring each view over the ocean though the day was hazy, and resting on each ledge that was wide enough for comfortable standing.  We checked the marshland below the cliffs for moose, our optimism fading as the afternoon wore on.  And no, we never saw our moose, but we did reach the summit of Champlain Mountain!  High hooves all around, and of course I wanted to repeat the trail immediately.  Hiking down is more difficult, though, and not as much fun.  We had planned to hike down the Bear Brook Trail (newly renamed the North Ridge Trail) to the East Face Trail, and after resting a few moments and checking on [**NEWPORT 1860**](https://thesurveystation.com/surveymarks/pe1780/), that's exactly what we did.
 
-The Bear Brook trail leads over the smooth, open north face of Champlain Mountain.  Rich and I were trapped in a thunderstorm here in 2005, a rather dramatic episode in which we could see the storm powering toward us across the bay but had nowhere to hide.  Today, the weather was docile.  We checked on another of our old friends—[JDR/USA](http://surveymarks.planetzhanna.com/surveymarks/jdrusa/)—before turning east to climb down the steep and rocky (but mercifully short) East Face Trail.  This took us back to the Park Loop Road, just a five-minute walk from our car.
+The Bear Brook trail leads over the smooth, open north face of Champlain Mountain.  Rich and I were trapped in a thunderstorm here in 2005, a rather dramatic episode in which we could see the storm powering toward us across the bay but had nowhere to hide.  Today, the weather was docile.  We checked on another of our old friends—[**JDR/USA**](http://surveymarks.planetzhanna.com/surveymarks/jdrusa/)—before turning east to climb down the steep and rocky (but mercifully short) East Face Trail.  This took us back to the Park Loop Road, just a five-minute walk from our car.
 
 Supper was cheap, fast, and the number one object of our cravings for the past fifteen months: Rosalie's Pizza.  It's still as awesome as ever, with a perfectly crispy and _flavorful_ thin crust that bubbles up in spots, a generous amount of simple, tangy tomato sauce, uniform sprinkling of cheese, and my favorite topping: sausage!  (I still like it just **this much** better than the pepperoni, R!!!)  We had no trouble claiming a booth, and there's hardly a better combination than relaxing with my favorite person, a Shipyard Summer Ale, a large Rosalie's sausage pizza, and 50s music playing in the background.  Warm and satisfied, we returned to our room where we fell asleep early and dreamed of discovering some of the secrets this island has saved for us.

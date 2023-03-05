@@ -1450,6 +1450,32 @@
   date: 2007-09-08
   custom_permalink: pe1898-rm-2
   post_id: 128   
+- designation: 13-06 12
+  mark_type: Survey Mark  
+  date: 2007-08-25
+  post_id: 125 
+- designation: F 48
+  pid: KV2763
+  mark_type: Survey Mark  
+  date: 2007-08-17
+  post_id: 124  
+- designation: 96-36-1016-3
+  mark_type: Survey Mark  
+  date: 2007-08-12
+  post_id: 14020    
+- designation: PDH
+  mark_type: Survey Mark  
+  date: 2007-07-14
+  custom_permalink: pdh-7
+  post_id: 123 
+- designation: 26 JPN
+  mark_type: Survey Mark  
+  date: 2007-07-14
+  post_id: 123    
+- designation: STILL
+  mark_type: Survey Mark  
+  date: 2007-06-02
+  post_id: 115   
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
