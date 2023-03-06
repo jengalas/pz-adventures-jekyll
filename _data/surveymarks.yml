@@ -1476,6 +1476,36 @@
   mark_type: Survey Mark  
   date: 2007-06-02
   post_id: 115   
+- designation: G 60
+  pid: LY1043
+  mark_type: Survey Mark  
+  date: 2007-05-05
+  post_id: 100
+- designation: GIRR
+  pid: LY2633
+  mark_type: Survey Mark  
+  date: 2007-04-10
+  post_id: 94
+- designation: GIRR RM 1
+  mark_type: Reference Mark  
+  date: 2007-04-10
+  custom_permalink: ly2633-rm-1
+  post_id: 94  
+- designation: GIRR RM 2
+  mark_type: Reference Mark  
+  date: 2007-04-10
+  custom_permalink: ly2633-rm-2
+  post_id: 94    
+- designation: S 30
+  pid: LY0753
+  mark_type: Survey Mark  
+  date: 2007-04-10
+  post_id: 94  
+- designation: T 30
+  pid: LY0754
+  mark_type: Survey Mark  
+  date: 2007-04-10
+  post_id: 94
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
