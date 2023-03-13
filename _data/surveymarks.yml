@@ -1506,6 +1506,77 @@
   mark_type: Survey Mark  
   date: 2007-04-10
   post_id: 94
+- designation: HIGH TOR BEACON
+  pid: LX4216
+  mark_type: Survey Mark
+  date: 2006-09-22
+  post_id: 64
+- designation: HIGH TOR RESET
+  pid: LX4218
+  mark_type: Survey Mark
+  date: 2006-09-22
+  post_id: 64  
+- designation: HIGH TOR RESET RM 1
+  mark_type: Reference Mark
+  date: 2006-09-22
+  custom_permalink: lx4218-rm-1
+  post_id: 64 
+- designation: HIGH TOR RESET RM 2
+  mark_type: Reference Mark
+  date: 2006-09-22
+  custom_permalink: lx4218-rm-2
+  post_id: 64     
+- designation: GRASSY 2
+  pid: LX4205
+  mark_type: Survey Mark
+  date: 2006-09-22
+  post_id: 64  
+- designation: GRASSY 2 RM 1
+  mark_type: Reference Mark
+  date: 2006-09-22
+  custom_permalink: lx4205-rm-1
+  post_id: 64 
+- designation: GRASSY 2 RM 2
+  mark_type: Reference Mark
+  date: 2006-09-22
+  custom_permalink: lx4205-rm-2
+  post_id: 64       
+- designation: CAMELBACK
+  pid: LY2688
+  mark_type: Survey Mark 
+  custom_permalink: ly2688-2
+  date: 2006-09-07
+  post_id: 63
+- designation: CAMELBACK RM 1
+  mark_type: Reference Mark  
+  date: 2006-09-07
+  custom_permalink: ly2688-rm-1-2
+  post_id: 63    
+- designation: CAMELBACK RM 2
+  mark_type: Reference Mark  
+  date: 2006-09-07
+  custom_permalink: ly2688-rm-2-2
+  post_id: 63  
+- designation: CAMELBACK AZ MK
+  mark_type: Reference Mark  
+  date: 2006-09-07
+  custom_permalink: ly2688-az-mk-2
+  post_id: 63   
+- designation: HICKORY
+  pid: LY2742
+  mark_type: Survey Mark  
+  date: 2006-08-31
+  post_id: 62
+- designation: HICKORY RM 1
+  mark_type: Reference Mark  
+  date: 2006-08-31
+  custom_permalink: ly2742-rm-1
+  post_id: 62  
+- designation: HICKORY RM 2
+  mark_type: Reference Mark  
+  date: 2006-08-31
+  custom_permalink: ly2742-rm-2
+  post_id: 62   
 - designation: 51-051
   mark_type: Survey Mark  
   date: 2006-07-21
