@@ -1580,7 +1580,43 @@
 - designation: 51-051
   mark_type: Survey Mark  
   date: 2006-07-21
-  post_id: 56    
+  post_id: 56 
+- designation: Z 235
+  pid: LY1235
+  mark_type: Survey Mark  
+  date: 2006-05-18
+  custom_permalink: ly1235-2
+  post_id: 43   
+- designation: Q 50 RESET 1944
+  pid: LY1243
+  mark_type: Survey Mark  
+  date: 2006-05-18
+  post_id: 43     
+- designation: TEDY
+  pid: LY2668
+  mark_type: Survey Mark  
+  date: 2006-05-18
+  post_id: 43   
+- designation: TEDY RM 1
+  mark_type: Reference Mark  
+  date: 2006-05-18
+  custom_permalink: ly2668-rm-1
+  post_id: 43   
+- designation: TEDY RM 2
+  mark_type: Reference Mark  
+  date: 2006-05-18
+  custom_permalink: ly2668-rm-2
+  post_id: 43   
+- designation: B 281
+  pid: LY1594
+  mark_type: Survey Mark  
+  date: 2006-05-12
+  post_id: 41  
+- designation: E 56
+  pid: LY1343
+  mark_type: Survey Mark  
+  date: 2006-05-05
+  post_id: 38
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
