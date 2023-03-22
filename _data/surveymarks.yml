@@ -1617,6 +1617,16 @@
   mark_type: Survey Mark  
   date: 2006-05-05
   post_id: 38
+- designation: NJDPF(2)
+  mark_type: Survey Mark  
+  date: 2006-01-20
+  custom_permalink: njdpf2
+  post_id: 19
+- designation: NJDPF(1)
+  mark_type: Survey Mark  
+  date: 2006-01-20
+  custom_permalink: njdpf1
+  post_id: 19  
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
