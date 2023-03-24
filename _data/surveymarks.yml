@@ -1627,6 +1627,21 @@
   date: 2006-01-20
   custom_permalink: njdpf1
   post_id: 19  
+- designation: BULL HILL RESET
+  pid: LX4373
+  mark_type: Survey Mark  
+  date: 2005-11-05
+  post_id: 16
+- designation: BULL HILL RM 1
+  mark_type: Reference Mark  
+  date: 2005-11-05
+  custom_permalink: lx4373-rm-1
+  post_id: 16  
+- designation: BULL HILL RM 2
+  mark_type: Reference Mark  
+  date: 2005-11-05
+  custom_permalink: lx4373-rm-2
+  post_id: 16   
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  

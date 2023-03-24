@@ -60,7 +60,6 @@ Rich and I visited the Ironworks as part of our day-long explorations of some of
 
 In addition to a geocache and two survey markers we found, it was nice to be able to log a Terracache here as well: [Old Iron Furnaces Terracache](https://play.terracaching.com/Cache/LC7X) by turtle3863 (Note: you must be logged into the [Terracaching](https://www.terracaching.com/) site to view)
 
-
 {% include gallery.html gallery_id="gallery2" class="" %}
 
 
