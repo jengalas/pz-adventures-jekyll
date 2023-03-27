@@ -1642,6 +1642,70 @@
   date: 2005-11-05
   custom_permalink: lx4373-rm-2
   post_id: 16   
+- designation: SAMS POINT RESET
+  pid: LY2900
+  mark_type: Survey Mark  
+  date: 2005-10-21
+  post_id: 13
+- designation: SAMS POINT RM 1
+  mark_type: Reference Mark  
+  date: 2005-10-21
+  custom_permalink: ly2900-rm-1
+  post_id: 13  
+- designation: SAMS POINT RM 2
+  mark_type: Reference Mark  
+  date: 2005-10-21
+  custom_permalink: ly2900-rm-2
+  post_id: 13  
+- designation: SAMS POINT AZ MK
+  mark_type: Reference Mark  
+  date: 2005-10-21
+  custom_permalink: ly2900-az-mk
+  post_id: 13 
+- designation: BUTTER HILL RESET
+  pid: LY2493
+  mark_type: Survey Mark  
+  date: 2005-08-17
+  post_id: 95
+- designation: BUTTER HILL RESET RM 1
+  mark_type: Reference Mark  
+  date: 2005-08-17
+  custom_permalink: ly2493-rm-1
+  post_id: 95 
+- designation: BUTTER HILL RESET RM 2
+  mark_type: Reference Mark  
+  date: 2005-08-17
+  custom_permalink: ly2493-rm-2
+  post_id: 95   
+- designation: ROON
+  pid: KU4063
+  mark_type: Survey Mark  
+  date: 2005-08-10
+  post_id: 813
+- designation: ROON RM 1
+  mark_type: Reference Mark  
+  date: 2005-08-10
+  custom_permalink: ku4063-rm-1
+  post_id: 813 
+- designation: ROON RM 2
+  mark_type: Reference Mark  
+  date: 2005-08-10
+  custom_permalink: ku4063-rm-2
+  post_id: 813    
+- designation: BURNETT
+  pid: KU4050
+  mark_type: Survey Mark  
+  date: 2005-08-10
+  post_id: 813  
+- designation: PDH
+  mark_type: Survey Mark  
+  date: 2005-08-02
+  custom_permalink: pdh-5
+  post_id: 96  
+- designation: 37 B
+  mark_type: Survey Mark  
+  date: 2005-08-02
+  post_id: 96    
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
