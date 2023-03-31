@@ -18,12 +18,12 @@ galleries:
   gallery1:
     suffix: cs
     images: 
-    - filename: pdh5
-      alt: PA Dept. of Highways Elevation Mark   
-    - filename: pdh5g1
-      alt: This PDH disk can be found in the northwest wingwall of this bridge over Hettesheimer Run.
-    - filename: 37bg1
-      alt: Fortunately 37 B was clear of moss when Rich spotted it ... or he probably wouldn't have!                                               
+    - filename: 15cg1
+      alt: 15 C on rock outcrop, now flush with the ground.   
+    - filename: 25hlzg1
+      alt: Eyelevel view of the disk on the culvert.
+    - filename: ly1109g3
+      alt: Gouldsboro station has been restored.                                               
 ---      
 
 On a mid-July day too hot and much too humid to do anything but drive around in an air-conditioned car, Rich and I decided to check out the southern portion of the railbed near Clifton. (We had biked the northern part in May, exploring the Boar Hole and finding 39 JPN along the way.) I was hoping the southern half of the railbed would offer the same kind of scenic riding and easy approaches to the several benchmarks along its route. We couldn't tell from the maps how accessible this portion would be nor how it would cross the Lehigh River, so we resolved to check out the area first by car and then come back with the bikes if possible.

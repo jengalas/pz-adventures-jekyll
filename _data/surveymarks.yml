@@ -1706,6 +1706,40 @@
   mark_type: Survey Mark  
   date: 2005-08-02
   post_id: 96    
+- designation: 03-35T
+  mark_type: Survey Mark  
+  date: 2005-07-23
+  post_id: 97   
+- designation: 15 C
+  mark_type: Survey Mark  
+  date: 2005-07-18
+  post_id: 819   
+- designation: 25 HLZ
+  mark_type: Survey Mark  
+  date: 2005-07-18
+  post_id: 819      
+- designation: DLW 1889
+  pid: LY1109
+  mark_type: Survey Mark  
+  date: 2005-07-18
+  post_id: 819   
+- designation: 39 JPN
+  mark_type: Survey Mark  
+  date: 2005-05-22
+  post_id: 1007
+- designation: SWITCHBACK CHIM MT JEFFERSON
+  pid: KV3870
+  mark_type: Survey Mark  
+  date: 2005-05-07
+  post_id: 836
+- designation: USGS GAGING STATION 01449800
+  mark_type: Survey Mark  
+  date: 2005-04-15
+  post_id: 2013  
+- designation: BM DUNMORE RESERVOIR 3
+  mark_type: Survey Mark  
+  date: 2005-03-18
+  post_id: 1056    
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
