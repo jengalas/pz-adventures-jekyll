@@ -92,6 +92,7 @@ DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-archives
   jekyll-paginate-v2
+  jekyll-sass-converter
   jemoji
   tzinfo (~> 2.0)
   tzinfo-data

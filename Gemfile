@@ -30,6 +30,8 @@ gem "tzinfo", "~> 2.0"
 
 gem 'tzinfo-data'
 
+gem 'jekyll-sass-converter'
+
 gem 'jemoji'
 
 gem 'jekyll-archives'
