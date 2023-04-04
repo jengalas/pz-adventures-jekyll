@@ -44,6 +44,8 @@ Once back on the trail from our detour to Eagle Hill, we crossed the highway and
 
 We passed beneath Route 117 and turned onto the Witch's Spring Trail. We made another quick detour to Spook Rock (how could you not?!) and found it to be a large, flat-topped boulder that would be a perfect snack or picnic spot on a dry day. Today, everything was just too soggy, and we preferred to keep moving.
 
+We returned to the Witch's Spring Trail and continued south. Somewhere here, after the bridge just south of this trail, is where we got mixed up. Even the trail guide indicates that the signage in this area is poor, although we weren't following the guide turn by turn because we didn't want to keep it out in the rain. T
+
 Rockefeller State Park Preserve.  Warm, lovely walk in misty conditions, then pouring rain.  Shared a snack ("cheese curls!!!") and then the rain began.  Stopping and starting all day long.  Got lost on the carriage roads during the worst part of the rain.  (Give directions from woman and man and show which way we went.)  Still very cozy and fun day.   Excellent dinner at the Mexican restaurant - flautas and steak and flaming pears!!! (Guadalajara?)
 
 {% include tracklog.html %}
