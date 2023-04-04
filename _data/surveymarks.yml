@@ -1581,6 +1581,11 @@
   mark_type: Survey Mark  
   date: 2006-07-21
   post_id: 56 
+- designation: PTOLEMY
+  pid: AB3880
+  mark_type: Survey Mark  
+  date: 2006-06-03
+  post_id: 16003   
 - designation: Z 235
   pid: LY1235
   mark_type: Survey Mark  
@@ -1722,7 +1727,7 @@
   pid: LY1109
   mark_type: Survey Mark  
   date: 2005-07-18
-  post_id: 819   
+  post_id: 819      
 - designation: TT 2 H
   mark_type: Survey Mark  
   date: 2005-05-29

@@ -12,7 +12,7 @@ excerpt: >-
 header:
   teaser:
 geocaches: false
-surveymarks: false
+surveymarks: true
 tracklog: 03JUN06.gpx
 post_id: 16003
 layout: post           
@@ -38,7 +38,11 @@ We've been having so much fun lately choosing hikes from "50 Hikes in the Lower 
 
 This was attractive to us for a few reasons: the park features wide-open carriage roads which would be pleasant enough to walk even in moderate rain (with proper gear), and it just so happens that these carriage roads were built by John D. Rockefeller, who built the very similar carriage roads that we love in Acadia. The Preseve even features a "13 Bridges Loop" evocative of Acadia's "Seven Bridges" section of carriage roads near Aunt Betty Pond.
 
-Following the hike outlined in the "50 Hikes" book, we parked ... and followed the Sleepy Hollow Trail west from the parking area until we reached the turnoff for the Eagle Hill Loop. This is a short jaunt up and around a small knoll. We stopped here to share a snack ("cheese curls!!!") and this is where the warm misty conditions suddenly turned to pouring rain.
+Following the hike outlined in the "50 Hikes" book, we parked at the parking area just off Route 117, and went through the tollbooth onto the trails.  We followed the Old Sleepy Hollow Road Trail southwest from the parking area until we reached the turnoff for the Eagle Hill Loop. This is a short jaunt up and around a small knoll. We stopped here at a large boulder to share a snack ("cheese curls!!!") and this is where the warm misty conditions suddenly turned to pouring rain. We decided that we might as well continue on our planned route. It was warm, and as long as we could stay warm and relatively dry, we figured the walk would be pleasant enough.
+
+Once back on the trail from our detour to Eagle Hill, we crossed the highway and wandered north along the Thirteen Bridges trail. It loops up to the north and then back south again, the thirteen bridges crossing Gory Brook as the trail (carriage road) passes back and forth over the brook on the second half of this loop.
+
+We passed beneath Route 117 and turned onto the Witch's Spring Trail. We made another quick detour to Spook Rock (how could you not?!) and found it to be a large, flat-topped boulder that would be a perfect snack or picnic spot on a dry day. Today, everything was just too soggy, and we preferred to keep moving.
 
 Rockefeller State Park Preserve.  Warm, lovely walk in misty conditions, then pouring rain.  Shared a snack ("cheese curls!!!") and then the rain began.  Stopping and starting all day long.  Got lost on the carriage roads during the worst part of the rain.  (Give directions from woman and man and show which way we went.)  Still very cozy and fun day.   Excellent dinner at the Mexican restaurant - flautas and steak and flaming pears!!! (Guadalajara?)
 
