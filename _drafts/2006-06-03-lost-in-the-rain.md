@@ -15,15 +15,7 @@ geocaches: false
 surveymarks: true
 tracklog: 03JUN06.gpx
 post_id: 16003
-layout: post           
-galleries:
-  gallery1:
-    suffix: cs
-    images: 
-    - filename: 
-      alt: 
-    - filename: 
-      alt:                                                            
+layout: post                                                              
 ---      
 
 > I'm writing this from the future: April 2, 2023. Last night, while watching an episode of "The Curse of Oak Island" that featured wide stone walls. Rich paused the video, turned to me, and asked "Wasn't there a hike we did where we were walking between these very wide, high stone walls?" I had had a similar vague memory, but didn't recall enough of it to even mention it. 
@@ -44,13 +36,21 @@ Once back on the trail from our detour to Eagle Hill, we crossed the highway and
 
 We passed beneath Route 117 and turned onto the Witch's Spring Trail. We made another quick detour to Spook Rock (how could you not?!) and found it to be a large, flat-topped boulder that would be a perfect snack or picnic spot on a dry day. Today, everything was just too soggy, and we preferred to keep moving.
 
-We returned to the Witch's Spring Trail and continued south. Somewhere here, after the bridge just south of this trail, is where we got mixed up. Even the trail guide indicates that the signage in this area is poor, although we weren't following the guide turn by turn because we didn't want to keep it out in the rain. T
+We returned to the Witch's Spring Trail and continued south. Somewhere here, after the bridge just south of this trail, is where we got mixed up. Even the trail guide indicates that the signage in this area is poor, although we weren't following the guide turn by turn because we didn't want to keep it out in the rain. The best we could figure was that one of the trails/carriage roads continued south but was actually part of a different property and therefore not on the map we had, which was showing only the Preserve property. It took a little while to discover that we were definitely not headed in the right direction. To top it off, we were wandering around on the exposed carriage roads, not knowing where we were and not really able to consult the book, during the worst part of the rain.
 
-Rockefeller State Park Preserve.  Warm, lovely walk in misty conditions, then pouring rain.  Shared a snack ("cheese curls!!!") and then the rain began.  Stopping and starting all day long.  Got lost on the carriage roads during the worst part of the rain.  (Give directions from woman and man and show which way we went.)  Still very cozy and fun day.   Excellent dinner at the Mexican restaurant - flautas and steak and flaming pears!!! (Guadalajara?)
+At some point we came across a man and woman who got us headed in the right direction. We followed a winding trail downhill across a field (which we later discovered was the Douglas Hill Trail) to an underpass at Sleepy Hollow Road. We could have followed the road back toward the parking area, but instead we chose to get back on the trails and take the Canter Alley Trail north to join up again with the Pocantico River Trail (which is where we should have ended up right after Witch's Spring, if we had taken the right turns). This trail took us back to the Old Sleepy Hollow Trail, where we retraced our steps from earlier in the day back to the car. 
+
+In spite of the mixup and the rain, we both had a wonderful, fun, cozy day. After drying off, we treated ourselves to a delicious Mexican supper of flautas, steak, and flaming pears(!) at Guadalajara Restaurant in Sleepy Hollow. We even found an unexpected benchmark at an overlook on our way home.
+
+{% include image.html filename="P1000527cs.jpg" thumb="P1000527b.jpg" caption="View from the overlook" %}
+
+Unfortunately, we didn't take any photos today due to the rainy conditions, other than a few at the overlook where we found the benchmark. Rich's pack got soaked through, too, and the hiking guide got wet (but was salvageable!). Our tracklog only contains the second part of our hike: I wasn't routinely recording tracklogs at that time, and I must have turned on the GPS only once we realized we didn't know where we were.
+
+<!-- Rockefeller State Park Preserve.  Warm, lovely walk in misty conditions, then pouring rain.  Shared a snack ("cheese curls!!!") and then the rain began.  Stopping and starting all day long.  Got lost on the carriage roads during the worst part of the rain.  (Give directions from woman and man and show which way we went.)  Still very cozy and fun day.   Excellent dinner at the Mexican restaurant - flautas and steak and flaming pears!!! (Guadalajara?) -->
 
 {% include tracklog.html %}
 
-Rockefeller State Park Preserve:
+<!-- Rockefeller State Park Preserve:
 
 6/4/06: I didn't have a chance to try to figure anything out yet.  I'm certainly still curious.  Where do you think we went wrong?  Did we make a wrong turn?  
 
@@ -61,4 +61,4 @@ Well, it’s hard to tell exactly.  The very point where we went wrong is the on
 
 Yep!  Actually, that was the first thing I found, and then I traced our route back from there.  Everything kinda makes sense now—except why there were no trail or boundary markers, and why the map excluded so much!
 
-I can't think of any places where we were off the trail, other that at Eagle Hill Loop when we sat at the rocks and had a snack.  
+I can't think of any places where we were off the trail, other that at Eagle Hill Loop when we sat at the rocks and had a snack.   -->
