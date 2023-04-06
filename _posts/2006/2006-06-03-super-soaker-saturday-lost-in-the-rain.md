@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Lost in the Rain
+title: "Super-Soaker Saturday: Lost in the Rain"
 author: Zhanna
 date: 2006-06-03
 categories:
@@ -14,7 +14,7 @@ header:
 geocaches: false
 surveymarks: true
 tracklog: 03JUN06.gpx
-post_id: 16003
+post_id: 86
 layout: post                                                              
 ---      
 

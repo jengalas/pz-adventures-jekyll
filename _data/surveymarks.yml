@@ -1506,6 +1506,41 @@
   mark_type: Survey Mark  
   date: 2007-04-10
   post_id: 94
+- designation: MUD
+  pid: LY2630
+  mark_type: Survey Mark
+  date: 2006-12-27
+  post_id: 76  
+- designation: MUD RM 1
+  mark_type: Reference Mark
+  date: 2006-12-27
+  custom_permalink: ly2630-rm-1
+  post_id: 76    
+- designation: MUD RM 2
+  mark_type: Reference Mark
+  date: 2006-12-27
+  custom_permalink: ly2630-rm-2
+  post_id: 76   
+- designation: X 30
+  pid: LY0758
+  mark_type: Survey Mark
+  date: 2006-12-27
+  post_id: 76  
+- designation: W 30
+  pid: LY0757
+  mark_type: Survey Mark
+  date: 2006-12-27
+  post_id: 76   
+- designation: V 30
+  pid: LY0756
+  mark_type: Survey Mark
+  date: 2006-12-27
+  post_id: 76  
+- designation: U 30
+  pid: LY0755
+  mark_type: Survey Mark
+  date: 2006-12-27
+  post_id: 76    
 - designation: HIGH TOR BEACON
   pid: LX4216
   mark_type: Survey Mark
