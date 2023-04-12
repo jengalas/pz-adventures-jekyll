@@ -1541,6 +1541,31 @@
   mark_type: Survey Mark
   date: 2006-12-27
   post_id: 76    
+- designation: KINGSBURY
+  pid: LY2675
+  mark_type: Survey Mark
+  date: 2006-12-02
+  post_id: 74  
+- designation: KINGSBURY RM 1 
+  mark_type: Reference Mark
+  date: 2006-12-02
+  custom_permalink: ly2675-rm-1
+  post_id: 74 
+- designation: KINGSBURY RM 3 
+  mark_type: Reference Mark
+  date: 2006-12-02
+  custom_permalink: ly2675-rm-3
+  post_id: 74      
+- designation: BOUNDARY MARK 6 NY PA
+  pid: LY2676
+  mark_type: Survey Mark
+  date: 2006-12-02
+  post_id: 74   
+- designation: PDH
+  mark_type: Survey Mark
+  date: 2006-12-02
+  custom_permalink: pdh-6
+  post_id: 74   
 - designation: HIGH TOR BEACON
   pid: LX4216
   mark_type: Survey Mark
