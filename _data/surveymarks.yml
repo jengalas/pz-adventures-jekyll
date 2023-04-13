@@ -1540,7 +1540,27 @@
   pid: LY0755
   mark_type: Survey Mark
   date: 2006-12-27
-  post_id: 76    
+  post_id: 76   
+- designation: Z 33
+  pid: LY0748
+  mark_type: Survey Mark
+  date: 2006-12-17
+  post_id: 75   
+- designation: WARNER NJGS
+  pid: LY2636
+  mark_type: Survey Mark
+  date: 2006-12-17
+  post_id: 75   
+- designation: WARNER NJGS RM 1
+  mark_type: Reference Mark
+  date: 2006-12-17
+  custom_permalink: ly2636-rm-1
+  post_id: 75
+- designation: WARNER NJGS RM 2
+  mark_type: Reference Mark
+  date: 2006-12-17
+  custom_permalink: ly2636-rm-2
+  post_id: 75       
 - designation: KINGSBURY
   pid: LY2675
   mark_type: Survey Mark
