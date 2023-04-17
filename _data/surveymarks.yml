@@ -1853,10 +1853,58 @@
   mark_type: Survey Mark  
   date: 2005-02-07
   post_id: 1033   
+- designation: 46 B
+  mark_type: Survey Mark  
+  date: 2004-09-21
+  post_id: 1892  
+- designation: 47 B
+  mark_type: Survey Mark  
+  date: 2004-09-21
+  post_id: 1892  
+- designation: C 281
+  pid: NA0423
+  mark_type: Survey Mark  
+  date: 2004-08-24
+  post_id: 291    
+- designation: F 234
+  pid: LY1186
+  mark_type: Survey Mark  
+  date: 2004-07-16
+  post_id: 848
+- designation: G 234
+  pid: LY1185
+  mark_type: Survey Mark  
+  date: 2004-07-16
+  post_id: 848  
+- designation: R 25
+  pid: LY1148
+  mark_type: Survey Mark  
+  date: 2004-07-16
+  post_id: 848    
+- designation: EGYPT
+  pid: LY1169
+  mark_type: Survey Mark  
+  date: 2004-07-10
+  post_id: 841  
+- designation: EGYPT RM 1
+  pid: LY1170
+  mark_type: Reference Mark  
+  date: 2004-07-10
+  post_id: 841 
+- designation: EGYPT RM 2
+  pid: LY1168
+  mark_type: Reference Mark  
+  date: 2004-07-10
+  post_id: 841    
+- designation: EGYPT AZ MK
+  pid: LY1167
+  mark_type: Reference Mark  
+  date: 2004-07-10
+  post_id: 841       
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
-  date: 2005-02-12
+  date: 2004-04-24
   post_id: 2043  
 - designation: BLOOMING AZ MK
   pid: LY1221
