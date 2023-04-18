@@ -7,7 +7,7 @@ categories:
   - survey mark hunting
 tags:
 excerpt: >- 
-  
+  Zhanna spent the day with her parents in the Finger Lakes region of New York, tasting wine and looking for benchmarks.
 header:
   teaser:
 geocaches: false
@@ -57,5 +57,3 @@ The third mark, [A 254](https://thesurveystation.com/surveymarks/ly0214/), was o
 Of course, the main goal of the day was visiting the wineries. I don't know how anybody could do the wine tastings at all those places in one day! We only went to five of the nine, and I only tasted wine at three of them. And that was more than enough for me. A few of them were tasty, but I was a little disappointed that they didn't have more "goodies" for sale, like cheeses, pretzels, jellies and jams that I've seen in some of the other wine regions. I did pick up a bag of Gil's Gourmet Merlot Chocolate Covered Apricots, which I highly recommend. In addition, I couldn't help but do a little "urban exploration" at one of the wineries. We hooked up with a tour group to get into the cellar, and then wandered off just to poke around a bit.
 
 Saving the best for last, we went to the Gilded Otter for dinner. We split an order of nachos, and I had the Pizza Margherita and oatmeal stout. Everybody else had cheeseburgers (which they said were excellent) and some kind of lager. It was all delicious. We even sat at a table where a little wooden otter overlooked our meal.
-
-TODO: add survey marks

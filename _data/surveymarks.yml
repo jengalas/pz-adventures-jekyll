@@ -1853,6 +1853,21 @@
   mark_type: Survey Mark  
   date: 2005-02-07
   post_id: 1033   
+- designation: 538
+  pid: LY0515
+  mark_type: Survey Mark  
+  date: 2004-10-30
+  post_id: 867   
+- designation: 437
+  pid: LY0512
+  mark_type: Survey Mark  
+  date: 2004-10-30
+  post_id: 867
+- designation: A 254
+  pid: LY0214
+  mark_type: Survey Mark  
+  date: 2004-10-30
+  post_id: 867    
 - designation: 46 B
   mark_type: Survey Mark  
   date: 2004-09-21
@@ -1900,7 +1915,17 @@
   pid: LY1167
   mark_type: Reference Mark  
   date: 2004-07-10
-  post_id: 841       
+  post_id: 841     
+- designation: T 234
+  pid: LY1166
+  mark_type: Survey Mark  
+  date: 2004-05-04
+  post_id: 878      
+- designation: S 234
+  pid: LY1171
+  mark_type: Survey Mark  
+  date: 2004-05-04
+  post_id: 878  
 - designation: BLOOMING
   pid: LY1222
   mark_type: Survey Mark  
@@ -1941,6 +1966,21 @@
   custom_permalink: ly2716-rm-2  
   date: 2004-04-18
   post_id: 2074    
+- designation: M 237
+  pid: LY1161
+  mark_type: Survey Mark  
+  date: 2003-12-27
+  post_id: 2049 
+- designation: L 237
+  pid: LY1160
+  mark_type: Survey Mark  
+  date: 2003-12-27
+  post_id: 2049  
+- designation: K 237
+  pid: LY1159
+  mark_type: Survey Mark  
+  date: 2003-12-27
+  post_id: 2049    
 
 
 
