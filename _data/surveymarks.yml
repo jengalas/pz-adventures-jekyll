@@ -1965,7 +1965,27 @@
   mark_type: Reference Mark 
   custom_permalink: ly2716-rm-2  
   date: 2004-04-18
-  post_id: 2074    
+  post_id: 2074   
+- designation: Q 235
+  pid: LY1154
+  mark_type: Survey Mark  
+  date: 2004-04-17
+  post_id: 872   
+- designation: P 235
+  pid: LY1224
+  mark_type: Survey Mark  
+  date: 2004-04-17
+  post_id: 872  
+- designation: N 235
+  pid: LY1226
+  mark_type: Survey Mark  
+  date: 2004-04-17
+  post_id: 872
+- designation: U 235
+  pid: LY1158
+  mark_type: Survey Mark  
+  date: 2004-04-17
+  post_id: 872        
 - designation: M 237
   pid: LY1161
   mark_type: Survey Mark  
@@ -1981,6 +2001,27 @@
   mark_type: Survey Mark  
   date: 2003-12-27
   post_id: 2049    
+- designation: U 234
+  pid: LY1165
+  mark_type: Survey Mark  
+  date: 2003-12-04
+  post_id: 2027   
+- designation: PROMISED
+  pid: LY1163
+  mark_type: Survey Mark  
+  date: 2003-12-04
+  post_id: 2027  
+- designation: PROMISED RM 1
+  pid: LY1162
+  mark_type: Reference Mark  
+  date: 2003-12-04
+  post_id: 2027
+- designation: PROMISED RM 2
+  pid: LY1164
+  mark_type: Reference Mark  
+  date: 2003-12-04
+  post_id: 2027  
+
 
 
 
