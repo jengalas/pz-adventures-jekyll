@@ -2021,6 +2021,36 @@
   mark_type: Reference Mark  
   date: 2003-12-04
   post_id: 2027  
+- designation: M 235
+  pid: LY1227
+  mark_type: Survey Mark  
+  date: 2003-11-30
+  post_id: 2079  
+- designation: X 235
+  pid: LY1233
+  mark_type: Survey Mark  
+  date: 2003-11-30
+  post_id: 2079 
+- designation: Z 235
+  pid: LY1235
+  mark_type: Survey Mark  
+  date: 2003-11-30
+  post_id: 2079  
+- designation: PTS 22
+  pid: LY1238
+  mark_type: Survey Mark  
+  date: 2003-11-30
+  post_id: 2079   
+- designation: U 50
+  pid: LY1237
+  mark_type: Survey Mark  
+  date: 2003-11-30
+  post_id: 2079    
+- designation: Y 49
+  pid: LZ0103
+  mark_type: Survey Mark  
+  date: 2003-11-27
+  post_id: 791   
 
 
 

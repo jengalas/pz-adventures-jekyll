@@ -19,7 +19,7 @@ galleries:
     suffix: cs
     images:
     - filename: ly1165g1
-      alt: Eye-level view of U 234 on the boulder.
+      alt: Eyelevel view of U 234 on the boulder.
     - filename: ly1163
       alt: NGS Triangulation Station Disk PROMISED
     - filename: ly1163g2
