@@ -47,6 +47,8 @@ rich_log:  >-
 
 
   P.S. Sorry we missed you, Brad. We expected to see you last week at the revised “Take Cover” cache. Maybe next time. Cheers!
+image_gallery_zh: gallery1
+image_gallery_r: gallery2
 post_id: 882
 ---
 
