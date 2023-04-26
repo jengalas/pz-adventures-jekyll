@@ -21,8 +21,9 @@ zhanna_log:  >-
 
 
   PS Yes, Buzz, you were first to log on the site. But we had a full day of benchmark hunting planned … not to mention, we live much more than 7.71 miles away! :smiling_imp::stuck_out_tongue::smiling_imp:
-rich_log:
-image_gallery_zh:
-image_gallery_r:
+rich_log:  >-
+  Howdy, Skypath! I didn’t see your cache listing until I woke up this morning at 6:30. Zhanna had seen it last night and I’m sure if I’d known about it then we would have planned a much earlier start today. As is was, though, Zhanna got to my place around 8:10 and we were on the road by 8:20. Locating the cache was sort of anti-climactic because as we were approaching the site it was easy to discern a small portion of the container from within its hiding spot a few feet away. In spite of the early hour we both felt mildly suspicious that we were too late for the First Find, but upon opening the logbook and seeing those blank pages meant that no one was here yet. Whooeee! Chalk up another one! I was in the midst of checking out the cache contents and Zhanna was just beginning to sign the logbook when we heard crunching leaves in the direction of the stream and suddenly realized that we were not alone any longer. Then we recognized that familiar refrain: “Abigail, settle down!” and knew who it was. Buzz_Lightfoot and his cache-dog Abby. After a long chat, during which we completed of our cache trading and logbook duties (I took nothing, but left two of my Geocaching magnets, a unique handmade cyclist’s keyring, and the “Lionel Richie” Travel Bug), we headed back to the car with intentions of spending the rest of the day in search of benchmarks along Rt. 402. The weather was gorgeous for this part of November—sunny, cool, with a light breeze—and we didn’t want to waste a single minute of these rare, late Fall conditions. Thanks for a fine little trek in the Delaware State Forest. ~Rich in NEPA~
+image_gallery_zh: gallery1
+image_gallery_r: gallery2
 post_id: 796
 ---
