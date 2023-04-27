@@ -2080,7 +2080,27 @@
   mark_type: Reference Mark  
   date: 2003-11-23
   custom_permalink: ly2682-az-mk
-  post_id: 796         
+  post_id: 796    
+- designation: TEMPLE
+  pid: LZ1890
+  mark_type: Survey Mark  
+  date: 2003-11-22
+  post_id: 2053
+- designation: TEMPLE RM 1
+  mark_type: Reference Mark  
+  date: 2003-11-22
+  custom_permalink: lz1890-rm-1
+  post_id: 2053 
+- designation: TEMPLE RM 2
+  mark_type: Reference Mark  
+  date: 2003-11-22
+  custom_permalink: lz1890-rm-2
+  post_id: 2053 
+- designation: T 235
+  pid: LY1157
+  mark_type: Survey Mark  
+  date: 2003-11-07
+  post_id: 809       
 
 
 
