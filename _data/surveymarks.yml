@@ -2096,6 +2096,31 @@
   date: 2003-11-22
   custom_permalink: lz1890-rm-2
   post_id: 2053 
+- designation: CS PEIRCE
+  pid: LY2641
+  mark_type: Survey Mark  
+  date: 2003-11-07
+  post_id: 809    
+- designation: CS PEIRCE RM 1
+  mark_type: Reference Mark  
+  date: 2003-11-07
+  custom_permalink: ly2641-rm-1
+  post_id: 809 
+- designation: CS PEIRCE RM 2
+  mark_type: Reference Mark  
+  date: 2003-11-07
+  custom_permalink: ly2641-rm-2
+  post_id: 809 
+- designation: CS PEIRCE AZ MK
+  pid: LY2642
+  mark_type: Reference Mark  
+  date: 2003-11-07
+  post_id: 809  
+- designation: S 235
+  pid: LY1156
+  mark_type: Survey Mark  
+  date: 2003-11-07
+  post_id: 809    
 - designation: T 235
   pid: LY1157
   mark_type: Survey Mark  
