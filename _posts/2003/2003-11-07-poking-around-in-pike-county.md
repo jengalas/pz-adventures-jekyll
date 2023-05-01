@@ -42,4 +42,4 @@ galleries:
 
 ---
 
-TODO: finish adding photos and write narrative. Add CS PEIRCE tri-station and S 235.
+TODO: write narrative.
