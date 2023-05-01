@@ -26,11 +26,9 @@ galleries:
   gallery2:
     suffix: cs
     images:
-    - filename: 
+    - filename: water-tank-cache-contents
       alt: There is certainly plenty to choose from!
 
 ---
 
 An easy geocache hunt at Moon Lake County Park (a great place for mountain biking!) was followed by a trek through a cemetery and open woods to triangulation station TEMPLE atop the Shickshinny Mountain ridge. This late-November day was even nice enough for a nap on the mountaintop overlooking Nanticoke.
-
-TODO: get Rich's cache photo
