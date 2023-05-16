@@ -77,6 +77,7 @@ body {
 
 main {
   background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 60px;
   clear: both;
   max-width: 1050px;
   margin: 0 auto;
@@ -84,6 +85,7 @@ main {
 
   section {
     background: $innerBackgroundColor;
+    border-radius: 40px;
     margin: 0 auto;
     padding: 3rem 5.263rem;
     max-width: 880px;
@@ -98,7 +100,7 @@ main {
   display: flex;
   height: $headerHeight;
   margin: 0 auto;
-  max-width: 1100px;
+  max-width: 1080px;
 }
 
 .site-title {
