@@ -2267,7 +2267,62 @@
   mark_type: Reference Mark  
   date: 2003-10-10
   custom_permalink: ly2775-rm-2
-  post_id: 1942     
+  post_id: 1942 
+- designation: Y 235
+  pid: LY1234
+  mark_type: Survey Mark  
+  date: 2003-09-22
+  post_id: 2147     
+- designation: OLEY
+  pid: LY1542
+  mark_type: Survey Mark  
+  date: 2003-09-21
+  post_id: 2069 
+- designation: OLEY RM 1
+  pid: LY1543
+  mark_type: Reference Mark  
+  date: 2003-09-21
+  post_id: 2069   
+- designation: OLEY RM 2
+  pid: LY1544
+  mark_type: Reference Mark  
+  date: 2003-09-21
+  post_id: 2069   
+- designation: 8 JNP
+  pid: LY1532
+  mark_type: Survey Mark  
+  date: 2003-09-21
+  post_id: 2069    
+- designation: E 228
+  pid: LY1533
+  mark_type: Survey Mark  
+  date: 2003-09-21
+  post_id: 2069 
+- designation: NESQUE
+  pid: KV3863
+  mark_type: Survey Mark  
+  date: 2003-09-12
+  post_id: 2151 
+- designation: NESQUE RM 1
+  mark_type: Reference Mark  
+  date: 2003-09-12
+  custom_permalink: kv3863-rm-1
+  post_id: 2151   
+- designation: NESQUE RM 2
+  mark_type: Reference Mark  
+  date: 2003-09-12
+  custom_permalink: kv3863-rm-2
+  post_id: 2151     
+- designation: NESQUE AZ MK
+  mark_type: Reference Mark  
+  date: 2003-09-12
+  custom_permalink: kv3863-az-mk
+  post_id: 2151     
+- designation: N 192
+  pid: KV2820
+  mark_type: Survey Mark  
+  date: 2003-09-12
+  post_id: 2151  
 
 
 

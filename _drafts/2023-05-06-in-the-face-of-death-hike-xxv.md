@@ -54,7 +54,11 @@ Not to worry (it's not a National Park, and it is kinda in the middle of nowhere
 
 Alan and I chatted for a few minutes and snacked on some brownies I had brought (my favorite "better than box mix recipe," in case you were wondering). Within ten minutes, Ken appeared. With both "leaders" present, the day's activities were officially under way!
 
-It took only a few more minutes for another vehicle to arrive. This group of four students (Mike, Shaaf, Jacob, and Anthony) were the only others who joined us today. We waited until just after 10:00am just in case, but apparently no one else was up for the challenge today.
+It took only a few more minutes for another vehicle to arrive. This group of four students (Mike, Shaaf, Jacob, and Anthony) were the only others who joined us today. We waited until just after 10:00am just in case someone was running late—there is no cell service in this area—but apparently no one else was up for the challenge today.
+
+There is no "death sign" at Ricketts Glen, but the kiosk at the end of the parking lot made for a decent group photo spot.  And in looking closely at the posted signs, I spoetted a few that were at least somewhat reminiscent of the Glen Onoko death sign. A tripod and a camera with a self-timer made it easy to set up the group shot. Soon, we were done and heading north into the woods. 
+
+The first mile or so follows Kitchen Creek quite closely along an old roadbed. It is mostly level and winds gently through hardwood trees. I spotted a few wildflowers here, mostly yellow violets, and I also spotted the first fractal fern of our journey (but it doesn't count because I'm one of the hike organizers!).  
 
 
 
