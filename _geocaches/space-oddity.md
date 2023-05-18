@@ -21,8 +21,10 @@ zhanna_log:  >-
 rich_log:  >-
   _(Logged on May 23, 2003)_
 
+
   Howdy, BL! Arrived on the scene around 9:20am. GPS reception was very spotty and relying on a good measure of that “GeoCacher’s intuition” I walked right up to the spot, spied some disturbances in the surrounding leaf litter, and quickly pulled out the cache. No need for hints. It was in good condition and hidden very well, just as you described. I spent quite a bit of time playing with the items inside, signing the logbook, making trades, and taking photos. I took the fascinating fossil rock so I could study it more carefully at home (I will pass it along at another cache so others can examine it, too) and left two of my Geocaching magnets, a Wet Towel, and an assortment of State park guides. I’d describe the area as soggy and damp but not especially wet or buggy, with bright green moss growing everywhere. It was cloudy and calm this morning, and the woods were extremely quiet. I liked the stream very much and walked a good length of it on my way back to the car. After returning the cache to its hiding place I was getting ready to leave when I heard the sound of twigs snapping underfoot and noted the approach of two unmistakable GeoCachers. Turns out it was none other than The Wolfpak. It was really nice to finally meet these avid cachers and fellow Mid-Valley residents. Thanks for a fun time. I’ve been to the “Space Oddity” many years ago. ~Rich in NEPA~
 post_id: 2147
 image_gallery_zh: gallery3
 image_gallery_r: gallery4
+image_gallery_r_class: special
 ---

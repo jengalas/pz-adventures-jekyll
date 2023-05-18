@@ -2268,6 +2268,36 @@
   date: 2003-10-10
   custom_permalink: ly2775-rm-2
   post_id: 1942 
+- designation: BUFFALO NEW YORK AIRWAY BCN 17
+  pid: LY2802
+  mark_type: Survey Mark  
+  date: 2003-10-02
+  post_id: 2091       
+- designation: TUNKHANNOCK PENELEC ANT POLE
+  pid: LY2800
+  mark_type: Survey Mark  
+  date: 2003-10-02
+  post_id: 2091    
+- designation: OSTER
+  pid: LY2803
+  mark_type: Survey Mark  
+  date: 2003-10-02
+  post_id: 2091   
+- designation: OSTER RM 1
+  mark_type: Reference Mark  
+  date: 2003-10-02
+  custom_permalink: ly2803-rm-1
+  post_id: 2091   
+- designation: OSTER RM 2
+  mark_type: Reference Mark  
+  date: 2003-10-02
+  custom_permalink: ly2803-rm-2
+  post_id: 2091
+- designation: OSTER AZ MK
+  mark_type: Reference Mark  
+  date: 2003-10-02
+  custom_permalink: ly2803-az-mk
+  post_id: 2091    
 - designation: Y 235
   pid: LY1234
   mark_type: Survey Mark  
@@ -2323,6 +2353,35 @@
   mark_type: Survey Mark  
   date: 2003-09-12
   post_id: 2151  
+- designation: THORPE
+  pid: KV3845
+  mark_type: Survey Mark  
+  date: 2003-09-07
+  post_id: 2037   
+- designation: THORPE RM 1
+  mark_type: Reference Mark  
+  date: 2003-09-07
+  custom_permalink: kv3845-rm-1
+  post_id: 2037  
+- designation: THORPE RM 2
+  mark_type: Reference Mark  
+  date: 2003-09-07
+  custom_permalink: kv3845-rm-2
+  post_id: 2037     
+- designation: THORPE AZ MK
+  mark_type: Reference Mark  
+  date: 2003-09-07
+  custom_permalink: kv3845-az-mk
+  post_id: 2037     
+- designation: 13-12 06 A
+  mark_type: Survey Mark  
+  date: 2003-09-07
+  post_id: 2037     
+- designation: JIM THORPE MAUCH CHUNK LOT
+  pid: KV3846
+  mark_type: Survey Mark  
+  date: 2003-09-07
+  post_id: 2037    
 
 
 
