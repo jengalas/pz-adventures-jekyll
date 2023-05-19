@@ -19,7 +19,7 @@ galleries:
   gallery1:
     suffix: cs
     images:
-    - filename:
+    - filename: P9220005
       alt: I'm beginning to sense a theme!
     - filename: P9220014
       alt: Signing in ... in silver ink this time.

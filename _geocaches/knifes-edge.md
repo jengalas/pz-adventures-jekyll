@@ -1,0 +1,33 @@
+---
+_schema: default
+title: Knifes Edge
+link: https://www.geocaching.com/geocache/GCGP5Q
+owner: Wife With Waterboy
+date: 2003-08-23 03:00:00 -0500
+log_type: Found it
+display_coords: N 40° 43.883' W 075° 45.922'
+latitude: '40.731383'
+longitude: '-75.765366'
+first_stage: false
+bogus: false
+zhanna_log:  >-
+  Hi, K & M!
+
+
+  What a day! :grin: As Rich mentioned, we got up early and left Scranton even earlier than we’d planned, wondering if we might still have a shot at a first find on your new cache. We took our time walking and talking on the trail, and it wasn’t till we were within a few hundred feet of the first part that we sensed we might not be alone. We heard some rustling in the woods and soon saw a human figure wandering slightly off-trail. We initiated a quick search and found the first stage easily, and waited a few seconds for our “companion” to spot us. I felt sure that if any other geocacher were here in the woods this early in the morning, it would have to be Tyson. As he came nearer I could see that it was indeed the chicken-man himself. :wink: We talked for a while, but we were all excited to move on and find the final cache.
+
+
+  I could’ve sworn I heard Tyson behind me the whole way, but when Rich and I neared the final coordinates, I looked around and he was nowhere to be found (I was worried for a moment that he’d slipped off the Edge :open_mouth:). Rich and I spotted the cache without trouble, and we took the logbook to another location to sign in without giving away the cache’s hiding spot. Eventually Tyson appeared and found the cache himself, and we continued our conversation from earlier while we made our trades. As always, you had a great selection of unique items in the cache. I was attracted to the little Polo Sport wallet; I could’ve really used something like that. But as the second of several dumb things I did today, I handed it to Rich when I went to take some photos, and forgot to mention to him that the wallet was what I wanted to take from the cache. We had some trouble with his camera and in the ensuing confusion, I didn’t notice that Rich placed the wallet back into the ammo can just before rehiding it. It wasn’t until we were almost back to the car that I realized I hadn’t taken the item I’d meant to. I did, however, leave two nice little Lego sets in the cache!
+
+
+  After a nice long chat and plenty of amusing photo opportunities, Tyson decided he’d head back to his truck, and Rich and I climbed back up on the Knife’s Edge (slowly this time!) to lounge the rest of the morning away. For one of the first times this summer, we sat in full sunshine, and we took in the beautiful view while being cooled by the slightest breeze. We snacked on jellies and nougats and a lemon Tastykake pie and talked about the Grand Canyon. While we rested on the ledge Jinx and Magic appeared, en route to the cache, and we had a pleasant little conversation. We finally tore ourselves away from the view—before we turned to stone!—and walked at a relaxed pace back to the parking area, taking time along the way to explore some other ledges just off the trail. Thanks so much for a terrific cache that’s certainly in keeping with your reputation for extremely fine work … and for the chance to share a beautiful day and another First Find (and another milestone, for him) with Rich!
+
+
+  Zhanna
+rich_log:  >-
+  Howdy, Mike & Kieu! As usual this was a “classic” WWW cache hunt, with all the necessary ingredients for a fun time and a memorable experience. You guys never fail to impress! I’m writing this log a day late due to the fact that yesterday turned out to be a long and busy Saturday. Both Zhanna and I wanted to make the best of what lately seems like such rare, unpredictable, and highly desirable caching weather. After two cache hunts (one long and one shorter) and three benchmark searches (which were deceptively difficult—we found only two of them), and a total road time of 3½ to 4 hours (Zhanna’s turn to drive) I arrived home late in the evening longing for some fresh garden tomatoes, a tall glass of beer (make that two!), and a long hot bath. The logs and photos would have to wait. The morning started very early—around 6:00am with a check to see if this cache had been logged yet. Then quick breakfast—gear in the car—head out to meet Zhanna. There were already cars in both parking areas on Bake Oven Road, along with a group of hawk watchers ensconced in folding aluminum chairs. As we approached the area for the first part of the cache, I heard some noises in the woods to my right that didn’t quite sound like the usual squirrel activity. Once at the site itself we noticed another cacher in the midst of his own search, which explained the curious racket heard earlier. We spotted the container and bottle of water, but waited for the “stranger” to approach and discover it himself. As he got closer our suspicions about whom it might be were confirmed. We chatted with Tyson for a bit while entering the new coordinates, then headed off in the direction of the final cache. All the while as I scrambled across the boulders I thought Tyson was behind us right on our heels but, curiously, as we left the trail to the second cache site, I turned and he was nowhere to be seen. The cache was an easy find, so we quickly took only the logbook and left the container hidden as we found it, and then moved off to a safe distance with the intention of letting Tyson find it on his own, as we were sure he’d prefer. Eventually, it all worked out and we gathered again at the cache for the signing-in and trading, as well as the typical photo session and some more geo-chatting. I took the lobster keyring (thanks so much for the souvenir from Mount Desert Island!), and left a “Mystery Treasure” and two of my signature Geocaching magnets. Lots of other great stuff in there, too. After all was said and done, we parted ways with Tyson (it was a real pleasure meeting you again), headed back up to the knife edge, and lounged there for a good hour or more while we snacked and soaked in the view and the sunshine. Adding to this fine adventure was a timely encounter with Jinx and Magic, who were the next visitors to the cache this morning. (A real treat to meet you guys!) Thanks, WWW, for a great time! ~Rich in NEPA~
+post_id: 2700
+image_gallery_zh: gallery1
+image_gallery_r: gallery2
+image_gallery_zh_class: single
+---
