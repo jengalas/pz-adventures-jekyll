@@ -24,25 +24,25 @@ galleries:
   gallery2:
     suffix: cs
     images:
-    - filename: 
+    - filename: P8230008
       alt: Ahh ... trading time!   
-    - filename: 
+    - filename: P8230016
       alt: My thanks to Zhanna for getting us here today.
-    - filename: 
+    - filename: P8230002
       alt: Sorry, Tyson ... I know you wanted to look taller!!!
-    - filename:
+    - filename: P8230005
       alt: This just proves that it's always fun meeting fellow cachers.  
   gallery3:
     suffix: cs
-    images:
+    images: 
     - filename: P8230071
       alt: I'll be good and just sign my name this time.  
   gallery4:
     suffix: cs
     images:
-    - filename: 
+    - filename: P8230078
       alt: Sitting in the shade, down by the canal, on a Summer afternoon.
-    - filename: 
+    - filename: P8230075
       alt: Zhanna appears perplexed ...   
 ---
 
