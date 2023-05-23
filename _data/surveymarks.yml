@@ -1885,6 +1885,22 @@
   mark_type: Survey Mark  
   date: 2005-02-07
   post_id: 1033   
+- designation: "1102.46"
+  mark_type: Survey Mark  
+  date: 2004-12-30
+  post_id: 1899   
+- designation: 29 M
+  mark_type: Survey Mark  
+  date: 2004-12-30
+  post_id: 1899   
+- designation: 30 M
+  mark_type: Survey Mark  
+  date: 2004-12-30
+  post_id: 1899     
+- designation: 6 JPN
+  mark_type: Survey Mark  
+  date: 2004-12-21
+  post_id: 12005     
 - designation: 538
   pid: LY0515
   mark_type: Survey Mark  
@@ -2048,6 +2064,21 @@
   mark_type: Survey Mark  
   date: 2004-04-17
   post_id: 872        
+- designation: SMITHS GAP RESET
+  pid: KV3628
+  mark_type: Survey Mark  
+  date: 2004-03-14
+  post_id: 1950     
+- designation: SMITHS GAP RESET RM 1
+  mark_type: Reference Mark  
+  date: 2004-03-14
+  custom_permalink: kv3628-rm-1
+  post_id: 1950  
+- designation: SMITHS GAP RESET RM 3
+  mark_type: Reference Mark  
+  date: 2004-03-14
+  custom_permalink: kv3628-rm-3
+  post_id: 1950       
 - designation: M 237
   pid: LY1161
   mark_type: Survey Mark  
