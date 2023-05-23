@@ -36,21 +36,21 @@ The history of the Death Hike is long and varied, but for its first 21 years, it
 
 An original tradition of the Death Hike was for the participants to meet at Ken's house early in the morning, where his wife Gina would provide a breakfast of donuts, English muffins, and bagels for us before we headed off to Glen Onoko at the Lehigh Gorge.
 
-This changed in 2015, when Ken and Gina moved to a new townhouse. I was still invited for breakfast (although the other participants weren't) and Gina began serving the most amazing egg scramble with mushrooms, spinach, and romano cheese.
+This changed in 2015, when Ken and Gina moved to a new townhouse. The breakfast invitation continued for me (although not for the other participants) and Gina began serving the most amazing egg scramble with mushrooms, spinach, and romano cheese.
 
 Until this year, it made logistical sense for me to stop at Ken and Gina's home for breakfast (and, traditionally, leave my vehicle there while Ken drove us to the hike location). But this year, Ken suggested hiking at Ricketts Glen, which is much more accessible to me via a back route that, sadly, goes nowhere near Ken's house.
 
-Taking the back route appealed to me so much, and it would be the first time in the history of the Death Hike (with the exception of the two virtual Death Hikes in 2020 and 2021) that I wouldn't be taking I-81. 
+Taking the back route appealed to me so much, but it would be the first time in the history of the Death Hike (with the exception of the two virtual Death Hikes in 2020 and 2021) that I wouldn't be taking I-81. 
 
 While I hate that highway as much as anyone in this area, I admit there was a sense of excitement that built every Death Hike morning as I drove south along that highway, which I had nearly to myself so early in the morning.  And then the drive home down the long grade past Mountain Top, looking into the valley ahead, in early evening—the weather was always beautiful at that time of day, regardless of what kind of weather we had during the hike—somehow signified a shift into the summer season.  
 
 There was another treat that I would be missing out on this year. For the past few years (well, since Ken and Gina moved to their new home) I have been invited over for breakfast on Death Hike morning. It means arriving extra-early, but it also means fabulously delicious scrambled eggs made with mushrooms, spinach, and romano cheese. Gina loads up the plate with a huge portion of the scramble, and serves it with buttered English muffins.
 
-Nevertheless, I decided that I would take the back route from home and search for a few benchmarks along the way. 
+Nevertheless, I decided that this year I would take the back route from home and search for a few benchmarks along the way. 
 
-As it turned out, Ken emailed me the night before the hike to say that Gina was ill and would not be joining us for the hike. This was a real shame, because until now, the three of us had participated in every Death Hike! I felt really bad that she had to miss the day's activities.
+As it turned out, Ken emailed me the night before the hike to say that Gina was ill and would not be joining us for the hike. This was a real shame, because until now, the three of us had participated in every Death Hike! I felt really bad that she had to miss the day's activities. However, it also meant that I wouldn't be missing out on Gina's scrambled eggs, because there were no eggs to be had that day. (She was too sick even to make them for Ken before he left the house.)
 
-I woke up early and left the house before 7:00am, as planned. It was a calm, clear, chilly (37°F) morning, the type of day that warms up quickly in the strong May sunshine. 
+I woke up early and left home before 7:00am, as planned. It was a calm, clear, chilly (37°F) morning, the type of day that warms up quickly in the strong May sunshine. 
 
 I had about 2½ hours to search for benchmarks along my route before I was expected to arrive at the Ricketts Glen parking lot. This sounds like a lot of time, but it really isn't. I only had time to search briefly for seven of the marks on my list, and I didn't find any of them. (I found a few marks, but they were resets or otherwise different from the marks I had targeted.) 
 
@@ -66,16 +66,19 @@ Not to worry (it's not a National Park, and it is kinda in the middle of nowhere
 
 Alan and I chatted for a few minutes and snacked on some brownies I had brought (my favorite "better than box mix recipe," in case you were wondering). Within ten minutes, Ken appeared. With both "leaders" present, the day's activities were officially under way!
 
-It took only a few more minutes for another vehicle to arrive. This group of four students (Mike, Shaaf, Jacob, and Anthony) were the only others who joined us today. We waited until just after 10:00am just in case someone was running late—there is no cell service in this area—but apparently no one else was up for the challenge today.
+It took only a few more minutes for another vehicle to arrive. This group of four students—Mike, Shaaf, Jacob, and Anthony—were the only others who joined us today. There is no cell service in this area, so we waited until just after 10:00am just in case someone was running late. But apparently no one else was up for the challenge today.
 
-There is no "death sign" at Ricketts Glen, but the kiosk at the end of the parking lot made for a decent group photo spot.  And in looking closely at the posted signs, I spoetted a few that were at least somewhat reminiscent of the Glen Onoko death sign. A tripod and a camera with a self-timer made it easy to set up the group shot. Soon, we were done and heading north into the woods. 
+There is no "death sign" at Ricketts Glen, but the kiosk at the end of the parking lot made for a decent group photo spot.  And in looking closely at the posted signs, I spotted a few that were at least somewhat reminiscent of the Glen Onoko death sign. A tripod and a camera with a self-timer made it easy to set up the group shot. Soon, we were done and heading north into the woods. 
 
 The first mile or so follows Kitchen Creek quite closely along an old roadbed. It is mostly level and winds gently through hardwood trees. I spotted a few wildflowers here, mostly yellow violets, and I also spotted the first fractal fern of our journey (but it doesn't count because I'm one of the hike organizers!).  
 
 
 
 
+We had decided to return to our post-hike pizza spot from last year, King's Pizza in Mountain Top. This is a nice option because they have good food and drinks and plenty of room for our group. It's quite a drive from Rickett's Glen, though; it took about 40 minutes to drive out to the highway and circle up and around on Route 309. But we all made it there in good time and without getting lost.
 
+The staff at King's were kind enough to give us a reception room that was technically closed, so we had not just the whole table but actually the whole room to ourselves. Figuring out what to order is the most challenging part of the day! :grin: But we settled on the grandma-style pizza as recommended by someone Ken knew; a margherita pizza; and one more pizza topped half with sausage, and half as a Monks special (sausage, mushrooms, and onions). I ordered a cheese calzone to bring home for Rich, too.  Many raspberry iced teas helped us rehydrate after all the climbing! Fabulous fellowship as always, and it was over far too soon.
 
+I decided to take the back route home, and thoroughly enjoyed the drive through Luzerne and Wyoming Counties this evening. Listening to The Cranberries' album "Stars," as I was on all my travels today, was a perfect complement to the sunshine lighting up the delicate new foliage of spring.
 
 {% include tracklog.html %}
