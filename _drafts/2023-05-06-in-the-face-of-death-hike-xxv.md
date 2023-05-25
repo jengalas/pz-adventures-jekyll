@@ -26,6 +26,15 @@ galleries:
       alt: This bridge was built in 1957.
     - filename: maybe-44-chg1
       alt: It isn't much to look at, but this ledge is a promising location for 44 CH.           
+  gallery2:
+    suffix: cvx
+    images:
+    - filename: P5065060
+      alt: In the bar area at King's Pizza.
+    - filename: P5065062
+      alt: Mike and Ken in the room where we ate.
+    - filename: P5065065
+      alt: Pizza time!!!       
 ---
 
 Twenty five years! Yes, this year is the twenty-fifth annual Death Hike outing. We've been doing this hike consistently now for more than half of my life, through all kinds of weather from snow to 39° deluges to 100° thunderstorm days, trail closures, hiking onto prison property, jury duty, house moves, marriages and divorces, a multi-year global pandemic ... basically all of the things that make up our lives. No matter how much or how little of each other we see during the rest of the year, it is a given that Ken, Gina, some students, and I will gather in May to celebrate whatever life has given us over the past year.
@@ -78,6 +87,8 @@ The first mile or so follows Kitchen Creek quite closely along an old roadbed. I
 We had decided to return to our post-hike pizza spot from last year, King's Pizza in Mountain Top. This is a nice option because they have good food and drinks and plenty of room for our group. It's quite a drive from Rickett's Glen, though; it took about 40 minutes to drive out to the highway and circle up and around on Route 309. But we all made it there in good time and without getting lost.
 
 The staff at King's were kind enough to give us a reception room that was technically closed, so we had not just the whole table but actually the whole room to ourselves. Figuring out what to order is the most challenging part of the day! :grin: But we settled on the grandma-style pizza as recommended by someone Ken knew; a margherita pizza; and one more pizza topped half with sausage, and half as a Monks special (sausage, mushrooms, and onions). I ordered a cheese calzone to bring home for Rich, too.  Many raspberry iced teas helped us rehydrate after all the climbing! Fabulous fellowship as always, and it was over far too soon.
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 I decided to take the back route home, and thoroughly enjoyed the drive through Luzerne and Wyoming Counties this evening. Listening to The Cranberries' album "Stars," as I was on all my travels today, was a perfect complement to the sunshine lighting up the delicate new foliage of spring.
 
