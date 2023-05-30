@@ -57,6 +57,6 @@ galleries:
     - filename: P5230030
       alt: Say ‘Hello’ to Joe and Charlie.                 
 ---
-TODO: find first photo 
+
 Rich and I spent the morning geocaching in the Poconos. We made a First Find on a new geocache, and I got to find another one that Rich had already found while he (sort of) looked on. Afterward, we stopped to recover a bench mark along Kimbles Road. I can't think of better activities for a cloudy, cool, early fall Monday morning!
 
