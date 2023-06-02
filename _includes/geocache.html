@@ -16,6 +16,9 @@
 {% elsif geocache.first_stage %}
   {% assign warning = ":warning:" %}  
   {% assign warning_message = "This is a multi-stage geocache. Coordinates given are for the first stage." %}
+{% elsif geocache.moving %}
+  {% assign warning = ":warning:" %}  
+  {% assign warning_message = "This is a moving geocache. Coordinates given are for the location where we found the cache." %}  
 {% endif %}
 
 <div class="accordionItem">
