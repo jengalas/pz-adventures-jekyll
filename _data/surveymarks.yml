@@ -2451,7 +2451,17 @@
   pid: KV3846
   mark_type: Survey Mark  
   date: 2003-09-07
-  post_id: 2037  
+  post_id: 2037
+- designation: OC 1
+  pid: HU1159
+  mark_type: Survey Mark  
+  date: 2003-09-04
+  post_id: 1935   
+- designation: F 104
+  pid: HU0366
+  mark_type: Survey Mark  
+  date: 2003-09-04
+  post_id: 1935    
 - designation: P 191
   mark_type: Survey Mark  
   date: 2003-08-23

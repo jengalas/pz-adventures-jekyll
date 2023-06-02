@@ -81,7 +81,7 @@ There is no "death sign" at Ricketts Glen, but the kiosk at the end of the parki
 
 The first mile or so follows Kitchen Creek quite closely along an old roadbed. It is mostly level and winds gently through hardwood trees. I spotted a few wildflowers here, mostly yellow violets, and I also spotted the first fractal fern of our journey (but it doesn't count because I'm one of the hike organizers!).  
 
-
+The trail passes over a few small wooden plank bridges as it crosses the creek, and it is still quite level and easily accessible at this point. This is precisely the easy woodland walk that we hoped would provide great anticipation as we drew nearer to the falls, and I think it served that purpose for at least some of us (others may have been talking too much to really notice, but that socialization is also part of the hike). After about a mile, though, the trail begins to climb.
 
 
 We had decided to return to our post-hike pizza spot from last year, King's Pizza in Mountain Top. This is a nice option because they have good food and drinks and plenty of room for our group. It's quite a drive from Rickett's Glen, though; it took about 40 minutes to drive out to the highway and circle up and around on Route 309. But we all made it there in good time and without getting lost.
