@@ -18,43 +18,23 @@ galleries:
   gallery1:
     suffix: cs
     images:
-    - filename: P9220005
-      alt: I'm beginning to sense a theme!
-    - filename: P9220014
-      alt: Signing in ... in silver ink this time.
-    - filename: P9220040
-      alt: Another easy stream crossing.     
-  gallery2:
-    suffix: cs
-    images:
-    - filename: P9220024
-      alt: Posing for the traditional signing in photo.
-    - filename: P9220010
-      alt: The cache contents as of this visit.
-    - filename: P9220026
-      alt: Enjoying a quite moment before heading back to the car.  
-    - filename: P9220049
-      alt: "Trailside scene: a stream crossing."
-    - filename: P9220056
-      alt: "Trailside scene: a bit of woodland color."  
-  gallery3:
-    suffix: cs
-    images:
-    - filename: zh1
-      alt: Wow, a color Gameboy!
-    - filename: zh2
-      alt: Contemplating what I will write this time ... 
-  gallery4:
-    suffix: cs
-    images:
-    - filename: P5230010
-      alt: Here it is! Full of worthy treasures.
-    - filename: P5230016
-      alt: A very lush, boulder-strewn area.   
-    - filename: P5230023
-      alt: Certainly here is a fine prize.
-    - filename: P5230030
-      alt: Say ‘Hello’ to Joe and Charlie.                 
+    - filename: atstart
+      alt: Dad and Aaron stand in the Dunnfield Creek parking area, ready for adventure!
+    - filename: view
+      alt: Looking south along the Delaware, toward Arrow Island.
+    - filename: zhanda
+      alt: Zhanna and Aaron high above Interstate 80, and loving it.
+    - filename: view2
+      alt: Looking across the Gap at Mt. Minsi. (There's a letterbox on that mountain, too.)
+    - filename: aarondad
+      alt: Aaron looks to greater heights while Dad appears to be in pain.
+    - filename: letterbox
+      alt: A simple letterbox, in excellent condition. There was a nicely carved DWGNRA stamp to add to my notebook.  
+    - filename: dadtop
+      alt: Dad rests on the ledge near the summit, looking out over the river and the highways.    
+    - filename: fungus
+      alt: It's been an extremely wet summer and fall, just perfect for mushrooms. We saw plenty on our hike.                  
+             
 ---
 
 Finding the [Mt. Tammany Letterbox](https://www.geocities.ws/rainforest/canopy/7962/tamanny.htm) was just one small part of this interesting late summer day. Dad and Aaron came along for the exercise, and the views, and probably the pancake breakfast as well. 
@@ -71,18 +51,4 @@ Anyway, we reached the first crossing and it didn't pose much of a problem. Ther
 
 For dinner, we went to the Barley Creek pub that Rich and I (and Dave, once) went to after our rides a few times. I didn't realize how hungry I was till I started eating. I had Jalapeno Poppers, some Lava Fries (really too hot for me), the Fish and Chips, and, for dessert, the Key Lime Pie I'd been mooning over all summer but had never tried. And I had the barley wine that I really like. It rained most of the way home!
 
-Dad and Aaron stand in the Dunnfield Creek parking area, ready for adventure!
-
-Looking south along the Delaware, toward Arrow Island.
-
-Zhanna and Aaron high above Interstate 80, and loving it.
-
-Looking across the Gap at Mt. Minsi. (There's a letterbox on that mountain, too.)
-
-Aaron looks to greater heights while Dad appears to be in pain.
-
-A simple letterbox, in excellent condition. There was a nicely carved DWGNRA stamp to add to my notebook.
-
-Dad rests on the ledge near the summit, looking out over the river and the highways.
-
-It's been an extremely wet summer and fall, just perfect for mushrooms. We saw plenty on our hike.
+{% include gallery.html gallery_id="gallery1" class="" %}
