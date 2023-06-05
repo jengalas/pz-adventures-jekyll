@@ -2507,6 +2507,25 @@
   mark_type: Reference Mark  
   date: 2003-05-29
   post_id: 2064  
+- designation: 366+50
+  mark_type: Survey Mark  
+  date: 2003-02-03
+  custom_permalink: 36650-2
+  post_id: 1861  
+- designation: L 56
+  pid: LY1434
+  mark_type: Survey Mark  
+  date: 2003-02-03
+  post_id: 1861 
+- designation: 22+96
+  mark_type: Survey Mark  
+  date: 2003-02-03
+  custom_permalink: 2296-2
+  post_id: 1861 
+- designation: MARKET
+  mark_type: Survey Mark  
+  date: 2003-02-03
+  post_id: 1861       
 - designation: K 10
   pid: LY0567
   mark_type: Survey Mark  
