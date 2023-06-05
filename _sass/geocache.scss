@@ -10,6 +10,10 @@
     display: flex;
     justify-content: space-between;
     padding-left: 0;
+
+    .geocache-data {
+      padding-right: 1rem;
+    }
   
     ul {
       list-style-type: none;
