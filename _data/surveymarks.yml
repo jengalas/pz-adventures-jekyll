@@ -1877,7 +1877,16 @@
 - designation: BM DUNMORE RESERVOIR 3
   mark_type: Survey Mark  
   date: 2005-03-18
-  post_id: 1056   
+  post_id: 1056  
+- designation: J 11
+  pid: KV1428
+  mark_type: Survey Mark  
+  date: 2005-02-19
+  post_id: 860    
+- designation: L 362 RESET
+  mark_type: Survey Mark  
+  date: 2005-02-19
+  post_id: 860    
 - designation: MINOOKA RESET
   pid: AJ2429
   mark_type: Survey Mark  
@@ -2460,6 +2469,41 @@
   mark_type: Survey Mark  
   date: 2003-09-07
   post_id: 2037
+- designation: U 27 RESET 1971
+  pid: HU0097
+  mark_type: Survey Mark  
+  date: 2003-09-05
+  post_id: 285  
+- designation: OC 5
+  pid: HU1163
+  mark_type: Survey Mark  
+  date: 2003-09-05
+  post_id: 285   
+- designation: OC 3
+  pid: HU1161
+  mark_type: Survey Mark  
+  date: 2003-09-05
+  post_id: 285  
+- designation: OCEAN CITY PARKERS LIGHTHOUSE
+  pid: HU1255
+  mark_type: Survey Mark  
+  date: 2003-09-05
+  post_id: 285   
+- designation: OCEAN CITY 41ST ST WT TK
+  pid: HU1253
+  mark_type: Survey Mark  
+  date: 2003-09-05
+  post_id: 285     
+- designation: OC 10
+  pid: HU1168
+  mark_type: Survey Mark  
+  date: 2003-09-05
+  post_id: 285   
+- designation: G 104
+  pid: HU0270
+  mark_type: Survey Mark  
+  date: 2003-09-05
+  post_id: 285  
 - designation: OC 1
   pid: HU1159
   mark_type: Survey Mark  
@@ -2469,7 +2513,57 @@
   pid: HU0366
   mark_type: Survey Mark  
   date: 2003-09-04
-  post_id: 1935    
+  post_id: 1935   
+- designation: OCEAN CITY 66TH ST WATER TANK
+  pid: HU1254
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287   
+- designation: Z 103
+  pid: HU0372
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287 
+- designation: TEAL AZ MK 2
+  pid: HU1257
+  mark_type: Reference Mark  
+  date: 2003-09-02
+  post_id: 287   
+- designation: TEAL RESET
+  pid: HU1520
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287   
+- designation: C 104 RESET 1976
+  pid: HU1172
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287    
+- designation: OCEAN CITY 15TH ST WT TK
+  pid: HU1252
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287    
+- designation: D 104
+  pid: HU0368
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287   
+- designation: TIDAL 6 STA 1
+  pid: HU0267
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287   
+- designation: SPEICHER
+  pid: HU0266
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287    
+- designation: LINDENSTRUTH
+  pid: HU1521
+  mark_type: Survey Mark  
+  date: 2003-09-02
+  post_id: 287  
 - designation: P 191
   mark_type: Survey Mark  
   date: 2003-08-23
