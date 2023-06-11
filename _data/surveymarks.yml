@@ -2564,6 +2564,46 @@
   mark_type: Survey Mark  
   date: 2003-09-02
   post_id: 287  
+- designation: C 29 RESET 1977
+  pid: HU1222
+  mark_type: Survey Mark  
+  date: 2003-09-01
+  post_id: 283  
+- designation: B 29
+  pid: HU0139
+  mark_type: Survey Mark  
+  date: 2003-09-01
+  post_id: 283    
+- designation: E 30
+  pid: HU0140
+  mark_type: Survey Mark  
+  date: 2003-09-01
+  post_id: 283   
+- designation: A 29
+  pid: HU0141
+  mark_type: Survey Mark  
+  date: 2003-09-01
+  post_id: 283   
+- designation: GPS S 1
+  pid: HU2670
+  mark_type: Survey Mark  
+  date: 2003-09-01
+  post_id: 283  
+- designation: GPS S 1 A
+  pid: HU2671
+  mark_type: Survey Mark  
+  date: 2003-09-01
+  post_id: 283    
+- designation: C 28
+  pid: HU0100
+  mark_type: Survey Mark  
+  date: 2003-08-30
+  post_id: 281   
+- designation: BETHANY BEACH MUNICIPAL TANK
+  pid: HU1397
+  mark_type: Survey Mark  
+  date: 2003-08-30
+  post_id: 281    
 - designation: P 191
   mark_type: Survey Mark  
   date: 2003-08-23
