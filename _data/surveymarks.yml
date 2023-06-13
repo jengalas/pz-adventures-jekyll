@@ -2593,7 +2593,52 @@
   pid: HU2671
   mark_type: Survey Mark  
   date: 2003-09-01
-  post_id: 283    
+  post_id: 283 
+- designation: 1 USCG
+  pid: HU0379
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993   
+- designation: FENWICK IS MARK 1
+  pid: HU1478
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993    
+- designation: FENWICK ISLAND
+  pid: HU0377
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993   
+- designation: BOUNDARY MON INITIAL DE MD
+  pid: HU1443
+  mark_type: Reference Mark  
+  date: 2003-08-31
+  post_id: 1993    
+- designation: FENWICK IS LH 1909
+  pid: HU1442
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993   
+- designation: OC 13
+  pid: HU1171
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993  
+- designation: OC 9
+  pid: HU1167
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993     
+- designation: OC 4
+  pid: HU1162
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993  
+- designation: FENWICK IS OBSERVATION TWR 3
+  pid: HU1403
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993  
 - designation: C 28
   pid: HU0100
   mark_type: Survey Mark  
