@@ -11,7 +11,7 @@ excerpt: >-
   
 header:
   teaser:
-geocaches: false
+geocaches: true
 surveymarks: false
 post_id: 275
 layout: post  
@@ -26,7 +26,17 @@ galleries:
     - filename: minsi
       alt: The letterbox itself. It was pretty easy to locate, and is in great shape after almost four years! It will need a new logbook soon, though.       
     - filename: view
-      alt: The view from a little further up the trail. No powerlines this time.       
+      alt: The view from a little further up the trail. No powerlines this time.    
+  gallery2:
+    suffix: cs
+    images:
+    - filename: driveby
+      alt: Beautiful fall colors...        
+  gallery3:
+    suffix: cs
+    images:
+    - filename: driveby
+      alt: View from above. It was a beautiful day on Mt. Minsi!       
                  
              
 ---

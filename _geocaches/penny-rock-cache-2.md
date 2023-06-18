@@ -3,7 +3,7 @@ _schema: default
 title: Penny Rock Cache
 link: https://www.geocaching.com/geocache/GC26A2
 owner: Zhanna
-date: 2002-10-19 00:00:00
+date: 2002-10-19 00:02:00
 log_type: Note
 display_coords: N 41° 54.558' W 075° 51.932'
 latitude: '41.9093'

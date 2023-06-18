@@ -29,18 +29,18 @@ galleries:
   gallery2:
     suffix: cs 
     images:
-    - filename: IMAGE21
+    - filename: image21
       alt: Hiding under the awning ...
-    - filename: IMAGE26
+    - filename: image26
       alt: Can you see me now?
-    - filename: IMAGE30
+    - filename: image30
       alt: I wish it would stop raining!   
   gallery3:
     suffix: cs 
     images:
-    - filename: P1010172
+    - filename: plane2
       alt: It would have been fun to take a ride in this!
-    - filename: P1010170
+    - filename: plane1
       alt: Beautiful Tuesday morning at the airport.                    
 ---
 

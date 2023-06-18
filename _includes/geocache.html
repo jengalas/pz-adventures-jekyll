@@ -19,6 +19,9 @@
 {% elsif geocache.moving %}
   {% assign warning = ":warning:" %}  
   {% assign warning_message = "This is a moving geocache. Coordinates given are for the location where we found the cache." %}  
+{% elsif geocache.virtual %}
+  {% assign warning = ":warning:" %}  
+  {% assign warning_message = "This is a virtual geocache with no physical container to locate." %}  
 {% endif %}
 
 <div class="accordionItem">

@@ -20,19 +20,19 @@ galleries:
   gallery1:
     suffix: cs
     images:
-    - filename: 
+    - filename: letterbox
       alt: The letterbox, with me under an umbrella... I was trying hard to protect it from the rain!
-    - filename: 
+    - filename: stream
       alt: After several days of rain, the stream was full.    
   gallery2:
     suffix: cs
     images:
-    - filename: 
+    - filename: Pa190065
       alt: Zhanna signs the logbook...    
   gallery3:
     suffix: cs
     images:
-    - filename: 
+    - filename: rich
       alt: The rain began just as I was about to log my visit.     
     - filename: 
       alt: This was a very thoughtfully stocked cache.  
@@ -43,9 +43,9 @@ galleries:
   gallery4:
     suffix: cs
     images:
-    - filename: 
+    - filename: contents    
       alt: Contents of the cache...    
-    - filename: 
+    - filename: mountains
       alt: Dreary-day view of the mountains from the park...  
   gallery5:
     suffix: cs
@@ -61,7 +61,9 @@ galleries:
 
 The morning began with a trip to Woodbourne Forest, where I ran into Rich, located the Woodbourne Forest Cache, got wet, caught my hand on a thorn and bled all over the place, and just generally had an awesome time. 
 
-After that cache I went alone to the Liberty Park Cache, which I found without incident, and from there finally to Salt Springs. The letterbox wasn't too tough to find, though I had to retrace my steps on two of the legs to get to the right place. The box was somewhat visible when I arrived at the area, but it was a good distance off the trail. In order to look through the logbook and to stamp it myself, I had to set up my little umbrella on the hillside and hold the book underneath it. (By this time the rain was a mere drizzle, but there was still plenty dripping from the trees.) The hider had included stamped, addressed postcards that you could send her to comment on the letterbox. I only wish she'd included an e-mail address, too. 
+After that cache I went alone to the Liberty Park Cache, which I found without incident, and from there to Salt Springs. The letterbox wasn't too tough to find, though I had to retrace my steps on two of the legs to get to the right place. The box was somewhat visible when I arrived at the area, but it was a good distance off the trail. In order to look through the logbook and to stamp it myself, I had to set up my little umbrella on the hillside and hold the book underneath it. (By this time the rain was a mere drizzle, but there was still plenty dripping from the trees.) The hider had included stamped, addressed postcards that you could send her to comment on the letterbox. I only wish she'd included an e-mail address, too. 
+
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 After locating the letterbox, I checked on my own nearby <a href="http://www.geocaching.com/seek/cache_details.aspx?ID=9890">Penny Rock Cache</a>, which someone had moved to a new spot. Good thing I located it! (I moved it back.)
 
@@ -93,3 +95,5 @@ Note: As of 18 January 2004, this letterbox listing seems to have disappeared fr
 > Be sure to check out the water falls (which can be easily climbed) and put a penny in penny rock  (on the Fall Brook Trail).
 >
 > From [https://web.archive.org/web/20021105085220/http://www.letterboxing.org/pa/grammar.htm](https://web.archive.org/web/20021105085220/http://www.letterboxing.org/pa/grammar.htm)
+
+The last activity of the day was a search for the Lost Falls Cache. This one didn't turn out so well! I may come back and try again, but honestly, it was such a miserable place that I'm not in a hurry to return there.

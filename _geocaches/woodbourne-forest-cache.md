@@ -3,7 +3,7 @@ _schema: default
 title: Woodbourne Forest Cache
 link: https://www.geocaching.com/geocache/GC9BFA
 owner: Johnsons06 
-date: 2002-10-19  00:01:00
+date: 2002-10-19  00:00:00
 log_type: Found it
 display_coords: N 41° 45.805' W 075° 53.569'
 latitude: '41.763416'
@@ -23,5 +23,6 @@ rich_log:  >-
 
 post_id: 271
 image_gallery_zh: gallery2
+image_gallery_zh_class: single
 image_gallery_r: gallery3
 ---
