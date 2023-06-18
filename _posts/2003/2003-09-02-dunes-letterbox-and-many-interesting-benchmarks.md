@@ -20,27 +20,27 @@ galleries:
   gallery1:
     suffix: cs 
     images:
-    - filename:
+    - filename: P1010176
       alt: This short stretch is the only remnant of Baltimore Boulevard that still looks like a road, if viewed from the right location.
-    - filename:
+    - filename: P1010174
       alt: In most places there's nothing left but these odd chunks of black tarry asphalt rising from the dunes.
-    - filename:
+    - filename: P1010173
       alt: I doubt it's authentic, but this street sign indicates the former path of Baltimore Boulevard through the dunes.  
   gallery2:
     suffix: cs 
     images:
-    - filename:
+    - filename: IMAGE21
       alt: Hiding under the awning ...
-    - filename:
+    - filename: IMAGE26
       alt: Can you see me now?
-    - filename:
+    - filename: IMAGE30
       alt: I wish it would stop raining!   
   gallery3:
     suffix: cs 
     images:
-    - filename:
+    - filename: P1010172
       alt: It would have been fun to take a ride in this!
-    - filename:
+    - filename: P1010170
       alt: Beautiful Tuesday morning at the airport.                    
 ---
 
@@ -49,7 +49,9 @@ galleries:
 From 1950 through the early 1960s, Assateague Island was not the quiet wilderness you see today, but rather an exciting prospect for developers and speculators. Attempting to capitalize on the trend toward owning seaside real estate, developers divided the land into thousands of lots, created a street grid and paved a 15-mile highway they called "Baltimore Boulevard". Desiring a bridge that would link to the mainland and offer easier access to the new estates, one of the land interests sold several hundred acres of its property to the State of Maryland; Maryland thereby obtained the land they'd been seeking to build a State Park on the island, and the developers got their bridge in 1961. The future looked bright for the landowners, but disaster struck on March 6, 1962, when a coastal storm ravaged the barrier island. Of the few structures that had been built, most were destroyed. Baltimore Boulevard was torn up and washed out in some spots, buried deep beneath the shifting dunes in others. This did not deter everyone, but over the next several years most developers reluctantly abandoned their dreams for Assateague and moved on to other ventures. They realized that the changing nature of the barrier island was simply unsuitable for permanent development. Meanwhile, as it had been doing for decades, the federal government was pushing to take over land on Assateague to be named a National Seashore. Resentment and hostility grew between private and government interests but the Park Service eventually won out, and the Assateague Island National Seashore was created in 1965.
 
 * Read the full [administrative history of Assateague Island](https://www.nps.gov/parkhistory/online_books/asis/adhi1d.htm) (very detailed) ...
-* View [maps of Assateague Islan](https://www.nps.gov/asis/planyourvisit/maps.htm)
+* View [maps of Assateague Island](https://www.nps.gov/asis/planyourvisit/maps.htm)
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 ## The Letterbox
 

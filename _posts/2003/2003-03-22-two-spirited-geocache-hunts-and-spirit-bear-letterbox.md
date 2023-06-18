@@ -19,29 +19,29 @@ galleries:
   gallery1:
     suffix: cs 
     images:
-    - filename:
+    - filename: porch
       alt: This is the view from the porch of the crumbling shack. It was a beautiful, sunny spring day.  
-    - filename:
+    - filename: shack
       alt: This shack has seen better days, but it was still a really neat structure to explore.
-    - filename:
+    - filename: swan2
       alt: We noticed this beautiful swan on Ghost Lake.       
   gallery2:
     suffix: cs 
     images:
-    - filename:
+    - filename: aaron
       alt: Poor Aaron wasn't feeling well, but I think the walk helped him.
-    - filename:
+    - filename: swan2
       alt: We encountered this beautiful swan in another part of the park.  
   gallery3:
     suffix: cs 
     images:
-    - filename:
+    - filename: lake
       alt: There's still some ice on the pond...
-    - filename:
+    - filename: swan
       alt: ... and a swan.   
-    - filename:
+    - filename: porch
       alt: The view from the porch. Everything's still looking brown. At least there's no snow!
-    - filename:
+    - filename: shack
       alt: The inside of the shack is really a mess right now.                
                           
 ---

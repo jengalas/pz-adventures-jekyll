@@ -21,4 +21,5 @@ zhanna_log:  >-
 rich_log:
 post_id: 279
 image_gallery_zh: gallery3
+image_gallery_zh_class: special2
 ---
