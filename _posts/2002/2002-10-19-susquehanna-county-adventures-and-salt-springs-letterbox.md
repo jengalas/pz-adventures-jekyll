@@ -34,11 +34,11 @@ galleries:
     images:
     - filename: rich
       alt: The rain began just as I was about to log my visit.     
-    - filename: 
+    - filename: Pa190020
       alt: This was a very thoughtfully stocked cache.  
-    - filename: 
+    - filename: Pa190026
       alt: An overcast & rainy scene from along the trail.  
-    - filename: 
+    - filename: Pa190040
       alt: There were all sorts of fungi and mushrooms here.    
   gallery4:
     suffix: cs
@@ -50,9 +50,9 @@ galleries:
   gallery5:
     suffix: cs
     images:
-    - filename: 
+    - filename: Pa200045
       alt: Honestly, I could have taken a nap right here!     
-    - filename: 
+    - filename: Pa200056
       alt: I always try to leave a cache better than I found it.                          
             
 ---
