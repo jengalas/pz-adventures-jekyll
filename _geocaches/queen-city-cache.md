@@ -19,6 +19,7 @@ zhanna_log:  >-
 
   After returning the cache to its hiding spot, we wandered the trails some more and found a good spot for some target practice. The clouds soon moved in and the temperature dropped quickly, but the conditions were still pleasant for our walk out of the woods. As Rich always says, any day like this is one less day of Winter, so I'll take it! Thanks for a fun little diversion on the last day of a really terrific year. Happy 2007!!!
 
+
   Zhanna
 rich_log:  >-
   _(Logged on 20 December 2006)_
@@ -38,9 +39,9 @@ rich_log:  >-
 
   ~Rich in NEPA~
 post_id: 77
-image_gallery_zh: gallery2
+image_gallery_zh: gallery1
 image_gallery_zh_class: single
-image_gallery_r: gallery3
+image_gallery_r: gallery2
 image_gallery_r_class: single
 
 ---

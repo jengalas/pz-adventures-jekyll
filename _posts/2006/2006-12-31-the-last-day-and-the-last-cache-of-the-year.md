@@ -18,13 +18,13 @@ galleries:
   gallery1:
     suffix: cs
     images:
-    - filename: ly2630
+    - filename: zh1
       alt: Now, who could have left these magnets?!
   gallery2:
     suffix: cs
     images:
-    - filename: ly2630
-      alt: Now, who could have left these magnets?!      
+    - filename: P1030247
+      alt: Didn't see any squirrels but I did find this!      
 
 ---      
 
