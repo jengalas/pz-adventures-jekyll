@@ -26,7 +26,11 @@ galleries:
     - filename: minsi
       alt: The letterbox itself. It was pretty easy to locate, and is in great shape after almost four years! It will need a new logbook soon, though.       
     - filename: view
-      alt: The view from a little further up the trail. No powerlines this time.    
+      alt: The view from a little further up the trail. No powerlines this time.  
+    - filename: stairs
+      alt: Stone steps that remain from the old fire lookout tower here.
+    - filename: stump
+      alt: This is the remnants of an old support for the tower.   
   gallery2:
     suffix: cs
     images:
@@ -36,8 +40,7 @@ galleries:
     suffix: cs
     images:
     - filename: driveby
-      alt: View from above. It was a beautiful day on Mt. Minsi!       
-                 
+      alt: View from above. It was a beautiful day on Mt. Minsi!                    
              
 ---
 
