@@ -1979,7 +1979,12 @@
   pid: NA0423
   mark_type: Survey Mark  
   date: 2004-08-24
-  post_id: 291    
+  post_id: 291   
+- designation: X 255
+  pid: LY0149
+  mark_type: Survey Mark  
+  date: 2004-07-30
+  post_id: 850   
 - designation: F 234
   pid: LY1186
   mark_type: Survey Mark  

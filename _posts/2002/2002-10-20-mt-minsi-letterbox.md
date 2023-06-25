@@ -4,6 +4,7 @@ title: Mt. Minsi Letterbox
 author: Zhanna
 date: 2002-10-20
 categories:
+  - geocaching
   - hiking
   - letterboxing
 tags:
