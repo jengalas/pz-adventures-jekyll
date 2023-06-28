@@ -18,6 +18,76 @@ surveymarks: false
 tracklog: 20MAR19.gpx
 post_id: 11167
 layout: post  
+galleries:
+  gallery1:
+    suffix: clx
+    images:
+    - filename: P1060800
+      alt: Festive interior
+    - filename: P1060798
+      alt: A peek at Cora's menu
+    - filename: P1060806
+      alt: Cheese enchiladas with eggs
+    - filename: '20190320_074342'
+      alt: Rich enjoys the cheesy goodness!
+    - filename: P1060808
+      alt: Scrambled eggs with nopales and other vegetables
+    - filename: '20190320_074632'
+      alt: This is my favorite kind of breakfast!
+  gallery2:
+    suffix: clx
+    images:
+    - filename: 
+      alt:    
+  gallery3:
+    suffix: clx
+    images:
+    - filename: P1060966 
+      alt: Along the Freeman Homestead trail     
+    - filename: P1060971 
+      alt: Brittlebush is blooming everywhere this year  
+    - filename: P1060976 
+      alt: Ocotillo leaves      
+    - filename: P1060987 
+      alt: Opuntia in a cactus forest     
+    - filename: P1070004 
+      alt: A chubby headgehog clump 
+    - filename: P1070006
+      alt: The hedgehog clump in context     
+    - filename: P1070019 
+      alt: Saguaro landscape     
+    - filename: P1070022 
+      alt: Saguaro landscape 
+    - filename: P1070028 
+      alt: Seedling Ferocactus   
+  gallery4:
+    suffix: clx
+    images:
+    - filename: P1070032-37 
+      alt: Crested saguaro    
+    - filename: P1070039 
+      alt: Closeup of the crested top of the saguaro   
+  gallery5:
+    suffix: clx
+    images:
+    - filename: P1070048
+      alt: On the porch at Barrio Brewing Company    
+    - filename: P1070049 
+      alt: Ruby Red IPA and Copperhead Ale
+    - filename: P1070056 
+      alt: Nice, quiet supper    
+    - filename: P1070059 
+      alt: Barrio Brewing Company menu    
+    - filename: P1070061 
+      alt: Barrio Brewing Company menu
+    - filename: P1070062
+      alt: Southwest burger     
+    - filename: P1070066 
+      alt: Amazing fish tacos     
+    - filename: P1070071 
+      alt: Beer menu
+    - filename: '20190320_160654' 
+      alt: It was a satisfying meal!                                        
 ---
 
 {% include image.html filename="P1060789clx.jpg" thumb="P1060789b.jpg" caption="We're back at Cora's Cafe!" %}
@@ -28,8 +98,7 @@ The same friendly, attentive young man was working as the server, and it was jus
 
 But, of course, I was in the mood for nopales, so I got the #9, which is scrambled eggs with nopales, green peppers, onions, tomatoes, beans and corn tortillas. We were still dehydrated from yesterday's travel, so we drank plenty of orange juice and coffee. Everything was delicious and somehow we were able to eat everything on our plates, even though the portions were large! I think we were still hungry from yesterday, too.
 
-[justified_image_grid ids=11433,11432,11434,11429,11435,11430 row_height=200]
-
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 Mica View Loop:
 
@@ -48,20 +117,20 @@ We headed to Mica View first, taking the one way loop on Cactus Forest Drive. As
 
 We spent a long time on the Mica View loop, taking some photos while we still had morning sun and enjoying the high density of cactus in the vast forest here. They were incredible. Saguaros are all around, prickly pears underfoot and chollas always watching from the sides of the trails. At one point, as we got further from the picnic area we started to see some mammillaria (Arizona fishhook). So cool! They were mostly 4+ inches in this area, in clusters since their seeds germinate well, and some forming pups.
 
-[wpv-post-body view_template="tracklog-display"]
+{% include tracklog.html %}
 
 We circled back around using the Cactus Forest trail. By now the sun was harsh and taking photos wasn't practical in most locations. We simply enjoyed the scenery and each other's company and conversation. Then we took a long, slow drive along the rest of the Cactus Forest loop, taking in all the cactus scenery along the way! There are also gorgeous mountains with washes and waterfalls (dry now, but probably gorgeus when running) as a backdrop.
 
 Once we reached the end of the one way loop, we turned left onto the short road to Javelina picnic area. Just after making the turn is the parking area for the homestead trail. Fortunately there were 3 or 4 open spots. This was a great hike too! Quite a different ecosystem here with lots of prickly pear and brittlebush intertwined, jojoba and creosote bush, and some saguaros nd barrels of course. The hike loses elevation as it goes south towarda wash near the homestead and then cilmbs some steps back to the parking area. 
 
-[justified_image_grid ids=11455,11456,11457,11458,11459,11460,11461,11462,11463 row_height=200]
+{% include gallery.html gallery_id="gallery3" class="" %}
 
 The homestead is mostly gone, but you can still locate two corners of it beneath several inches of sand and gravel. There are also some iron artifacts scattered nearby, and some colored glass that might be from the period. (I also saw one of the mammillarias here wiht fruits!) After descensing to the wash we noticed a "cube" in the vegetation, could't figure out what it was. Later at the visitors center, we learned from the ranger on duty that it had beena well, old fashioned kind with a crank and chain/rope. The Freemans later had a more modern well dug (we dind't find that( but they didn't like the taste of the water so they continued to use the old well.
 
-[justified_image_grid ids=11464,11465 row_height=300]
+{% include gallery.html gallery_id="gallery4" class="" %}
 
 Just like this morning, for supper we returned to an old favorite place from our last visit: Barrio Brewing Company. It was surprisingly very busy for 3:30pm on a Wednesday! For two years I've been craving the beer-battered fish tacos I enjoyed so much last time, so I had to order them again. Rich had the southwest burger, which was also excellent.  And the beers were fantastic after our long hikes in the desert. I tried the Ruby Red IPA, which was unavailable last time, and Rich had the Copperhead Ale. We relaxed outside on the porch again while we ate, watching the long western trains as they passed through.
 
-[justified_image_grid ids=11446,11447,11448,11449,11450,11451,11452,11453,11445 row_height=200]
+{% include gallery.html gallery_id="gallery5" class="" %}
 
 <!-- Back to the room we rested for a while, then went over to the lobby for another beer and to see if we could find out about the wildflower hike that was on their board for tomorrow. -->

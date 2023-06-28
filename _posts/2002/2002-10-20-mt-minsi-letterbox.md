@@ -40,7 +40,7 @@ galleries:
   gallery3:
     suffix: cs
     images:
-    - filename: driveby
+    - filename: minsiview
       alt: View from above. It was a beautiful day on Mt. Minsi!                    
              
 ---

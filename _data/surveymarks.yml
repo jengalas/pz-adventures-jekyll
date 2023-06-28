@@ -170,6 +170,45 @@
   mark_type: Survey Mark
   date: 2019-09-05
   post_id: 11900
+- designation: U 19 RESET
+  pid: CZ1469
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11189  
+- designation: TUCSON
+  pid: CZ0276
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11189   
+- designation: B 291
+  pid: CZ0736
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11175 
+- designation: C 291
+  pid: CZ0735
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11175    
+- designation: P 112
+  pid: CZ0734
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11175  
+- designation: K 28
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11175         
+- designation: A 295
+  pid: CZ0724
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11175   
+- designation: H 291
+  pid: CZ0725
+  mark_type: Survey Mark
+  date: 2019-03-22
+  post_id: 11175           
 - designation: X 144
   pid: PE0275
   mark_type: Survey Mark
