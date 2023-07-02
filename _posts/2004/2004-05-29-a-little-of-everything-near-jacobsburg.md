@@ -20,12 +20,24 @@ galleries:
   gallery1:
     suffix: cs
     images:
-    - filename: 
-      alt: 
+    - filename: P5290012
+      alt: One of my favorite ways to travel.
   gallery2:
     suffix: cs
     images:
-    - filename: 
+    - filename: P5290061
       alt: On the well-groomed trail near the cache site.      
+  gallery3:
+    suffix: cs
+    images:
+    - filename: hist_jac_bridge
+      alt: One of my favorite places to ride.
+  gallery4:
+    suffix: cs
+    images:
+    - filename: P5290041
+      alt: Trails here are some of the best in the region.  
+    - filename: P5290032
+      alt: Yikes!!! This stuff is everywhere, so be careful.              
            
 ---

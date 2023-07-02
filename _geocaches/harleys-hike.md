@@ -3,13 +3,13 @@ _schema: default
 title: Harley's Hike
 link: https://www.geocaching.com/geocache/GCJGGQ
 owner: Harley's Pack
-date: 2004-05-29
+date: 2004-05-29 01:00:00 -0500
 log_type: Found it
 display_coords: N 40° 46.871' W 075° 15.817'
 latitude: '40.781183'
 longitude: '-75.263616'
 first_stage: false
-bogus: true
+bogus: false
 zhanna_log:  >-
   This puzzle had us scratching our heads for a couple of days. Then I had an idea, and it turned out to be right! We got the green light from the geo-checker along with the parking coordinates. The location is a little out of the way for us, but if we happen to be in the area we will try to find the cache. Thanks for a fun puzzle!
   
@@ -29,7 +29,9 @@ rich_log:  >-
 
 
   ~Rich in NEPA~
-post_id: 12667
+post_id: 5590
 image_gallery_zh: gallery1
+image_gallery_zh_class: single
 image_gallery_r: gallery2
+image_gallery_r_class: single
 ---
