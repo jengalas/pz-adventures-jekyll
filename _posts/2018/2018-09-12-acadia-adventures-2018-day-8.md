@@ -30,25 +30,25 @@ galleries:
   gallery2:
     suffix: clx
     images:
-    - filename: P1040552
+    - filename: '20180912_111156'
       alt: Today’s hike takes us along the Jesup Path.        
-    - filename: 
+    - filename: '20180912_111423'
       alt: Zhanna is intrigued by the unusual textures beneath the outer bark.                 
-    - filename: P1040552
+    - filename: '20180912_111653'
       alt: Blue-green lichen on paper birch        
-    - filename: 
+    - filename: '20180912_120518'
       alt: Wild Gardens of Acadia, a scavenger hunt fit for a botanist                                
-    - filename: P1040552
+    - filename: '20180912_131514'
       alt: Dave stops at mid-crossing to admire the view on Kebo Brook.        
-    - filename: 
+    - filename: P1040564
       alt: Great Hill where Autumn is beginning to make an appearance                                
-    - filename: P1040552
+    - filename: '20180912_144225'
       alt: Great Hill summit, Dave has a hard time getting “off the grid”        
-    - filename: 
+    - filename: '20180912_144351'
       alt: Champlain and Cadillac mountains as seen from Great Hill                                
-    - filename: P1040552
+    - filename: '20180912_144307'
       alt: Rich wanders around Great Hill summit in search of photos ...        
-    - filename: 
+    - filename: '20180912_144514'
       alt: … but Zhanna finds an even more colorful scene.                                                                  
 ---
 
@@ -63,7 +63,6 @@ That put us in the right mood for a nice long walk, and the sun was coming out t
 Today we walked from town along Spring Street to the Great Meadow loop, which we followed to the Hemlock Road. We did the "figure 8" along Hemlock to Sieur de Monts and then Jesup Path back, including some time in the wild gardens, and some time spent looking for the owls (we didn't see any today). Then we walked north on Great Meadow again to the Kebo Brook trail, which we hiked to its western end on the Park Loop Rd. Then we took dad up Great Hill. 🙂 The heavy clouds were rolling in by this point but the views were still excellent. Some color is showing in the trees already. Saw no one on Great Hill, but when we got back to the bottom (and were waiting for the bus) we saw a car pull up and stop in the overlook parking, and three people got out and dashed across the road. We figured they were looking for the roadside cave, and they apparently were (they found it). 
 
 {% include gallery.html gallery_id="gallery2" class="" %}
-[justified_image_grid ids=11624,11625,11626,11627,11628,11633,11629,11631,11630,11632 row_height=240]
 
 The whole route was just over 6 miles and while it was a lng hike, it was relatively mild. The eastern end of Kebo Brook trail is level and very smooth; it becomes steeper and rockier as it nears the Cadillac North Ride trailhead near its western end and intersection wiht the Park Loop rd. There was an interesting pile of rocks at one point with cold air emanating from it - maybe something like Cold Air Cave? We were pretty tired by the end of our hike, which turned out o be just over 6 miles. From the overlook we flagged down the Jordan Pond bus on its way to the visitors center and then back to the village green. ("Mind your hiking poles!") The driver was pretty wild; Rich said she might have been a rodeo rider in a previous life! ;) We went through the messy construction on Route 3 and were almost glad to be back on foot after the jarring ride.
 
