@@ -37,8 +37,78 @@ galleries:
   gallery2:
     suffix: clx
     images:
-    - filename: 
-      alt:    
+    - filename: '20190320_100511'
+      alt: A plump saguaro near the visitors center  
+    - filename: P1060813
+      alt: Black and white photography works well here.
+    - filename: P1060814
+      alt: A classic desert scene
+    - filename: '20190320_133835'
+      alt: There are photographs to be found everywhere!
+    - filename: P1060820
+      alt: HDR cactus action!  
+    - filename: P1060823
+      alt: One of the more tame cholla cactus species   
+    - filename: P1060824
+      alt: This slender Cylindropuntia (“pencil cholla”) is completely loaded with fruit.
+    - filename: P1060829
+      alt: Closeup of saguaro ribs
+    - filename: P1060831
+      alt: This would be a nice spot for a picnic, but we were ready to hike.
+    - filename: P1060841
+      alt: A very mature Ferocactus specimen alongside the Mica View Trail
+    - filename: P1050702
+      alt: The Mica View Trail. Although the area was busier than we've seen it in the past, we still had the place mostly to ourselves.   
+    - filename: P1060853
+      alt: Standing like a saguaro
+    - filename: P1050703
+      alt: An interestingly bifurcated Opuntia (prickly pear)
+    - filename: P1060858
+      alt: Cholla fruits galore!
+    - filename: P1060865
+      alt: We don't see many blue skies like this at home. 
+    - filename: P1050712
+      alt: Twin saguaros busting through their nurse tree.  
+    - filename: P1060876
+      alt: A very cinematic saguaro
+    - filename: P1050718
+      alt: This Ferocactus fruit looks like a little pineapple.
+    - filename: P1060882
+      alt: Another classic scene
+    - filename: P1060886
+      alt: Desert poppies are in bloom at this time of year.  
+    - filename: P1060888
+      alt: Hooked Ferocactus spines   
+    - filename: P1060894
+      alt: Palo verde tree, showing its photosynthetic branches
+    - filename: P1050722
+      alt: No matter which way you turn, there is always such a variety of cacti!
+    - filename: P1060902
+      alt: Deeper into the cactus forest
+    - filename: P1050726
+      alt: The saguaro stands are quite dense in some spots. 
+    - filename: P1060904
+      alt: Another saguaro forest   
+    - filename: P1060906
+      alt: Brilliant desert poppies
+    - filename: P1060918
+      alt: The internal structure of a saguaro is easily seen in this deceased specimen.
+    - filename: P1060923
+      alt: The colors can be overwhelming!
+    - filename: P1050732
+      alt: Saguaro and creosote bush everywhere you look          
+    - filename: P1050734
+      alt: A cute little Mammillaria    
+    - filename: P1060933
+      alt: There are plenty of “plain old Opuntia” too.    
+    - filename: P1060937
+      alt: Finding an adorable cluster of Mammillaria beneath a nurse shrub    
+    - filename: P1060948
+      alt: Overachieving saguaro!    
+    - filename: P1060951
+      alt: We called this one “Mary”.    
+    - filename: P1060963
+      alt: Quite beautiful and symmetrical specimen                                  
   gallery3:
     suffix: clx
     images:
@@ -102,8 +172,7 @@ But, of course, I was in the mood for nopales, so I got the #9, which is scrambl
 
 Mica View Loop:
 
-[justified_image_grid ids=11507,11510,11511,11508,11512,11513,11479,11480,11481,11482,11499,11483,11500,11484,11485,11501,11486,11502,11487,11515,11516,11488,11503,11489,11504,11490,11491,11492,11493,11505,11506,11494,11495,11496,11497,11498 row_height=200]
-
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 After breakfast we set aside some time for errand-running. We always make a quick trip to a grocery store for a few items, like bottled water and paper towels, that we couldn't bring with us, and snacks for the trail. It's not exciting but it's necessary, and sometimes we find unusual goodies, like guava pastries in the Florida grocery stores. We ended up at Fry's, which was the closest store to Cora's that we could find. Decent place, and we found everything we needed easily, even the "enormous"-size paper towels. They didn't have any interesting pastries, though.
 
