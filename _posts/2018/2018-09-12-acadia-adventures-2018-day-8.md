@@ -49,7 +49,16 @@ galleries:
     - filename: '20180912_144307'
       alt: Rich wanders around Great Hill summit in search of photos ...        
     - filename: '20180912_144514'
-      alt: … but Zhanna finds an even more colorful scene.                                                                  
+      alt: … but Zhanna finds an even more colorful scene.
+  gallery3:
+    suffix: clx
+    images:
+    - filename: P1040574
+      alt: A pint of Guinness is the reward for a good day of hiking.           
+    - filename: P1040583
+      alt: Wexford Fish Sandwich for dinner at Paddy’s by the waterfront                
+    - filename: P1040588
+      alt: Rich’s luscious BBQ Pork Sandwich at Paddy’s                                                                             
 ---
 
 This morning's breakfast was at 2 Cats. I could hardly believe that the place was nearly empty, at least inside! Even the outer room had no tables-there was merchandise there instead. My only thought was that maybe since it was such a warm, dry summer, more people wanted to eat outside and they moved the tables to the porch?
@@ -71,7 +80,6 @@ The whole route was just over 6 miles and while it was a lng hike, it was relati
 We met for dinner a little after 5:00 and walked down to Paddys. Dad and I had the fish sandwich again, and Rich tried something new, the pork sandwich with cheese and slaw. Everything was very tasty! And we each had a Guinness. At one point, just after my father had been saying that he hadn't seen too many buses up here so far, a Martz bus passed by. Knowing that his coworker Ralph was driving for a trip to New England he joked "Hey I'll bet that's Ralph," and then a second later "Hey, that *is* Ralph!" He ran out of the restaurant to try to catch up with him, which he did. They talke for a few minuts while Rich and i finished our drinks.
 
 {% include gallery.html gallery_id="gallery3" class="" %}
-[justified_image_grid ids=11637,11638,11639 row_height=240]
 
 Too stuffed for dessert there, btu after a short walk around (checking out Sunrise menu, buying socks for R) we had just enough room to split a baby scoop of blackberry-basil (new? or just new to us?) sorbet. It's awesome and just as good as the blueberry basil. 
 
