@@ -2668,6 +2668,11 @@
   date: 2003-10-18
   custom_permalink: lz1875-rm-2
   post_id: 1945   
+- designation: K 57
+  pid: LZ0106
+  mark_type: Survey Mark  
+  date: 2003-10-18
+  post_id: 1945  
 - designation: MEHOOPANY
   pid: LZ1844
   mark_type: Survey Mark  
@@ -2977,6 +2982,11 @@
   mark_type: Survey Mark  
   date: 2003-08-31
   post_id: 1993   
+- designation: 2 USCG
+  pid: HU0380
+  mark_type: Survey Mark  
+  date: 2003-08-31
+  post_id: 1993    
 - designation: OC 13
   pid: HU1171
   mark_type: Survey Mark  
