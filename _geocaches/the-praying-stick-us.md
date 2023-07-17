@@ -3,7 +3,7 @@ _schema: default
 title: The Praying “Stick-Us”
 link: https://www.geocaching.com/geocache/GC22YWK
 owner: Zgoda3
-date: 2020-08-29
+date: 2010-08-29
 log_type: Found it
 display_coords: N 41° 26.236' W 075° 32.153'
 latitude: '41.437266'
