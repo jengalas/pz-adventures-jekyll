@@ -37,7 +37,7 @@ After this peak the trail descends and then stays mostly on the level for the re
 
 The trail and surroundings were quite different from yesterday's hike even though the two parks are geographically close. Today's trail was rocky the whole way with some loose scree on the slopes. Breezes were fewer although still occurred often enough to keep the conditions pleasant. The mountains here are closer to the trail and have a much larger presence; the cacti here don't fade into the background but in most areas they are more of a foreground complement to the mountain scenery. We saw saguaros, cholla, ferocactus, opuntia, and already-bloomed-out mammillaria. One south-facing slope contained at least a dozen impressive clusters. At some point along the way (perhaps when we encountered misleading blazes) Rich also declared that he is now Marvel Comics new superhero Scorpionman, having been stung by a radioactive scorpion. What's his superpower? Whining! :)
 
-[wpv-view name="tracklog-display" ids="7834"]
+{% include tracklog.html %}
 
 We hadn't quite had our fill of heat yet, nor of cacti (well, of cacti anyway) so we decided to head over to the Desert Botanical Gardens at Papago Park for a few hours. Neither one of us had visited these gardens before and we soon learned that we had been missing out on a great experience! My only wish was that it had been cooler so we could really take in the extent of the exhibits. 
 
