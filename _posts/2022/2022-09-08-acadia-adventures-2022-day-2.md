@@ -77,9 +77,9 @@ Obviously I had nothing prepared, because I didn't expect we would be stopping i
 
 That triangulation station didn't look too far away, so we decided to take a walk toward it. Turns out it was straight uphill and much farther than it appeared from the map. So once we reached the intersection of School and Elm Streets, we changed course and headed back down toward Main Street, where we checked out a few of the old buildings and examined the post office to see if there might be any USGS marks set in its foundation. 
 
-We had no luck at the post office, but as we came around the back of that brick building we saw a small farmers' market set up in the adjacent lot. We weren't able to buy any vegetables, but there was a man—the [Chaga Mann](https://www.chagamann.com/)—sampling and selling chaga tea. I had to try some (I've tried a sample before from my friend Mickie). In fact, Mickie is tending to my plants while we're away, so I bought a bag of chaga tea as a little thank you gift for her.
+We had no luck at the post office, but as we came around the back of that brick building we saw a small farmers' market set up in the adjacent lot. We weren't able to buy any vegetables, but there was a man—the [Chaga Mann](https://www.chagamann.com/)—sampling and selling chaga tea. I had to try some (I've tried a sample before from my friend Mickie). In fact, Mickie is tending to my plants while we're away, so I bought a bag of chaga tea as a little thank-you gift for her.
 
-Then we crossed Main Street, heading toward the waterfront. We spotted a brick pathway that looked like a walking trail leading in both directions along the water, and right next to it, a section of abandoned railroad tracks. Could these take us to the benchmark near the old railroad tracks? 
+Then we crossed Main Street, heading toward the waterfront. We spotted a brick pathway that appeared to be a walking trail leading in both directions along the water, and right next to it, a section of abandoned railroad tracks. Could these take us to the benchmark near the old railroad tracks? 
 
 We followed the walking path, which was so pretty and all along the way lined with plaques explaining the history of the town, the bridge, the fort, and the various prominent people of Bucksport's history. When we arrived at the coordinates for the benchmark, Rich asked what type of mark we were looking for, and I said it was a bolt with a washer. 
 
@@ -93,13 +93,13 @@ We continued our search around the little park where the bolt was supposedly set
 
 Another weird thing is that the datasheet didn't say `SCALED` or `ADJUSTED` but rather `NO CHECK`, which I've never seen before (I would expect this type of mark to be adjusted, but if it wasn't, we may have been in the wrong spot). 
 
-Also, since the park was built beginning in 1984 and the bolt was set in 1982, it may have been removed or covered over long ago.
+Also, since construction on the park began in 1984 and the bolt was set in 1982, it may have been removed or covered over long ago.
 
 {% include gallery.html gallery_id="gallery3" class="" %}
 
 This town is worthy of much deeper exploration. Among other things, I think we'll come back to look for a few more benchmarks! Before leaving, we took a drive up Central Street to check out the location of the Mount Olive mark. It's in deep woods on a high knoll, but I didn't see any "posted" signs and it looks doable—with significant effort—as long as we can find a good place to park. 
 
-Just as we were leaving town I spotted a disk on a bridge bannister. Rich pulled down into another small parking lot along the waterfront trail and waited while I photographed the disk (it was a MaineDOT mark from 2021). We really need to find out more about the history and extent of this trail!
+Just as we were leaving town I spotted a disk on a bridge bannister. Rich pulled down into another small parking lot along the waterfront trail and waited while I photographed the disk, which was a MaineDOT mark from 2021. We really need to find out more about the history and extent of this trail!
 
 {% include gallery.html gallery_id="gallery4" class="" %}
 
