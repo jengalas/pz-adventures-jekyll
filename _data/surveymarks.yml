@@ -615,6 +615,119 @@
   date: 2017-09-10
   custom_permalink: 152-2
   post_id: 8390
+- designation: J C GREENWAY CROSS
+  pid: DA1539
+  mark_type: Survey Mark
+  date: 2017-05-03
+  post_id: 7830  
+- designation: FLITE
+  pid: DA1527
+  mark_type: Survey Mark
+  date: 2017-05-03
+  post_id: 7830    
+- designation: FLITE RM 3
+  mark_type: Reference Mark
+  date: 2017-05-03
+  custom_permalink: da1527-rm-3
+  post_id: 7830  
+- designation: FLITE RM 4
+  mark_type: Reference Mark
+  date: 2017-05-03
+  custom_permalink: da1527-rm-4
+  post_id: 7830   
+- designation: D 308
+  pid: CH0089
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824    
+- designation: J 308
+  pid: CH0094
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824   
+- designation: K 308
+  pid: CH0095
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824   
+- designation: L 308
+  pid: CH0096
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824   
+- designation: M 308
+  pid: CH0097
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824    
+- designation: N 308
+  pid: CH0098
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824   
+- designation: P 308
+  pid: CH0099
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824   
+- designation: Z 307
+  pid: CH0128
+  mark_type: Survey Mark
+  date: 2017-05-02
+  post_id: 7824    
+- designation: SAN XAVIER MISSION
+  pid: CZ1976
+  mark_type: Survey Mark
+  date: 2017-04-30
+  post_id: 7812     
+- designation: SAN XAVIER MISSION CROSS
+  pid: CZ1975
+  mark_type: Survey Mark
+  date: 2017-04-30
+  post_id: 7812   
+- designation: L 469
+  pid: DA1210
+  mark_type: Survey Mark
+  date: 2017-04-30
+  post_id: 7812   
+- designation: R 36
+  pid: DA0318
+  mark_type: Survey Mark
+  date: 2017-04-30
+  post_id: 7812   
+- designation: NPS 6
+  mark_type: Survey Mark
+  date: 2017-04-27
+  post_id: 7806
+- designation: B 432
+  pid: CG0875
+  mark_type: Survey Mark
+  date: 2017-04-27
+  post_id: 7806  
+- designation: NPS WAC DASC No. 1
+  mark_type: Survey Mark
+  date: 2017-04-27
+  post_id: 7806    
+- designation: E 391
+  pid: CZ1627
+  mark_type: Survey Mark
+  date: 2017-04-26
+  post_id: 7803    
+- designation: N 112
+  pid: CZ0732
+  mark_type: Survey Mark
+  date: 2017-04-26
+  post_id: 7803    
+- designation: D 291
+  pid: CZ0733
+  mark_type: Survey Mark
+  date: 2017-04-26
+  post_id: 7803  
+- designation: NN 95
+  pid: CZ2538
+  mark_type: Survey Mark
+  date: 2017-04-26
+  post_id: 7803    
 - designation: 75 C
   mark_type: Survey Mark
   date: 2017-04-23
@@ -622,7 +735,7 @@
 - designation: C 73
   mark_type: Survey Mark
   date: 2017-04-23
-  post_id: 7992
+  post_id: 7992  
 
 # 2016
 
@@ -1022,7 +1135,7 @@
   post_id: 5299       
 - designation: TT 38 T
   mark_type: Survey Mark
-  date: 2014-05-14
+  date: 2014-05-24
   post_id: 4768 
 - designation: LAKE SCRANTON W. W.
   mark_type: Survey Mark

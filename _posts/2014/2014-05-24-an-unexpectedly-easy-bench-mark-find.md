@@ -2,7 +2,7 @@
 _schema: default
 title: "An Unexpectedly Easy Bench Mark Find"
 author: Zhanna
-date: 2014-05-14
+date: 2014-05-24
 categories:
   - survey mark hunting
 tags:
@@ -12,7 +12,6 @@ header:
   teaser:
 geocaches: false
 surveymarks: true
-tracklog: 26MAY14.gpx
 post_id: 4768
 layout: post
 
