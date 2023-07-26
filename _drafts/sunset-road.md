@@ -2,7 +2,7 @@
 _schema: default
 title: Sunset Road
 author: Zhanna
-# date: 2023-07-22
+date: 2023-07-22
 categories: 
   - hiking
 tags:
@@ -27,7 +27,9 @@ About six weeks ago, Rich and I took a photo walk around the town of Waverly. Th
 
 In the meantime, we had checked out satellite imagery for the area and noticed the probable reason for the road closure: there appeared to have once been a bridge over the railroad tracks, and the bridge was now, apparently, gone.
 
-We had to check it out in person. There was just a short stretch of road past the signs blocking vehicle access. The sun was in and out, and we had a few opportunities for wildflower photography, but not many. This also didn't appear to be a very fruitful area for herping. The road abruptly ended at a pair of concrete barriers, and a large void beyond, with the railroad tracks about 20 feet lower than the road grade. There was a rather amusing sign reading HORSES - 10mph on the other side of the gorge through which the tracks run.
+We had to check it out in person. There was just a short stretch of road past the signs blocking vehicle access. The sun was in and out, and we had a few opportunities for wildflower photography, but not many. This also didn't appear to be a very fruitful area for herping. (But there is plenty of poison ivy!)
+
+The road abruptly ended at a pair of concrete barriers, and a large void beyond, with the railroad tracks about 20 feet lower than the road grade. There was a rather amusing sign reading **HORSES - 10mph** on the other side of the gorge through which the tracks run.
 
 Based on the condition of the roadway, we both assumed that the bridge had fallen, or been demolished, decades ago (we weren't yet aware of what had happened). When we researched this back at home, we learned that there was some controversy involved in the eventual demolition of the bridge.
 

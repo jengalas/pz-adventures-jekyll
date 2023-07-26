@@ -33,145 +33,125 @@ galleries:
     suffix: cl
     images:
     - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
+      alt: Parking lot/trailhead for Brown Mountain       
+    - filename: P1000666
+      alt: Large cholla near Brown Mountain trailhead    
+    - filename: P1000667
+      alt: Plucking a dangling cholla fruit, Brown Mountain trailhead      
+    - filename: P1000669
+      alt: Cholla and saguaro, Brown Mountain       
+    - filename: P1000672
+      alt: Zhanna takes a photo of cholla from a safe distance    
+    - filename: P1000678
+      alt: Desert flora, Brown Mountain
+    - filename: P1000680
+      alt: Desert flora       
+    - filename: P1000682
+      alt: Desert flora    
+    - filename: P1000683
+      alt: Desert flora      
+    - filename: P1080223
+      alt: Saguaro in bud  
+    - filename: P1000686
+      alt: Saguaro in bud       
+    - filename: P1000688
+      alt: Saguaro in bud    
+    - filename: P1000691
+      alt: Saguaro in major bud!      
+    - filename: P1000694
+      alt: Old prickly pear turning woody at the base       
+    - filename: P1080224
+      alt: Rich photographs the desert scenery    
+    - filename: P1080226
+      alt: Saguaro flowers are beginning to open
+    - filename: P1000699
+      alt: Fishhook mammillaria cactus       
+    - filename: P1080229
+      alt: Another old, woody prickly pear    
+    - filename: P1080233
+      alt: Prickly pear and large Ferocactus (barrel cactus)      
+    - filename: P1080236
+      alt: Large mat of prickly pear cactus 
+    - filename: P1000701
+      alt: Creosote bush in fruit      
+    - filename: P1000704
+      alt: Rich and a nice variety of cactus    
+    - filename: P1080241
+      alt: New growth on a prickly pear      
+    - filename: P1080242
+      alt: Saguaro with two arms       
+    - filename: P1000708
+      alt: Yellow prickly pear flower    
+    - filename: P1080245
+      alt: Red cholla flower
+    - filename: P1080252
+      alt: Saguaro forest       
+    - filename: P1000719
+      alt: Saguaro with blossoms on upright arms    
+    - filename: P1000722
       alt:       
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt: 
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:   
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt: 
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:  
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt: 
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:  
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt: 
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:  
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt: 
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:  
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt: 
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:  
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt: 
-    - filename: 
-      alt:        
-    - filename: 
-      alt:     
-    - filename: 
-      alt:       
-    - filename: 
-      alt:                                                            
+    - filename: P1080259
+      alt: Three barrels together!
+    - filename: P1080262
+      alt: Zhanna has to touch the three barrels        
+    - filename: P1000727
+      alt: Zhanna enters the cactus forest    
+    - filename: P1080267
+      alt: Cactus forest and mountain backdrop       
+    - filename: P1000730
+      alt: Zhanna is dwarfed by the BIG saguaros       
+    - filename: P1080271
+      alt: Cactus forest and mountain backdrop   
+    - filename: P1080272
+      alt: Brown Mountain trail 
+    - filename: P1080273
+      alt: Saguaro buds and flowers everywhere
+    - filename: P1000735
+      alt: Saguaro buds and flowers       
+    - filename: P1000739
+      alt: More saguaro buds!    
+    - filename: P1000744
+      alt: More saguaro buds!     
+    - filename: P1080278
+      alt: Big fat ferocactus 
+    - filename: P1080280
+      alt: The ferocactus that gave us a fruit       
+    - filename: P1080282
+      alt: Continuing up the Brown Mountain trail    
+    - filename: P1000751  
+      alt: Along the Brown Mountain trail      
+    - filename: P1000753
+      alt: Along the Brown Mountain trail       
+    - filename: P1000755
+      alt: Along the Brown Mountain trail    
+    - filename: P1000758
+      alt: Round Ferocactus along the way
+    - filename: P1080284
+      alt: Along the Brown Mountain trail       
+    - filename: P1080288
+      alt: View from one of the Brown Mountain summits    
+    - filename: P1000760
+      alt: Cholla and creosote      
+    - filename: P1000763
+      alt: Cholla bud opening 
+    - filename: P1000768
+      alt: Lots of cholla buds       
+    - filename: P1080289
+      alt: Apricot-colored prickly pear blossoms    
+    - filename: P1000774
+      alt: Huge saguaro and saguaro forest      
+    - filename: P1000776
+      alt: Huge saguaro and saguaro forest       
+    - filename: P1000779
+      alt: A spectacular saguaro    
+    - filename: P1080300
+      alt: BM E 291 (CZ1627)
+    - filename: P1080314
+      alt: BM N 112 (CZ0732)      
+    - filename: P1080322
+      alt: BM D 291 (CZ0733)    
+    - filename: P1080337
+      alt: BM NN 95 (CZ2538)                                                              
   gallery3:
     suffix: cl
     images:
