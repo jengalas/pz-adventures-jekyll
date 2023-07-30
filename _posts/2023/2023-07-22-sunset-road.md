@@ -20,21 +20,21 @@ galleries:
     suffix: cvx
     images:
     - filename: P7220034-Edit
-      alt:    
-    - filename: P7220055
-      alt: 
+      alt: This colorful butterfly greeted us as we neared the end of the road.   
     - filename: P7220069-Edit
-      alt: 
-    - filename: P7220081
-      alt:         
-    - filename: P7220086
-      alt:    
+      alt: Crown vetch is always ethereally beautiful.    
     - filename: P7220088-Edit
-      alt: 
+      alt: "I think this is white campion: <i>Silene latifolia</i>"
     - filename: P7220095
-      alt: 
+      alt: More thistles with beautiful magenta blooms
+    - filename: P7220081
+      alt: These barriers mark the end of the road       
+    - filename: P7220055
+      alt: A leftover from the horse farm that was once accessible from this road       
+    - filename: P7220086
+      alt: We saw several of these old concrete fence corners in what must have been old pasture land 
     - filename: P7220103
-      alt:      
+      alt: Maple and Sunset     
 ---
 
 {% include image.html filename="P1077298-Pano-2cvx.jpg" thumb="P1077298-Pano-2b.jpg" caption="" %}
