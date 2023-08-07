@@ -31,73 +31,69 @@ galleries:
       alt: Scrambled eggs with chiles, tomatoes and onions at Cora's Cafe
   gallery2:
     suffix: cl
-    images:
-    - filename: 
-      alt: Parking lot/trailhead for Brown Mountain       
+    images:    
     - filename: P1000666
-      alt: Large cholla near Brown Mountain trailhead    
+      alt: Parking lot/trailhead for Brown Mountain      
     - filename: P1000667
-      alt: Plucking a dangling cholla fruit, Brown Mountain trailhead      
+      alt: Large cholla near Brown Mountain trailhead      
     - filename: P1000669
-      alt: Cholla and saguaro, Brown Mountain       
+      alt: Plucking a dangling cholla fruit, Brown Mountain trailhead       
     - filename: P1000672
-      alt: Zhanna takes a photo of cholla from a safe distance    
+      alt: Cholla and saguaro, Brown Mountain    
     - filename: P1000678
-      alt: Desert flora, Brown Mountain
+      alt: Zhanna takes a photo of cholla from a safe distance
     - filename: P1000680
-      alt: Desert flora       
+      alt: Desert flora, Brown Mountain       
     - filename: P1000682
       alt: Desert flora    
     - filename: P1000683
-      alt: Desert flora      
+      alt: Desert flora     
     - filename: P1080223
-      alt: Saguaro in bud  
+      alt: Desert flora  
     - filename: P1000686
-      alt: Saguaro in bud       
+      alt: Saguaro in bud        
     - filename: P1000688
       alt: Saguaro in bud    
     - filename: P1000691
-      alt: Saguaro in major bud!      
+      alt: Saguaro in bud     
     - filename: P1000694
-      alt: Old prickly pear turning woody at the base       
+      alt: Saguaro in major bud!        
     - filename: P1080224
-      alt: Rich photographs the desert scenery    
+      alt: Old prickly pear turning woody at the base    
     - filename: P1080226
-      alt: Saguaro flowers are beginning to open
+      alt: Rich photographs the desert scenery
     - filename: P1000699
-      alt: Fishhook mammillaria cactus       
+      alt: Saguaro flowers are beginning to open     
     - filename: P1080229
-      alt: Another old, woody prickly pear    
+      alt: Fishhook mammillaria cactus      
     - filename: P1080233
-      alt: Prickly pear and large Ferocactus (barrel cactus)      
+      alt: Another old, woody prickly pear      
     - filename: P1080236
-      alt: Large mat of prickly pear cactus 
+      alt: Prickly pear and large Ferocactus (barrel cactus)
     - filename: P1000701
-      alt: Creosote bush in fruit      
+      alt: Large mat of prickly pear cactus      
     - filename: P1000704
-      alt: Rich and a nice variety of cactus    
+      alt: Creosote bush in fruit     
     - filename: P1080241
-      alt: New growth on a prickly pear      
+      alt: Rich and a nice variety of cactus    
     - filename: P1080242
-      alt: Saguaro with two arms       
+      alt: New growth on a prickly pear         
     - filename: P1000708
-      alt: Yellow prickly pear flower    
+      alt: Saguaro with two arms    
     - filename: P1080245
-      alt: Red cholla flower
+      alt: Yellow prickly pear flower
     - filename: P1080252
-      alt: Saguaro forest       
+      alt: Red cholla flower     
     - filename: P1000719
-      alt: Saguaro with blossoms on upright arms    
+      alt: Saguaro forest      
     - filename: P1000722
-      alt:       
+      alt: Saguaro with blossoms on upright arms      
     - filename: P1080259
       alt: Three barrels together!
     - filename: P1080262
       alt: Zhanna has to touch the three barrels        
     - filename: P1000727
-      alt: Zhanna enters the cactus forest    
-    - filename: P1080267
-      alt: Cactus forest and mountain backdrop       
+      alt: Zhanna enters the cactus forest         
     - filename: P1000730
       alt: Zhanna is dwarfed by the BIG saguaros       
     - filename: P1080271
@@ -117,9 +113,7 @@ galleries:
     - filename: P1080280
       alt: The ferocactus that gave us a fruit       
     - filename: P1080282
-      alt: Continuing up the Brown Mountain trail    
-    - filename: P1000751  
-      alt: Along the Brown Mountain trail      
+      alt: Continuing up the Brown Mountain trail        
     - filename: P1000753
       alt: Along the Brown Mountain trail       
     - filename: P1000755
@@ -128,8 +122,6 @@ galleries:
       alt: Round Ferocactus along the way
     - filename: P1080284
       alt: Along the Brown Mountain trail       
-    - filename: P1080288
-      alt: View from one of the Brown Mountain summits    
     - filename: P1000760
       alt: Cholla and creosote      
     - filename: P1000763
@@ -144,6 +136,9 @@ galleries:
       alt: Huge saguaro and saguaro forest       
     - filename: P1000779
       alt: A spectacular saguaro    
+  gallery3:
+    suffix: cl
+    images:    
     - filename: P1080300
       alt: BM E 291 (CZ1627)
     - filename: P1080314
@@ -152,7 +147,7 @@ galleries:
       alt: BM D 291 (CZ0733)    
     - filename: P1080337
       alt: BM NN 95 (CZ2538)                                                              
-  gallery3:
+  gallery4:
     suffix: cl
     images:
     - filename: P1080343
@@ -160,6 +155,8 @@ galleries:
     - filename: P1080347
       alt: Chicken flautas at El Charro                                
 ---
+
+{% include image.html filename="P1080267cl.jpg" thumb="P1080267b.jpg" caption="Cactus forest and mountain backdrop" %}
 
 Today was a day _**filled**_ with cactuses! Early this morning we were unsure of what we wanted to do today. While browsing the maps last night, as usual, I found an area filled with relatively short trails that connected together in a web, making it easy to create loops of different lengths depending on what we wanted to explore and how we felt while hiking. These trails are in the northwest corner of the eastern section of Saguaro National Park, and they were new to both of us. They looked like a good option.
 
@@ -179,7 +176,7 @@ Brown Mountain is now at the top of my recommendation list for anyone who loves 
 
 A leisurely hike on desert-sand and loose-rock trails brought us up the first peak of Brown Mountain's three summits. We took photos all along the way.  We took one other thing too: a ripe ferocactus fruit bursting with glossy black seeds! Just in case they do germinate and grow, we also have coordinates and a photo of the parent plant, so we can show the seedlings where they came from. 
 
-[justified_image_grid exclude=8043,8044,8045,10515,10516 row_height=200]
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 The saguaros are starting to bloom. Even this early in the season, some of them are sporting multiple open flowers. We found it interesting how many times we noticed that in a grove of several saguaros about the same size, one would be filled with buds and flowers while the others had none. Is it down to individual differences or some genetic/adaptive behavior? Obviously we have no idea, but observations like these can lead to some interesting conclusions, so we tend to take note.
 
@@ -189,9 +186,13 @@ The ferocactuses were of all sizes from basketball on up, but many are large bar
 
 The ever-dangerous chollas were everywhere. Don't let a fallen piece get attached to your shoe, or worse, come close enough to an upright cholla plant that a piece detaches and grabs onto your arm or leg! 
 
-The mamms were cute little cottonballs that most often grew under nurse plants at the lower elevations but preferred the open areas near the top of the mountain.  
+The mammillarias were cute little cottonballs that most often grew under nurse plants at the lower elevations but preferred the open areas near the top of the mountain.  
 
-The view from the first summit is perfect for a desert and cactus lover. Although signs of civilization are all around, it's easy enough to imagine that there's nothing left on earth but you and the cactuses! After pausing for a minute, Rich suggested that we continue on to the second peak. I was thrilled to explore more of this exotic cactus jungle! The second of three summits is the highest and gave us a good workout, especially as the day was heating up quickly. At the top of the second summit we rested and filled up on water and a snack bar before descending back to the car. We noticed only one other person on the trail, and he was doing his best to avoid us. Nothing beats almost pure solitude on a trail surrounded by cacti and bathed in sunshine!  
+{% include image.html filename="P1080288cl.jpg" thumb="P1080288b.jpg" caption="View from one of the Brown Mountain summits" %}
+
+The view from the first summit is perfect for a desert and cactus lover. Although signs of civilization are all around, it's easy enough to imagine that there's nothing left on earth but you and the cactuses! After pausing for a minute, Rich suggested that we continue on to the second peak. I was thrilled to explore more of this exotic cactus jungle! 
+
+The second of three summits is the highest and gave us a good workout, especially as the day was heating up quickly. At the top of the second summit we rested and filled up on water and a snack bar before descending back to the car. We noticed only one other person on the trail, and he was doing his best to avoid us. Nothing beats almost pure solitude on a trail surrounded by cacti and bathed in sunshine!  
 
 {% include tracklog.html %}
 
@@ -203,8 +204,10 @@ The third benchmark of the day was at Old Tucson, a touristy "old west" theme pa
 
 And the fourth and final find for today was a new GPS station high above the road near the Desert Museum. It was another easy find and the disk itself appears to be in good condition, although we both questioned the stability of the rock it's set into. The site offers great views of Brown Mountain and its trails!  But it was tricky to maneuver down the dry rocky gravel slope near the road and as we descended, Rich slipped and his hand landed right on one of those cute fishhook mamms. Ouch!!! We spent a few minutes pulling out the spines but all was well,  even with the cactus (yes, we checked). 
 
+{% include gallery.html gallery_id="gallery3" class="2by2" %}
+
 By now we were beat and just wanted to get cleaned up and go for some dinner. No surprise, we chose Mexican again, this time from one of our old favorites, El Charro. The restaurant dates back to the 1920s and is a charming and relaxing place for a solid Mexican meal, nothing fancy. They are best known for their carne seca, so Rich couldn't resist trying the carne seca enchiladas. I had to go with one of my usual favorites, chicken flautas. At El Charro they come topped with a red sauce, which is unusual but very tasty. We had plenty of beer (their special 95th Anniversary draft!) and then took a brief walk around the block looking at the neighborhood cactus gardens. Fully satisfied from our day and the food, we were in bed by 6:30 tonight!  
 
-{% include gallery.html gallery_id="gallery3" class="" %}
+{% include gallery.html gallery_id="gallery4" class="" %}
 
 
