@@ -54,4 +54,10 @@ galleries:
 
 {% include gallery.html gallery_id="gallery1" class="special2" %}
 
+Today's adventures included a hike at the Varden Conservation Area, which we somehow just learned about recently. There are two sections to this conservation area: the Tannery Tract east of Route 296, and the Mid Valley Tract, west of Route 296. 
+
+On our way to explore the Tannery Tract, Rich and I found a transit traverse station, TT 7 J. Interestingly, this is a gold disk made of Aich's metal, like another that we've found in the "J" series: TT 5 J. 
+
+This was the perfect day for a very colorful fall hike. We hiked a short loop that covered sections of most of the trails in the park. I think the only one we didn't hike at least a section of is the Bluebird Trail.
+
 {% include tracklog.html %}
