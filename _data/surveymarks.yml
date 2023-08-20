@@ -2680,7 +2680,17 @@
   pid: LY1116
   mark_type: Survey Mark  
   date: 2003-11-14
-  post_id: 801   
+  post_id: 801 
+- designation: RV 2448
+  pid: LY0800
+  mark_type: Survey Mark  
+  date: 2003-11-09
+  post_id: 805        
+- designation: Z 34
+  pid: LY0786
+  mark_type: Survey Mark  
+  date: 2003-11-09
+  post_id: 805    
 - designation: CS PEIRCE
   pid: LY2641
   mark_type: Survey Mark  
