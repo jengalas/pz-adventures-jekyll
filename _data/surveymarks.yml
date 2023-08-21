@@ -3230,7 +3230,23 @@
   custom_permalink: ly2640-rm-3
   post_id: 2055  
 
+# 2002
 
+- designation: K 339
+  pid: KU1438
+  mark_type: Survey Mark  
+  date: 2002-09-28
+  post_id: 263 
+- designation: 828
+  pid: KU1437
+  mark_type: Survey Mark  
+  date: 2002-09-28
+  post_id: 263
+- designation: L 339
+  pid: KU1440
+  mark_type: Survey Mark  
+  date: 2002-09-28
+  post_id: 263 
 
 
                
