@@ -36,7 +36,7 @@ Then Rich proposed taking a short bus ride around and a stop at Thunder Hole jus
 
 The buses were not crowded but there were a few other people on each one we took.
 
-We came back to the room and rested for a short while before heading out for and early, much-anticipated dinner at Ciao.
+We came back to the room and rested for a short while before heading out for an early, much-anticipated dinner at Ciao.
 
 On our way to dinner at Ciao, we stopped at the hardware store to look for an SD card adapter (they didn't have one but suggested we check Hannaford or Walgreens) and then wandered around A&B Naturals for a while. There are many interesting goodies in this "natural food store" that "smells like herbs". I could probably find something interesting for Mickie here (maybe some honey to go with the chaga tea). In fact I think I'll buy some blueberry and raspberry honey for myself too. Rich was very interested in the "Zucca" pasta that looks like little squash halves! I think that would be really cool to make (with sauce and zucchini? Definitely not pumpkin spice sauce!)
 
@@ -44,7 +44,7 @@ We took a slow walk down the block to Ciao and had about a 15 minute wait before
 
 We began with a cocktail we've enjoyed here before: blueberry lemon vodka with wild blueberries in the glass. So refreshing and colorful! Our choices for dishes were farmhouse salad with greens, tomatoes, and shaved pecorino, and fregola sarna salad with toasted fregola, eggplant, olives, peppers, cucumber spirals. Fantastic! Next came the she-crab soup with cream and sherry, probably the best soup I've ever had! And along with that we had large shrimp in a delicious garlic sauce. Finally, we had hanger steak with herb oil and flaky sea salt and roasted potatoes, and mushroom crostini (shiitake and oyster mushroom). WOW! One of the best meals ever. Dessert (particularly the lemon-blueberry olive oil cake) sounded great but we wer just way too stuffed to even contemplate it.
 
-We finsihed off the evening with a walk on the bar (we didn't realize until we got there that it was low tide and the bar was exposed). I played with a snail, trying to coax him out of his shell, and found it worked best to put him near water; he slowly crept out. When I was done with him I placed him back into the water and he immediately emerged from the shell to attach to a nearby rock. Cool! We also saw layers of exposed barnacles and empty mussel shells, one featuring a tiny dead sand crab inside. I finally found an intact mussel just before we turned around to leave.
+We finished off the evening with a walk on the bar (we didn't realize until we got there that it was low tide and the bar was exposed). I played with a snail, trying to coax him out of his shell, and found it worked best to put him near water; he slowly crept out. When I was done with him I placed him back into the water and he immediately emerged from the shell to attach to a nearby rock. Cool! We also saw layers of exposed barnacles and empty mussel shells, one featuring a tiny dead sand crab inside. I finally found an intact mussel just before we turned around to leave.
 
 On our way back to the road, we heard a commotion in the water and turned to see a doe and two fawns swiming quickly from the bar back to the main shoreline.
 

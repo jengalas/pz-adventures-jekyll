@@ -21,13 +21,13 @@ post_id: 14012
 layout: post  
 ---
 
-Last night, we made the decision that we were in the mood for crepes, and that this morning's breakfast would be at the Sunrise Cafe on the waterfront. Although we arrived a little later than usual, the cafe wasn't busy, and we walked right up to the counter to order. 
+Last night, we made the decision that we were in the mood for crepes, and so this morning's breakfast would be at the Sunrise Cafe on the waterfront. Although we arrived a little later than usual, the cafe wasn't busy, and we walked right up to the counter to order. 
 
 We must have arrived just in time, though, because a line began to form immediately behind us (I'm pretty sure they were gathering for a whale watch that was leaving soon). We had our favorites, what we've been waiting all year for: wild blueberry crepe for me, and veggie lovers for R! (And coffee and Earl Grey as usual.) 
 
-Everything was excellent, although Rich noted that he would have liked a litle more olive oil on the veggies this time. A couple at the table next to us did what we often do, splitting their choices in half and trading halfway through. I thought it was pretty neat; although it may be common, it's not something I often see others do. We really enjoy the opportunity to try different things.
+Everything was excellent, although Rich noted that his crepe was a little light on the olive oil. A couple at the table next to us did what we often do, splitting their choices in half and trading halfway through. I thought it was pretty neat; although it may be common, it's not something I often see others do. We really enjoy the opportunity to try different things.
 
-While we ate, I watched the young woman from "SeaSide Images" waiting for and then taking the tourist photos of people who were about to board the whale watch boat. (The ones where they have the images printed up for people to view and hoepfully buy after their tour.) Pretty amusing, aohuthg I was really hoping to see the guy in the lobster suit like we've seen before. This time the photographer was just posing them behind a life buoy.
+While we ate, I watched the young woman from "SeaSide Images" waiting for and then taking the tourist photos of people who were about to board the whale watch boat. (The ones where they have the images printed up for people to view and hoepfully buy after their tour.) Pretty amusing, although I was really hoping to see the guy in the lobster suit like we've seen before. This time the photographer was just posing them behind a life buoy.
 
 We spent the rest of the early morning wandering around town, exploring the Fine Arts Show near Agamont Park and then checking out a few small shops along the way back to our room. 
 
