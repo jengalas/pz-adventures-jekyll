@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2023'
-  - survey mark hunting
 tags:
 excerpt: >-
   
@@ -15,6 +14,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+tracklog: 08SEP23.gpx
 post_id: 
 layout: post
 galleries:
