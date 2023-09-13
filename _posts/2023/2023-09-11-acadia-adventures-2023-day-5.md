@@ -7,6 +7,7 @@ categories:
   - travel
   - acadia
   - '2023'
+  - hiking
 tags:
 excerpt: >-
   
