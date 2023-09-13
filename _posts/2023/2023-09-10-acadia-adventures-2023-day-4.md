@@ -27,6 +27,8 @@ galleries:
     
 ---
 
+## Black and White path - Maybe something about steps/constructed features on trails?
+
 Yesterday's adventures left me wanting to explore the area of the Black and White path further, and Rich was amenable to spending some more time reading and relaxing at Bear Brook picnic area while I poked around on the mountain. The day began mostly cloudy and just slightly cooler than yesterday.
 
 First, as always, some breakfast. Today's choice was bagels from A Slice of Eden bakery. Rich had a whole wheat with veggie cream cheese, and I had an everything with spicy lime-cilantro cream cheese (they were out of the olive-pimiento cream cheese, but this one is a close second). I brought them back to eat on the porch, as usual, and we also brought over some coffee, tea, and juice from the hotel lobby.

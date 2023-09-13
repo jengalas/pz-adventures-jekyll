@@ -26,6 +26,12 @@ galleries:
     
 ---
 
+## George Dorr's granite quarry
+Write something about the quarry to start today's post
+http://acadiamemorials.blogspot.com/2012/05/george-bucknam-dorr-father-of-acadia.html
+https://static1.squarespace.com/static/610d5055699fb835cba4d997/t/61c190ae18b37f506225d4e3/1640075440053/An-Island-Landscape-Gardening-Culture_Betsy-Hewlett.pdf: "George Dorr owned and operated a granite quarry on property his family owned to the east of Oldfarm between Bar Harbor and Otter Cliffs."
+Also check Dorr biography book
+
 The day began very humid and cloudy, with a threat of rain in the air and on the radar, but weather conditions along the coast are very changeable and unpredictable. It was worth trying to hike regardless, because it was warm and I planned to stay on mostly level ground (at least, I wouldn't attempt anything like the crazy climbs and descents of the Black and White path).
 
 As always, first we had breakfast. Neither of us was very hungry, so I just walked down to Mount Dessert Bakery for a few treats. FOrtunately I was third in line, and they had exactly what we wanted: croissant, pecan sticky bun, and blueberry hand pies for later in the day. We ate on the porch as usual, and discussed where we might like to explore.

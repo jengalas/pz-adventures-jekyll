@@ -27,6 +27,13 @@ galleries:
     
 ---
 
+## Robin Hood Park
+https://mouseion.jax.org/postcards/
+https://www.vintagemaineimages.com/record/18973/cart
+https://timesmachine.nytimes.com/timesmachine/1898/03/05/102107040.pdf?pdf_redirect=true&ip=0
+https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1105&context=mainehistory pp 42-43
+
+
 Woke up to another very nice day (still very humid, but not foggy like yesterday) and still pain in R's leg. We got a blueberry muffin and some coffee and juice for him at the hotel lobby so he could take medication; I had planned on going to the Flowered Apron but since that doesn't open until 8:00, we had some time to wait.
 
 I headed over there around 7:45 and arrived just a few minutes earlier, taking the shortcut through the cemetery. (In fact I walked down to the end of the street just so I wasn't bothering them before they opened, and saw the husband placing the "pop up bakery" sign at the corner of Cottage and Kennebec.) Everything looked great, but I knew we woudl be mostly interested in the savory offering, which was a cheddar scallion biscuit. I got two, in fact, even though they were pretty big. I also got a molasses-ginger cookie (which I've had before and it was awesome), a pack of 3 lemon tea cookies, and a chcolate raspberry cupcake. The featured item for today was a chocolate raspberry cake, and while the slices looked delicious (two chocolater layers filled with raspberry cream and topped with chocolate ganache) I knew it was more than I could handle this morning! So I opted for the cupcake. The business is self-serve now and I dind't see Karen at all but Steve was roaming around outside setting up the various signs. I put everything into a box, paid, and walked over to the Island Explorer building to pick up a few bus schedules before heading back to the hotel. (At the hotel, I also procured a few slices of butter to spread on the biscuits, and some more juice and coffee.)
