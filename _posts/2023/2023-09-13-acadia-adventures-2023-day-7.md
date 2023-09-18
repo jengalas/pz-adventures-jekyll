@@ -16,7 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
-tracklog: 13SEP23.gpx
+tracklog: 13SEP23-wpt.gpx
 post_id: 
 layout: post
 galleries:
@@ -55,6 +55,8 @@ Unable to explore methodically for the rest of the trail as I normally woudl do 
 The deluge continued and I made my way to Fawn Pond, eventually coming across very wide and well worn paths that I knew well, after our explorations here last year. A few times while I was near Fawn Pond the rain stopped, or nearly so, and the sun almost came out. I almost had hope that my clothes would dry out a bit before I reached the car, but it wasn't to be. The rain caem back very quickly almost as heavily as before. My shoes were absolutely soaked and will need two days to dry out! Hiking ont hem was like walking on squishy saturated sponges. 
 
 I was finally able to contact Rich while I was near Fawn Pond so I could let him know I was on my way back. The hike from Fawn Pond to Lake Wood was unremarkable other than the fact that I looked and felt like a drowned rat!
+
+{% include tracklog.html %}
 
 We spent the rest of the afternoon trying to dry out back in the room and sitting on the porch.
 

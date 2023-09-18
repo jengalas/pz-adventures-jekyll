@@ -16,7 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
-tracklog: 11SEP23.gpx
+tracklog: 11SEP23-wpt.gpx
 post_id: 
 layout: post
 galleries:
@@ -47,6 +47,8 @@ I wanted to take the old steps (once part of the Black and Blue Trail) from the 
 It was nice to get some exercise on a steep trail, and I haven't hiked this one in a while so I enjoyed being reminded of its twists and turns. But as I climbed higher, it began to mist again, and soon became a bit heavier. Two young women passed me, going down, warning me that it was very slippery. I didn't plan on going all the way to the summit anyway (I was about half a mile away) and this seemed lke a good point to turn around.
 
 I stepped my way down slowly and iddn't have any problems, but the rocks and slabs were becoming wetter so it was going to be treacherous pretty soon. I took the Black and Blue steps back to the bicycle path and the bicycle path out to the Park Loop Road, where I crossed over to look for Dorr's granite quarry. Interesting ting is that it's right there, butting up against the road, althouhg you wouldn't know it because it;s just not visible over the high bank. Unfortunately it began to rain heavier when I was there and I wanted to explore the quarry with Rich anyway, so after taking a few quick photos I turned around and headed back on the bicycle path.
+
+{% include tracklog.html %}
 
 I was soaked by the time I got back, but still excited by the walk and the discoveries I've made in this area. I can't wait to share them with Rich!
 

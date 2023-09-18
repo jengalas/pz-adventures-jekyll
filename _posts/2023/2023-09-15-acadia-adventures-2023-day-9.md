@@ -17,7 +17,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: true
-tracklog: 15SEP23.gpx
+tracklog: 15SEP23-trk-wpt.gpx
 post_id: 
 layout: post
 galleries:
@@ -66,6 +66,8 @@ Rich continued on the Day Mountain Trail while I turned right and began to follo
 I soon spotted a small trail branching off to the left, marked with a pink flag. I went left and headed along what appeared to be a faint trail. I was only a litle more than a tenth of a mile from the seastack coordinates, but I soon lost the faint trail. I pushed my way through the brush and soon came across a series of cairns. At least I felt more secure, like I was in the right spot, although the cairns and the trail segments between them were still a little challenging to follow. I made my way to the seastack and eventually to the Tilting Rock; the path marked by cairns became much easier to follow the closer I got to the Rock. This whole area is an incredibly lush labyrinth of moss and lichen covered boulders, huge ledges, seastacks, sphagnum carpets ... just absolutely beautiful. I felt guilty exploring this area and finding these landmarks by myself! I know Rich would love this area. I didnt spend much time here taking photos, mostly for that reason (and because i didn't want to leave him sitting on the bogwalk for too long) and also because the sunny conditoins just weren't good for photography in the woods.
 
 On the way back out, it was easy to follow the path of cairns the entire way. I saw where I had made my initial mistake. After turnign left at hte pink flag, I should have beared to the left, not the right. Had I gone left, I would have found a large cairn and then followed the path easily to the landmarks. Lesson learned (and noted for next time)!
+
+{% include tracklog.html %}
 
 While he was waiting, Rich explored a bit further up the Day Mountain path, and then he followed the old road a bit past the pink flag. So he explored more of the old road than I did, just unfortunate that he didn't have a GPS with him to create a tracklog. But we can go back and do that soon!
 

@@ -16,6 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
+tracklog: 14SEP23-wpt.gpx
 post_id: 
 layout: post
 galleries:
@@ -54,6 +55,8 @@ Along the short walk to the bench mark location, I found the spot where the rang
 I re-located the bench mark without any trouble, took a few photos, and calibrated the GPS as planned. Walked back up the road, taking some photos along the way. Ther are some nicely carved granite slabs back here, probably being stored for whenever they are needed.
 
 I was pleasantly surprised when Rich asked if I had anything else in mind for today, and although I really didn't, we both suggested at he same time looking for the steps in teh woods near the Precipice. We found easy parking rihgt near the 4th storm drain from the Orange and Black trail, and we both walked into the woods to find the base of the stone gully, which was actually right in frnt of us. A faint path led me up toward teh line of white birches I was supposed to be looking for, which led me rigt to the stone steps! In fact, I was already standing on some of the steps before I even realized it! It was far too wet and slipery to climb to the top of the steps today, but I took a few photos that basicaly show the line of the steps, althugh they never come out very well nor do they show how obvious the stpes are in person. We will come back another drier day to climb to the top and hopefully reach the current Orange and Black trail!
+
+{% include tracklog.html %}
 
 We relaxed on the porch and in the room for another hour or so, and then headed into town for supper. You will not be surprised to hear that we chose Rosalie's again! We got asmall pizza with mushrooms and onions this time. Excellent! We also went back to MDI Ice Cream for another maple pecan cone, and I tried the lemon poppy jam this tmie (also good). It was a nice warm evening , so we sat on a bench on the village green for a while and then came back to sit on our porch with a smal glass of wine.
 
