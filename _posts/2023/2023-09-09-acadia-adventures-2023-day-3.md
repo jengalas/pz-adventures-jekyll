@@ -50,8 +50,9 @@ And when I got closer to the pond, I did spot another cairn on the other side of
 
 I didn't want to take too long, and it was very humid and wet inside the woods, so I called R on the radios and told him about what was happening. I poked around for just a few more minutes and headed back to the picnic area, thinking that I would like to view my tracklog and waypoints on the map before I try again. 
 
-At lest I found a small frog and several areas filled with rattlesnake plantain!
+At least I found a small frog and several areas filled with rattlesnake plantain!
 
+{% include tracklog.html %}
 
 We had been going back and forth all day about what o have for supper, and neither of us was very hungry. We both, however, were craving a small house veggie pizza and a tall beer! So it was back to Rosalie's (where a line had already formed by 3:55pm). We sat at a table upstairs today to enjoy better lighting. ALthough there were a few large groups upstairs,it didn't get too loud until just when we were ready to leave. (There is apparently an inverse relationship between the level of beer in the glasses, and the level of noise in the room!) The pizza was deliciuos, filled wtih veggies which we need and were craving, and the beers (Allagash white ale again) were very refreshing. There was just enough room in our bellies for a baby scoop of ice cream - maple pecan for R and blueberry basil sorbet for me. Rich seemed to do alittle better tonight walking quickly rather than slowly as he had been doing, so we'll see.
 
