@@ -2,7 +2,7 @@
 _schema: default
 title: "Acadia Adventures 2023 – Day 13"
 author: Zhanna
-date: "2023-09-18"
+date: "2023-09-19"
 categories: 
   - travel
   - acadia
