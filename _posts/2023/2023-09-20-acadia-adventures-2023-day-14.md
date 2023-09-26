@@ -16,7 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
-tracklog: 20SEP23.gpx
+tracklog: 20SEP23-wpt.gpx
 post_id: 
 layout: post
 galleries:
