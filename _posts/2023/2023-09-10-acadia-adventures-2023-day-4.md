@@ -16,7 +16,7 @@ excerpt: >-
 header:
   teaser:
 geocaches: false
-surveymarks: true
+surveymarks: false
 tracklog: 10SEP23.gpx
 post_id: 
 layout: post
