@@ -9,7 +9,6 @@ categories:
   - '2023'
   - abandoned trails
   - hiking
-  - survey mark hunting
 tags:
 excerpt: >-
   
@@ -18,7 +17,7 @@ header:
 geocaches: false
 surveymarks: false
 tracklog: 10SEP23.gpx
-post_id: 
+post_id: 14100
 layout: post
 galleries:
   gallery1:

@@ -17,7 +17,7 @@ header:
 geocaches: false
 surveymarks: false
 tracklog: 19SEP23.gpx
-post_id: 
+post_id: 14180
 layout: post
 galleries:
   gallery1:

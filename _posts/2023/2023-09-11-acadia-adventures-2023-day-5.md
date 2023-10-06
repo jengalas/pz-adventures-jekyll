@@ -17,7 +17,7 @@ header:
 geocaches: false
 surveymarks: false
 tracklog: 11SEP23-wpt.gpx
-post_id: 
+post_id: 14110
 layout: post
 galleries:
   gallery1:
