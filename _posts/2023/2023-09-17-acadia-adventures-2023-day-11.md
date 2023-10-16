@@ -31,9 +31,9 @@ galleries:
 
 ## Fern Trail or Kittredge Brook?
 
-After being unable to go for anything for supper last night due to the storm, I was looking forward to somethig a little more filling this morning, and I had been thinking about those Eggs Benedict at hte Black Friar all week. So we headed down there for opening time at 7:30. 
+After being unable to go for anything for supper last night due to the storm, I was looking forward to somethig a little more filling this morning, and I had been thinking about those Eggs Benedict at the Black Friar all week. So we headed down there for opening time at 7:30. 
 
-The place was pretty quiet initially, with only one other couple waiting. But it filled up quickly. Fortunately the noise level stayed pretty tame. And the Eggs Benedict were delicious, just what I had remebered from last year. I got the version with grilled portobello mushroom, and Rich got the one with baby spinach (we each tasted a bit of each other's, of course).
+The place was pretty quiet initially, with only one other couple waiting. But it filled up quickly. Fortunately the noise level stayed pretty tame. And the Eggs Benedict were delicious, just what I had remembered from last year. I got the version with grilled portobello mushroom, and Rich got the one with baby spinach (we each tasted a bit of each other's, of course).
 
 We came back to the room to find that the internet connection was still down from this morning. Not a big deal as it was going to be a warm, beautiful sunny day and we planned to go out and do somethig for most of the day. But we had trouble deciding what to do!
 

@@ -16,7 +16,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: false
-tracklog: 10SEP23.gpx
+tracklog: 10SEP23-wpt.gpx
 post_id: 14100
 layout: post
 galleries:
@@ -30,21 +30,21 @@ galleries:
 
 ## Black and White path - Maybe something about steps/constructed features on trails?
 
-Yesterday's adventures left me wanting to explore the area of the Black and White path further, and Rich was amenable to spending some more time reading and relaxing at Bear Brook picnic area while I poked around on the mountain. The day began mostly cloudy and just slightly cooler than yesterday.
+Yesterday's adventures left me wanting to explore the area of the Black and White Path further, and Rich was amenable to spending some more time reading and relaxing at Bear Brook picnic area while I poked around on the mountain. The day began mostly cloudy and just slightly cooler than yesterday.
 
-First, as always, some breakfast. Today's choice was bagels from A Slice of Eden bakery. Rich had a whole wheat with veggie cream cheese, and I had an everything with spicy lime-cilantro cream cheese (they were out of the olive-pimiento cream cheese, but this one is a close second). I brought them back to eat on the porch, as usual, and we also brought over some coffee, tea, and juice from the hotel lobby.
+First, as always, some breakfast. Today's choice was bagels from A Slice of Eden bakery down on Cottage Street. Rich had his favorite, a whole wheat bagel with veggie cream cheese, and I had an everything bagel with spicy lime-cilantro cream cheese (they were out of my most favorite olive-pimiento cream cheese, but this one is a close second). I brought them back to eat on the porch, as usual, and we also brought over some coffee, tea, and juice from the hotel lobby.
 
 We headed over to Bear Brook just after 9:00am. The area was deserted, which we hoped portended a much less busy day than yesterday was. (Fortunately, it did indeed turn out that way.)
 
-Before approaching Huguenot Head and Champlain, I wanted to explore the wooded area near the picnic grounds one more time - this time to search for a series of old wooden fence posts that several local history bloggers claim were once part of an old park, racetrack, and campground-Robinhood Park, circa 1900-in this area. 
+Before approaching Huguenot Head and Champlain, I wanted to explore the wooded area near the picnic grounds one more time: this time to search for a series of old wooden fence posts that several local history bloggers claim were once part of an old park with a racetrack—Robinhood Park, circa 1900—in this area. 
 
-The area is swampy and boggy and quite heavily overgrown with tall grass and sweetfern, but I was pretty easily able to reach the coordinates I had obtained from my research. I didn't see any of the wooden posts I was expecting to see at the site, however. I looked around closely and noticed that someone has been doing quite a bit of drainage work in this area, as there was a trench dug (right where I expected to find the fence posts, actually) and some new black plastic pipe of various diameters lying along the ground. Also near the coordinates, I found a stone fire ring which was possibly an interesting relic of the old campground on this site (no way to know for sure how old it is). 
+The area is swampy and boggy and quite heavily overgrown with tall grass and sweetfern, but I was pretty easily able to reach the coordinates I had obtained from my research. I didn't see any of the wooden posts I was expecting to see at the site, however. I looked around closely and noticed that someone has been doing quite a bit of drainage work in this area, as there was a trench dug (right where I expected to find the fence posts, actually) and some new black plastic pipe of various diameters lying along the ground. Also near the coordinates, I found a stone fire ring which was possibly an interesting relic of the old Bear Brook campground on this site (no way to know for sure how old it is). 
 
-I walked a litle closer to the Park Loop Road and found an old road grade. I really enjoy finding these! They are so obvious when you're on them, and sometimes even from a distance, no matter how mcuh they ave been reclaimed by nature. I even found a few pieces of broken-up asphalt as I followed the road grade to the east. It will be interesting to research what this road was.
+I walked a litle closer to the Park Loop Road and found an old road grade. I really enjoy finding these! They are so obvious when you're on them, and sometimes even from a distance, no matter how mcuh they have been reclaimed by nature. I even found a few pieces of broken-up asphalt as I followed the road grade to the east. It will be interesting to research what this road was.
 
 As I was walking around in the area, I spotted two survey rods with plastic caps that said ACADIA on them. And in line with them, I finally spotted what appeared to be one of the fence posts! 
 
-This encouraged me to look around a little more, and after a few minutes I spotted two more of the fenceposts. I couldn't find any others in the area. They may have fallen over (the last two I found were leaning over at a sharp angle) or may even have been removed during the drainage work.
+This encouraged me to look around a little more, and after a few minutes I spotted two more of the fence posts. I couldn't find any others in the area. They may have fallen over (the last two I found were leaning over at a sharp angle) or may even have been removed during the drainage work.
 
 While on my way back to the picnic area, I spotted another NPS boundary marker. This one is just a stone monument, with no disk of drill hole.
 
@@ -69,6 +69,8 @@ I was trying to navigate down the steepest, by far, part of the brook. While wat
 This was _such_ an exciting find. I had never before heard about any steps or staircases on the Black and White trail. Honestly, there isn't much information available at all about the trail, and while Pathmakers typicallt mentions constructed features in their trail inventory, they said nothing about the staircase (I have to wonder if they aren't even aware of it). Additionally, JR Libby's blog mentions that he hiked the trail once many years ago. He mentions the randomly placed cairns but says nothing at all about this huge staircase that is still in excelent condition.
 
 Anyway, I was only a few hundred feet from where I turned around yesterday, so I made the connection easily and headed back to the picnic area. Rich and I had been trying out the radios along thw way, and they seemed to work really well on the downslope but not at all, as we fiured, when I was on the other side of the hill heading down toward Route 3.
+
+{% include tracklog.html %}
 
 It was a great adventure and so exciting to find the staircase. Now I'm wondering if I can find out more about htat trail and its construction. I will keep looking! too bad that overall, it isn't a great place to hike. It could have been a nice easy way to get up to Champlain and Huguenot Head, but as it is, the terrain is treacherous and not too pleasant to traverse.
 
