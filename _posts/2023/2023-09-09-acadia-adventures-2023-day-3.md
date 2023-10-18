@@ -24,8 +24,16 @@ galleries:
   gallery1:
     suffix: cvx
     images:
-      - filename: 
+      - filename: horse-show-postcard
         alt:
+      - filename: morrell-park-postcard
+        alt:  
+      - filename: morrell-park-racetrack-postcard
+        alt:
+      - filename: mountain-view-postcard
+        alt:    
+      - filename: robin-hood-park-postcard
+        alt:                     
     
 ---
 
@@ -35,6 +43,8 @@ https://www.vintagemaineimages.com/record/18973/cart
 https://timesmachine.nytimes.com/timesmachine/1898/03/05/102107040.pdf?pdf_redirect=true&ip=0
 https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1105&context=mainehistory pp 42-43 -->
 
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 We woke up to another very nice day (still very humid, but not foggy like yesterday) and, unfortunately, still pain in Rich's leg. I brought back a blueberry muffin and some coffee and juice for him from the hotel lobby so he could take medication; I had planned on going to the Flowered Apron but since that doesn't open until 8:00, we had some time to wait.
 
