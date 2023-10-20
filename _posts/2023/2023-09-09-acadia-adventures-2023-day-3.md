@@ -41,10 +41,30 @@ galleries:
 https://mouseion.jax.org/postcards/
 https://www.vintagemaineimages.com/record/18973/cart
 https://timesmachine.nytimes.com/timesmachine/1898/03/05/102107040.pdf?pdf_redirect=true&ip=0
-https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1105&context=mainehistory pp 42-43 -->
+https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1105&context=mainehistory pp 42-43
 
+## Bear Brook Campground
+https://www.nps.gov/acad/learn/historyculture/historic-campgrounds.htm
 
-{% include gallery.html gallery_id="gallery1" class="" %}
+ -->
+
+<div style="border: 1px solid gray; padding: 1rem 2rem; background-color: #efefef;">
+
+<h2>Robin Hood Park</h2>
+
+<p>The land where Jackson Laboratory now sits was once owned by Edward de Veaux Morrell, a Pennsylvania lawyer and U.S. Congressman (and brother-in-law to Saint Katharine Drexel). He purchased the sixty-acre property, called Robin Hood Park, in March 1898. The grounds contained a half-mile track for horse racing.</p>
+
+<p>In 1900, according to the Maine Memory Network, Morrell made the park grounds available for use by Bar Harbor's newly-formed Horse Show and Fair Association. Horse shows were held there for three days each August from 1900-1912.</p> 
+
+<p>According to a memorial plaque alongside Route 3, on the current Jackson Laboratory campus, Morrell dedicated a small greenspace park to the people of the town of Bar Harbor [date?].</p> 
+
+{% include gallery.html gallery_id="gallery1" class="special2" %}
+
+<h2>Bear Brook Campground</h2>
+
+<p>The area now known as Bear Brook Picnic Area was originally developed as a campground: the first (and only, until [date?]) official National Park campground for Acadia. Beginning in the 1920s, auto touring made places like Acadia that were far-flung from eastern cities suddenly accessible to the growing middle class. But Lafayette National Park (later Acadia) did not have a public campground of its own; through a loose agreement with the town that was later rescinded, visitors initially camped on the area between Park Street and Ledgelawn Avenues that is now a public park.</p>
+
+</div>
 
 We woke up to another very nice day (still very humid, but not foggy like yesterday) and, unfortunately, still pain in Rich's leg. I brought back a blueberry muffin and some coffee and juice for him from the hotel lobby so he could take medication; I had planned on going to the Flowered Apron but since that doesn't open until 8:00, we had some time to wait.
 
