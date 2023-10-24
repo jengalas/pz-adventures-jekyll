@@ -45,6 +45,8 @@ https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1105&conte
 
 ## Bear Brook Campground
 https://www.nps.gov/acad/learn/historyculture/historic-campgrounds.htm
+http://npshistory.com/publications/acad/clr-blackwoods-seawall-campgrounds.pdf - postcard scan - could also go on hurricane day
+https://archive.org/details/culturallandscap00foul/page/16/mode/2up
 
  -->
 
