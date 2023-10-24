@@ -56,7 +56,9 @@ https://www.nps.gov/acad/learn/historyculture/historic-campgrounds.htm
 
 <p>In 1900, according to the Maine Memory Network, Morrell made the park grounds available for use by Bar Harbor's newly-formed Horse Show and Fair Association. Horse shows were held there for three days each August from 1900-1912.</p> 
 
-<p>According to a memorial plaque alongside Route 3, on the current Jackson Laboratory campus, Morrell dedicated a small greenspace park to the people of the town of Bar Harbor [date?].</p> 
+<p>Last year, we located a memorial plaque alongside Route 3, on the current Jackson Laboratory campus, dedicated to Morrell.</p>
+
+<p>This year, as you'll read below, we spent some more time exploring this small, hidden, but quite historic area.</p>
 
 {% include gallery.html gallery_id="gallery1" class="special2" %}
 
