@@ -42,7 +42,7 @@ I intended to drive all the way to Young's Lobster Pound in Belfast, but stopped
 
 Our lobster rolls were amazing as always, very filling and a most welcome breakfast because my belly had felt empty since at least 3:00am. The place was busy too, much busier than I had ever seen it. In years past there may have been one or two other couples there, and at least once we had the place entirely to ourselves. It was sunny, warm and relatively humid, and breezy near the water.
 
-Speaking of the water, there were three large yellow "rubber duckie" figures floating near the bridge. They were labeled Joy, Greater Joy, and Greatest Joy from smallest to largest. Very strange and amusing art installation, if that's what it is.
+Speaking of the water, there were three large yellow "rubber duckie" figures floating near the bridge. They were labeled **Joy**, **Greater Joy**, and **Greatest Joy** from smallest to largest. Very strange and amusing art installation, if that's what it is.
 
 We were very tired and sleepy and didn't want to spend too much time poking aroud today, but I did want to search for the **43 Bangor 1899** benchmark at the Buck Memorial Library in Bucksport. We were _right there_ last year, but I wasn't aware of the benchmark at that time, so we missed out on it.
 
@@ -54,4 +54,4 @@ A sign greeted us at the desk reminding guests that check-in was at 3:00pm, so i
 
 We brought our stuff inside and collapsed for about 30 minutes until the pull of pizza and a LARGE glass of beer was stronger than the pull for more sleep. (That was a _strong_ pull!) 
 
-We were at Rosalie's by 3:55 and began the line-up, and consequently we were the first ones in the door. We got the first booth downstairs, our usual favorite, and Rich ordered us our usual first-night medium plain pie and two large Allagash white ales. Conversation was as perfect as always, listening to the good music in Rosalie's and talking about some interesting music-related videos that Rich had seen. We watched one of the videos when we got back to the room (after a quick trip to Hanaford) and then collapsed into bed.
+We were at Rosalie's by 3:55 and began the line-up, and consequently we were the first ones in the door. We got the first booth downstairs, our usual first-night favorite, and Rich ordered us our usual first-night medium plain pie and two large Allagash white ales. Conversation was as perfect as always, listening to the good music in Rosalie's and talking about some interesting music-related videos that Rich had seen. We watched one of the videos when we got back to the room (after a quick trip to Hannaford) and then collapsed into bed.
