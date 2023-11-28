@@ -9,8 +9,7 @@ categories:
   - '2019'
   - survey mark hunting
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false

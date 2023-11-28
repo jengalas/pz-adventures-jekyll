@@ -9,8 +9,7 @@ categories:
   - '2019'
 
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false

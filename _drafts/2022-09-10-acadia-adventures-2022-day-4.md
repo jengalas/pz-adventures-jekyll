@@ -10,8 +10,7 @@ categories:
   - abandoned trails
   - survey mark hunting
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false

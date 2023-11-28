@@ -10,8 +10,7 @@ categories:
   - abandoned trails
   - hiking
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false

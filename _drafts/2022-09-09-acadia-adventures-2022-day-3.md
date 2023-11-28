@@ -8,8 +8,7 @@ categories:
   - acadia
   - '2022'
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false

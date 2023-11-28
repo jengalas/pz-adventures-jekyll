@@ -9,8 +9,7 @@ categories:
   - '2022'
   - hiking
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false

@@ -11,8 +11,7 @@ categories:
   - hiking
   - survey mark hunting
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false

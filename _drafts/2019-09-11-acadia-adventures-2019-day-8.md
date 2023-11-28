@@ -10,8 +10,7 @@ categories:
   - hiking
 
 tags:
-excerpt: >-
-  
+
 header:
   teaser:
 geocaches: false
