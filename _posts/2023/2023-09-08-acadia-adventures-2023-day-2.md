@@ -8,8 +8,6 @@ categories:
   - acadia
   - '2023'
 tags:
-excerpt: >-
-  
 header:
   teaser:
 geocaches: false

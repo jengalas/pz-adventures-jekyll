@@ -94,6 +94,22 @@ main {
   }
 }
 
+.excerpt p {
+  display: inline;
+}
+
+.featured-image {
+  a,
+  a:hover {
+    border: 0;
+  }
+  img {
+    height: auto;
+    margin: 2rem 0;
+    max-width: 100%;
+  }
+}
+
 .inside-header {
   display: flex;
   height: $headerHeight;

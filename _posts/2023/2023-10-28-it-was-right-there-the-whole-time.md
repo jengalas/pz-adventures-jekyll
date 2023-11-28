@@ -6,8 +6,6 @@ date: "2023-10-28"
 categories: 
   - survey mark hunting
 tags:
-excerpt: >-
-  
 header:
   teaser:
 geocaches: false

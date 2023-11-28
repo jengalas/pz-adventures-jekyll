@@ -6,8 +6,7 @@ date: "2023-11-26"
 categories: 
   - survey mark hunting
 tags:
-header:
-  teaser:
+featured_image: https://planetzhanna.com/images/2023/11/26/tt-4-tg1.jpg
 geocaches: false
 surveymarks: true
 post_id: 14230
@@ -25,7 +24,11 @@ We've had our eye on TT 4 T for a few weeks, ever since we started going back th
 
 Our research was promising. I couldn't see any reason that this mark would be gone, since it is in an undeveloped area and likely far enough away from the highway to avoid any disturbance from road construction. There is even a convenient parking pull-off very close to the coordinates. The only catch is that this stretch of Route 435 is scheduled to be closed for at least a year due to the replacement of the nearby I-380 twin bridges. And the closure is set to begin two days from now! So although it was a cold morning, we figured we might as well give it a try today.
 
-We drove down from Mt. Cobb, heading west on Route 435 and then turning around via a section of the old Drinker Turnpike that connects the west- and eastbound lanes of Route 435. We parked at the pull-off and noted that we were within 70 feet of the coordinates for the benchmark, which we had estimated from the topo map. After a short walk into the woods (and sliding over a disgusting old mattress that was in the way) we reached the coordinates and began wandering around ... and spotted nothing other than a very thick layer of fallen leaves. I was beginning to think that the mark was covered by the leaves and that we would need to return with a metal detector, when I happened to turn my head to the right, and there was the turquoise-colored disk sitting on top of a concrete post! 
+We drove down from Mt. Cobb, heading west on Route 435 and then turning around via a section of the old Drinker Turnpike that connects the north- and southbound lanes of Route 435. We parked at the pull-off and noted that we were within 70 feet of the coordinates for the benchmark, which we had estimated from the topo map. 
+
+Wearing orange hats, because it is indeed a Sunday hunting day (rifle deer hunting), we took a short walk into the woods. The rocks hiding beneath the leaves were very slippery, and a disgusting old discarded mattress blocked our path for a moment, but we soon reached the coordinates and began wandering around ... and spotted nothing other than a very thick layer of fallen leaves. 
+
+I was beginning to think that the mark was covered by the leaves and that we would need to return with a metal detector, when I happened to turn my head to the right, and there was the turquoise-colored disk sitting on top of a concrete post! 
 
 "I see it! I see it!" I exclaimed, probably a bit too excitedly, but it was an exciting moment. We both thought the disk looked a bit larger than the usual ones, for some reason. And it is in very good condition. 
 
@@ -37,4 +40,4 @@ We also checked the corresponding portal on the northern side of the road, but t
 
 Something else of interest is that the walls of the old service station mentioned in the benchmark description are still here! The remnants of the building are on the north side of the highway, and can even be seen on Google Street View. I haven't yet been able to find out anything more about the service station, but the name CHICCO can be seen in the concrete. 
  
-I've been intrigued by this area for a while, given its proximity to the old Erie Railroad Jessup Branch viaduct, Elmhurst Boulevard, and the former town of Greenville (abandoned due to the original construction of the aforementioned I-380 bridges).
+I've been intrigued by this area for a while, given its proximity to the old Erie Railroad Jessup Branch viaduct, Elmhurst Boulevard, and the former town of Greenville (abandoned due to the original construction of the aforementioned I-380 bridges). I would love for us to return in warmer conditions to investigate further. For one thing, there is a small furnace or oven near the Chicco station, just a bit higher on the hill and to the east. I'm looking forward to exploring that close up.
