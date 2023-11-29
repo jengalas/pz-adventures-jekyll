@@ -6,8 +6,7 @@ date: "2023-10-28"
 categories: 
   - survey mark hunting
 tags:
-header:
-  teaser:
+featured_image: https://planetzhanna.com/images/2023/10/28/tt-7-tg1.jpg
 geocaches: false
 surveymarks: true
 post_id: 14200
