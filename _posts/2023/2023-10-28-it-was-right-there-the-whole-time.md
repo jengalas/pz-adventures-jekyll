@@ -31,7 +31,7 @@ galleries:
     
 ---
 
-Rich and I were browsing the topo maps yesterday, looking at some areas of local historical interest (specifically the area near Winton and Archbald labeled Riverside on the map), when we spotted <b>BM 922</b>. 
+Rich and I were browsing the topo maps yesterday, looking at some areas of local historical interest (specifically the area near Winton and Archbald labeled Riverside on the map), when we spotted **BM 922**. 
 
 > ```Riverside; in S. corner of front yard of Riverside Public School No. 8; in S. corner of schoolyard; 42 ft N. of center of rd [of center of U.S. Highway 6, in Horizontal description].; in concrete post; standard tablet stamped "TT 7 T 1932"```
 
@@ -51,4 +51,4 @@ This morning was warm, sunny, and gorgeous for late October. Although we expecte
 
 The disk was recovered in good condition, with faint but legible stamping. The concrete monument has some minor cracks but appears intact and stable. It is approximately 54 feet north of power pole with the numbers 60080/N48869/123. The monument is set on a grassy slope Borough of Archbald's James Radzelovage Park, which is on the site of the former Riverside Public School No. 8.
 
-The rain was lightening up but everything was now soaked, so we headed home, stopping along the way to pick up a large round pizza from Laura's Pizza & Hoagies in Montdale. We spent the rest of this now-gloomy afternoon eating pizza while watching a few videos and the movie <i>Beetlejuice</i>, and browsing the topo maps again.
+The rain was lightening up but everything was now soaked, so we headed home, stopping along the way to pick up a large round pizza from Laura's Pizza & Hoagies in Montdale. We spent the rest of this now-gloomy afternoon eating pizza while watching a few videos and the movie _Beetlejuice_, and browsing the topo maps again.
