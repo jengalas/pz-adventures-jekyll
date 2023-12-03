@@ -100,7 +100,9 @@ main {
 
 .featured-image {
   a,
-  a:hover {
+  a:hover,
+  a:focus,
+  a:active {
     border: 0;
   }
   img {
