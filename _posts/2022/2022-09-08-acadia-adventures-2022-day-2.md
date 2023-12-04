@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   This year's trip to Maine is off to a good start: lobster rolls, benchmark hunting, and pizza!
-header:
-  teaser:
+featured_image: 20220908_102658cvx.jpg
 geocaches: false
 surveymarks: true
 post_id: 14010

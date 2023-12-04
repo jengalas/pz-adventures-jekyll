@@ -33,7 +33,7 @@ Back at the hotel, we inquired about our room (noticing that it was 10:30 and th
 
 We decided to make a quick trip to the store (which was INSANE) and then go to Paddys for lunch. We wandered down West Street, thinking that they openeed at 11 and we could just walk in, but they din't open for lunch until 12 and it was 11:39. We just waited on the sidewalk and eventualy entered right at 12. It was a nice lunch on very empty stomachs. We each had a Guiness, of course, and R had a nice hamburger and I had the usual fish sandwich. They were both more than we were expecting and I coudn't actually finish my sandwich. The cole slaw was great, and the fries were decent although they were coated, which R doesn't like. The place filled up quickly, but we had a relatively quiet spot and no problems.
 
-We returned to the hotel to find our room ready just before 2pm. We collapsed basically for thr rest of the evening, which had turned rainy by now. 
+We returned to the hotel to find our room ready just before 2pm. We collapsed basically for the rest of the evening, which by now had turned rainy. 
 
 (something about R talking to Brandon, and Monika showing up)
 

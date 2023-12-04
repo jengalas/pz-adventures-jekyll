@@ -27,7 +27,7 @@ We were ready earlier than expected and decided to leave the house just after 2:
 
 A few weeks ago we came across an interesting looking Mexican restaurant called El Bandito in Middletown, and had the thought of getting a small snack there and maybe even looking for a few of those Middletown puzzle geocaches that we've solved but never searched for. But today we decided to skip both in an attempt to keep moving ahead of the storm. Maybe next year, I hope?!
 
-Continuing on, we also bypassed our usual stop at Rein's Deli in Connecticut, and stopped at the Charlton Plaza in MA for some gas, coffee, and pathetic burgers from McDonalds (we had absolutely no expectations, and it's a good thing we didn't ... enough said). 
+Continuing on, we also bypassed our usual stop at Rein's Deli in Connecticut, and stopped at the Charlton Plaza in Massachusetts for some gas, coffee, and pathetic burgers from McDonalds (we had absolutely no expectations, and it's a good thing we didn't ... enough said). 
 
 It was at this point we noticed that, according to the GPS, we could be in Bar Harbor by midnight. Rich started giving some serious thought to just driving straight through rather than sleeping for a few hours at the rest area as we usually do. The storms were predicted to arrive in Maine overnight and linger all day Thursday, and we had no real desire to drive through them on Thursday either. 
 

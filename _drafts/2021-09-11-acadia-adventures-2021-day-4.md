@@ -62,5 +62,5 @@ As we were relatively close to Havana I suggested that we check there to see if 
 
 We didn't want to be stuffed so we passed on appetizers this time and just went for two entrees. I got the coconut crusted halibut with mango-jalapeno sauce served with sweet potato cakes and crispy kale, and Rich had peruvian chicken with smashed fingerling potatoes and creamy cilantro sauce. Everything was truly the best I've had there. We each had two mojitos, which also made everything taste even better (and when we left, R noted that yes, it's the same white-bearded bartender they've had for years!).  I really didn't need dessert but could not resist the mango creme brulee. It was worth it! We shared it and both loved the flavors and the crisp sugar crust.
 
-Everyone else seated on teh patio was quiet and polite, even the party of 6 near us (they sounded interesting, in fact, having been involved in some way with pro cycling). 
+Everyone else seated on the patio was quiet and polite, even the party of 6 near us (they sounded interesting, in fact, having been involved in some way with pro cycling). 
 
