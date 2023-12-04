@@ -7,7 +7,7 @@ categories:
   - survey mark hunting
 tags:
 excerpt: I was invited to New Haven, Connecticut for a memorial celebration for one of my clients. Rich came along with me, and we searched for a few benchmarks before the event.
-featured_image: https://planetzhanna.com/images/2023/11/11/bev-celebration.jpg
+featured_image: bev-celebration.jpg
 geocaches: false
 surveymarks: true
 post_id: 14220

@@ -1,3 +1,6 @@
+{% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% capture month %}{{ post.date | date: "%m" }}{% endcapture %}
+{% capture day %}{{ post.date | date: "%d" }}{% endcapture %}
 {% assign featured_image = post.featured_image %}
 
 <article class="archive-excerpt">
@@ -6,7 +9,7 @@
   </h2>
   {% if featured_image %}
     <div class="featured-image">
-      <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.featured_image }}"></a>
+      <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://planetzhanna.com/images/{{ year }}/{{ month }}/{{ day }}/{{ post.featured_image }}"></a>
     </div>
   {% endif %}
   <div class="excerpt">

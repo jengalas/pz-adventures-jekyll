@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   This year's fall colors are still spectacular, so we took another walk around the neighborhood on this warm afternoon to enjoy them. We even found some interesting wildlife along the way to photograph!
-header:
-  teaser:
+featured_image: https://planetzhanna.com/images/2020/10/14/thumbnails/P1021987b.jpg
 geocaches: false
 surveymarks: false
 post_id: 12722

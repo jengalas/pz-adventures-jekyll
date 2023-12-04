@@ -6,8 +6,7 @@ date: "2023-11-04"
 categories: 
   - survey mark hunting
 tags:
-header:
-  teaser:
+featured_image: PB045536cvx.jpg
 geocaches: false
 surveymarks: true
 post_id: 14210
@@ -23,12 +22,24 @@ galleries:
   gallery2:
     suffix: cvx
     images:
+      - filename: PB040857
+        alt: 1909 is stamped into the northwestern side of the concrete culvert.
+      - filename: PB045540-add-train
+        alt: On the old D&H tracks above the site of the benchmark (and just having a bit of fun with Photoshop!)
+      - filename: PB045536
+        alt: At the southeastern side of the culvert    
       - filename: PB040852
         alt: I don't think we're finding any concrete monuments in here!
       - filename: PB040853
         alt: Messy, thick vegetation  
       - filename: PB040854
-        alt: No way through!                         
+        alt: No way through!    
+      - filename: PB045542
+        alt: It's too bad that the benchmark wasn't in this more open area.
+      - filename: PB045548
+        alt: It's somewhere in that “jungle.”  
+      - filename: PB045565
+        alt: Thorns, for added fun!                                          
     
 ---
 

@@ -1,12 +1,12 @@
 ---
 _schema: default
-title: 'Sunday "Hunting"'
+title: 'Sunday “Hunting”'
 author: Zhanna
 date: "2023-11-26"
 categories: 
   - survey mark hunting
 tags:
-featured_image: https://planetzhanna.com/images/2023/11/26/tt-4-tg1.jpg
+featured_image: tt-4-tg1.jpg
 geocaches: false
 surveymarks: true
 post_id: 14230
