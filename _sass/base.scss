@@ -75,10 +75,9 @@ body {
   }
 }
 
-main {
-  background-color: rgba(255, 255, 255, 0.5);
+main {  
   clear: both;
-  max-width: 1050px;
+  max-width: 1074px;
   margin: 0 auto;
   padding: 1.15em;  
 
@@ -107,7 +106,7 @@ main {
   }
   img {
     height: auto;
-    margin: 2rem 0;
+    margin: 1rem 0;
     max-width: 100%;
   }
 }
@@ -763,6 +762,7 @@ ul.menu .active .list a {
   a:last-child {
     border: 0;
     background-color: transparent;
+    color: #f0f8ff;
     font-size: 1rem;
 
     &:hover {
