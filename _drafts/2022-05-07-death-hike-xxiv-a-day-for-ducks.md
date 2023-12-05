@@ -2,7 +2,7 @@
 _schema: default
 title: "Death Hike XXIV: A Day for Ducks (or: Back Together Again)"
 author: Zhanna
-date: 2006-05-30
+date: 2022-05-07
 categories:
   - hiking
 tags:
