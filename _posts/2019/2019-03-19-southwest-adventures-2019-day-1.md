@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   The Mooses are heading to Arizona!
-header:
-  teaser:
+featured_image: P1060786clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 11161

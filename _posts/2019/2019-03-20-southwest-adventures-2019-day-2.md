@@ -9,10 +9,8 @@ categories:
   - '2019'
   - hiking
 tags:
-excerpt: >-
-  
-header:
-  teaser:
+excerpt: "After a long, desperately needed rest, we woke up just after 6:00 this morning and spent some time getting our bearings and organizing our room before heading for breakfast. We chose one of our favorite restaurants from last time we were in town: Cora's Cafe in South Tucson. I think it was even better this visit!"
+featured_image: P1060904clx.jpg
 geocaches: false
 surveymarks: false
 tracklog: 20MAR19.gpx
