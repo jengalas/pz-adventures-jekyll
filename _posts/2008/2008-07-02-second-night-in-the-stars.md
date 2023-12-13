@@ -6,10 +6,6 @@ date: 2008-07-02
 categories:
   - skywatching  
 tags:
-excerpt: >- 
-  
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 154

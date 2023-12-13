@@ -45,7 +45,9 @@ galleries:
  
 ---
 
-It's exciting to have the USGS datasheets, because now we know about even more benchmarks we can search for on MDI! The first one we searched for this morning, simply named after its elevation **`195.10`**, is only a U.E., but it's in an interesting location in the woods at Kebo Valley Golf Course. As a chiseled square we knew it could be a challenge to find, but it could also be a lot of fun. Turns out it was a surprisingly easy find on a large boulder. Unlike many other such chiseled squares, the surface of the boulder was clear of moss and forest debris, so the carving really stood out.
+It's exciting to have the USGS datasheets, because now we know about even more benchmarks we can search for on MDI! The first one we searched for this morning, simply named after its elevation **`195.10`**, is only a U.E., but it's in an interesting location in the woods at Kebo Valley Golf Course.
+
+Being a chiseled square we knew it could be a challenge to find, but it could also be a lot of fun. Turns out it was a surprisingly easy find on a large boulder. Unlike many other such chiseled squares, the surface of the boulder was clear of moss and forest debris, so the carving really stood out.
 
 From Kebo, we moved on toward Jordan Pond House. Again, excitement when looking through the USGS datasheets - there was supposed to be a benchmark disk from 1934 located very close to the famous Jordan Pond House, legendary for its popovers! 
 

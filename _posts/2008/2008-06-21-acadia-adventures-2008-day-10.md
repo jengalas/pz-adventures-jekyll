@@ -9,10 +9,7 @@ categories:
   - '2008'
   - survey mark hunting
 tags:
-excerpt: >- 
-  
-header:
-  teaser:
+featured_image: pe2033g2.jpg
 geocaches: false
 surveymarks: true
 post_id: 829

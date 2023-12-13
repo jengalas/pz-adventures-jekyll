@@ -9,7 +9,7 @@ categories:
   - '2008'
   - mountain biking
 tags:
-featured_image: 
+featured_image: IMG_0158cs.jpg
 geocaches: false
 surveymarks: false
 post_id: 1298
