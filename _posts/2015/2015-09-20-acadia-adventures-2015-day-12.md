@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   It was another day for exploring old ruins, this time near Eagle Lake.
-header:
-  teaser:
+featured_image: P1150370cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 20SEP15a.gpx

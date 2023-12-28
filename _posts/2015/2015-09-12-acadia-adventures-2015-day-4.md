@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   The Great Cave has been found by Rich and Zhanna!
-header:
-  teaser:
+featured_image: P1140601cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 12SEP15.gpx

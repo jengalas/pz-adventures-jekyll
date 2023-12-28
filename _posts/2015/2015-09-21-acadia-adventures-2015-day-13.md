@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna find the abandoned Upper Ladder Trail!
-header:
-  teaser:
+featured_image: P1150382cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 21SEP15.gpx

@@ -21,10 +21,10 @@ grid_items:
     link: /travel/acadia/2016
   - image_filename: 2015/09/20/thumbnails/P1150370csm.jpg
     year: 2015
-    link:
+    link: /travel/acadia/2015
   - image_filename: 2014/09/13/thumbnails/P1110290csm.jpg
     year: 2014 
-    link:
+    link: /travel/acadia/2014
   - image_filename: 2013/09/11/thumbnails/P1050291csm.jpg
     year: 2013
     link:

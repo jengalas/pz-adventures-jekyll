@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna complete their exploration of the Eagles Crag footpath and celebrate with burgers (again)!
-header:
-  teaser:
+featured_image: 20160917_132756cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 17SEP16.gpx

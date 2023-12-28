@@ -12,9 +12,8 @@ categories:
   - survey mark hunting
 tags:
 excerpt: >-
-  Rich and Zhanna investigate another new/old trail and their camera goes on an adventure of its own!
-header:
-  teaser:
+  
+featured_image: P1150059cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 17SEP15.gpx

@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   It was a beautiful day for a picnic on Great Hill—and more abandoned trail finding!
-header:
-  teaser:
+featured_image: P1090226clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 8386

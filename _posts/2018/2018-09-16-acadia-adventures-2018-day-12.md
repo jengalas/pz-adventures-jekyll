@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
+featured_image: P1050109clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 11000
@@ -75,7 +74,7 @@ Breafast at the Friar - good but took a really long time for some reason. (R:"th
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-Our plan for tody was to look for the Dane trail on Day Mtn, and then probably descend on the Day Mtn trail. We drove to the Visitors Center and got the park loop road bus. The driveer was a real hoot, putting on aone woman comedy show the entire time. R wondered where she got her happy plls! The rest of the people ono the bus were friendly as well ad there was jovial conversation the whole time untila bunch of them got off at Sand Beach. We stayed on until Wildwood ("now you're making me feel bad I didn't mention Wildwood!" she said when really we just wanted to make sure she rememberd to stop there! We had to wait for a series of carriages/wagons to pass when we first arrived but then we were able to climb to the carriage roads and cross the bridge toward Day Mtn.
+Our plan for tody was to look for the Dane trail on Day Mtn, and then probably descend on the Day Mtn trail. We drove to the Visitors Center and got the park loop road bus. The driver was a real hoot, putting on aone woman comedy show the entire time. R wondered where she got her happy plls! The rest of the people ono the bus were friendly as well ad there was jovial conversation the whole time untila bunch of them got off at Sand Beach. We stayed on until Wildwood ("now you're making me feel bad I didn't mention Wildwood!" she said when really we just wanted to make sure she rememberd to stop there! We had to wait for a series of carriages/wagons to pass when we first arrived but then we were able to climb to the carriage roads and cross the bridge toward Day Mtn.
 
 It was a very beautiful day. We spent it on Day Mountain as planned. We hiked up the abandoned Dane Trail (have you ever done it?) from the carriage road. It's steep but not a killer. Pretty easy to follow, using cairns along the way to help us through the more overgrown sections. It was warm and very humid in the woods. We were covered with spruce needles and spider webs. We sure enjoyed our little secret trail! Every once in a while we heard cyclists on the carriage road nearby. When we emerged at the carriage road near the summit, we spotted a man and his wife taking photos. Turned out to be a very nice and interesting couple from NH and we talked with them for a long while, and enjoyed a little snack and lots of water. We took the carriage road back down-I had never done it on foot, only by bike. It's long but scenic with a beautiful assortment of plant life on display. We ended up finding three more sets of steps in the woods, too! I need to figure out what trail they might have been part of. 
 

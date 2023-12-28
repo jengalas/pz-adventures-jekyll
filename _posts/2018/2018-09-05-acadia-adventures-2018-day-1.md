@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   Light traffic and a humid night to start off our 2018 trip to Maine ...
-header:
-  teaser:
+featured_image: 20180905_195229clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 10955

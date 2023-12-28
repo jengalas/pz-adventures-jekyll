@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna hike a trail that's new to both of them, finding peace and solitude and some unusual vegetation in the woods.
-header:
-  teaser:
+featured_image: P1070554cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 15SEP16.gpx

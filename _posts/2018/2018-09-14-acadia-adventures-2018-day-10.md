@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
+featured_image: 20180914_130843clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 10986

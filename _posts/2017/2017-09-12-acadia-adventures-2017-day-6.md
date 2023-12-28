@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   Today Rich, Dad and Zhanna hike on official trails, and Dad has his first Rosalie's pizza in two years.
-header:
-  teaser:
+featured_image: 20170912_123636clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 8398

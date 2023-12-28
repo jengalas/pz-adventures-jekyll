@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Our plan for today was to keep our activities very simple and easy. 
-header:
-  teaser:
+featured_image: P1040390clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 10965

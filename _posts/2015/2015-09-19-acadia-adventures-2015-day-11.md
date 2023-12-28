@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna venture to Moose Island to explore Eastport, the easternmost city in the US!
-header:
-  teaser:
+featured_image: P1150076cl.jpg
 geocaches: false
 surveymarks: true
 tracklog: 19SEP15.gpx

@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   Lobster, light rain, pizza and a benchmark on our first day in Maine ...
-header:
-  teaser:
+featured_image: P1040155clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 11100

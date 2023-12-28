@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Another successful search for a long-lost feature of the park!
-header:
-  teaser:
+featured_image: P1140699cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 13SEP15.gpx

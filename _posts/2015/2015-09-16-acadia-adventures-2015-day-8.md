@@ -13,8 +13,7 @@ categories:
 tags:
 excerpt: >-
   We hiked the Beachcroft Path to the summit of Champlain, found an abandoned trail and a cave, and finished off the day with lobster rolls and much-needed beer!
-header:
-  teaser:
+featured_image: P1140785cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 16SEP15.gpx

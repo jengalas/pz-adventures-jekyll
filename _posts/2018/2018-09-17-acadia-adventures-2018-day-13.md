@@ -13,8 +13,7 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
+featured_image: P1050319clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 11003

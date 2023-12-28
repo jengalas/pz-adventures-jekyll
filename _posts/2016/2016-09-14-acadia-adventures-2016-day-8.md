@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   A rest day provides unique photo opportunities!
-header:
-  teaser:
+featured_image: P1070517cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 14SEP16.gpx

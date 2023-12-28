@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich, Zhanna and Dad travel south to Baker Island!
-header:
-  teaser:
+featured_image: P1090602clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 8405

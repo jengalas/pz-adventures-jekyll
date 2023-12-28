@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna explore an intricate abandoned driveway and look for Brunnow's "lost trail."
-header:
-  teaser:
+featured_image: P1090320clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 8390

@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Today's adventure actually originated two years ago, when a man we met at Jordan Pond House vaguely mentioned "spiral steps" that were supposedly located somewhere behind Wildwood Stables. 
-header:
-  teaser:
+featured_image: P1040295clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 10958
@@ -135,7 +134,7 @@ Meanwhile Rich and I continued on to Wildwood Stables. From here we headed uphil
 
 It took us about five seconds of looking around in the wooded area just north of the carriage road to notice a cairn a few feet above us that could, we soon realized, actually be seen from the carriage road if you knew where to look! I could hardly believe it. I honestly didn't think we'd find very much, at least not so early in our search, and with so little to go on. But still, although this was an encouraging find, we couldn't yet be sure this was related to the abandoned trail.
 
-{% include gallery.html gallery_id="gallery2" class="special" %}
+{% include gallery.html gallery_id="gallery2" class="special2" %}
 
 We ascended to the cairn and then, faced with a ledge rising above us, had to choose either left or right. At first we poked around to the left and found nothing of real interest. Then I headed toward the right and soon spotted another cairn and two or three very obvious steps. We had found it!!!
 

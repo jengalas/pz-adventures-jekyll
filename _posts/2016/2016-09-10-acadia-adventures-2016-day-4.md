@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna made an unexpected and haunting discovery at an abandoned house on the shore of Eagle Lake. 
-header:
-  teaser:
+featured_image: P1070188cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 10SEP16.gpx

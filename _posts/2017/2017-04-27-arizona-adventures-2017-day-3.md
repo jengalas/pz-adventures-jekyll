@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
+featured_image: P1080374cl.jpg
 geocaches: false
 surveymarks: true
 tracklog: 27APR17.gpx

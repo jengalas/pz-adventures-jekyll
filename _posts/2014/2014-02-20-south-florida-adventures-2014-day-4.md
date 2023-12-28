@@ -11,9 +11,7 @@ categories:
   - survey mark hunting
 tags:
 excerpt: >-
-  
-header:
-  teaser:
+featured_image: IMG_20140220_184026cm.jpg
 geocaches: false
 surveymarks: true
 tracklog: 20FEB14-full.gpx

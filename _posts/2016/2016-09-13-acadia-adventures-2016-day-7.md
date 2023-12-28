@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna celebrate their 5th anniversary with two hikes up Great Hill, abandoned trail explorations, and their best meal ever at Havana.
-header:
-  teaser:
+featured_image: P1070423cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 13SEP16.gpx

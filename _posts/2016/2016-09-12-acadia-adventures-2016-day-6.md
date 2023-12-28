@@ -13,8 +13,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna explore two unofficial trails and eat lots of lobster!
-header:
-  teaser:
+featured_image: P1070351cl.jpg
 geocaches: false
 surveymarks: true
 tracklog: 12SEP16.gpx

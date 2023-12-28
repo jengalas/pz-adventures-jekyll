@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   A late start means no traffic and an easy (but long) drive for Rich and Zhanna. First day meals include unexpected Mexican and Rosalie's pizza!
-header:
-  teaser:
+featured_image: P1040831clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 8382

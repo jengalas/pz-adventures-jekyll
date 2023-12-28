@@ -51,7 +51,7 @@ Continuing on along Cooksey Drive, we soon came to a little parking area and ove
 
 The southern end of Cooksey Drive is lined with beautiful tidy mansions surrounded by lush forests and overlooking the harbor. Rich reminded me that supposeldy Martha Stewart has a home in this area, although I don't think it's along this road. The area definitely has a Martha vibe!
 
-Just past the last of the large homes, we came to another stop that Rich has spotted on teh map this morning: the Seal Harbor Pier. It's pretty unassuming, just asmall pier with a small parking lot (that was nearly full), and beautiful views. We did not see any benchmarks on or near the pier, but we looked just in case.
+Just past the last of the large homes, we came to another stop that Rich has spotted on the map this morning: the Seal Harbor Pier. It's pretty unassuming, just asmall pier with a small parking lot (that was nearly full), and beautiful views. We did not see any benchmarks on or near the pier, but we looked just in case.
 
 Entering the tiny town of Seal Harbor, we parked along the main street and checked out the Lighthouse Restaurant (note: this could be a good place to get that lobster roll for a picnic on the cliffs!) and then the Naturalist's Notebook.
 

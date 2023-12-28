@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   Dad's first full day in Maine: Sieur de Monts, Dorr Mountain, and Red Sky!
-header:
-  teaser:
+featured_image: P1020698cm.jpg
 geocaches: false
 surveymarks: false
 tracklog: 09SEP14.gpx

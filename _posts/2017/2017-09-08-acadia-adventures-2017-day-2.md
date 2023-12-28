@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   The tide was high and the ocean was angry on this quiet day of rest and light exploration.
-header:
-  teaser:
+featured_image: P1090144clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 8384

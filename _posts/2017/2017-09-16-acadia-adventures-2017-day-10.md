@@ -11,9 +11,8 @@ categories:
   - hiking
 tags:
 excerpt: >-
-  After Dad leaves for home, Rich and Zhanna explore a new trail and enjoy another excellent dinner in Southwest Harbor!
-header:
-  teaser:
+  
+featured_image: P1040922clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 8412

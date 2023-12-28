@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
+featured_image: P1040634clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 10982

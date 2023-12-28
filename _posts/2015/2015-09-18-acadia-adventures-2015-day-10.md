@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna investigate another new/old trail and their camera goes on an adventure of its own!
-header:
-  teaser:
+featured_image: 20150918_131437cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 18SEP15.gpx

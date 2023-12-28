@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna check out the progress on the Jordan Stream Trail and find some great burgers in town.
-header:
-  teaser:
+featured_image: P1070745cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 16SEP16.gpx

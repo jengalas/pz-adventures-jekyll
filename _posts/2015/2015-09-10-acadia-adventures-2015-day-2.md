@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna make the traditional stops-including the Bagaduce Lunch!-along the way to Bar Harbor.
-header:
-  teaser:
+featured_image: 20150910_061043cl.jpg
 geocaches: false
 surveymarks: true
 post_id: 5742

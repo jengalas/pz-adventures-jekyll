@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich, Dad and Zhanna persevere and eventually make their way up McFarland Mountain! To celebrate, Dad later has his first Guinness Stout!
-header:
-  teaser:
+featured_image: P1090514clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 8402

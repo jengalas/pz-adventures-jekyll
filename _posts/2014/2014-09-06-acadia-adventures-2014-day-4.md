@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   A canceled cruise leads to a day of hiking and exploring adventures on the island.
-header:
-  teaser:
+featured_image: P1100510cm.jpg
 geocaches: false
 surveymarks: false
 post_id: 4965
@@ -27,18 +26,18 @@ galleries:
   gallery2:
     suffix: cm
     images:
-    - filename: P1100447
-      alt: 
     - filename: P1100464
       alt:      
     - filename: P1100510
-      alt: 
-    - filename: P1100494
-      alt: 
+      alt:  
     - filename: P1100476
-      alt:      
+      alt:     
+    - filename: P1100447
+      alt:        
     - filename: P1100501
-      alt:      
+      alt:    
+    - filename: P1100494
+      alt:        
   gallery3:
     suffix: cm
     images:
@@ -66,7 +65,7 @@ We crossed the beach and I played in the icy water for a while, and then we made
 
 Rich had brought along his plastic sandals to wear on the beach, but they turned out to be somewhat harder to deal with than he'd expected so we put them back into his pack and he wore his regular hiking sandals for the rest of the trip. I actually hiked at least half of the route barefoot! I was inspired to do so by the nice feeling of the smooth stone steps leading up to the trail from the beach. 
 
-{% include gallery.html gallery_id="gallery2" class="" %}
+{% include gallery.html gallery_id="gallery2" class="special2" %}
 
 Soon after, however (and we turned left this time, to hike the outer loop counterclockwise) the trail turned into woods road with small and occasionally sharp gravel. I made a great effort but after about a half mile the shoes went back on. 
 

@@ -11,8 +11,7 @@ categories:
 tags:
 excerpt: >-
   On a drizzly day, Rich and Zhanna discover a new place for breakfast (and dinner!) and enjoy a walk through Acadia's memorials.
-header:
-  teaser:
+featured_image: P1140333cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 11SEP15.gpx

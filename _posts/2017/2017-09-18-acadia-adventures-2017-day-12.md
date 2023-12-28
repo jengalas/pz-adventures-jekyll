@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna spend their last full day in Maine exploring Otter Point and Otter Creek!
-header:
-  teaser:
+featured_image: P1090920clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 8422

@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Thanks to a tip from a local, Rich and Zhanna find the easiest way up to the Bowl, just before Dad arrives in town!
-header:
-  teaser:
+featured_image: P1090462clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 8396

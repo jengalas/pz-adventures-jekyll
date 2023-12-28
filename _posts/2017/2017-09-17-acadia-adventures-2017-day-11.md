@@ -12,8 +12,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna buy more goat cheese than they can handle at the farmers' market, and then spend the afternoon eating and searching for survey marks on the western side of the island.
-header:
-  teaser:
+featured_image: P1090814clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 8418
@@ -122,7 +121,7 @@ Well, after we bought the cheese, salami, trail mix and two pasta sauces we head
 
 {% include image.html filename="P1090814clx.jpg" thumb="P1090814b.jpg" caption="Artisan goat cheeses from Yellow Birch Farm" %}
 
-The ladies from Yellow Birch Farm thought it was so cute/cool that we had bought a larger cooler so we could buy more of their cheese! [private role="administrator"]They were really thrilled and said to email them so they could let me know if they ever get the pasteurization vat the need to be able to ship out of state (of course she said she wouldn't be opposed to breaking the law for certain enthusiastic customers!).[/private] They'll let us know if they obtain the necessary license to ship out of state.  They also gave us a free bar of goats' milk soap for our enthusiasm, which was a cool treat. I chose the one scented with balsam and cedar.
+The ladies from Yellow Birch Farm thought it was so cute/cool that we had bought a larger cooler so we could buy more of their cheese! <!-- They were really thrilled and said to email them so they could let me know if they ever get the pasteurization vat the need to be able to ship out of state (of course she said she wouldn't be opposed to breaking the law for certain enthusiastic customers!). --> They'll let us know if they obtain the necessary license to ship out of state.  They also gave us a free bar of goats' milk soap for our enthusiasm, which was a cool treat. I chose the one scented with balsam and cedar.
 
 {% include image.html filename="20170917_123151clx.jpg" thumb="20170917_123151b.jpg" caption="Rich finishes up his beer after our feast at Beal's!" %}
 

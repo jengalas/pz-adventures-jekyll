@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   Time to head for home. Another fantastic Maine vacation complete, as always too soon.
-header:
-  teaser:
+featured_image: P1090981clx.jpg
 geocaches: false
 surveymarks: false
 post_id: 8433
