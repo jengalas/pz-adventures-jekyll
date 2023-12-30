@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   A somber fall walk.
-header:
-  teaser:
+featured_image: P1080100cl.jpg
 geocaches: false
 surveymarks: false
 post_id: 7341
