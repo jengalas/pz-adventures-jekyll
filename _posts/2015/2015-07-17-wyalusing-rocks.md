@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   Zhanna finally gets to see Wyalusing Rocks, and she and Rich explore the area through several benchmark hunts.
-header:
-  teaser:
+featured_image: P1130827cl.jpg
 geocaches: false
 surveymarks: true
 post_id: 5438
