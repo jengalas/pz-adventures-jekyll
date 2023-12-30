@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   It's not Petal, but we found another cute goat along the road.
-header:
-  teaser:
+featured_image: P1110856clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 5044

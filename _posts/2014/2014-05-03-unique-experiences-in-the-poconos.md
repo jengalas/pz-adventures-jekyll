@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   Rich, Dad and Zhanna go hiking at Bruce Lake, find a strange place for lunch, and search for a survey marker on the way home!
-header:
-  teaser:
+featured_image: P1080359cl.jpg
 geocaches: false
 surveymarks: true
 tracklog: 03MAY14.gpx

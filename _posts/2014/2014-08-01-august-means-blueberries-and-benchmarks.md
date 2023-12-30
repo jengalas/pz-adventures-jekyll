@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   The first weekend of August = Montrose Blueberry Festival!
-header:
-  teaser:
+featured_image: redheadedmamm01cm.jpg
 geocaches: false
 surveymarks: true
 tracklog: 01AUG14.gpx

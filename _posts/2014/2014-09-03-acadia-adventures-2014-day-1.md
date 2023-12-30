@@ -9,9 +9,7 @@ categories:
   - '2014'
 tags:
 excerpt: >-
-  
-header:
-  teaser:
+
 geocaches: false
 surveymarks: false
 post_id: 4958

@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
+featured_image: penndot-unstamped-4g1.jpg
 geocaches: false
 surveymarks: true
 post_id: 24000

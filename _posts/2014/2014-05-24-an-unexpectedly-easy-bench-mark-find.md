@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Tonight's bench mark scouting mission in Clarks Summit proved quite fruitful! Rich and I found TT 38 T.
-header:
-  teaser:
+featured_image: tt38tg1.jpg
 geocaches: false
 surveymarks: true
 post_id: 4768

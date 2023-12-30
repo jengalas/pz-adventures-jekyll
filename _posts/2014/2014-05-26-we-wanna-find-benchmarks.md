@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   Benchmarks and wildlife on a beautiful May day!
-header:
-  teaser:
+featured_image: ly1248g4.jpg
 geocaches: false
 surveymarks: true
 tracklog: 26MAY14.gpx

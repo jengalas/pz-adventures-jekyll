@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Today Rich and I set out on a benchmark hunting trip in the Waymart area. We are on a quest to find more "J" bench marks, those set in the mid-1920s by Oscar Jones and which, so far, have all been made of Aich's metal.
-header:
-  teaser:
+featured_image: 10-63-2034-4g3cm.jpg
 geocaches: false
 surveymarks: true
 tracklog: 28JUN14.gpx

@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   This is our third consecutive weekend visiting the Waymart area for USGS benchmark hunting (... and pizza and BBQ from the Waymart Hotel). We haven't come close to finding all of them yet, but we attempted four marks today!
-header:
-  teaser:
+featured_image: tt14tg4.jpg
 geocaches: false
 surveymarks: true
 post_id: 4911

@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Our return trip to search for USGS bench mark disk TT 16 T was a success. It was also the scene of an ugly confrontation!
-header:
-  teaser:
+featured_image: tt16t.jpg
 geocaches: false
 surveymarks: true
 post_id: 6100

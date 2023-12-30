@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   Rich, Dad and I went back to Gouldsboro State Park in search of 2062 TBY, a bench mark disk on Prospect Rock.
-header:
-  teaser:
+featured_image: 2062tby.jpg
 geocaches: false
 surveymarks: true
 tracklog: 31MAY14.gpx

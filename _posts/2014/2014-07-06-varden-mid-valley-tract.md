@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   Today we hiked the Mid-Valley Tract of the Varden Conservation area with Dad!
-header:
-  teaser:
+featured_image: 06F-63-3034-11g4cm.jpg
 geocaches: false
 surveymarks: true
 tracklog: 06JUL14.gpx

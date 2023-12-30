@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   On this humid May morning we met my father at Zummo's Cafe, and then went for a walk.
-header:
-  teaser:
+featured_image: lake-scranton-w-wg1.jpg
 geocaches: false
 surveymarks: true
 post_id: 4590

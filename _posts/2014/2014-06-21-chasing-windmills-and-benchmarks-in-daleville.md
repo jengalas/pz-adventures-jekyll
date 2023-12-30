@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Inspired by a vague memory from Rich's childhood, he and Zhanna go on a benchmark hunting run in Daleville!
-header:
-  teaser:
+featured_image: ly1616g2.jpg
 geocaches: false
 surveymarks: true
 post_id: 4878

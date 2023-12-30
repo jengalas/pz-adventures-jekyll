@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   Zhanna, Rich, and Dave have adventures in Minnewaska State Park, including a porcupine sighting.
-header:
-  teaser:
+featured_image: P1080899cm.jpg
 geocaches: false
 surveymarks: true
 tracklog: 14JUN14.gpx
