@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Remaining clues: found! Chocolate: purchased! Lunch: yum! A cache hunt and a serendipitous bench mark find: whee! Fantastic day in Susquehanna County with Rich.
-header:
-  teaser:
+featured_image: P1060634cl.jpg
 geocaches: true
 surveymarks: true
 post_id: 6646

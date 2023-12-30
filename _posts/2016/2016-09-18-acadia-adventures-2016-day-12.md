@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna enjoy a lazy day and plenty of good food ...
-header:
-  teaser:
+featured_image: P1070810cl.jpg
 geocaches: false
 surveymarks: false
 post_id: 7203

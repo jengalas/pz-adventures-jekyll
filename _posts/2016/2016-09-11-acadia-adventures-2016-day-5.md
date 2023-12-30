@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   Today's rain thwarted Rich and Zhanna at every turn, but it still turned out to be a wonderful day. 
-header:
-  teaser:
+featured_image: P1070257cl.jpg
 geocaches: false
 surveymarks: false
 post_id: 7168

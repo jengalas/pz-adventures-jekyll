@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Paradise Park in late summer, as experienced by Rich and Zhanna.
-header:
-  teaser:
+featured_image: P1060841cl.jpg
 geocaches: false
 surveymarks: false
 post_id: 6777

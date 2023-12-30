@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   The thought of a pizza dinner got Rich and Zhanna through this rainy day ... but what?! Rosalie's is closed on Monday?!
-header:
-  teaser:
+featured_image: P1070946cl.jpg
 geocaches: false
 surveymarks: false
 post_id: 7206

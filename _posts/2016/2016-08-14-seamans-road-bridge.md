@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Zhanna and Rich make a quick detour to search for a bench mark on a hot summer day.
-header:
-  teaser:
+featured_image: P1060798cl.jpg
 geocaches: false
 surveymarks: true
 post_id: 7136

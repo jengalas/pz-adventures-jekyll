@@ -10,8 +10,7 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna enjoy one last Maine morning before they head back to reality.
-header:
-  teaser:
+featured_image: P1080017cl.jpg
 geocaches: false
 surveymarks: false
 post_id: 7212

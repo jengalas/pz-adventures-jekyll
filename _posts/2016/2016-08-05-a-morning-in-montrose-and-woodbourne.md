@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   Pancake-powered architectural treasure hunting and hiking in Susquehanna County!
-header:
-  teaser:
+featured_image: P1060682cl.jpg
 geocaches: false
 surveymarks: false
 tracklog: 05AUG16.gpx

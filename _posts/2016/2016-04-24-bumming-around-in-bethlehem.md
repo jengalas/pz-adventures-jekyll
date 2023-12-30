@@ -9,8 +9,7 @@ categories:
 tags:
 excerpt: >-
   A morning hike at Jacobsburg State Park was followed by a delicious lunch in Bethlehem and a film festival!
-header:
-  teaser:
+featured_image: P1050326cl.jpg
 geocaches: false
 surveymarks: true
 tracklog: 24APR16.gpx
