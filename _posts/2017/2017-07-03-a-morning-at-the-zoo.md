@@ -8,8 +8,7 @@ categories:
 tags:
 excerpt: >-
   A five day weekend for me included a trip to the zoo to visit a sloth!
-header:
-  teaser:
+featured_image: P1040386cl.jpg
 geocaches: false
 surveymarks: false
 post_id: 7992
