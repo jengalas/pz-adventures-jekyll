@@ -22,16 +22,8 @@ galleries:
   gallery1:
     suffix: cvx
     images:
-      - filename: horse-show-postcard
-        alt:
-      - filename: morrell-park-postcard
-        alt:  
-      - filename: morrell-park-racetrack-postcard
-        alt:
-      - filename: mountain-view-postcard
-        alt:    
-      - filename: robin-hood-park-postcard
-        alt:                     
+      - filename: 
+        alt:                   
     
 ---
 
@@ -48,26 +40,6 @@ https://archive.org/details/culturallandscap00foul/page/16/mode/2up
 
  -->
 
-<div style="border: 1px solid gray; padding: 1rem 2rem; background-color: #efefef;">
-
-<h2>Robin Hood Park</h2>
-
-<p>The land where Jackson Laboratory now sits was once owned by Edward de Veaux Morrell, a Pennsylvania lawyer and U.S. Congressman (and brother-in-law to Saint Katharine Drexel). He purchased the sixty-acre property, called Robin Hood Park, in March 1898. The grounds contained a half-mile track for horse racing.</p>
-
-<p>In 1900, according to the Maine Memory Network, Morrell made the park grounds available for use by Bar Harbor's newly-formed Horse Show and Fair Association. Horse shows were held there for three days each August from 1900-1912.</p> 
-
-<p>Last year, we located a memorial plaque alongside Route 3, on the current Jackson Laboratory campus, dedicated to Morrell.</p>
-
-<p>This year, as you'll read below, we spent some more time exploring this small, hidden, but quite historic area.</p>
-
-{% include gallery.html gallery_id="gallery1" class="special2" %}
-
-<h2>Bear Brook Campground</h2>
-
-<p>The area now known as Bear Brook Picnic Area was originally developed as a campground: the first (and only, until [date?]) official National Park campground for Acadia. Beginning in the 1920s, auto touring made places like Acadia that were far-flung from eastern cities suddenly accessible to the growing middle class. But Lafayette National Park (later Acadia) did not have a public campground of its own; through a loose agreement with the town that was later rescinded, visitors initially camped on the area between Park Street and Ledgelawn Avenues that is now a public park.</p>
-
-</div>
-
 We woke up to another very nice day (still very humid, but not foggy like yesterday) and, unfortunately, still pain in Rich's leg. I brought back a blueberry muffin and some coffee and juice for him from the hotel lobby so he could take medication; I had planned on going to the Flowered Apron but since that doesn't open until 8:00, we had some time to wait.
 
 I headed over there around 7:45 and arrived just a few minutes before the shop opened, taking the shortcut through the cemetery. (In fact I walked down to the end of the street just so I wasn't bothering them before they opened, and saw Steve placing the "pop up bakery" sign at the corner of Cottage and Kennebec.) 
@@ -77,6 +49,20 @@ All of their baked goods looked great, but I knew we would be mostly interested 
 The business is self-serve now, and I didn't see Karen at all, but Steve was roaming around outside setting up the various signs. I fit everything into a box, paid, and walked over to the Island Explorer building to pick up a few bus schedules before heading back to the hotel. (At the hotel, I also procured a few slices of butter to spread on the biscuits, and some more juice and coffee.)
 
 While we ate, we looked for another simple activity that would give Rich plenty of opportunities to rest while I explored. I knew that there were a few trails to explore near the Bear Brook picnic area and we figured that might be a nice place to park and use as a base for the day. 
+
+<div class="history-aside">
+
+<h2>Bear Brook Campground</h2>
+
+<p>The area now known as Bear Brook Picnic Area was originally developed as a campground: the first official National Park campground for Acadia. Beginning in the 1920s, auto touring made places like Acadia that were far-flung from eastern cities suddenly accessible to the growing middle class. But Lafayette National Park (later Acadia) did not have a public campground of its own; through a loose agreement with the town that was later rescinded, visitors initially camped on the area between Park Street and Ledgelawn Avenues that is now a public park.</p>
+
+<p>An early planning document for the National Park dating to 1927 outlined plans to replace the Ledgelawn Avenue site with a new campground facility to be built at Bear Brook. Between 1927 and 1932, park superintendent George Dorr forged ahead with the development of the campground adjacent to Robin Hood Park.  To accommodate the desires and demands of the new wave of auto-campers, Bear Brook Campground provided amenities typical of campgrounds of the time, such as water, fire rings, and comfort stations.</p>
+
+<p>The campground was modified over the years with improved layouts to control traffic and preserve vegetation, and the addition of amenities such as an amphitheater, laundry, and office. As in other areas of the park, much of this work was accomplished by enrollees of the Civilian Conservation Corps (CCC). Two additional campgrounds which are still part of the park today (Seawall and Blackwoods) were developed over the next few decades, eventually replacing the aging facilities at Bear Brook. Bear Brook was converted to a picnic area by 1962.</p>
+
+{% include image.html filename="bear-brook-campgroundcvx.jpg" thumb="bear-brook-campgroundb.jpg" caption="" %}
+
+</div>
 
 Rich came along on my first exploration of the connector path between the picnic area and Jackson Labs, which was a short trail, not overly exciting, but still something to add to our map. In addition we found two NPS boundary markers along this short path. Rich didn't make it quite the whole way before his leg started bothering him, so he headed back toward the picnic area. This gave us a chance to test out our new radios, which worked quite well. I've often wanted to have something for communication when I go off scouting an abandoned trail, and cell phones still get horrible reception on the island, so radios it is.
 
