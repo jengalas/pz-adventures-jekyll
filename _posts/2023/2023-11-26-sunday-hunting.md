@@ -15,9 +15,23 @@ galleries:
   gallery1:
     suffix: cvx
     images:
-      - filename: 
-        alt:                       
-    
+      - filename: tt-4-tg2
+        alt: Our first view of the mark 
+      - filename: tt-4-tg3
+        alt: Looking SW toward the old Erie Railroad tracks      
+      - filename: PB265612
+        alt: An easy find in relatively open woods
+      - filename: PB265637
+        alt: Rich was excited too! 
+      - filename: PB265605
+        alt: Checking the datasheet and coordinates  
+      - filename: tt-4-tg1
+        alt: This bright blue disk is in good condition.                                             
+      - filename: tt-4-tg5
+        alt: Stone bridge/culvert dated 1939    
+      - filename: PB265662
+        alt: In front of the remnants of CHICCO       
+        
 ---
 
 We've had our eye on **TT 4 T** for a few weeks, ever since we started going back through the USGS datasheets for local benchmarks that we somehow neglected to search for in the past. 
@@ -41,6 +55,8 @@ After finishing our photos and documentation of the benchmark, we moved on to lo
 Typically, PDH disks are easy to find, and we seem to spot plenty of them on old concrete bridges when we're not even looking for them. But this time, we had no such luck. 
 
 There are two bridges or culvert-like structures near the mark. One is concrete and was clear of vegetation, and it was clear to see that there was no disk set into it. Just a few yards away is another structure with a layer of old, heavily eroded concrete on the top, and a stone wingwall dated 1939 (seven years after this benchmark was set). Perhaps the reference mark was set in the original bridge in this location, which is probably gone now given the date on the wingwall. 
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 We also checked the corresponding portal on the northern side of the road, but that was far too overgrown for us to have any hope of finding anything on it. Given the distances in the description, it is much more likely that the southern portal was the one that originally held the reference mark.
 

@@ -13,6 +13,7 @@ categories:
 tags:
 header:
   teaser:
+excerpt: "We woke up to another very nice day (still very humid, but not foggy like yesterday) and, unfortunately, still pain in Rich’s leg. I brought back a blueberry muffin and some coffee and juice for him from the hotel lobby so he could take medication; I had planned on going to the Flowered Apron but since that doesn’t open until 8:00, we had some time to wait."
 geocaches: false
 surveymarks: true
 tracklog: 09SEP23.gpx
@@ -40,9 +41,9 @@ https://archive.org/details/culturallandscap00foul/page/16/mode/2up
 
  -->
 
-We woke up to another very nice day (still very humid, but not foggy like yesterday) and, unfortunately, still pain in Rich's leg. I brought back a blueberry muffin and some coffee and juice for him from the hotel lobby so he could take medication; I had planned on going to the Flowered Apron but since that doesn't open until 8:00, we had some time to wait.
+We woke up to another very nice day and, unfortunately, still pain in Rich's leg. It was still very humid, but not foggy like yesterday. I brought back a blueberry muffin and some coffee and juice from the hotel lobby as a "first breakfast"; I had planned on going to the Flowered Apron but since that doesn't open until 8:00, we had some time to wait.
 
-I headed over there around 7:45 and arrived just a few minutes before the shop opened, taking the shortcut through the cemetery. (In fact I walked down to the end of the street just so I wasn't bothering them before they opened, and saw Steve placing the "pop up bakery" sign at the corner of Cottage and Kennebec.) 
+I headed over to the bakery on Kennebec Street around 7:45 and arrived just a few minutes before the shop opened, taking a shortcut through the cemetery. (In fact I walked down to the end of the street just so I wasn't bothering them before they opened, and saw Steve placing the "pop up bakery" sign at the corner of Cottage and Kennebec.) 
 
 All of their baked goods looked great, but I knew we would be mostly interested in the savory offering, which was a cheddar scallion biscuit. I bought two, in fact, even though they were pretty big. I also got a molasses-ginger cookie (which I've had before and it was awesome), a three-pack of lemon tea cookies, and a chocolate raspberry cupcake. The featured item for today was a chocolate raspberry cake, and while the slices looked delicious (two chocolate layers filled with raspberry cream and topped with chocolate ganache) I knew it was more than I could handle this morning! So I opted for the cupcake. 
 

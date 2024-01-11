@@ -26,7 +26,7 @@ galleries:
     
 ---
 
-One theme for today and this past week (and month) - TIRED! Rich has been suffering sciatic pain for two weeks and it hasn't improved much.  In the meantime neither of us has been sleeping very well. Today was similar; we planned to leave very late, around midnight, after sleeping as much as possible during the day. Unfortunately I don't think I got more than 5 minutes' rest last night or today. I had a feeling the long drive was going to be an ordeal.
+One theme for today and this past week (and month) - TIRED! Rich has been suffering from sciatic pain for two weeks and it hasn't improved much in that time.  In the meantime neither of us has been sleeping very well. Today was similar; we planned to leave very late, around midnight, after sleeping as much as possible during the day. Unfortunately I don't think I got more than 5 minutes' rest last night or today. I had a feeling the long drive was going to be an ordeal.
 
 The first part of the drive was actually fine, with very little traffic. There was quite a bit of road work along I-84 (and, as an aside, a large truck fire on I-84 westbound near the Connecticut border) and that slowed us down and caused what traffic there was to accumulate more than would be expected at 2:00am. But once we worked our way through that area, the traffic thinned out again.
 
