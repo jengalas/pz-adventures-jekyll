@@ -30,7 +30,7 @@ galleries:
 
 ## Fawn Pond or Breakneck Rd?
 
-Fog again this morning! It was dense but didn't cause any problems as I ran down to Mount Dessert Bakery for two plain croissants and a pecan sticky bun. As we sat on the porch enjoying our breakfast, it even appeared to brighten up for a minute, and I almost saw the sun—and then it started to rain.
+Fog again this morning! It was dense but didn't cause any problems as I ran down to Mount Dessert Bakery for two plain croissants and a pecan sticky bun. As we sat on the porch enjoying our breakfast, it even appeared to brighten up for a minute, and I almost saw the sun ... and then it started to rain.
 
 Although we didn't know it yet, this would be the theme for the day.
 
@@ -46,7 +46,7 @@ I was also halfway hoping to cross paths with a woman who had pulled up to the p
 
 I passed through the rockslide that occurred two years ago; now a well-worn path traverses the fallen talus, which remains in place. Soon after, I located the road to Lake Wood and turned onto it.
 
-I climbed rocky path for just over a tenth of a mile when I saw the smaller, steeper road branching off to the right that I had planned to follow. It was easy walking on a beautifully clear, obvious trail for quite a while, and I was sure that it would take me near to the Bates cairn I had found last time.
+I climbed the rocky path for just over a tenth of a mile when I saw the smaller, steeper road branching off to the right that I had planned to follow. It was easy walking on a beautifully clear, obvious trail for quite a while, and I was sure that it would take me near to the Bates cairn I had found last time.
 
 However, I was about .19 mile away from the cairn when I suddenly lost the trail at one of the typical lichen and blueberry covered rocky outcrops. 
 
