@@ -23,6 +23,19 @@ galleries:
     images:
       - filename: 
         alt:
+  gallery2:
+    suffix: cvx
+    images:
+      - filename: '20230907_160407'
+        alt: 
+      - filename: '20230907_161225'
+        alt:  
+      - filename: '20230907_161336'
+        alt:  
+      - filename: P9075304
+        alt:  
+      - filename: P9075310
+        alt:        
     
 ---
 
@@ -55,3 +68,5 @@ A sign greeted us at the desk reminding guests that check-in was at 3:00pm, so i
 We brought our stuff inside and collapsed for about 30 minutes until the pull of pizza and a LARGE glass of beer was stronger than the pull for more sleep. (That was a _strong_ pull!) 
 
 We were at Rosalie's by 3:55 and began the line-up, and consequently we were the first ones in the door. We claimed the first booth downstairs, our usual first-night favorite, and Rich ordered us our usual first-night medium plain pie and two large Allagash white ales. Conversation was as perfect as always, listening to the good music in Rosalie's and talking about some interesting music-related videos that Rich had seen. We watched one of the videos when we got back to the room (after a quick trip to Hannaford) and then collapsed into bed.
+
+{% include gallery.html gallery_id="gallery2" class="" %}

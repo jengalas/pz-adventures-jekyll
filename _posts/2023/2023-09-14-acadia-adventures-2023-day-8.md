@@ -25,7 +25,7 @@ galleries:
     images:
       - filename: 
         alt:
-    
+      
 ---
 
 <!-- ## Orange and Black? Brunnow or any of the other nearby trails, trailbuilders? -->
