@@ -23,13 +23,36 @@ galleries:
   gallery1:
     suffix: cvx
     images:
+      - filename: P1079869
+        alt:
+      - filename: P1079875
+        alt:
+      - filename: P1079876
+        alt:
+      - filename: P1079878
+        alt:
+      - filename: P1079881
+        alt:
+      - filename: P1079887
+        alt:
+      - filename: P1079889
+        alt:
+      - filename: P1079890
+        alt:
+      - filename: P1079902
+        alt:   
+      - filename: P1079921
+        alt:                       
+  gallery2:
+    suffix: cvx
+    images:
       - filename: P9200665
         alt:
       - filename: P9200672
         alt:
       - filename: P9200673
         alt:
-  gallery2:
+  gallery3:
     suffix: cvx
     images:
       - filename: P9200699
@@ -40,7 +63,7 @@ galleries:
         alt:
       - filename: P9200735
         alt:
-  gallery3:
+  gallery4:
     suffix: cvx
     images:
       - filename: P9200738
@@ -49,7 +72,7 @@ galleries:
         alt:
       - filename: P9200747
         alt:        
-  gallery4:
+  gallery5:
     suffix: cvx
     images:
       - filename: P1079928
@@ -62,7 +85,7 @@ galleries:
         alt:
       - filename: P1079939
         alt:     
-  gallery5:
+  gallery6:
     suffix: cvx
     images:
       - filename: P1079947
@@ -77,14 +100,14 @@ galleries:
         alt:  
       - filename: P1079982
         alt: 
-  gallery6:
+  gallery7:
     suffix: cvx
     images:
       - filename: P1079993
         alt:
       - filename: P1079998
         alt:                                     
-  gallery7:
+  gallery8:
     suffix: cvx
     images:
       - filename: P1080001
