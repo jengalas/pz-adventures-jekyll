@@ -32,6 +32,17 @@
     width: 400px;
   }
   
+  .map {
+    width: 100%; 
+    height:100%; 
+    position: relative;
+  }
+  .map-wrapper {
+    width: 450px; 
+    height: 320px;
+    float: right;
+  }
+
   // ACCORDION (for Geocaches)
   
   .accordionItem {
