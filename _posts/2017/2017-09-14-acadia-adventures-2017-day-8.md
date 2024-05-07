@@ -111,7 +111,7 @@ The Baker Island tour is a ranger program of Acadia National Park, but the Bar H
 
 Rich and I didn't want much for breakfast this morning. Most place don't open early enough, since we had to be at the pier for the cruise by 7:45am at the latest, and we always prefer to be early. Dad wanted something to eat, so he stopped at Jeannie's for coffee and a blueberry muffin. Rich simply got a coffee at 59 Cottage Street as we walked by. We met Dad in front of Jeannie's at 7:15 and walked down to the pier.
 
-At first it wasn't clear if the cruise was actually going out, since the boat wasn't at the dock and no one else was waiting around. I guess we were just early.  Before long some other people began to arrive, including a pleasant couple from Florida. [private role="administrator"](the man looked like Ansel Adams and he was carrying a camera on a monopod - rich thought it would be really funny if he were using Adams' large format camera on a monopod!)[/private] They ended up sitting behind us on the boat, which arrived soon after everyone began to gather at the pier.
+At first it wasn't clear if the cruise was actually going out, since the boat wasn't at the dock and no one else was waiting around. I guess we were just early.  Before long some other people began to arrive, including a pleasant couple from Florida. <!-- (the man looked like Ansel Adams and he was carrying a camera on a monopod - rich thought it would be really funny if he were using Adams' large format camera on a monopod!) --> They ended up sitting behind us on the boat, which arrived soon after everyone began to gather at the pier.
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
