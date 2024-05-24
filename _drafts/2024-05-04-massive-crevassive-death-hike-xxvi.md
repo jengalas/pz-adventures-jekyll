@@ -58,16 +58,17 @@ The Highland Trail is relatively level and very easy walking. Soon we came to a 
 
 As we clambered around on the Pocono sandstone conglomerate, Ken suddenly heard a "ding!" from his phone. "Oh, it's a text message," he said. "I must have just gotten a signal." (This area is notorious for having almost no cell service.) But he didn't recognize the number. The message read:
 
-"Hey are we still doing the Death Hike?
-I got here at 9:15, no one's here lol"
+`"Hey are we still doing the Death Hike? I got here at 9:15, no one's here lol"`
 
 After much back and forth, trying to text and call, and trying different phones, we eventually determined that, yes, it was Alan! And he was here for the hike, as expected. But he had, in fact, gone to the Route 118 parking lot rather than Lake Rose. 
 
 We were already 2/3 of a mile into our hike, and Alan was at the bottom of the gorge and about 15 minutes away by car. But you can always use math to your advantage, right? So Ken texted back:
 
-"If you drove up and do it counterclockwise we will meet by intermediate value theorem"
+`"If you drove up and do it counterclockwise we will meet by intermediate value theorem"`
 
 and that is indeed what we did!
+
+
 
 
 {% include tracklog.html %}
