@@ -1,5 +1,5 @@
-{% capture imagePath %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/{{ include.filename }}{% endcapture %}
-{% capture thumb %}https://planetzhanna.com/images/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{{ include.thumb }}{% endcapture %}
+{% capture imagePath %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/{{ include.filename }}{% endcapture %}
+{% capture thumb %}https://images.planetzhanna.com/{{ page.date | date: "%Y/%m/%d" }}/thumbnails/{{ include.thumb }}{% endcapture %}
 
 <div class="gallery"> 
     <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ include.caption }}</div>" href="{{ imagePath }}" title="{{ include.caption }}">
