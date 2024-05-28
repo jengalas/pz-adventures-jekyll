@@ -547,10 +547,10 @@ $zindex-header: 500;
 //
 @mixin button-lines {
   background: $color-white;
-  border-radius: calc($nav-toggle-size / 10);
+  border-radius: calc(2rem / 10);
   display: inline-block;
-  height: calc($nav-toggle-size / 10);
-  width: $nav-toggle-size;
+  height: calc(2rem / 10);
+  width: 2rem;
 }
 
 .button-lines {
@@ -558,7 +558,7 @@ $zindex-header: 500;
   border: none;
   cursor: pointer;
   display: inline-block;
-  padding: calc($nav-toggle-size / 2) calc($nav-toggle-size / 4);
+  padding: calc(2rem / 2) calc(2rem / 4);
   user-select: none;
 }
 
@@ -575,11 +575,11 @@ $zindex-header: 500;
   }
 
   &:after {
-    top: calc($nav-toggle-size / 4);
+    top: calc(2rem / 4);
   }
 
   &:before {
-    top: calc(0px - $nav-toggle-size / 4);
+    top: calc(0px - 2rem / 4);
   }
 }
 
