@@ -68,7 +68,20 @@ We were already 2/3 of a mile into our hike, and Alan was at the bottom of the g
 
 and that is indeed what we did!
 
+Following an ultramarathoner will usually result in a rapid hike, so I don't usually have the same photo opportunities on the Death Hike as I do when hiking alone or with Rich. But it's still fun to take some snapshots here and there of the waterfalls, of course (which are true spray-and-pray snapshots, because waterfalls almost never look good without a longer exposure and the camera on a tripod). And I always explore the ground for smaller points of interest, which are typically provided by wildflowers at this time of year. The first weekend in May seems to be prime trillium season here at the Glen, and I found quite a few while we hiked.
 
+The waterfalls on the eastern side of the Falls Loop are fewer and somewhat less impressive than those on the western side, but this means that the eastern side attracts fewer people, and thus makes for a much more peaceful experience. We enjoyed Liam's tales of hiking the Florida Trail, which included being kicked off the Seminole reservation for illegal camping, and meeting a man on Thank God Island who arrived carrying his food for the journey in a "crotch pot." We were simultaneously repulsed and, of course, extremely curious about this. Liam reported that the crotch pot was indeed as gross as it sounds.
 
+Alan met up with us not long before we reached Waters Meet, so he had certainly been hiking quickly himself (no doubt a result of the working out and playing hockey 5 days a week that he told us all about while we hiked). It was fun to catch up (literally!) with one of the veteran Hikers and hear about his adventures over the past year.
+
+The western side of the loop was packed with people, as expected. We enjoyed the climb and the waterfalls along the way, but we didn't linger as long as we did last year in any one spot. Although it was a short hike and a relatively easy one, we were all feeling hungry for pizza, and we had quite a drive to reach the pizzeria!
+
+Back at the parking lot, we took our usual post-hike group photo, noting that this was the first time we've picked up an extra person along the way! And then we made sure everyone understood the directions to the pizza place, which was King's in Mountain Top, just like the last two years. 
+
+Ken arrived before me at King's - no surprise since he is a much faster driver than I am - and I parked next to him. This restaurant is huge and has about eight different rooms, plus an outdoor seating area. I had no idea where Ken was, but I checked the downstairs rooms where we had eaten the last two years. He wasn't there. Texted him "Where are you?" and the response was "Inside." Not helpful! But the hostess saw me wandering around and pointed me to the front room, where Ken was waiting. And Gina was with him! She had driven up to join us for pizza. Liam and Alan arrived a few minutes later, and we ordered up our iced tea and coffee and began the process of figuring out our pizza toppings.
+
+Pizza options always include the Monks Special (sausage, mushrooms, and onions) and at least a few plain slices. But this time Liam and Alan were interested in something new: ham and pineapple. I said I would happily try a piece, since I've never had it. Ken and Gina's Italian heritage was offended, and they refused to call that particular one "pizza." :grin: But I rather liked it. I don't know that the toppings really meld with the flavors of the tomato and cheese, but they did taste good, and I would probably get it again sometime. (I am allowed since I have no Italian heritage whatsoever.)
+
+Although the skies had threatened rain all day, the only rain I encountered was a brief shower just as I left King's. Another successful Death Hike - Let summer begin!
 
 {% include tracklog.html %}
