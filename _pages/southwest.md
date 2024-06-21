@@ -1,6 +1,6 @@
 ---
 layout: archive-grid
-permalink: /travel/southwest
+permalink: /travel/southwest/
 title: Travel > Southwest
 grid_items:
   cards:
