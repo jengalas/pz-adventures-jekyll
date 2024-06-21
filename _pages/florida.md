@@ -1,6 +1,6 @@
 ---
 layout: archive-grid
-permalink: /travel/florida
+permalink: /travel/florida/
 title: Travel > Florida
 grid_items:
   cards:
