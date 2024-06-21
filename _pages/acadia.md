@@ -1,6 +1,6 @@
 ---
 layout: archive-grid
-permalink: /travel/acadia
+permalink: /travel/acadia/
 title: Travel > Acadia
 grid_items:
   cards:
