@@ -70,6 +70,7 @@ for (i = 0; i < list.length; i++) {
   list[i].addEventListener('click', accordion);
 }
 
+/* Back-to-top button */
 
 const header = document.querySelector('.wrapper');
 
@@ -85,7 +86,7 @@ function scrollHeader() {
   }
 }
 
-// When the user scrolls down 20px from the top of the document, show the button
+// When the user scrolls down 20px from the top of the document, show the back-to-top button
 function scrollToTop() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
     scrollTopBtn.style.display = "block";
