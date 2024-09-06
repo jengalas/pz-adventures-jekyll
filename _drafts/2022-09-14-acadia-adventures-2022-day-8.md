@@ -26,7 +26,7 @@ In order to take the bus to Seal Harbor Beach (so we could hike the trail in one
 
 The bus was less than half full. My fahter had an interetsing conversation with a man originally from NY but who now lives in BH and was takgin the bus because they were hsting his cousin and wife and figured it would be easier than trying to drive. I guess tehy wre going to Jordan Pond House. They talked a bit about their travels around the US and Canada in their RV. 
 
-There wre a few drive-by stops along the way - this is the first time in the fall that the bus goes to Brown and Parkman mountains, which is good to know. It was apretty quick trip over there, too. The only thing to be aware of is that there are only a few buses on this route each day and they are 2 hours apart. 
+There were a few drive-by stops along the way - this is the first time in the fall that the bus goes to Brown and Parkman mountains, which is good to know. It was apretty quick trip over there, too. The only thing to be aware of is that there are only a few buses on this route each day and they are 2 hours apart. 
 
 We rode through the town of Northeast Harbor, wich dad hasn't really seen before, and then waited for about 10 minutes at the marina before proceeding to Seal Harbor Beach, where we got off and began our hike.
 
