@@ -15,6 +15,7 @@ header:
   teaser:
 geocaches: false
 surveymarks: true
+tracklog: 06SEP24.gpx
 post_id: 14320
 layout: post
 ---
