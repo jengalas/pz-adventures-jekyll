@@ -34,3 +34,7 @@ Flights on time, and everythig went more smoothly than I cold have hoped. Initia
 Both flights were full and people were well behaved on both. Both times we were offered the infamous Biscoff cookies and mini-pretzels, along with a drink. I declined the drink in both cases, and took pretzels and Biscoffs for later (really the Biscoffs were just to bring home to Rich as a bit of a joke). I wore a mask while flying, and preferred to keep it on as much as possible. I thorougly enjoyed reading "The Hobbit" while we were on our way.  
 
 The first sight that greeted us at the Las Vegas airport was ... 3 guesses? You'll only need one. Slot machines, of course. It certainly set the tone for the area immediately, as did the "Liquor Library" we spotted on our way out. I was, of course, much more interested in the large concrete sculpture of a horned lizard near the base of the arrival terminal escalator. 
+
+
+Remember this for our last night: drink at True Food Kitchen: The Indigo
+empress 1908 indigo gin, empress 1908 elderflower rose gin, fiorente elderflower, lime
