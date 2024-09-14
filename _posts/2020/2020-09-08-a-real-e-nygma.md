@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   We've had this puzzle cache on our minds for a few days, but hadn't had a chance to sit down and solve it. Rich found what appeared to be a hidden clue and at first we were sure that was all we needed to do—we just needed to find the time.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 12614

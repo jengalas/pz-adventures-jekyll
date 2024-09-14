@@ -8,8 +8,6 @@ categories:
   - acadia
   - '2023'
 tags:
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 08SEP23.gpx

@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna return to the Gunks for a bike ride along the carriage roads, some hiking, geocaching and a survey mark hunt.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 850

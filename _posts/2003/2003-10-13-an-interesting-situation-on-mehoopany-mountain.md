@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   MEHOOPANY RM 2 and the fire tower at the site have an interesting history.  Are they one and the same?  Who knows!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 1976

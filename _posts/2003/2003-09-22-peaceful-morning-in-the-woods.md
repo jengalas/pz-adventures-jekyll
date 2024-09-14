@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and I spent the morning geocaching in the Poconos. Afterward, we stopped to recover a bench mark along Kimbles Road. 
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 2147

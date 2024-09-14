@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna dodge poor weather conditions and enjoy some hiking and geocaching adventures, followed by some surprisingly good pizza.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 93

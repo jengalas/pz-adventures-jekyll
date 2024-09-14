@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Today's goal was to begin our recovery of survey stations on the property of the Blooming Grove Hunting Club: BLOOMING tri-station and G 237. BLOOMING was an interesting recovery because we found the azimuth mark first, quite by accident, on our way to the main station. A rare find was one of the original blazes cut into an old oak tree. 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2043

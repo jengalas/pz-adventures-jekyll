@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Rich and I spent several afternoons at Lackawanna State Park searching for and photographing the emerging spring wildflowers.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 12214

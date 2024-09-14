@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   Rich and I spent some time in Bethlehem today before the annual showing of the Banff Mountain Film Festival World Tour, and of course, we found some survey marks along the way.
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2153

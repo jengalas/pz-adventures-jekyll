@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   I saw more rain on this crazy-weather Thursday than I have in a very long time. I still decided to try for a geocache, letterbox, and a few benchmarks.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 285

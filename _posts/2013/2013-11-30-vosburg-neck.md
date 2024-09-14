@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Late-fall lunch, exploration, and a benchmark find in Wyoming County!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 12737

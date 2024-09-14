@@ -8,8 +8,6 @@ categories:
   - geocaching
 tags:
 excerpt: This was a challenging and ultimately very ingenious puzzle cache that kep us amused and frustrated for days ... until inspiration struck!
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 12358

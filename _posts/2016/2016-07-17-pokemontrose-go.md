@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   It's Architectural Treasure Hunt time!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 6586

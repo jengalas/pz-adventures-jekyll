@@ -12,8 +12,6 @@ categories:
   - survey mark hunting
 tags:
 excerpt: 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 17SEP21.gpx

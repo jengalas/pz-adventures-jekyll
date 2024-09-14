@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
    Rich and Zhanna decide on an “easy” hike that turned out to be a little more difficult than we expected, but also far more spectacular!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 16005

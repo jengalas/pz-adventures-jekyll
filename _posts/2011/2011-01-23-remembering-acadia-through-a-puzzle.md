@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   We finally completed the "Acadia" puzzle from John.
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1839

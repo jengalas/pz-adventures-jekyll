@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Easter is a great day for mountain biking, as long as it's sunny and hot like today was.  We had the whole trail to ourselves!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 19MAR10.gpx

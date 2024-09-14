@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna finally make their way to the Bagaduce Lunch to discover what they've been missing all these years. Plus, GOATS!!!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 3828

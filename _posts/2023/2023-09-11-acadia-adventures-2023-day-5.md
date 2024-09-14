@@ -10,8 +10,6 @@ categories:
   - abandoned trails
   - hiking
 tags:
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 11SEP23-wpt.gpx

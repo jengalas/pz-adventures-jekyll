@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Today we spent the morning on a hike in the Thunder Swamp trail system, part of the Delaware State Forest in Pike County. 
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 882

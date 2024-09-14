@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Today's geocache finds are two more examples of why I wasn't thrilled about this series.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 10819

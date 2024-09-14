@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
    Rich and Zhanna go scouting and benchmark hunting on a very hot and humid day.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 819

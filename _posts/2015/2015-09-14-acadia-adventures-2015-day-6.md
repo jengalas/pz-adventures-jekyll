@@ -11,8 +11,6 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna take Dad to meet the Friar, play on Little Hunters Beach, and then get lost in the woods near Jordan Stream.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 14SEP15.gpx

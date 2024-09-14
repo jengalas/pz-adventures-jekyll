@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     This is our first attempt at growing a "split rock" (_Pleiospilos nelii_).
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1754

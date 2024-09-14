@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >-
   Some photos from our mid-winter warm day walk to the neighborhood park
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 10167

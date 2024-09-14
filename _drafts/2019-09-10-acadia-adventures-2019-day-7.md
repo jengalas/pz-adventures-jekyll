@@ -12,8 +12,6 @@ categories:
   - survey mark hunting
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 10SEP19.gpx

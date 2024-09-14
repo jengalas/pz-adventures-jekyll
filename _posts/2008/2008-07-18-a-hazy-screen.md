@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Jupiter was visible as usual, though quite dark and weak tonight through all the haze. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 177

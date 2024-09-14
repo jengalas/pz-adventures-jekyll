@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   Winter activity: moose puzzle!
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 2725

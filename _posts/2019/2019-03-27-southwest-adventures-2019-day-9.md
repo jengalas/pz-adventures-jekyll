@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 27MAR19.gpx

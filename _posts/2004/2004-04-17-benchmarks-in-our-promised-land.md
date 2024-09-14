@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   We returned to the Blooming Grove area today to search for a few benchmarks, some of which had eluded us in the past.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 872

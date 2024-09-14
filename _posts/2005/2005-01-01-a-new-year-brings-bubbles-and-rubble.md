@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
    
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 11998

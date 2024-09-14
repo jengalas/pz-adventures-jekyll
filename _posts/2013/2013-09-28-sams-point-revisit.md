@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >-
   Dad joins Zhanna and Rich on a day-long excursion to Sam's Point. They find an azimuth mark, explore the Ice Caves and see beautiful fall color everywhere around them!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 28SEP13.gpx

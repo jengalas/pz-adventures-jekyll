@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   For months now, Rich and I have wanted John to experience the Switchback Trail, and we were eager to ride it again ourselves.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 19JUL09.gpx

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
    Rich, Zhanna, and Aaron explore a new area in Sterling Forest!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 16001

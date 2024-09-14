@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   This evening's geocache walk took me to the public library!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 10831

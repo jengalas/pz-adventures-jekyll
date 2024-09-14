@@ -8,8 +8,6 @@ categories:
   - geocaching
 tags:
 excerpt: We began our day with another fun puzzle geocache by zzbob. This one was much simpler than the others! When we looked at the final location, though, we weren't too excited by the thought of poking around in yet more knotweed and poison ivy.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 tracklog: 17JUL20.gpx

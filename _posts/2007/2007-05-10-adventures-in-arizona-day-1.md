@@ -11,8 +11,6 @@ categories:
 tags:
 excerpt: >- 
   In which the mooses arrive in their sunshine paradise, take the long way to Sedona, gawk at the “famous” Haunted Hamburger in Jerome, and eat rattlesnake.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 101

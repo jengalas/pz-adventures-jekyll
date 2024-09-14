@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and I had a few tri-stations and geocaches in mind as possible diversions on our day-trip to the Palisades, but the main goal of the day was just hiking and exploring. 
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 tracklog: 10AUG05.gpx

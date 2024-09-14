@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Nay Aug Park in Scranton was the perfect setting for some early-spring explorations with a new camera.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 7718

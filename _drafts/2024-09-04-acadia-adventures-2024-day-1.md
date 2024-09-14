@@ -8,8 +8,6 @@ categories:
   - '2024'
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 14300

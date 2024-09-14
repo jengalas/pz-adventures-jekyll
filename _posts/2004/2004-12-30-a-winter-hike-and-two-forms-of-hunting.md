@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   This warm winter day at Tanners' Falls was full of adventures!
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 1899

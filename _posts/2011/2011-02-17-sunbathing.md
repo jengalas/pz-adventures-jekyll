@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   Heat wave (50s) in Pennsylvania!
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1855

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Night cache!!!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 3011

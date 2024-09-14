@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   We finally did it! We were the first finders of rxc640's infamous "Rocks from afar" geocache. What a great adventure!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 tracklog: 20AUG08.gpx

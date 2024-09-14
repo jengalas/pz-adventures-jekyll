@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Today’s solve was one that had stumped us for a week or more, even though it looked like it should be (and ultimately turned out to be) pretty easy.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 12641

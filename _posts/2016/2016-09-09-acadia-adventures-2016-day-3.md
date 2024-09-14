@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   Time to revisit the Friar and begin the trip with an easy hike around Jordan Pond.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 09SEP16.gpx

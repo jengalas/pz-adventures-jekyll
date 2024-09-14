@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   After breakfast we took the bikes over to the mountain to continue exploring more of the unfamiliar trails we explored on Wednesday when searching for "Rocks from afar."
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 tracklog: 23AUG08.gpx

@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
     We found our first geocache in quite some time ... and Rich tested out his new knees on a short hike! 
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 1369

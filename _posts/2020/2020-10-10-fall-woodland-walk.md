@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Today was very warm and sunny, and we really wanted to spend some time outside on a photo walk.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 12682

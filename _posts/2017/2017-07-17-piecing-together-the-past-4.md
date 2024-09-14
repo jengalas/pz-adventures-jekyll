@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Today's wet conditions made me a bit hesitant but I decided to go for my geocache-walk anyway.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 10821

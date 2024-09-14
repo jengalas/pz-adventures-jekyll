@@ -10,8 +10,6 @@ tags:
 excerpt: >- 
   Dad has been wanting to visit and hike at Hawk Mountain for several months already. We finally got an opportunity for a day-trip to Schuylkill County, as well as some great weather!
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 20APR12.gpx

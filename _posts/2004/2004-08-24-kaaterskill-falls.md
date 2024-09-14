@@ -11,8 +11,6 @@ categories:
 tags:
 excerpt: >- 
   I was pretty excited when Rich suggested taking a day trip to Kaaterskill Falls. He’s talked about the falls before, and I could hardly wait to see them for myself.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 291

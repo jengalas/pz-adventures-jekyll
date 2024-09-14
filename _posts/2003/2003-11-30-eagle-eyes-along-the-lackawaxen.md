@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   On this chilly Sunday, Rich and I decided to continue our search for marks in the 235 series in Pike County.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 2079

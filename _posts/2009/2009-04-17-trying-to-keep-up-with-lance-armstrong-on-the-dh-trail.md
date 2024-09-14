@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   John was flying today!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 301

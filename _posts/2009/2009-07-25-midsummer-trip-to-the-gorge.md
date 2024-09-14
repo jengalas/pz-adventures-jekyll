@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Expecting hot and very humid conditions, today Rich and I opted for an easy ride—another cruise down the Lehigh Gorge trail.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 25JUL09.gpx

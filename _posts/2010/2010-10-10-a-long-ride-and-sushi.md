@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     At just over 27 miles, today's ride was the longest single ride we've done since Rich's surgery.  We rode the Lehigh Gorge Trail from Glen Onoko to Rockport.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1588

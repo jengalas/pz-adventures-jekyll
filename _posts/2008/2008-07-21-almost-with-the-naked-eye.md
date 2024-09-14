@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   This was one of the clearest, steadiest views of Jupiter's moons I've had yet.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 179

@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
     This afternoon we explored a new area very close to home, and found two geocaches along the way.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 1631

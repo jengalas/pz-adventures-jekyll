@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Team Moose celebrates the start of the 2010 cycling season!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 896

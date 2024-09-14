@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   It was a pleasantly warm day for a few benchmark searches in Pike County.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 43

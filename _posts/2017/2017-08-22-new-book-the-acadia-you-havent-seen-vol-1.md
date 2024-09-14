@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >-
   If you’re a fan of my abandoned trail-finding adventures, please check out this new book by Matthew Marchon, one of our sources of information and a great inspiration!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 8182

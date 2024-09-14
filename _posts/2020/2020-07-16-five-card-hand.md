@@ -7,8 +7,6 @@ categories:
   - geocaching
 tags:
 excerpt: This puzzle geocache, another one by zzbob, had us going crazy for a day or so just like the last one. 
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 12370

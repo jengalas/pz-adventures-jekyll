@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   It was a humid but beautiful day for a long walk and two more geocache finds!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 10816

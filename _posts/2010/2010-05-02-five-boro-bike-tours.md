@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Today John and Chris completed all 40+ miles of the Five Boro Bike Tour in New York City.   It was a terribly hot and humid day and riders were dropping like flies all over the place, but John and Chris persevered. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1028

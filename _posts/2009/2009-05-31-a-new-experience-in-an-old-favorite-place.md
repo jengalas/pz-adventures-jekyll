@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   There's nothing too unusual or exciting about LY0177, near New Paltz, NY ... except the beauty of the surrounding mountains!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 31MAY09.gpx

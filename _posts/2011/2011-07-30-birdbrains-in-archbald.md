@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   Herons and blackberries in the parks of NEPA.
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 30JUL11.gpx

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   This still, chilly December day with just a bit of snow on the ground was perfect for hunting a tri-station and benchmark in Promised Land State Park.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2027

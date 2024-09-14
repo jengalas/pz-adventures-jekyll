@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     Today's outing was a nice, easy ride from Forest City to just past Herrick Center and back, all on the D&H. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 04SEP10.gpx

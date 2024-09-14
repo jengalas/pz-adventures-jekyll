@@ -10,8 +10,6 @@ excerpt: >-
   This was a strange puzzle that sent us in many different (incorrect)
   directions over the course of several weeks. As usual, you realize it’s
   relatively simple once you’ve figured it out.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 12673

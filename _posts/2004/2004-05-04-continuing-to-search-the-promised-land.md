@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   Today's adventures included a scenic hike and a geocache find, followed by several roadside benchmark hunts.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 878

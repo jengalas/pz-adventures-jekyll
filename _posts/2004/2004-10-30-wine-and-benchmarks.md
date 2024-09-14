@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Zhanna spent the day with her parents in the Finger Lakes region of New York, tasting wine and looking for benchmarks.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 867

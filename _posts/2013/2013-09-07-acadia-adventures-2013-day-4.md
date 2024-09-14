@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   Hiking on Acadia Mountain and a cozy supper at Fiddlers Green made this day perfect.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 07SEP13.gpx

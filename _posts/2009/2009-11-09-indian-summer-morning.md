@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Our first bike ride in a long time, and wearing new jerseys!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 789

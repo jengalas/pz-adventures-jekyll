@@ -8,8 +8,6 @@ categories:
   - geocaching
 tags:
 excerpt: It was a tough decision to archive this old geocache of Rich's.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 24JUL20.gpx

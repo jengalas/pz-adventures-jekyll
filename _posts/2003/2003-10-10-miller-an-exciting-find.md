@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna enjoy a day-long adventure full of bushwhacking, challenging reference mark searches, and an encounter (pleasant!) with a local landowner.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 10OCT03.gpx

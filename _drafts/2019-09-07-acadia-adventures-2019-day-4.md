@@ -9,8 +9,6 @@ categories:
   - '2019'
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 11909

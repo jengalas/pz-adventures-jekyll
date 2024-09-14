@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Today was our first attempt at finding triangulation station GIRR.  We'll have to go back.  We did find two elevation marks, S 30 and T 30. 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 94

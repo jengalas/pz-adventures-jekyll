@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna search for a geocache first thing in the morning, and then head to the Bruce Lake/Promised Land State Park area for a benchmark hunt.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 841

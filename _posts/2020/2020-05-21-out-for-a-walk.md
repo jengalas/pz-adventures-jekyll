@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >-
   Spring color this week, and Black Angus cattle!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 12257

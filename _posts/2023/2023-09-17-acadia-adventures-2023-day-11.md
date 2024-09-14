@@ -13,8 +13,6 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 17SEP23.gpx

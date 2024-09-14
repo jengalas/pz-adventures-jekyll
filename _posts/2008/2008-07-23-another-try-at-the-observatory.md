@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Tonight at the observatory, John Sabia spoke on "Observing Planets with a Telescope."
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 183

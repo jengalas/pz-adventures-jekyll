@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   On this lovely fall day, we searched near Mt. Cobb and found 42 DSW, 5 HLZ, and TT 5 J.  We looked for 2 HLZ without any luck.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 773

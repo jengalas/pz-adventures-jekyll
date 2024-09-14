@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   The rain held off just long enough for a few benchmark hunts before our annual picnic!
-header:
-  teaser:
 surveymarks: true
 post_id: 10937
 layout: post

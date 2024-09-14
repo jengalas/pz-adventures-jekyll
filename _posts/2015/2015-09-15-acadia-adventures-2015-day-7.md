@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   Dad finally got to cruise to the Cranberry Isles! And we discovered the Granite Museum.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 15SEP15.gpx

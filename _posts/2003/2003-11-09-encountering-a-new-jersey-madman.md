@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   And wow, was he mad!
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 805

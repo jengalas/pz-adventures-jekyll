@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 1832

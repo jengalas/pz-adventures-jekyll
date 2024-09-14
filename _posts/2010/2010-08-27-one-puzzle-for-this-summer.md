@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     We finished this peaceful panoramic waterfall view tonight while relaxing outside on the patio. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1792

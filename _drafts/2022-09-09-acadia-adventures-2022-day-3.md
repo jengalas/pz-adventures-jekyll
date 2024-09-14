@@ -9,8 +9,6 @@ categories:
   - '2022'
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 14011

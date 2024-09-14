@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     We spent this calm, warm, sunny, blue-sky morning hunting squirrels at Lackawanna State Park. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1691

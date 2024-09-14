@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >-
   Two breakfasts and a long ride home-the perfect end to a perfect vacation!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 5784

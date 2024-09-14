@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Rich, Zhanna and Dad explore the Scranton section of the Lackawanna River Heritage Trail and find a surprise (to Zhanna, anyway) geocache.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 5146

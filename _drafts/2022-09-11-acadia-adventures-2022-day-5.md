@@ -13,8 +13,6 @@ categories:
   - survey mark hunting
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 11SEP22.gpx

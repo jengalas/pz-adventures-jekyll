@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   This week's puzzle is a nice Maine scene.
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1848

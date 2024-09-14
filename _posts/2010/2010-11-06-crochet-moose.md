@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     This is the adorable crochet moose I made for Rich while he was in the hospital. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1746

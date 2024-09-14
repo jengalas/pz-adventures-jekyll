@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Zhanna and Rich explore the grounds of a former nudist colony (and don't find anything exciting) ... and finish off the day with pizza.
-header:
-  teaser:
 surveymarks: true
 post_id: 11027
 layout: post

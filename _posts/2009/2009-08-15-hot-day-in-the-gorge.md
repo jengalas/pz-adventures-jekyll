@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna ride the Lehigh Gorge Trail and have lots of treats for breakfast and dinner!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 15AUG09.gpx

@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >-
   Four months after our first attempt, we returned to Eales Preserve to finish a geocache hunt. 
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 3652

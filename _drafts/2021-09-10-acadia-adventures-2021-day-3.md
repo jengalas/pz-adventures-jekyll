@@ -10,8 +10,6 @@ categories:
   - survey mark hunting
 tags:
 excerpt: 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 10SEP21.gpx

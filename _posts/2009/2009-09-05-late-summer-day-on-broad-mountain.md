@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Today we finally came back to Broad Mountain to ride the famous "loop."
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 05SEP09.gpx

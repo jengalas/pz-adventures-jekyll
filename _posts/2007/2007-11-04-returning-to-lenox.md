@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   The second of a two-part series: documenting our recovery of the LENOX tri-station and fixing errors on the datasheet.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 142

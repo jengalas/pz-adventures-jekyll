@@ -7,8 +7,6 @@ categories:
   - geocaching
 tags:
 excerpt: Today's puzzle geocaches were a little more straightforward for us, and therefore pretty easy and fun to solve.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: '12598'

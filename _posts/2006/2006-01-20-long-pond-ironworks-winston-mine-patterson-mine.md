@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >- 
   
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 19

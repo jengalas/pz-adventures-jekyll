@@ -7,8 +7,6 @@ categories:
   - geocaching
 tags:
 excerpt: Today's puzzles were quite varied.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: '12605'

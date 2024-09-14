@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   My Gymnocalycium bloomed again!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1741

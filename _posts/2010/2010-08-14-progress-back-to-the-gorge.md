@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   We enjoyed an awesome ride at Lehigh Gorge, followed by some survey mark hunting. We were denied a special blessing by a nun.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 14AUG10.gpx

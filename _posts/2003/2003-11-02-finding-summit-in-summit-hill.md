@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and I had a very full day in the Jim Thorpe/Summit Hill area: a long mountain bike ride followed by a tricky triangulation station recovery and a drenching downpour!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2143

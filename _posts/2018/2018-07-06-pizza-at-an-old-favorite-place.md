@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Rich and I were enthusiastic about getting out of the house for a little local benchmark hunting this afternoon (I think the promise of pizza at the Waymart Hotel helped a lot, too!).
-header:
-  teaser:
 surveymarks: true
 post_id: 10939
 layout: post

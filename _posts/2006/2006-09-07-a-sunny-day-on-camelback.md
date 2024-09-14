@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 07SEP06.gpx

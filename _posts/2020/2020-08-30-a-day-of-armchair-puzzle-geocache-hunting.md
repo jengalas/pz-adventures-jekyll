@@ -7,8 +7,6 @@ categories:
   - geocaching
 tags:
 excerpt:
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: '12504'

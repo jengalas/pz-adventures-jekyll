@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
     This morning's quest had its roots in our discussion Saturday about how we might access the upper section of the Abington Trail more directly than from within the park or from the end of Lily Lake Road.  
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 1663

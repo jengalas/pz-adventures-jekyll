@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Today's sole adventure consisted of a nice bike ride to a triangulation station recovery! It was a real treat on a pleasant spring day.  We found a few changes in the area to report, as well as an error on the datasheet.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2074

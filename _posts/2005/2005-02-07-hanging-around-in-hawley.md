@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
    Rich and Zhanna headed to Hawley in search of a geocache and possibly a nearby benchmark or two. 
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 1033

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   This benchmark is very close to my house and yet it has taken me a few years to actually recover it!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 38

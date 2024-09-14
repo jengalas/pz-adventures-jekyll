@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Two turkey dinners yesterday provided more than enough calories to fuel rigorous outdoor activities today.  
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1799

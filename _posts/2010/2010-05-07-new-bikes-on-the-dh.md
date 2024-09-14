@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna have new bikes!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 07MAY10.gpx

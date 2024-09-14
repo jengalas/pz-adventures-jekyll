@@ -11,8 +11,6 @@ categories:
   - hiking
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 09SEP19.gpx

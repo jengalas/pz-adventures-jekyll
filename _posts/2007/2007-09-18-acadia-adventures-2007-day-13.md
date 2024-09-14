@@ -11,8 +11,6 @@ categories:
 tags:
 excerpt: >- 
   We spent the morning recovering two tri-stations before heading home.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 138

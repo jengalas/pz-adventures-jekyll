@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     Rich and Zhanna check out two trails in an area of Lackawanna State Park that's new to them.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 07NOV10a.gpx

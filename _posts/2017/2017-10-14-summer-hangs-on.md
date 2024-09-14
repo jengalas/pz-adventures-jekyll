@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   October has been very warm and dry this year, so the fall color is somewhat lacking, but honestly, I can appreciate the colors of summer for as long as they last!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 8433

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     A 15 mile ride, and fried fish! Sometimes we discover a new trail at just the right time.  
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 21AUG10.gpx

@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   HICKORY provided a nice goal for our hike in Hickory Run State Park on this humid August day.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 62

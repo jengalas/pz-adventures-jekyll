@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     Crazy kids on quads and the messy trail surface had turned us off to the O&W trail in the past, but we decided to give it a try today as part of a loop with a section of the D&H Rail Trail that we ride frequently. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 02SEP10.gpx

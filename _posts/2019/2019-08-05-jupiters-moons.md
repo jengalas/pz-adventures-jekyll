@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   "I'll bet that's Jupiter," Rich said, and he brought out the scope so we could check for its Galilean moons.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 11877

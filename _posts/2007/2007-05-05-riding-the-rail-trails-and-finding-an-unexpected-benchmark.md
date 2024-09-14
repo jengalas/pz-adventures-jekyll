@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   For the first time all year, this weekend decent weather and days off coincided. Rich and I decided to take full advantage of this extraordinary event by spending most of Friday and Saturday outdoors. 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 100

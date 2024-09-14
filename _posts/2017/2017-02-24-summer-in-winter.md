@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Zhanna and Rich enjoy this record-setting day: 76° in February!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 7537

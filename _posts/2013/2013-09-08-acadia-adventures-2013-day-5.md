@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   It was a highly varied day: a rainy morning to spend at the farmers' market and Jordan Pond House, survey mark hunting beneath clearing skies, and a visit to Asticou Terraces in the sunshine! Red Sky for dinner topped off the day. 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 08SEP13.gpx

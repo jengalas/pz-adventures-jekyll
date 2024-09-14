@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna are unable to find a local geocache (but meet a locally famous geocacher!) and then have mixed luck searching for some survey marks.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 74

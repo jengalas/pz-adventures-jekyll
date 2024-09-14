@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   Our trip to Storm King was the second in our late-Summer series of day trips to the Hudson Valley region.
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 95

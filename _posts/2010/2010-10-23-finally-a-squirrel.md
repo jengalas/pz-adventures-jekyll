@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     Today, at long last, a squirrel! 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1684

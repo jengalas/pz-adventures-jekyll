@@ -9,8 +9,6 @@ categories:
   - '2021'
 tags:
 excerpt: 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 13218

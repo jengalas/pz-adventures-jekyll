@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   After a triangulation station scouting trip near home, Rich and Zhanna head north to New York for Lupo's famous spiedies!
-header:
-  teaser:
 surveymarks: true
 post_id: 10861
 layout: post

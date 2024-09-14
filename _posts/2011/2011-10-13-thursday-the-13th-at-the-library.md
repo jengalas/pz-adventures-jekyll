@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   Zhanna's Lego skeletons FTW!
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 2662

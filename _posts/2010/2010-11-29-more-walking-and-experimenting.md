@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Today's short walk took us along Breaker Road to Winton, where Rich played some more with his new camera.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1786

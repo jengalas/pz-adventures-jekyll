@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Too foggy for much viewing tonight!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 175

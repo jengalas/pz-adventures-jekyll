@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Intense sunshine, a long ride, finally seeing Patterson's Pellet in person, and beer and German food to end the day's adventures!  What could be better?!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 22MAY09.gpx

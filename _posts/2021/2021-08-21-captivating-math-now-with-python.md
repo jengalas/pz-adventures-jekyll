@@ -7,8 +7,6 @@ categories:
   - geocaching
 tags:
 excerpt: Fun with numbers and coding!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 13213

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   In which Zhanna was a few hours too early for a First Find ... something fishy is in the air!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 84

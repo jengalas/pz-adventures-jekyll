@@ -11,8 +11,6 @@ categories:
   - hiking
   - survey mark hunting
 tags:
-header:
-  teaser:
 excerpt: "We woke up to another very nice day (still very humid, but not foggy like yesterday) and, unfortunately, still pain in Rich’s leg. I brought back a blueberry muffin and some coffee and juice for him from the hotel lobby so he could take medication; I had planned on going to the Flowered Apron but since that doesn’t open until 8:00, we had some time to wait."
 geocaches: false
 surveymarks: true

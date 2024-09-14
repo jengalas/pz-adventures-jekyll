@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   The 12th annual Death Hike marked my "unofficial start to the Summer season."  The only fatality this time was a traffic cone!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1088

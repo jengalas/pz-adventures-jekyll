@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
    Rich and Zhanna enjoy a peaceful ride on an old railbed, find a USGS bench mark, and come across the remnants of a grand old viaduct!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 22MAY05.gpx

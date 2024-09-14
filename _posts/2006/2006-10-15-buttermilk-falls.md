@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   A simple hike to Buttermilk Falls in the Delaware Water Gap National Recreation Area ...
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 9931

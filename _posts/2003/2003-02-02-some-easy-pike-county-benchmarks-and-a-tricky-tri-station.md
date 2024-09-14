@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   This very cold and windy Sunday was just perfect for a few quick benchmark finds in Pike County.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2055

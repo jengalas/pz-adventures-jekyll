@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna drive to Maine in a new m00se-mobile!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 5740

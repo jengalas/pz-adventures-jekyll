@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >-
   Heavy traffic and a stop at Rein's Deli—two features of our annual drive to Maine!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 7156

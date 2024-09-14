@@ -8,8 +8,6 @@ categories:
   - survey mark hunting
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 06MAY23.gpx

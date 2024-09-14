@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   Another neighborhood benchmark!
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2836

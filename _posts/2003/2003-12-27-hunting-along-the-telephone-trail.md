@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Continuing our adventures in Promised Land State Park, today we unraveled some confusing descriptions to find three marks in the 237 series.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 2049

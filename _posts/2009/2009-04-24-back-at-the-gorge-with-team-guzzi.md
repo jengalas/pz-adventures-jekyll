@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   So far we've had a decent Spring; at least, the days I've had off have been warm and clear.  Today John wanted to come along for the ride on the Lehigh Gorge Trail, which was fine with us.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 24APR09.gpx

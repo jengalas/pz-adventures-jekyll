@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 20SEP23-wpt.gpx

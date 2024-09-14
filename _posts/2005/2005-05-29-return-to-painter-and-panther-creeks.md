@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
    Rich and Zhanna return to the area where they found TT 1 H a few weeks ago, this time to search for TT 2 H!
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 29MAY05.gpx

@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   This beautiful park was planned and built by our neighbor. 
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 2720

@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >-
   The Mooses are heading to Maine!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 11977

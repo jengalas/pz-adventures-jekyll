@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   We finally caught our neighborhood bear in the act of destroying our bird feeders.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 3681

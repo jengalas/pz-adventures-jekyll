@@ -7,8 +7,6 @@ categories:
   - hiking
 tags:
 excerpt: Today's photo hike took place on a loop along the Frost Hollow and Snowflake Trails. 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 31JUL20.gpx

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   It's time to start looking for the puzzle pieces in the Piecing Together the Past geocache series!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 10813

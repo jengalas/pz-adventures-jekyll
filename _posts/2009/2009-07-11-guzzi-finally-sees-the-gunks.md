@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   A short bike ride in breathtaking surroundings was the perfect way to introduce John to Minnewaska State Park!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 11JUL09.gpx

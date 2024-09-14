@@ -7,8 +7,6 @@ categories:
   - geocaching
 tags:
 excerpt: Last night a new puzzle cache popped up nearby, and Rich happened to notice the notification email. We had a chance for a First Find! 
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 galleries:

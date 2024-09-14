@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   An early ride to an old mine tunnel was followed by a hot dog lunch!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 26

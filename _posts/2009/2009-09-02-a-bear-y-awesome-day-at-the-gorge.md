@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   A long ride and a bear encounter made for an exciting day!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 02SEP09.gpx

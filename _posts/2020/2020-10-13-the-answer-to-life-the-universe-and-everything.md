@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Today’s puzzle was a fun little challenge for a coder!
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 12667

@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 tracklog: 02AUG13.gpx

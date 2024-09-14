@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Great riding at Lehigh Gorge on this chilly late-May Friday!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 148

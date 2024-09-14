@@ -13,8 +13,6 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 15SEP23-trk-wpt.gpx

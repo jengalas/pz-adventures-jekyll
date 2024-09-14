@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Rich and Zhanna scout out some survey marks, then try a GIANT meatball for lunch!
-header:
-  teaser:
 surveymarks: true
 post_id: 10865
 layout: post

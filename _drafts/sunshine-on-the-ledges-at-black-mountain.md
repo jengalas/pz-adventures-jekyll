@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
    Rich and Zhanna return to the same area they visited yesterday, this time to explore Harriman State Park.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 16002

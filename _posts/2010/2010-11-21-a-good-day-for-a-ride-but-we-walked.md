@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     After a busy and cold weekend, we had to get out of the house.  Rich and I made a quick decision to investigate the relatively new Archbald park adjoining Archbald Pothole State Park.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 1763

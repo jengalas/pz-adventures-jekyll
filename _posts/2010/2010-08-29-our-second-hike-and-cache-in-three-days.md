@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
     To test out Rich's new knees, he and I have been going on some successively longer bike rides over the past few weeks. This weekend he decided to try some mild hiking, too. 
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 1362

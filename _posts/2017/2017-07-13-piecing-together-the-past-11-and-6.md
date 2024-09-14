@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Another piece in the geocaching puzzle ...
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 10806

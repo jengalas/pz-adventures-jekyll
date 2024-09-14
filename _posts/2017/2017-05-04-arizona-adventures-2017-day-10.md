@@ -11,8 +11,6 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 04MAY17.gpx

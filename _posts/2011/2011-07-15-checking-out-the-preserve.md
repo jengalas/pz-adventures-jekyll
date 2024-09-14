@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   We hiked the Conglomerate Loop & the Stonehenge Trail.
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 15JUL11.gpx

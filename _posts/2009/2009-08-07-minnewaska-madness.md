@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna explore Minnewaska State Park by riding the Lower Awosting, Upper Awosting and Awosting Lake trails.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 07AUG09.gpx

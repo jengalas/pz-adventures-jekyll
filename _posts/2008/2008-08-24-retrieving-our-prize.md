@@ -10,8 +10,6 @@ categories:
 tags:
 excerpt: >- 
   This morning, after searching for a PennDOT GPS survey station nearby, we went to collect the First Finder’s prize for the "Rocks from afar" geocache. We enjoyed walking part of the old Moosic Lake Road, and we found the treasure without any trouble. 
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 192

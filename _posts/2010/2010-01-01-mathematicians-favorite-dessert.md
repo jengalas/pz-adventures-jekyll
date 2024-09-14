@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Of course, it's pi.
-header:
-  teaser:
 geocaches: true
 surveymarks: false
 post_id: 3807

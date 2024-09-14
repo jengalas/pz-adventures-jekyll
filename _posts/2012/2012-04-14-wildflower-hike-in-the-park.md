@@ -9,8 +9,6 @@ tags:
 excerpt: >- 
   We hit the wildflower jackpot during a walk at Lackawanna State Park.
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 2798

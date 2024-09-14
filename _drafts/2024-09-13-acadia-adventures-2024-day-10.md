@@ -9,8 +9,6 @@ categories:
   - hiking
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 tracklog: 13SEP24.gpx

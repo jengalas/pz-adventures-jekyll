@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 04DEC10.gpx

@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna explore Sam's Point, finding a triangulation station and ice caves along the way, and have a close encounter with the Crab People(?!).
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 13

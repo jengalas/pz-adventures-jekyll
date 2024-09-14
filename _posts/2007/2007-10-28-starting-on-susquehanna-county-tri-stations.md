@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   The first of a two-part series: searching for tri-station LENOX on a knoll above Route 92 in Susquehanna County, PA.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 141

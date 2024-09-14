@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 19SEP23.gpx

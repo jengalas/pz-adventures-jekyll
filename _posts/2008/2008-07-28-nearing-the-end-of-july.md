@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Watching Jupiter's moons again!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 189

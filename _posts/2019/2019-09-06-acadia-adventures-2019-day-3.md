@@ -12,8 +12,6 @@ categories:
 tags:
 excerpt: >-
   Since almost a year ago, we've been looking forward to the search for the three remaining carved crosses on Cadillac Mountain that served as the property corners for the Brewer property in the early 1900s.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 11904

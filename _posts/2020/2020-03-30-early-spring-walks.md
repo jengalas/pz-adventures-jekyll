@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   Our walks along Taylor Road last Thursday and today were a perfect opportunity for some local exploration. Not much is growing yet, and the weather remains cold and wet.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 12257

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and I decided to check out the newest section of the Lackawanna River Heritage Trail this morning.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 235

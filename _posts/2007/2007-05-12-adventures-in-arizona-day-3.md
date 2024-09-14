@@ -11,8 +11,6 @@ categories:
 tags:
 excerpt: >- 
   In which the mooses explore a Sinagua plaza, sightsee their way north to the Grand Canyon, and are turned away from El Tovar by a brusque hostess with yellow eyeglasses and an attitude.
-header:
-  teaser:
 geocaches: false
 surveymarks: true
 post_id: 103

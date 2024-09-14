@@ -12,8 +12,6 @@ categories:
 
 tags:
 
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 15SEP19.gpx

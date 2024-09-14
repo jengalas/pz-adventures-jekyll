@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   We were supposed to have been on a plane this morning, heading to Arizona for two weeks of hiking and exploring in the warmth and sunshine! Unfortunately, our plans changed radically at the last minute due to the coronavirus.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 12153

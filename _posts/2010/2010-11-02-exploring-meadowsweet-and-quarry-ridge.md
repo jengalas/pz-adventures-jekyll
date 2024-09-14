@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
     Time to begin unraveling our latest mystery!  We decided to leave the squirrels for another day and hike in the "no hunting" Countryside Conservancy lands along the southwestern border of Lackawanna State Park.   
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 02NOV10.gpx

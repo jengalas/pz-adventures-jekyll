@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   Rich and Zhanna explore the area near the "Boar Hole!"
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 tracklog: 01AUG09.gpx

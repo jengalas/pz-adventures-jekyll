@@ -9,8 +9,6 @@ categories:
 tags:
 excerpt: >- 
   Today's adventures in Tobyhanna were relatively quick, because it was cold and horribly windy!
-header:
-  teaser:
 geocaches: true
 surveymarks: true
 post_id: 801

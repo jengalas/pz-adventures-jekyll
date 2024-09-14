@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   It was a tricky night for skywatching.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 181

@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   A rainy evening and a perfect setting for a late-spring meal ...
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 356

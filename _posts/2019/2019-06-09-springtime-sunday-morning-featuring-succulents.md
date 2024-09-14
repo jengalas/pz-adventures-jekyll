@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >-
   This warm, dry Sunday morning was perfect for breakfast at the Mustard Seed and a stop at the Cactus Man!
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 11359

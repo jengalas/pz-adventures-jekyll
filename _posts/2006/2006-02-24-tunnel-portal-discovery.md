@@ -8,8 +8,6 @@ categories:
 tags:
 excerpt: >- 
   A batgate and several mine openings make for interesting finds on a warm March day.
-header:
-  teaser:
 geocaches: false
 surveymarks: false
 post_id: 25
