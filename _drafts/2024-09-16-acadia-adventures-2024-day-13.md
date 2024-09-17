@@ -1,7 +1,7 @@
 ---
 title: "Acadia Adventures 2024 – Day 13"
 author: Zhanna
-date: 2024-09-15
+date: 2024-09-16
 categories: 
   - travel
   - acadia
