@@ -14,6 +14,87 @@
   date: 2024-09-14
   custom_permalink: pe1870-2
   post_id: 14400
+- designation: C 145
+  pid: PE0303
+  mark_type: Survey Mark
+  date: 2024-09-12
+  post_id: 14380  
+- designation: TIDAL 6 STA 12
+  pid: PE0299
+  mark_type: Survey Mark
+  date: 2024-09-12
+  post_id: 14380  
+- designation: TIDAL 2 STA 12
+  pid: PE0300
+  mark_type: Survey Mark
+  date: 2024-09-12
+  post_id: 14380 
+- designation: TIDAL 5 STA 12
+  pid: PE0301
+  mark_type: Survey Mark
+  date: 2024-09-12
+  post_id: 14380       
+- designation: K 16
+  pid: PE0318
+  mark_type: Survey Mark
+  date: 2024-09-11
+  post_id: 14370 
+- designation: F 145
+  pid: PE0312
+  mark_type: Survey Mark
+  date: 2024-09-11
+  post_id: 14370    
+- designation: Q 144 RESET
+  pid: PE0287
+  mark_type: Survey Mark
+  date: 2024-09-10
+  post_id: 14360  
+- designation: K 12
+  mark_type: Survey Mark
+  date: 2024-09-10
+  post_id: 14360  
+- designation: A 145
+  pid: PE0294
+  mark_type: Survey Mark
+  date: 2024-09-10
+  post_id: 14360  
+- designation: S 144
+  pid: PE0291
+  mark_type: Survey Mark
+  date: 2024-09-10
+  post_id: 14360    
+- designation: S 6D
+  mark_type: Survey Mark
+  date: 2024-09-09
+  post_id: 14350      
+- designation: S 7
+  mark_type: Survey Mark
+  date: 2024-09-09
+  post_id: 14350   
+- designation: 'NPS (Unstamped, Acadia #21)'
+  mark_type: Survey Mark
+  date: 2024-09-08
+  post_id: 14340    
+- designation: 'NPS (Unstamped, Acadia #17)'
+  mark_type: Survey Mark
+  date: 2024-09-07
+  post_id: 14330  
+- designation: 'NPS (Unstamped, Acadia #18)'
+  mark_type: Survey Mark
+  date: 2024-09-07
+  post_id: 14330  
+- designation: 'NPS (Unstamped, Acadia #19)'
+  mark_type: Survey Mark
+  date: 2024-09-07
+  post_id: 14330  
+- designation: 'NPS (Unstamped, Acadia #20)'
+  mark_type: Survey Mark
+  date: 2024-09-07
+  post_id: 14330          
+- designation: 'NPS (Unstamped, Acadia #16)'
+  mark_type: Survey Mark
+  date: 2024-09-06
+  post_id: 14320  
 - designation: TIDAL 7 STA 31
   pid: PE0904
   mark_type: Survey Mark
