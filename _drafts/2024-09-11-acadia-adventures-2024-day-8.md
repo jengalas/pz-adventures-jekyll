@@ -23,7 +23,7 @@ We had the most bizarre experience this morning at the Black Friar. Last night w
 As the first to arrive, we had our choice of seats, and we took the usual corner spot. Everything seemed fine until our eggs came out. The Hollandaise sauce was clearly broken (I mean it looked and tasted like thick curds of lemony mayonnaise) and the eggs were overcooked (not runny at all). 
 
 
-I have never sent food back in my life. Of course, I've never had anything that was really inedible like this before, either. But I hate to make a scene, am generally very forgiving and tolerant, and often enjoy trying something new or that I wouldn't generally order anyway (as has happened a few times here and there, I've received the wrong option on a meal and never said anything). But this was truly inedible. 
+I have never sent food back in my life. Of course, I've never had anything that was really inedible like this before, either. But I hate to make a scene, am generally very forgiving and tolerant, and often enjoy trying something new or that I wouldn't generally order anyway (as has happened a few times here and there: I've received the wrong option on a meal and never said anything). But this was truly inedible. 
 
 
 It still took me several minutes of going back and forth to try to decide if I should say something. I eventually decided that any business owner would probably want to know if there was a problem so they could fix it, or perhaps remove the item from the menu for that day if there was a problem with ingredients or with the cook's skillset (as Rich had overheard voices from the kitchen that made it sound like the cook was in training). 
@@ -34,7 +34,7 @@ I wanted to discreetly notify the owner, but she was busy in the kitchen with th
 OK.
 
 
-So we waited, wondering what might come out this time, and wondering if we should just pay and leave before we received a second order that was just as bad as the first. Then the server came over and offered to make us anything else off the menu. That was nice, but we were in the mood for the eggs we had ordered, and honestly everything else on the menu is too large and filling for us. 
+So we waited, wondering what might come out of the kitchen this time, and wondering if we should just pay and leave before we received a second order that was just as bad as the first. Then the server came over and offered to make us anything else off the menu. That was nice, but we were in the mood for the eggs we had ordered, and honestly everything else on the menu is too large and filling for us. 
 
 
 We were still trying to decide what to do when the owner came over to us and sat down next to me. She started off in hushed tones saying "Let me be straight with you," or something to that effect. OK, I figured she was going to say that the cook was new and hadn't yet learned the technique, and could we give them another chance. Instead, she turned on the tears and started sobbing something about her dog being at the vet, close to death, and she didn't know if it was going to survive and she was having a really bad day. 

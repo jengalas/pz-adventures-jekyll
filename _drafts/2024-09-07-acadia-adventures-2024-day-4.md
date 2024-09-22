@@ -30,7 +30,7 @@ Once we were settled, we continued on. We ended up walking about a third of a mi
 
 As we turned onto this northernmost section of Old Norway Drive, we noticed an orange NPS witness post - the type that often indicates a stone post and boundary monument disk at its base - in one corner of the intersection. I investigated it, but this one had no associated stone monument or disk.
 
-But we didnt have to go much farther before we spotted not one, but two more orange posts, both with monuments at their bases! This was so cool. We could actually see the park boundary indicated on the GPS, so we knew to anticipate even one or two more of these monuments right along this small section of the road. And we found them, too.  All but the first had stone posts with unstamped NPS disks on top. I enjoyed finding and documenting all of them.
+But we didn't have to go much farther before we spotted not one, but two more orange posts, both with monuments at their bases! This was so cool. We could actually see the park boundary indicated on the GPS, so we knew to anticipate even one or two more of these monuments right along this small section of the road. And we found them, too.  All but the first had stone posts with unstamped NPS disks on top. I enjoyed finding and documenting all of them.
 
 This is a good place to mention that we also found another very interesting monument of some kind across from the southern end of the road, a concrete obelisk that looks an awful lot like 19th century survey monuments, although it had no carvings or inscriptions on it. We will have to investigate this further.
 

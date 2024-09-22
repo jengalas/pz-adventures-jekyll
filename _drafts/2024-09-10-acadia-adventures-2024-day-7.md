@@ -26,7 +26,7 @@ Of course we needed to do _some_ exercise to earn our lobster, so we headed to N
 As we walked, we heard construction noise that was getting louder as we approached the area of nearby Asticou Inn. This was a favorite of ours in years past, when we used to visit their restaurant at lunchtime for popovers. I had heard that the inn was closed this year for renovations, but these appear to be some _major_ renovations! The beautiful gardens down by the water are completely gone, as are the octagonal "huts" that served as lodging. We're very interested to see what the place looks like next year!
 
 
-After completing the trail, we wandered into the azalea gardens across the street on our way back to the car. This is always such a peaceful place, and althouhg it was moderately busy today, there was still a quiet and contemplative atmosphere. 
+After completing the trail, we wandered into the azalea gardens across the street on our way back to the car. This is always such a peaceful place, and although it was moderately busy today, there was still a quiet and contemplative atmosphere. 
 
 
 We headed over to the marina around 10:40, hoping to be first in line for lobster tacos at the Bucking Lobster. We were first, but no tacos today! Their seasonal employees have gone, and they simplified the menu for the fall, unfortunately removing the tacos (and perhaps a few other items?) to streamline preparation. No big deal, as I had been wanting to try the quesadilla anyway, and it was still on the menu. We also got a classic lobster roll to try.
