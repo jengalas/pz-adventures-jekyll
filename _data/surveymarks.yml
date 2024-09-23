@@ -14,6 +14,16 @@
   date: 2024-09-14
   custom_permalink: pe1870-2
   post_id: 14400
+- designation: HIGGINS RM 1
+  mark_type: Reference Mark
+  date: 2024-09-14
+  custom_permalink: pe1870-rm-1-2
+  post_id: 14400
+- designation: HIGGINS RM 2
+  mark_type: Reference Mark
+  date: 2024-09-14
+  custom_permalink: pe1870-rm-2-2
+  post_id: 14400    
 - designation: C 145
   pid: PE0303
   mark_type: Survey Mark
@@ -71,10 +81,14 @@
   mark_type: Survey Mark
   date: 2024-09-09
   post_id: 14350   
-- designation: 'NPS (Unstamped, Acadia #21)'
+- designation: 'NPS (Unstamped, Acadia #20)'
   mark_type: Survey Mark
   date: 2024-09-08
   post_id: 14340    
+- designation: 'NPS (Unstamped, Acadia #16)'
+  mark_type: Survey Mark
+  date: 2024-09-07
+  post_id: 14330  
 - designation: 'NPS (Unstamped, Acadia #17)'
   mark_type: Survey Mark
   date: 2024-09-07
@@ -86,12 +100,8 @@
 - designation: 'NPS (Unstamped, Acadia #19)'
   mark_type: Survey Mark
   date: 2024-09-07
-  post_id: 14330  
-- designation: 'NPS (Unstamped, Acadia #20)'
-  mark_type: Survey Mark
-  date: 2024-09-07
   post_id: 14330          
-- designation: 'NPS (Unstamped, Acadia #16)'
+- designation: 'Boundary Monument (Unstamped, #2)'
   mark_type: Survey Mark
   date: 2024-09-06
   post_id: 14320  
@@ -123,7 +133,32 @@
 - designation: T 18 RESET
   mark_type: Survey Mark
   date: 2024-09-05
-  post_id: 14310     
+  post_id: 14310    
+- designation: COLUMBIA W BASE
+  pid: KW0803
+  mark_type: Survey Mark
+  date: 2024-06-29
+  post_id: 14290    
+- designation: WRIGHTSVILLE RESET
+  pid: KW3233
+  mark_type: Survey Mark
+  date: 2024-06-29
+  post_id: 14290   
+- designation: MAPLE
+  pid: KW1071
+  mark_type: Survey Mark
+  date: 2024-06-29
+  post_id: 14290     
+- designation: MAPLE RM 1
+  pid: KW1070
+  mark_type: Survey Mark
+  date: 2024-06-29
+  post_id: 14290  
+- designation: MAPLE RM 2
+  pid: KW1072
+  mark_type: Survey Mark
+  date: 2024-06-29
+  post_id: 14290    
 - designation: TT STA NO 24 B
   mark_type: Survey Mark
   date: 2024-05-04
