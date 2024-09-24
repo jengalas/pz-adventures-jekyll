@@ -104,7 +104,8 @@ GEM
     tzinfo-data (1.2023.3)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.5.0)
-    webrick (1.8.1)
+    wdm (0.2.0)
+    webrick (1.8.2)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -118,7 +119,8 @@ DEPENDENCIES
   jemoji
   tzinfo (~> 2.0)
   tzinfo-data
-  webrick (~> 1.7)
+  wdm (>= 0.1.0)
+  webrick (~> 1.8.2)
 
 BUNDLED WITH
    2.4.22
