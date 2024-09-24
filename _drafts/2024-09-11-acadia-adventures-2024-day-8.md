@@ -60,6 +60,7 @@ We found easy parking right across from the trailhead, and someone was leaving j
 
 Climbing higher, the trail became more rocky and eroded; it apparently sees a lot of drainage right down the trail in heavy rain events. The slope was still mild, so it wasn't too strenuous of a climb, but we still wanted to take it easy, so we turned around after just a bit more than half a mile. That was enough to get a taste of what the trail was like, and we can certainly come back.
 
+{% include tracklog.html %}
 
 Rich and I were looking for another quick activity after our morning hike at the Great Notch Trail, just off the Long Pond Fire Road. Benchmark hunting is always on the table, and it just so happened that there is a mark just a tenth of a mile south of where the Long Pond Fire Road emerges to Route 102 via Hodgdon Road. 
 

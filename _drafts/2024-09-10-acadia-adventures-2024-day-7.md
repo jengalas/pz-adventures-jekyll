@@ -28,6 +28,7 @@ As we walked, we heard construction noise that was getting louder as we approach
 
 After completing the trail, we wandered into the azalea gardens across the street on our way back to the car. This is always such a peaceful place, and although it was moderately busy today, there was still a quiet and contemplative atmosphere. 
 
+{% include tracklog.html %}
 
 We headed over to the marina around 10:40, hoping to be first in line for lobster tacos at the Bucking Lobster. We were first, but no tacos today! Their seasonal employees have gone, and they simplified the menu for the fall, unfortunately removing the tacos (and perhaps a few other items?) to streamline preparation. No big deal, as I had been wanting to try the quesadilla anyway, and it was still on the menu. We also got a classic lobster roll to try.
 

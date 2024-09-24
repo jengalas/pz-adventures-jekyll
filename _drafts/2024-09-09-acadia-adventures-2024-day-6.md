@@ -34,6 +34,8 @@ Continuing on down Lurvey Spring Road, we passed a few other parking pulloffs (a
 
 Once we returned to the car, we took a waypoint for the parking area and for the entrance to what we suspect is the trail to the campgrounds, right across the road from the spot where we parked. 
 
+{% include tracklog.html %}
+
 As we were heading out, Rich asked if I had ever been to Echo Lake Beach. I hadn't, mostly because it's not so much the kind of thing that appeals to me when I'm here, and because he said it's usually packed with kids. But we figured we're here, so why not check it out? And the beach wasn't too busy today (granted, there was a very chilly wind coming across the lake). Only one guy was swimming, and he claimed the water wasn't too bad. But coming out into the cold wind after swimming probably was!
 
 We only hung out there for about 10 minutes, and then drove to the end of the parking area to see if we could find the trailhead for the Beech Cliffs Ladder Trail. It's there, right at the end of the parking lot. Neither of us has done this trail before, but I've had it on my list for a long time. Maybe we will get a chance to do it one day, but not today. It was already getting late in the afternoon, and we were getitng hungry. Dinner would come soon, after some time to rest and clean up in the room.
