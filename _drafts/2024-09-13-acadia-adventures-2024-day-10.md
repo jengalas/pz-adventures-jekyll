@@ -26,7 +26,9 @@ We took a slow hike up toward the peak; the back way is the easiest and most gen
 
 It was a foggy scene over the ocean when we reached the ledges at the peak. Reminiscent of our wedding day, but not nearly as foggy. Still, it was the only foggy morning we've had yet this year. There were quite a few people at the top when we arrived but we waited them out and were able to take photos of us together at the tri-station, and some at the tea house and at the Great Head trail sign. 
 
-Then came the hike back down. Both of us forgot just how steep and rocky the other seciton of the trail was. We actually remembered about the steep sections and boulders at the beach, but we thought by taking the "shortcut" throught he middle and back to the trail we'd taken up, we would miss most of it. unfortunately that wasn't true, and Rich struggled a bit on the way down. All in all, in went fine, and we will remember for next time that we should probably just take the shorter and more straightforward path up and back.
+Then came the hike back down. Both of us forgot just how steep and rocky the other seciton of the trail was. We actually remembered about the steep sections and boulders at the beach, but we thought by taking the "shortcut" throught he middle and back to the trail we'd taken up, we would miss most of it. unfortunately that wasn't true, and Rich struggled a bit on the way down. All in all, it went fine, and we will remember for next time that we should probably just take the shorter and more straightforward path up and back.
+
+{% include tracklog.html %}
 
 After resting in the car for a few minutes, we decided to take a drive over to the visitors center. The parking lot was packed! But the center wasn't really too busy. I have to wonder if a lot of people are parking there just to take the Jordan Pond or Park Loop Road buses, since they don't stop at the Village Green.
 

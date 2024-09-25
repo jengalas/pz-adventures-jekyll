@@ -49,6 +49,8 @@ I worked my way over to where he stood, and we began our search by comparing wha
 
 We figured that had to be the rock since it appeared to be the only one anywhere near the witness tree. But it still required ten minutes of digging to clear the rock, and even then, a few more minutes to clean off the last layer of soil enough that we could see and positively identify the bolt. It was a thrilling re-recovery, and yet another reminder of how quickly things can change. (And yet there is that bolt from 1865, quietly sitting in the same place, and still findable by us today.)
 
+{% include tracklog.html %}
+
 When we got back to the car, Rich said "I think I'm about done!" I was too, since it really was quite a bit of hot, sweaty work and so tricky to move around in those thick woods. But we were still in the mood to stop at Beech Hill Farm. The place was busy as you would expect on a Saturday, but the space is large enough that it's still easy to move around. The produce looks absolutely perfect, as it always does, and we were wishing we had a way to bring home some of their gorgeous chard, cilantro, and basil. It was too late for the cakes and breads, although there was one whole blueberry pie left.
 
 I had actually come here to restock on "Take it Easy tea," a delicious blend of tulsi (holy basil), rose, and lavender that I bought here last year and enjoy frequently in the evenings. I'm almost out. I also picked up a tin of Chinese black tea and some maple syrup as a gift for someone at work. Rich bought a small bag of Fox Family potato chips to try, and we finished off the bag on the way back to our room. The young woman at the counter was wearing a t-shirt with a rattlesnake design! She said she bought it at Marden's.
