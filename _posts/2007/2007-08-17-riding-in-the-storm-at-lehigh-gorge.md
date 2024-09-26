@@ -47,7 +47,7 @@ We stayed beneath trees alongside the trail for a good half-hour altogether, eve
 
 Of course, as soon as we got back to the car, the rain stopped and the sun came out.  We started to clean the sand and clay and grit off our clothes and equipment and figure out how we were going to change into our fresh clothes, when it started to pour again, though the sun was still out.  I recall sitting buck naked (halfway in the car, but in full view of the parking lot, trail, and the I-80 bridges, though I didn't care) just trying to dry out enough so that I could pull my damned underwear on.
 
-Could it be that karma again (see [Mayhem at Blue Marsh Lake](https://planetzhanna.com/adventures/2007/06/02/mayhem-at-blue-marsh-lake))? I can't be sure, and I'm not saying another word.
+Could it be that karma again (see [Mayhem at Blue Marsh Lake](/2007/06/02/mayhem-at-blue-marsh-lake))? I can't be sure, and I'm not saying another word.
 
 We saved the best part of our day for last.  What's the best part?  Well, typically it's dinner, but this time it was dinner _and_ an investigation into a very interesting tri-station—and these two activities turned out to be more intimately related than we could have expected.
 
