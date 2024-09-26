@@ -93,7 +93,7 @@ Earlier I wrote that the Kebo Brook Trail was "new," in quotes. As you might hav
 
 {% include tracklog.html %}
 
-I'm still looking for the source in which Waldron Bates described the path in 1907, but it is referred to in the 1915 _<a href="https://planetzhanna.com/adventures/wp-content/uploads/2018/09/1915-Path-Guide-Full.pdf">Path Guide of Mount Desert Island, Maine</a>,_ of which Bates is credited with partial authorship. The trail isn't described in this pamphlet, but it is mentioned as part of walks to the summit of Kebo Mountain and Sieur de Monts Spring. Since Bates died in 1909, it's possible that his contributions to this path guide originated in the 1907 work, whatever it was.
+I'm still looking for the source in which Waldron Bates described the path in 1907, but it is referred to in the 1915 _[Path Guide of Mount Desert Island, Maine](/assets/docs/1915-Path-Guide-Full.pdf),_ of which Bates is credited with partial authorship. The trail isn't described in this pamphlet, but it is mentioned as part of walks to the summit of Kebo Mountain and Sieur de Monts Spring. Since Bates died in 1909, it's possible that his contributions to this path guide originated in the 1907 work, whatever it was.
 
 Back in town, we did a little shopping at the Acadia Shop, Bar Harbor Tea Company and Cool as a Moose. It was still warm and sunny. We had about two hours before heading to Southwest Harbor for the second evening in a row, this time for supper at Rogue Cafe! 
 
