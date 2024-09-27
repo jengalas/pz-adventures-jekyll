@@ -28,8 +28,6 @@
     var marker = L.marker([{{ geocache.latitude }}, {{ geocache.longitude }}]).addTo(markMap);
     marker.bindPopup("{{ geocache.title }}");
 
-    L.tileLayer('https://caltopo.s3.amazonaws.com/topo/{z}/{x}/{y}.png', {"attribution":"USDA images from <a href='http://caltopo.com/'>CalTopo</a>", "minZoom":6, "maxZoom":16}).addTo(markMap);
-
     objBasemaps['USGS Topo'].addTo(markMap); // Assign default basemap
     
     var objOverlays = {  
