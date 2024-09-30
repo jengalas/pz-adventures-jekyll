@@ -33,7 +33,7 @@ galleries:
 
 Rich and I were browsing the topo maps yesterday, looking at some areas of local historical interest (specifically the area near Winton and Archbald labeled Riverside on the map), when we spotted **BM 922**. 
 
-> ```Riverside; in S. corner of front yard of Riverside Public School No. 8; in S. corner of schoolyard; 42 ft N. of center of rd [of center of U.S. Highway 6, in Horizontal description].; in concrete post; standard tablet stamped "TT 7 T 1932"```
+> Riverside; in S. corner of front yard of Riverside Public School No. 8; in S. corner of schoolyard; 42 ft N. of center of rd [of center of U.S. Highway 6, in Horizontal description].; in concrete post; standard tablet stamped "TT 7 T 1932"
 
 We are both certain that we had looked for this benchmark in the past and found nothing, although unfortunately we can't recall the details of our searches at this point. 
 

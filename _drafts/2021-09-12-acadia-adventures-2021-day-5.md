@@ -46,4 +46,4 @@ I returned to R where he had been resting, watching, and taking some photos furt
 
 We returned to the car without further excitement or issues, and headed downtown to check out the situation at McKays. I still have no idea what their deal is because they still had the "Closed Sat" sign out after 2pm on Sunday. We chose not to risk it and instead, after cleanign up and resting in the room for a few minutes, went to Side Street again for great lobster roll (I needed to have it and the clam chowder again!) and lobster mc & cheese for R. We both had the Peaks "The Juice" beer again. It was so good! As expected we were too stuffed for dessert.
 
-My only regreat about hte day is that I completely forgot to look for the shortcut path between Breakneck Rd and the carriage road at Witch Hole pond! Rich mentioned it this evening and I was bummed that I had walked by twice and not thought to look for it.
+My only regreat about the day is that I completely forgot to look for the shortcut path between Breakneck Rd and the carriage road at Witch Hole pond! Rich mentioned it this evening and I was bummed that I had walked by twice and not thought to look for it.

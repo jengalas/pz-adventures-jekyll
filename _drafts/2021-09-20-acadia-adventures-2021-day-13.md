@@ -40,7 +40,7 @@ I joined Rich again on the road where hw was crossing the rather dicey spot (now
 
 We only saw two peopel on the BReajneck road, a man and woman walking with their (leashed) dogs who asked if we were lost. I don't knwo if they asked becase we were on Breakneck Road to begin with, or because we were wandering around the woods. I told them no, we were just looking for things to photograph like mushrooms and snakes. 
 
-We were getting hungry so once we crossed onto the carriage roads, we stopped for a small snack of (traumatized?) tangerine juice and the remaining cookie from yesterday's lunch. We continued on and checked out the pitcher plants in the small pond. I didn't see them in halfmoon pond, nor did I see hte baby turle I saw last week. We did see a larger turtle sunning himself on a rock or log in Halfmoon pond.
+We were getting hungry so once we crossed onto the carriage roads, we stopped for a small snack of (traumatized?) tangerine juice and the remaining cookie from yesterday's lunch. We continued on and checked out the pitcher plants in the small pond. I didn't see them in halfmoon pond, nor did I see the baby turle I saw last week. We did see a larger turtle sunning himself on a rock or log in Halfmoon pond.
 
 The only other critter we saw was afrog in a culvert along the carriage roads not too far from our endpoint at Eagle Lake Road. We retuend to the car and took our remaining snack (croissant and blueberry hand pie) to a rock at Eagle Lake, right at hts point where the carriaage road is closed for construction and storm damage repair, to enjoy them before heading back to town.
 

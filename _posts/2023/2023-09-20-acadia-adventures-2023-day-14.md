@@ -165,7 +165,7 @@ The tacos came with tortilla chips and an absolutely delicious salsa that I ende
 
 After finishing up the tacos (and having a hard time resisting buying about 6 more) we wandered down by the docks, where Rich took some photos of the marine happenings.
 
-{% include image.html filename="P1079984-Panoc.jpg" thumb="P1079984-Panocb.jpg" caption="" %}
+{% include image.html filename="P1079984-Panocvx.jpg" thumb="P1079984-Panocb.jpg" caption="" %}
 
 A couple hours spent cleaning up and resting in the room, and then it was time for our last meal in Maine for this year.
 

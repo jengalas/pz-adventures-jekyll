@@ -74,7 +74,7 @@ This morning was planned to be our crepes day ... adn it worked out perfectly. r
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-Next we checked on how we could get tickets for the Schoodic ferry for tomorrow. The line at hte Whale Watch compnay was about 50 people ong (cruisers) so we asked at the other shop acorss the way. Fortunately we could get tickets at he Margarte Todd pier instead so we went threre and asked about the ferry. The women there said that while you can get tickets in advance, it's not a reservation and its first come first served, so we decide to wait till tomorrow morning. We soon headed out on our hike for the day!
+Next we checked on how we could get tickets for the Schoodic ferry for tomorrow. The line at the Whale Watch compnay was about 50 people ong (cruisers) so we asked at the other shop acorss the way. Fortunately we could get tickets at he Margarte Todd pier instead so we went threre and asked about the ferry. The women there said that while you can get tickets in advance, it's not a reservation and its first come first served, so we decide to wait till tomorrow morning. We soon headed out on our hike for the day!
 
 It was such a gorgeous day. Insane amount of vehicle traffic on the island for some reason. But we had a lot of fun! Took dad to Compass Harbor and then walked down the Schooner Head path to the fancy stone driveway, where we enjoyed a nice rest at the summit, and then out to the beach with the nice view of the Thrumcap. Spent lots of time there too. The surf was wild and the sun was hot. Perfect!!! We took Murphy's Lane back to the Park Loop Road. (I think dad had a moment of panic, assuming we were going to climb the Precipice today as well!)
 

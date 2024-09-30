@@ -24,7 +24,7 @@ It was a brisk morning, particularly by the ocean, but the sun was already warmi
 
 Dad left for Vermont around 9:00am and we took some time to figure out what we wanted to do today. We wnated a restful day after all the recent activity. I've been eager to check out this abandoned road that I've noticed while riding by on the bus a few times. It cuts across a smal triangle of land between the Park Loop Road and Route 3 in the vicinity of Sieur de Monts and Jackson Lab. We were unsure whether we wanted to try taking the bus today or parking at or near Sieur de Monts, but we were lucky enough to find a completely open parking pulloff along the Park Loop Road only about 350ft from the western end of the road. 
 
-approaching the road it was clear that it had been a wide road and was still in quite good condition, although it wouldn't be passable now in acar because of a couple fallen trees across the roadbed. This road appears on the 1942 topo map (and earlier maps) and appears to have led into Robinhood Park, which was on the property where Jackson Lab now sits. Apparently this was hte former propoerty of Morrell, who dedicated a small greenspace park at the eastern end of the road to the people of the town of Bar Harbor. Supposedly at the Bear Brook picnic area on the other side of the lab there are some fence posts remaining from the old Robinhood Park. Lots more history to discover here!
+approaching the road it was clear that it had been a wide road and was still in quite good condition, although it wouldn't be passable now in acar because of a couple fallen trees across the roadbed. This road appears on the 1942 topo map (and earlier maps) and appears to have led into Robinhood Park, which was on the property where Jackson Lab now sits. Apparently this was the former propoerty of Morrell, who dedicated a small greenspace park at the eastern end of the road to the people of the town of Bar Harbor. Supposedly at the Bear Brook picnic area on the other side of the lab there are some fence posts remaining from the old Robinhood Park. Lots more history to discover here!
 
 {% include tracklog.html %}
 
@@ -34,7 +34,7 @@ It was a huge change from the last time we had been there many years ago! But in
 
 As we were leaving I noticed some red roud fruit on the ground, and looked up to see that I was standing beneath a plum tree! I had to ask if they were the plums used in the tarts. Of coures, they were. The yound woman working inside said they had just had their largest harvest of plums ever (145lb) and a few smaller harvests before that. They have lots of preserving (canning, jam, drying) to do.
 
-After our little adventure there, we spent the rest of the afternoon relaxing unti it was time to head to Southwest Harbor for our dinner reservation at Red Sky. We wanted to go a bit early so we could get some cheese at hte wine and cheese shop next door.
+After our little adventure there, we spent the rest of the afternoon relaxing unti it was time to head to Southwest Harbor for our dinner reservation at Red Sky. We wanted to go a bit early so we could get some cheese at the wine and cheese shop next door.
 
 Once in SHW we realized we wre really early, so we drove down Clark Point Roadt to check out the MDI Lobster and BBQ place. It wasn't busy and they have a nice tent to eat underneath. Could be worth checking out one day.
 
