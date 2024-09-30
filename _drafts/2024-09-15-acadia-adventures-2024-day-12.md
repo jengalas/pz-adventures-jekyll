@@ -39,7 +39,7 @@ We quickly came to the end of the loop. On our way back to the car, we were curi
 
 While we were there, photographing a few leaves and plants, a woman came by and asked if we were photographing plants or animals. If we were watching an animal she didn't want to walk by and disturb it, which was very considerate. Just plants, though, so she passed right on by, down the mystery trail. I didn't think until later that I should have asked her where it went. Oh well, another mystery we will get to solve ourselves!
 
-{% include tracklog-new.html %}
+{% include tracklog.html %}
 
 Kittredge Brook Preserve actually has a second disjointed section just to the north, off Norway Drive and then Bluffs Road. Supposedly it is just a short trail to a cascade - which would likely have no water in it this year, but we still wanted to investigate the trail.
 
