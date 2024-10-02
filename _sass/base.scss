@@ -107,6 +107,10 @@ main {
     height: auto;
     margin: 1rem 0;
     max-width: 100%;
+
+    @media (max-width: 768px) {
+      margin: .6rem 0;
+    }
   }
 }
 
@@ -125,6 +129,10 @@ main {
     color: $lightHeadingColor;
     font-size: 2rem;
     text-decoration: none;
+
+    @media (max-width: 768px) {
+      font-size: 1.4rem;
+    }    
   }
 }
 
