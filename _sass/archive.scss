@@ -11,6 +11,10 @@
     margin-bottom: 1.5rem;
     padding: 4rem 7rem;
   
+    @media (max-width: 768px) {
+      padding: 1.5rem 2.5rem;
+    }
+
     h2 {
       font-size: 1.65rem;
       margin-bottom: 1rem;
@@ -23,10 +27,6 @@
       a {
         border: 0;
         color: $bodyColor;
-      }
-
-      @media (max-width: 768px) {
-        padding: 1.5rem 2.5rem;
       }
     }
   
