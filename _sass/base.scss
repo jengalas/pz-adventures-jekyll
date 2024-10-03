@@ -278,6 +278,11 @@ small {
   display: flex;
   margin-bottom: 4rem;
 
+  @media (max-width: 768px) {
+    display: block;
+    margin-bottom: 0;
+  }
+
   .cat-links {
     font-family: Muli, Arial;
     font-size: 12px;
@@ -297,6 +302,13 @@ small {
 
   h1 {
     margin: 0;
+
+    &.entry-title {
+      @media (max-width: 768px) {
+        clear: both;
+        margin-top: 2rem;
+      }
+    }
   }
 
   .byline {
