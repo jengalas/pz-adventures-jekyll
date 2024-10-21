@@ -9,7 +9,7 @@ tags:
 
 geocaches: false
 surveymarks: true
-tracklog: 07OCT24.gpx
+tracklog: 07OCT24-wpt.gpx
 post_id: 14460
 layout: post
 ---
