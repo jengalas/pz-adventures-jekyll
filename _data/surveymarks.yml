@@ -1,55 +1,68 @@
 # 2024
 - designation: RV 129 RDGRR
+  pid: KW0210
   mark_type: Survey Mark
   date: 2024-10-07
   post_id: 14460
 - designation: B 249
+  pid: KW0229
   mark_type: Survey Mark
   date: 2024-10-07
   post_id: 14460
 - designation: HUBER
+  pid: KW0231
   mark_type: Survey Mark
   date: 2024-10-07
   post_id: 14460    
 - designation: HUBER RM 1
+  pid: KW0230
   mark_type: Reference Mark
   date: 2024-10-07
   post_id: 14460 
 - designation: HUBER RM 2
+  pid: KW0232
   mark_type: Reference Mark
   date: 2024-10-07
   post_id: 14460 
 - designation: HUBER AZ MK
   mark_type: Reference Mark
   date: 2024-10-07
+  custom_permalink: kw0231-az-mk
   post_id: 14460  
 - designation: RV 128
+  pid: KW0208
   mark_type: Survey Mark
   date: 2024-10-07
   post_id: 14460  
 - designation: B 46
+  pid: KW0209
   mark_type: Survey Mark
   date: 2024-10-07
   post_id: 14460  
 - designation: IRVING AZ MK
+  pid: KW0234
   mark_type: Survey Mark
   date: 2024-10-07
   post_id: 14460   
 - designation: X 248
+  pid: KW0226
   mark_type: Survey Mark
   date: 2024-10-07
   post_id: 14460      
 - designation: '327.50'
   mark_type: Survey Mark
   date: 2024-10-07
+  custom_permalink: 327-50
   post_id: 14460  
 - designation: PROP COR REF EL 329.99
   mark_type: Survey Mark
   date: 2024-10-07
+  custom_permalink: prop-cor-ref-el-329-99
   post_id: 14460              
 - designation: 16718-11
   mark_type: Survey Mark
   date: 2024-09-18
+  custom_permalink: 16718-11-2
   post_id: 14440
 - designation: K 6
   mark_type: Survey Mark
