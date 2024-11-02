@@ -19,7 +19,7 @@ galleries:
     images:
     - filename: 
       alt: 
-      
+featured_image: P5046064cvx.jpg    
 ---
 
 "Subdued" is a good description of this year's Death Hike (as much in opposition to the term "Death Hike" as that may sound). That was fine with both me and Ken, since we both have been swamped for over a year with various projects. A simple, relatively quiet hike in the woods was exactly what we needed.
