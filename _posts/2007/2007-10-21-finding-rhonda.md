@@ -26,5 +26,5 @@ Using our sighting compass and the “box score” data about the reference mark
 
 “Gardening”—our term for clearing back brush and weeds—was necessary. Rich hacked and slashed his way through, and eventually spotted the reference mark just a few feet from our bearing line. It was set in a rock that was halfway embedded in the ground beneath the stone wall. I fought my way through the remaining brush to stand over it, and I was able to sight a bearing line back toward the station. Rich intersected RM 2 with the line we’d taken from RM 1, and, combining this knowledge with that which we could deduce from the former placement of a witness post, we were able to pinpoint the station disk. We soon realized that our earlier efforts had very nearly uncovered the disk, but a thin coating of dirt had still somehow obscured it. A closer look and a quick brush with a gloved hand were all it took for RHONDA to emerge! We were thrilled to document our find with photos and to submit the first official NGS recovery of this station in over thirty years.
 
-_**Read the [full text of "Finding Rhonda"](https://thesurveystation.com/2019/03/17/finding-rhonda/) in Caching Now (now published at TheSurveyStation).**_
+_**Read the [full text of "Finding Rhonda"](https://thesurveystation.netlify.app/2019/03/17/finding-rhonda/) in Caching Now (now published at TheSurveyStation).**_
 
