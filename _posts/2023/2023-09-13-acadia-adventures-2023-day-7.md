@@ -26,7 +26,7 @@ galleries:
     
 ---
 
-## Fawn Pond or Breakneck Rd?
+## Fawn Pond or Breakneck Road?
 
 Fog again this morning! It was dense but didn't cause any problems as I ran down to Mount Dessert Bakery for two plain croissants and a pecan sticky bun. As we sat on the porch enjoying our breakfast, it even appeared to brighten up for a minute, and I almost saw the sun ... and then it started to rain.
 

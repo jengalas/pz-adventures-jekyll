@@ -56,6 +56,6 @@ It was unknown whether the railway (Canadian Pacific) or PennDOT was responsible
 
 In 2013, Pennsylvania's Public Utility Commission got involved because that body has jurisdiction over rail highway crossings. The PUC upheld the judge's decision that the railway was responsible for upkeep of the bridge.
 
-The farmer was hopeful that the bridge would eventually be repaired or replaced, but it was not to be. The farmer sued Canadian Pacifc Railway, which had no comment as hearings were held in 2015. I wasn't able to find anything specific about the details of that case, but the bridge was demolished in 2016.
+The farmer was hopeful that the bridge would eventually be repaired or replaced, but it was not to be. The farmer sued Canadian Pacific Railway, which had no comment as hearings were held in 2015. I wasn't able to find anything specific about the details of that case, but the bridge was demolished in 2016.
 
 {% include tracklog.html %}

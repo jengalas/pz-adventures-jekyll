@@ -39,7 +39,7 @@ Our first stop was at the Hunters Beach trail. We thought we would try accessing
 
 There was one other car at the parking area along Cooksey Drive when we pulled in. Two men emerged from the trail as we were getting our gear ready, and they were telling us how spectacular the trail was (we've done it several times before, and it really is spectacular!). They left and we had the whole place to ourselves.  
 
-The trail starts out smooth but quickly becomes very rooted, and it was slippery after all the recent rain. Rich took his time and didn't seem to have much trouble hiking the trail. I even spotted an NPS boundary marker along the way (well, a bit off the trail) that I documented on my way back to the car.
+The trail starts out smooth but quickly becomes very rooted, and it was slippery after all the recent rain. Rich took his time and didn't seem to have much trouble hiking the trail. I even spotted an NPS boundary marker along the way, a bit off the trail, that I documented on my way back to the car.
 
 The sun was out and the waves were crashing against the cobbles, making that familiar rattling sound as the water sucked back out to sea. Unfortunately it was pretty obvious to us that we wouldn't be able to reach the Fandango puzzle solution location very easily, if at all, from this spot. First we would have to cross Hunter's Brook, which even at its narrowest point today was a bit too wide and flowing too swiftly for me to feel comfortable hopping across. And then, we had about 350 feet to go, straight up a rocky headwall and a steep, densely wooded slope behind it. If we're going to attempt it, it will be from the top, along the Park Loop Road. 
 

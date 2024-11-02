@@ -81,6 +81,6 @@ The mark is probably still in place, but so covered by fallen leaves, brush, and
 
 We may try again, and we will certainly keep an eye on the status of this area if we pass by. This would be a fascinating find! 
 
-I thorougly enjoyed today's autumn exploration. It was a warm afternoon, partly sunny, with the last remnants of fall color surrounding us. On our way home, we drove past the site of another local **TT** station (**TT 8 T**) near the intersection of the Eynon-Jermyn Road and Washington Avenue that heads south toward Archbald. We don't have high hopes for that mark either, but it's always possible that it's still in place. We may try again on a Sunday morning when the nearby businesses are closed.
+I thoroughly enjoyed today's autumn exploration. It was a warm afternoon, partly sunny, with the last remnants of fall color surrounding us. On our way home, we drove past the site of another local **TT** station (**TT 8 T**) near the intersection of the Eynon-Jermyn Road and Washington Avenue that heads south toward Archbald. We don't have high hopes for that mark either, but it's always possible that it's still in place. We may try again on a Sunday morning when the nearby businesses are closed.
 
 We spent the rest of the evening at home and enjoyed some tender, succulent steaks, cucumbers with dill sauce, and twice-baked potatoes for supper! 

@@ -25,7 +25,7 @@ galleries:
     - filename: P1040451
       alt: Plain Pancakes for breakfast at the Black Friar Inn
     - filename: P1040457
-      alt: Scrambled Eggs & Homefries at the Black Friar Inn
+      alt: Scrambled Eggs & Home Fries at the Black Friar Inn
   gallery2:
     images:
     - filename: mdi-map-1887

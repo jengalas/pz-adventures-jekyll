@@ -62,7 +62,7 @@ galleries:
 
 This morning's breakfast was at 2 Cats. I could hardly believe that the place was nearly empty, at least inside! Even the outer room had no tables-there was merchandise there instead. My only thought was that maybe since it was such a warm, dry summer, more people wanted to eat outside and they moved the tables to the porch?
 
-Our breakfasts were delicious (granola for me and dad [he had yogurt while I had milk], tons of fresh fruit, pancakes for R with cripsy bacon. Waiter was pleasant, funny and pretty prompt. Overall a very good meal. 
+Our breakfasts were delicious (granola for me and dad [he had yogurt while I had milk], tons of fresh fruit, pancakes for R with crispy bacon. Waiter was pleasant, funny and pretty prompt. Overall a very good meal. 
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
@@ -72,11 +72,11 @@ Today we walked from town along Spring Street to the Great Meadow loop, which we
 
 {% include gallery.html gallery_id="gallery2" class="" %}
 
-The whole route was just over 6 miles and while it was a lng hike, it was relatively mild. The eastern end of Kebo Brook trail is level and very smooth; it becomes steeper and rockier as it nears the Cadillac North Ride trailhead near its western end and intersection wiht the Park Loop rd. There was an interesting pile of rocks at one point with cold air emanating from it - maybe something like Cold Air Cave? We were pretty tired by the end of our hike, which turned out o be just over 6 miles. From the overlook we flagged down the Jordan Pond bus on its way to the visitors center and then back to the village green. ("Mind your hiking poles!") The driver was pretty wild; Rich said she might have been a rodeo rider in a previous life! ;) We went through the messy construction on Route 3 and were almost glad to be back on foot after the jarring ride.
+The whole route was just over 6 miles and while it was a lng hike, it was relatively mild. The eastern end of Kebo Brook trail is level and very smooth; it becomes steeper and rockier as it nears the Cadillac North Ride trailhead near its western end and intersection with the Park Loop rd. There was an interesting pile of rocks at one point with cold air emanating from it - maybe something like Cold Air Cave? We were pretty tired by the end of our hike, which turned out o be just over 6 miles. From the overlook we flagged down the Jordan Pond bus on its way to the visitors center and then back to the village green. ("Mind your hiking poles!") The driver was pretty wild; Rich said she might have been a rodeo rider in a previous life! ;) We went through the messy construction on Route 3 and were almost glad to be back on foot after the jarring ride.
 
 {% include tracklog.html %}
 
-We met for dinner a little after 5:00 and walked down to Paddys. Dad and I had the fish sandwich again, and Rich tried something new, the pork sandwich with cheese and slaw. Everything was very tasty! And we each had a Guinness. At one point, just after my father had been saying that he hadn't seen too many buses up here so far, a Martz bus passed by. Knowing that his coworker Ralph was driving for a trip to New England he joked "Hey I'll bet that's Ralph," and then a second later "Hey, that *is* Ralph!" He ran out of the restaurant to try to catch up with him, which he did. They talke for a few minuts while Rich and i finished our drinks.
+We met for dinner a little after 5:00 and walked down to Paddy's. Dad and I had the fish sandwich again, and Rich tried something new, the pork sandwich with cheese and slaw. Everything was very tasty! And we each had a Guinness. At one point, just after my father had been saying that he hadn't seen too many buses up here so far, a Martz bus passed by. Knowing that his coworker Ralph was driving for a trip to New England he joked "Hey I'll bet that's Ralph," and then a second later "Hey, that *is* Ralph!" He ran out of the restaurant to try to catch up with Ralph, which he did. They talked for a few minutes while Rich and i finished our drinks.
 
 {% include gallery.html gallery_id="gallery3" class="" %}
 

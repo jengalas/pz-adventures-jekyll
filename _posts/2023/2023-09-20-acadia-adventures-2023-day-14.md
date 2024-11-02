@@ -155,7 +155,7 @@ There were still plenty of hours left for adventures on this beautiful day. I wa
 
 So what else could we explore today?
 
-Our first thought was to take a drive up toward Jordan Pond House. Somehow we didn't realize it was 12:00 on the dot, and so of course this major atttraction (and the only food concession within the park) was completely packed with the lunch crowd—in addition to the hiking and biking crowds. There was no room in either parking lot, so we moved on and headed back around on Route 3 toward our other idea for the afternoon, which was to check out Northeast Harbor. We haven't spent any real time there in a few years, so we were due anyway.
+Our first thought was to take a drive up toward Jordan Pond House. Somehow we didn't realize it was 12:00 on the dot, and so of course this major attraction (and the only food concession within the park) was completely packed with the lunch crowd—in addition to the hiking and biking crowds. There was no room in either parking lot, so we moved on and headed back around on Route 3 toward our other idea for the afternoon, which was to check out Northeast Harbor. We haven't spent any real time there in a few years, so we were due anyway.
 
 Main Street in town was busy without a single parking place to be found anywhere, so we headed east to the marina. Right around this time we both realized that we were hungry, and there happened to be a food truck in the parking lot. The food truck was drawing a crowd and it looked interesting, so we checked it out: "The Bucking Lobster." 
 

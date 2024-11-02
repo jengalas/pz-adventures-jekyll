@@ -77,7 +77,7 @@ There were only two other tables occupied when we came in and the people were mo
 
 A quick stop at Hannaford was all we needed to do on the way back to our room. Then we prepared for our hike and headed to Cadillac summit. 
 
-At the summit it was the typical summer situation: cars and people <em>everywhere</em>, Oli's Trolleys lined up on the east side of the loop. Strangely we did not see many coach buses. (I just learned that most of the cruise ships for today and tomorrow have been canceled due to the hurricane, so maybe that has something to do with it?) Nevertheless, once we got off the trail, as usual, we had the mountain to ourselves.
+At the summit it was the typical summer situation: cars and people _everywhere_, Oli's Trolleys lined up on the east side of the loop. Strangely we did not see many coach buses. (I just learned that most of the cruise ships for today and tomorrow have been canceled due to the hurricane, so maybe that has something to do with it?) Nevertheless, once we got off the trail, as usual, we had the mountain to ourselves.
 
 We first decided to look for the cross that has been described by a local acquaintance as being in a very precarious position. It was the closest to the parking area and is only a hundred feet or so from the paved loop path that all the tourists take. We got as close as we could on the path and then headed down the quite steep slope toward the coordinates I had pulled from the deed. 
 
