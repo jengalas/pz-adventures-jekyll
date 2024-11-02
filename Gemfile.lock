@@ -120,5 +120,8 @@ DEPENDENCIES
   tzinfo-data
   webrick (~> 1.8.2)
 
+RUBY VERSION
+   ruby 3.2.3p157
+
 BUNDLED WITH
    2.4.22
