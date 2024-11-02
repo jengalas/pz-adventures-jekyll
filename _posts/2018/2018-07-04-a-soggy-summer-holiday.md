@@ -28,7 +28,7 @@ The disk was easy to find and appears to be in good condition, but there's still
 
 {% include image.html filename="37dsw.jpg" thumb="37dswb.jpg" caption="37 DSW, but where is the stamping?" %}
 
-We weren't quite so lucky with 38 DSW, the next one on our list. The mark is supposedly set where Fernwood Road meets Route 196 at a T-intersection. It's probably still in place, but the area is heavily overgrown and I couldn't spot a boulder anywhere among the vegetation. Given the likelyhood of ticks and poison ivy, I didn't want to wade through the weeds to get a closer look. We'll try again in winter.
+We weren't quite so lucky with 38 DSW, the next one on our list. The mark is supposedly set where Fernwood Road meets Route 196 at a T-intersection. It's probably still in place, but the area is heavily overgrown and I couldn't spot a boulder anywhere among the vegetation. Given the likelihood of ticks and poison ivy, I didn't want to wade through the weeds to get a closer look. We'll try again in winter.
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
