@@ -67,7 +67,7 @@ We emerged from the woods and crossed Kebo Street once more, then descended a se
 
 The boardwalk was impressive! We searched for bog plants as we walked along this elevated walkway through the tall birch forest toward Sieur de Monts. Also along the walkway we saw temporary survey markers and, at the end of the path, a box that was labeled "USGS - acoustic monitoring." It would be great to learn more about that, whatever it is. Highlights of Sieur de Monts are the spring house and the Abbe Museum, and of course the wild gardens featuring native plants. 
 
-Next, the route led us to the outflow of the Tarn, a lake that's turning into a marsh. Four monuments are found at this site: one to the Jesups, one carved into the sixth step of Kirt Diedrich's Climb, and two at the head of the Kane Path. 
+Next, the route led us to the outflow of the Tarn, a lake that's turning into a marsh. Four monuments are found at this site: one to the Jesups, one carved into the sixth step of Kurt Diedrich's Climb, and two at the head of the Kane Path. 
 
 {% include image.html filename="20150911_150500cl.jpg" thumb="20150911_150500b.jpg" caption="View of Huguenot Head from the Tarn." %}
 
