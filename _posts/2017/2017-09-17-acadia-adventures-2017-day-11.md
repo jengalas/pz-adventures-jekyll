@@ -117,7 +117,7 @@ Sunset Acres had a stand at the market, as expected, but I was also so thrilled 
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-Well, after we bought the cheese, salami, trail mix and two pasta sauces we headed back through town and decided to stop at the Hannaford to see if they might have a bigger cooler. We were in luck! They had a big Styrofoam cooler for 4 dollars. Now we could buy more cheese, and we did. :grin: We went back to the room and got redy for our day, and then returned to the farmers' market on our way to Southwest Harbor. I ended up buying three more cheese at Yellow Birch Farm, the lavender fennel, honey lemon, and herbes de provence for Kristen. 
+Well, after we bought the cheese, salami, trail mix and two pasta sauces we headed back through town and decided to stop at the Hannaford to see if they might have a bigger cooler. We were in luck! They had a big Styrofoam cooler for 4 dollars. Now we could buy more cheese, and we did. :grin: We went back to the room and got ready for our day, and then returned to the farmers' market on our way to Southwest Harbor. I ended up buying three more cheese at Yellow Birch Farm, the lavender fennel, honey lemon, and herbes de provence for Kristen. 
 
 {% include image.html filename="P1090814clx.jpg" thumb="P1090814b.jpg" caption="Artisan goat cheeses from Yellow Birch Farm" %}
 

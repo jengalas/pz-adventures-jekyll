@@ -44,8 +44,8 @@ galleries:
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-walk on trolley trail at Keystone with dad. Didn't know where to park at first. Saw geocachers on the first part of the trail, thought it was tundra wolf and crew, confirmed once we saw his car. Met them on the other part of the trail. They were there for travelnbehappy's birthday.
+On this somber day, we went for a walk on the Trolley Trail at Keystone with Dad. We didn't know where to park at first, but eventually got oriented, and found the trailhead and the suspension bridge. We ran into a group of geocachers on the first part of the trail, and we thought it was Tundra Wolf and crew, which we confirmed once we saw his car. We met them again later, on the second part of the trail. They were out for a group hike and geocaching adventure, celebrating travelnbehappy's birthday.
 
 {% include tracklog.html %}
 
-After our hike, we went to Natale's for dinner. Wine, bread, salad, manestra soup, ravioli, chicken marsala, chicken calabrese, cannoli cake
+After our hike, we went to Natale's for dinner, where we enjoyed a feast of wine, bread, salad, manestra soup, ravioli, chicken marsala, chicken calabrese, and cannoli cake. Mom would have loved it.

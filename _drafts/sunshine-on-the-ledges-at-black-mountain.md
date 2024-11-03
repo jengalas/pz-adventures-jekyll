@@ -24,7 +24,7 @@ galleries:
 
 > I'm writing this from the future: April 2, 2023. Last night, while watching an episode of "The Curse of Oak Island" that featured wide stone walls. Rich paused the video, turned to me, and asked "Wasn't there a hike we did where we were walking between these very wide, high stone walls?" I had had a similar vague memory, but didn't recall enough of it to even mention it. 
 > 
-> This simple question led to an evening of investigation into my notes, our photos and tracklogs, and eventally archived email messages. A message I had sent to the geocacher "Papadadio" in June 2006 was enough to help us crack the case. 
+> This simple question led to an evening of investigation into my notes, our photos and tracklogs, and eventually archived email messages. A message I had sent to the geocacher "Papadadio" in June 2006 was enough to help us crack the case. 
 > 
 > We finally figured out that the place with the wide stone walls was the Indian Hill loop trail in Sterling Forest State Park, which we hiked on May 29, 2006. That same message mentioned a hike we did the following day, to Black Mountain in Harriman State Park. 
 > 

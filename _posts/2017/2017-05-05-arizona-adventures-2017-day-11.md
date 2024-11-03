@@ -23,9 +23,9 @@ galleries:
       alt: 
 ---
 
-photos: 675 (513 in gallery) to 494 (577 in gallery)
+<!-- photos: 675 (513 in gallery) to 494 (577 in gallery) -->
 
-Our last day already! I can't believe our vacation has gone so fast ... but I say that every time. We haven't been eating much for breakfast, usually just a Kind bar or leftovers from the previous night's dinner. Today followed the same pattern: we shared the three remaining slices of pizza from Grimaldis (it's even great cold, and I'm not really a fan of cold pizza!) and some cranberry juice. 
+Our last day already! I can't believe our vacation has gone so fast ... but I say that every time. We haven't been eating much for breakfast, usually just a Kind bar or leftovers from the previous night's dinner. Today followed the same pattern: we shared the three remaining slices of pizza from Grimaldi's (it's even great cold, and I'm not really a fan of cold pizza!) and some cranberry juice. 
 
 Today was forecast to be a super hot day, even a few degrees hotter than yesterday's 102°. We wanted some exercise but knew we weren't in any condition to take on more than a very short hike in these conditions. After the usual deliberation, we chose to go back to Phoenix Mountains Preserve and hike the easy trail ("Nature") that makes a 1.5-mile loop around a double unnamed peak east of Piestewa Peak. It was already hot by the time we arrived at the parking area so we knew that would be the extent of our hike, which was fine. 
 
@@ -33,13 +33,13 @@ The Nature trail is a more rugged version of the usually simple, level, often pa
 
 After this peak the trail descends and then stays mostly on the level for the rest of the middle portion of the hike. Only once we came back around the double peak and were already getting close to the parking area did we come to a steeper decent. A short, steep, quick ascent then took us back up to the parking lot.
 
-The trail and surroundings were quite different from yesterday's hike even though the two parks are geographically close. Today's trail was rocky the whole way with some loose scree on the slopes. Breezes were fewer although still occurred often enough to keep the conditions pleasant. The mountains here are closer to the trail and have a much larger presence; the cacti here don't fade into the background but in most areas they are more of a foreground complement to the mountain scenery. We saw saguaros, cholla, ferocactus, opuntia, and already-bloomed-out mammillaria. One south-facing slope contained at least a dozen impressive clusters. At some point along the way (perhaps when we encountered misleading blazes) Rich also declared that he is now Marvel Comics new superhero Scorpionman, having been stung by a radioactive scorpion. What's his superpower? Whining! :)
+The trail and surroundings were quite different from yesterday's hike even though the two parks are geographically close. Today's trail was rocky the whole way with some loose scree on the slopes. Breezes were fewer although still occurred often enough to keep the conditions pleasant. The mountains here are closer to the trail and have a much larger presence; the cacti here don't fade into the background but in most areas they are more of a foreground complement to the mountain scenery. We saw saguaros, cholla, ferocactus, opuntia, and already-bloomed-out mammillaria. One south-facing slope contained at least a dozen impressive clusters. At some point along the way (perhaps when we encountered misleading blazes) Rich also declared that he is now Marvel Comics new superhero Scorpionman, having been stung by a radioactive scorpion. What's his superpower? Whining! :grin:
 
 {% include tracklog.html %}
 
 We hadn't quite had our fill of heat yet, nor of cacti (well, of cacti anyway) so we decided to head over to the Desert Botanical Gardens at Papago Park for a few hours. Neither one of us had visited these gardens before and we soon learned that we had been missing out on a great experience! My only wish was that it had been cooler so we could really take in the extent of the exhibits. 
 
-Our self-guided tour began in the garden shop, where we bought another bag of prickly pear licorice (can't get enough of this deliciously tart candy!) and confirmed that they do sell most of their items on their website. That's convenient since they offer  a lot of beautiful items, but we can't take much more with us on the plane. 
+Our self-guided tour began in the garden shop, where we bought another bag of prickly pear licorice (can't get enough of this deliciously tart candy!) and confirmed that they do sell most of their items on their website. That's convenient since they offer a lot of beautiful items, but we can't take much more with us on the plane. 
 
 We wandered through the entry garden and then moved on to the Desert Wildflowers, and from there to the seasonal butterfly exhibit, which was really relaxing and beautiful and quite different from the one in Tucson since these are native butterflies. The sheer white tent also offered some shade and humidity. Nevertheless we were feeling dehydrated already, so went back to the entrance to buy some water and Powerade. While we drank we watched a ground squirrel watching us. He may or may not have found his way to a few tiny pieces of prickly pear licorice.
 

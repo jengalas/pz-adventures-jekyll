@@ -76,7 +76,7 @@ The whole route was just over 6 miles and while it was a lng hike, it was relati
 
 {% include tracklog.html %}
 
-We met for dinner a little after 5:00 and walked down to Paddy's. Dad and I had the fish sandwich again, and Rich tried something new, the pork sandwich with cheese and slaw. Everything was very tasty! And we each had a Guinness. At one point, just after my father had been saying that he hadn't seen too many buses up here so far, a Martz bus passed by. Knowing that his coworker Ralph was driving for a trip to New England he joked "Hey I'll bet that's Ralph," and then a second later "Hey, that *is* Ralph!" He ran out of the restaurant to try to catch up with Ralph, which he did. They talked for a few minutes while Rich and i finished our drinks.
+We met for dinner a little after 5:00 and walked down to Paddy's. Dad and I had the fish sandwich again, and Rich tried something new, the pork sandwich with cheese and slaw. Everything was very tasty! And we each had a Guinness. At one point, just after my father had been saying that he hadn't seen too many buses up here so far, a Martz bus passed by. Knowing that his coworker Ralph was driving for a trip to New England he joked "Hey I'll bet that's Ralph," and then a second later "Hey, that *is* Ralph!" He ran out of the restaurant to try to catch up with Ralph, which he did. They talked for a few minutes while Rich and I finished our drinks.
 
 {% include gallery.html gallery_id="gallery3" class="" %}
 

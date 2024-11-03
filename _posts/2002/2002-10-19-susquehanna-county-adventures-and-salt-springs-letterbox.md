@@ -63,9 +63,9 @@ After that cache I went alone to the Liberty Park Cache, which I found without i
 
 {% include gallery.html gallery_id="gallery1" class="2by2" %}
 
-After locating the letterbox, I checked on my own nearby <a href="http://www.geocaching.com/seek/cache_details.aspx?ID=9890">Penny Rock Cache</a>, which someone had moved to a new spot. Good thing I located it! (I moved it back.)
+After locating the letterbox, I checked on my own nearby [Penny Rock Cache](https://www.geocaching.com/geocache/GC26A2_penny-rock-cache?ID=9890), which someone had moved to a new spot. Good thing I located it! (I moved it back.)
 
-Note: As of 18 January 2004, this letterbox listing seems to have disappeared from <b>letterboxing.org</b>. Does anyone know if it's still in place?
+Note: As of 18 January 2004, this letterbox listing seems to have disappeared from **letterboxing.org**. Does anyone know if it's still in place?
 
 > Grammar 'R' Us Letterboxes
 >

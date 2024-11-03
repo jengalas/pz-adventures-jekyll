@@ -22,7 +22,7 @@ galleries:
       alt: 
 ---
 
-photos: 732 (454 in gallery) to 777 (482 in gallery)
+<!-- photos: 732 (454 in gallery) to 777 (482 in gallery) -->
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
