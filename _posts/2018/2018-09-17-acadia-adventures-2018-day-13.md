@@ -95,7 +95,7 @@ galleries:
 
 ---
 
-Circumstances combined such that today was the first day we were able to get a bagel and a slice of blueberry pie and take them to the waterfront for breakfast. It was already hot and very humid by 7:30am and we were loving it! We wre happy to be able to enjoy the spicy cilantro cream cheese on a 3 seed bagel and Morning Glory's blueberry pie is always good. 
+Circumstances came together such that today was the first day we were able to get a bagel and a slice of blueberry pie and take them to the waterfront for breakfast. It was already hot and very humid by 7:30am and we were loving it! We were happy to be able to enjoy the spicy cilantro cream cheese on a 3 seed bagel and Morning Glory's blueberry pie is always good. 
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 

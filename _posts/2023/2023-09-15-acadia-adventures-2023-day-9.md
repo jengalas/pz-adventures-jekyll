@@ -29,7 +29,7 @@ galleries:
 
 <!-- ## Day Mtn old trails, Tilting Rock? -->
 
-Finally, a nice, dry (if chilly) morning! I visited both bakeries this morning in search of a plain croissant and a bagel, both of which I found. Both bakeries were pretty busy, too, which surprised me with the storm coming. Today I tried the "bagel of the week" from Slice of Eden, which was rosemary sea salt. It was as delicious as it sounds (assuming you like rosemary, which I do). I had it with the green olive and pimiento cream cheese, which was an excellent combination. Rich enjoyed his plain croissant. He brought some tea and coffee over for us from the lobby, which we enjoyed while sitting on the porch as usual.
+Finally, a nice, dry (if chilly) morning! I visited both bakeries in town this morning in search of a plain croissant and a bagel, both of which I found. Both bakeries were pretty busy, too, which surprised me with the storm coming. Today I tried the "bagel of the week" from Slice of Eden, which was rosemary sea salt. It was as delicious as it sounds (assuming you like rosemary, which I do). I had it with the green olive and pimiento cream cheese, which was an excellent combination. Rich enjoyed his plain croissant. He brought some tea and coffee over for us from the lobby, which we enjoyed while sitting on the porch as usual.
 
 We waited a little longer than usual before heading out this morning, to give it a chance to warm up. The air was cooler and a bit drier than it has felt in a long time, and we finally had some sunshine too. 
 
@@ -37,7 +37,7 @@ Rich suggested taking a drive over to Seal Harbor. We could drive the full lengt
 
 Our first stop was at the Hunters Beach trail. We thought we would try accessing the Fandango puzzle solution from there rather than from the Park Loop Road because it looked like it would be a very steep hike down from the road. Rich wanted to try walking a relatively easy, level trail, too. 
 
-There was one other car at the parking area along Cooksey Drive when we pulled in. Two men emerged from the trail as we were getting our gear ready, and they were telling us how spectacular the trail was (we've done it several times before, and it really is spectacular!). They left and we had the whole place to ourselves.  
+There was one other car at the parking area along Cooksey Drive when we pulled in. Two men emerged from the trail as we were getting our gear ready, and they were excitedly telling us how spectacular the trail was (we've done it several times before, and it really is spectacular!). They left and we had the whole place to ourselves.  
 
 The trail starts out smooth but quickly becomes very rooted, and it was slippery after all the recent rain. Rich took his time and didn't seem to have much trouble hiking the trail. I even spotted an NPS boundary marker along the way, a bit off the trail, that I documented on my way back to the car.
 

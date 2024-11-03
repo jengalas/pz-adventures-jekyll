@@ -42,13 +42,13 @@ The history of the Death Hike is long and varied, but for its first 21 years, it
 
 An original tradition of the Death Hike was for the participants to meet at Ken's house early in the morning, where his wife Gina would provide a breakfast of donuts, English muffins, and bagels for us before we headed off to Glen Onoko at the Lehigh Gorge.
 
-This changed in 2015, when Ken and Gina moved to a new townhouse. The breakfast invitation continued for me (although not for the other participants) and Gina began serving the most amazing egg scramble with mushrooms, spinach, and romano cheese.
+This changed in 2015, when Ken and Gina moved to a new townhouse. Fortunately, the breakfast invitation continued for me (although not for the other participants).
 
-Until this year, it made logistical sense for me to stop at Ken and Gina's home for breakfast (and, traditionally, leave my vehicle there while Ken drove us to the hike location). But this year, Ken suggested hiking at Ricketts Glen, which is much more accessible to me via a back route that, sadly, goes nowhere near Ken's house.
+Before this year, it made logistical sense for me to stop at Ken and Gina's home for breakfast (and, traditionally, leave my vehicle there while Ken drove us to the hike location). But this year, Ken suggested hiking at Ricketts Glen, which is much more accessible to me via a back route that, sadly, goes nowhere near Ken's house.
 
 Taking the back route appealed to me so much, but it would be the first time in the history of the Death Hike (with the exception of the two virtual Death Hikes in 2020 and 2021) that I wouldn't be taking I-81. 
 
-While I hate that highway as much as anyone in this area, I admit there was a sense of excitement that built every Death Hike morning as I drove south along that highway, which I had nearly to myself so early in the morning.  And then the drive home down the long grade past Mountain Top, looking into the valley ahead, in early evening—the weather was always beautiful at that time of day, regardless of what kind of weather we had during the hike—somehow signified a shift into the summer season.  
+While I hate that highway as much as anyone else in this area, I admit there was a sense of excitement that built every Death Hike morning as I drove south along that highway, which I had nearly to myself so early in the morning.  And then the drive home down the long grade past Mountain Top, looking into the valley ahead, in early evening—the weather was always beautiful at that time of day, regardless of what kind of weather we had during the hike—somehow signified a shift into the summer season.  
 
 There was another treat that I would be missing out on this year. For the past few years (well, since Ken and Gina moved to their new home) I have been invited over for breakfast on Death Hike morning. It means arriving extra-early, but it also means fabulously delicious scrambled eggs made with mushrooms, spinach, and romano cheese. Gina loads up the plate with a huge portion of the scramble, and serves it with buttered English muffins.
 

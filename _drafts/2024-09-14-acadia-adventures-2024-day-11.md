@@ -17,7 +17,7 @@ post_id: 14400
 layout: post
 ---
 
-This morning was another very light breakfast day - just a banana and a breakfast bar from the lobby, shared between us, and the usual juice, coffee, and tea. It was sunny and already very warm by 8:00am, which usually portends a fully beautiful day here. We had a few ideas for today, one of which was to check out Blagden Preserve, where we haven't hiked in many years. When I checked their website and saw that dogs are not allowed on the preserve, I was even more drawn to spend some time there. Rich was also interested.
+This morning was another very light breakfast day. We just had a banana and a breakfast bar from the lobby, shared between us, and the usual juice, coffee, and tea. It was sunny and already very warm by 8:00am, which usually portends a fully beautiful day here. We had a few ideas for today, one of which was to check out Blagden Preserve, where we haven't hiked in many years. When I checked their website and saw that dogs are not allowed on the preserve, I was even more drawn to spend some time there. Rich was also interested.
 
 On our way to the preserve, we stopped at the nearby intersection of Oak Hill Road and Indian Point Road to look for K 6, a USGS benchmark that somehow we've never searched for. The coordinates I had seemed way off, so I rescaled them from the topo map and tried again. This attempt at least brought me to a nice ledge about the correct distance from the road, which was a good start, but the ledge was completely covered with moss, dead/dried leaves, dead branches, and rotten trees. I didn't even know where to begin to clear off the ledge to look for the mark. I did roll up some of the moss layers to look underneath, and I moved a few of the more reasonably sized branches to no avail. 
 
@@ -25,19 +25,21 @@ Meanwhile Rich was reading the datasheet and looking around for any useful refer
 
 Now it was time to move on to the preserve ... just about a tenth of a mile up the road.
 
-I just happened to look at the datasheet for HIGGINS, the triangulation station we found there back in 2005. I was surprised to see that there was a relatively recent recovery, from 2019 - and even more surprised to read that the contributor was unable to find the station mark (a bolt) or reference mark 1. When I mentioned this to Rich, our plans changed a bit, from just a simple walk to the shore, to trying to find the triangulation station again. Turns out it was trickier than we could have imagined!
+I just happened to look at the datasheet for HIGGINS, the triangulation station we found there back in 2005. I was surprised to see that there was a relatively recent recovery, from 2019, and even more surprised to read that the contributor was unable to find the station mark (a bolt) or reference mark 1. When I mentioned this to Rich, our plans changed a bit, from just a simple walk to the shore, to trying to find the triangulation station again. Turns out it was trickier than we could have imagined!
 
 I seem to have much better phone reception on the island this year, and I had no trouble pulling up the datasheet for HIGGINS and entering the coordinates so we could begin our search. After a short walk along this beautiful fern, moss, and hemlock-lined road, we reached the coordinates. But this area looked so different from what we remembered!
 
-Let's look around some more - these wooded locations can often be deceiving. We didn't see anything that resembled the rock with the bolt set into it, and the woods were much thicker than we remembered.
+Let's look around some more; these wooded locations can often be deceiving. We didn't see anything that resembled the rock with the bolt set into it, and the woods were much thicker than we remembered.
 
 I brought up the HIGGINS page on my website and we looked at the photos. Wow ... this area looks almost _nothing_ like it did in 2005! This was going to take some serious work, I started to think.
 
-But first, we thought we'd try to find the reference marks. One was on a large, tall boulder and the other was in a concrete monument projecting several inches, so we thought we might have a better chance at finding them, and then working backwards (forwards?) from the reference marks to find the station - technically, using the reference marks as references, as they were intended.
+But first, we thought we'd try to find the reference marks. One was on a large, tall boulder and the other was in a concrete monument projecting several inches, so we thought we might have a better chance at finding them, and then working backwards (forwards?) from the reference marks to find the station—technically, using the reference marks as references, as they were intended.
 
 It took a few more minutes and more checking of our previous photos, but then I spotted the monument holding RM 2. The entire monument was thickly covered in moss, soil, and pine needles, but the square shape of the monument was unmistakable once I noticed it.
 
-Then we turned our attention to RM 1. According to the description and our earlier photos, it was set on the very top of a large, rounded boulder projecting at least two feet above the ground. Should be easy to find, right? Well, again, such heavy growth of young pines and spruce have grown up in this area that it was hard to even find the boulder, let alone to get to it! The first boulder we spotted from the road wasn't the one containing the mark, but it is currently obvious enough that we can use it as a reference boulder, if you will, for the boulder holding the actual reference mark. The boulder you want is just a few yards east of the first obvious, large boulder when coming into the woods from the road.
+Then we turned our attention to RM 1. According to the description and our earlier photos, it was set on the very top of a large, rounded boulder projecting at least two feet above the ground. Should be easy to find, right? Well, again, such heavy growth of young pines and spruce have grown up in this area that it was hard to even find the boulder, let alone to get to it! 
+
+The first boulder we spotted from the road wasn't the one containing the mark, but it is currently obvious enough that we can use it as a reference boulder, if you will, for the boulder holding the actual reference mark. The boulder you want is just a few yards east of the first obvious, large boulder when coming into the woods from the road.
 
 The shape of the correct boulder was unmistakable once I saw it, but it was a chore to get to and to clean off the disk. Little did we know what we had in store for us when we started to look in earnest for the station mark itself!
 
@@ -51,7 +53,9 @@ We figured that had to be the rock since it appeared to be the only one anywhere
 
 {% include tracklog.html %}
 
-When we got back to the car, Rich said "I think I'm about done!" I was too, since it really was quite a bit of hot, sweaty work and so tricky to move around in those thick woods. But we were still in the mood to stop at Beech Hill Farm. The place was busy as you would expect on a Saturday, but the space is large enough that it's still easy to move around. The produce looks absolutely perfect, as it always does, and we were wishing we had a way to bring home some of their gorgeous chard, cilantro, and basil. It was too late for the cakes and breads, although there was one whole blueberry pie left.
+When we got back to the car, Rich said "I think I'm about done!" I was too, since it really was quite a bit of hot, sweaty work and so tricky to move around in those thick woods. 
+
+But we were still in the mood to stop at Beech Hill Farm. The place was busy as you would expect on a Saturday, but the space is large enough that it's still easy to move around. The produce looks absolutely perfect, as it always does, and we were wishing we had a way to bring home some of their gorgeous chard, cilantro, and basil. It was too late for the cakes and breads, although there was one whole blueberry pie left.
 
 I had actually come here to restock on "Take it Easy tea," a delicious blend of tulsi (holy basil), rose, and lavender that I bought here last year and enjoy frequently in the evenings. I'm almost out. I also picked up a tin of Chinese black tea and some maple syrup as a gift for someone at work. Rich bought a small bag of Fox Family potato chips to try, and we finished off the bag on the way back to our room. The young woman at the counter was wearing a t-shirt with a rattlesnake design! She said she bought it at Marden's.
 

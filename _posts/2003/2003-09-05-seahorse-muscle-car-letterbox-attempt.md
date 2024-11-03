@@ -27,7 +27,7 @@ galleries:
 
 ---
 
-<!-- TODO: Add photos, figure out dates! This sounds like 9/4 but survey marks were logged on 9/5. Will need to chceck photos. -->
+<!-- TODO: Add photos, figure out dates! This sounds like 9/4 but survey marks were logged on 9/5. Will need to check photos. -->
 
 I saw more rain on this crazy-weather Thursday than I have in a very long time. The day began normally (for a day on vacation, of course). I dropped Aaron off at the golf course, and then went back to Ocean City for a day of geocaching and benchmark hunting. 
 

@@ -105,5 +105,3 @@ Just as we were leaving town I spotted a disk on a bridge bannister. Rich pulled
 Our drive to Bar Harbor was uneventful except for a brief section of Route 3 that had been completely stripped of pavement and is down to literal dirt. Traffic descends a steep hill and then curves back up sharply to meet the regular road surface. It was very short and very weird. And I have no idea how some of the longer RVs we spotted on the road later would have handled it.
 
 We arrived in town and checked in at our hotel at 1:55pm. Our room was ready (earlier than expected) and we collapsed onto the bed! We don't like arriving too late at Rosalie's Pizza, but we needed some rest and we didn't end up walking into town for pizza until 5:30. Our plain pie was great as usual, accompanied by two large Allagash White Ales. We ate the entire medium pizza while involved in deep conversation. Then after a quick trip to an insanely busy Hannaford, we came back to the room to continue our conversation and get ready for bed. 
-
-<!-- TODO Finish benchmark recoveries! -->
