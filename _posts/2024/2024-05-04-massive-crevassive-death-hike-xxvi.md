@@ -64,7 +64,7 @@ After much back and forth, trying to text and call the number, and trying differ
 
 We were already 2/3 of a mile into our hike, and Alan was at the bottom of the gorge and about 15 minutes away by car. But you can always use math to your advantage, right? So Ken texted back:
 
-`"If you drove up and do it counterclockwise we will meet by intermediate value theorem"`
+**`"If you drove up and do it counterclockwise we will meet by intermediate value theorem"`**
 
 and that is indeed what we did!
 
