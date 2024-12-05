@@ -24,8 +24,8 @@
             attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
         })
     };
-    var markMap = map.remove();
-    var markMap = L.map('geocache-map-{{ page.post_id }}').setView([{{ geocache.latitude }}, {{ geocache.longitude }}], 15);
+    var markMap = markMap.remove();
+    markMap = L.map('geocache-map-{{ page.post_id }}').setView([{{ geocache.latitude }}, {{ geocache.longitude }}], 15);
     var marker = L.marker([{{ geocache.latitude }}, {{ geocache.longitude }}]).addTo(markMap);
     marker.bindPopup("{{ geocache.title }}");
 
