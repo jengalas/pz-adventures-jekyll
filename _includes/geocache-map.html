@@ -1,5 +1,5 @@
 <div class="map-wrapper">
-    <div class="map" id="geocache-map-{{ page.post_id }}"></div>
+    <div class="map" id="geocache-map-{{ geocache.geocache_id }}"></div>
 </div>
 
 <script>
@@ -25,7 +25,7 @@
         })
     };
     
-    var markMap = L.map('geocache-map-{{ page.post_id }}').setView([{{ geocache.latitude }}, {{ geocache.longitude }}], 15);
+    var markMap = L.map('geocache-map-{{ geocache.geocache_id }}').setView([{{ geocache.latitude }}, {{ geocache.longitude }}], 15);
     var marker = L.marker([{{ geocache.latitude }}, {{ geocache.longitude }}]).addTo(markMap);
     marker.bindPopup("{{ geocache.title }}");
 

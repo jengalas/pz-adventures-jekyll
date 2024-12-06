@@ -76,18 +76,18 @@
             maxZoom: 16
         });
 
-    var markMap = L.map('tracklog-map', { fullscreenControl: true, }).setView([44.5, -69], 15);
+    var tracklogMap = L.map('tracklog-map', { fullscreenControl: true, }).setView([44.5, -69], 15);
       
-    objBasemaps['OpenStreetMap'].addTo(markMap); // Assign default basemap
+    objBasemaps['OpenStreetMap'].addTo(tracklogMap); // Assign default basemap
     
     var objOverlays = {        
     };     
 
     var gpx = "https://tracklogs.planetzhanna.com/{{ page.tracklog }}";
 
-    var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(markMap);  
+    var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(tracklogMap);  
     
-    L.control.polylineMeasure({unit: 'landmiles', showBearings: true}).addTo(markMap);
+    L.control.polylineMeasure({unit: 'landmiles', showBearings: true}).addTo(tracklogMap);
 
     const lyrGPX = new L.GPX(gpx, {
             async: true,
@@ -105,7 +105,7 @@
                 color: "red"
                 }
             }).on('loaded', (e) => {
-                markMap.fitBounds(e.target.getBounds());
+                tracklogMap.fitBounds(e.target.getBounds());
                 if (e.target.getBounds().intersects(polygon.getBounds())) {
                     ctlLayers.addBaseLayer(lyrME1910Topos,"Maine 1910 Topo");
                     ctlLayers.addBaseLayer(lyrME1945Topos,"Maine 1945 Topo"); 
@@ -135,13 +135,13 @@
                 return div;
             };
 
-            legend.addTo(markMap);
+            legend.addTo(tracklogMap);
 
             let desc = document.querySelector(".track-info");
 
             desc.innerHTML = "<table><tbody><tr><th>Track Data</th></tr><tr><td><b>Total distance</b></td><td>" + distMi + " mi.</td></tr><tr><td><b>Elev. gain/loss</b></td><td> " + elGainFt +"'/" + elLossFt + "'</td></tr></tbody></table>";
           
-            }).addTo(markMap);
+            }).addTo(tracklogMap);
             
     ctlLayers.addOverlay(lyrGPX,"GPX");
        
