@@ -19,6 +19,6 @@ We began our day with another fun puzzle geocache by zzbob. This one was much si
 
 In the afternoon, Rich mentioned that he would like to visit Lackawanna State Park, specifically to check on his geocache there, Cozy Squirrel Lookout. After my amazing red raspberry cobbler came out of the oven (thanks for the berries, Elaine!) we took a drive over to the park and parked near the trailhead for the Turkey Hill Trail. We were unable to find the first part of the geocache—the tree that once held the clue (and that served as the namesake squirrel lookout) has partially rotted away, and half of the tree is now lying on the ground. With the clue nowhere to be found, we set out to look for the second (final) part. We haven't been there in a while, and didn't find it where we expected to. With nettles and poison ivy in the area, we didn't want to wander around too much. We'll go back once we have the exact coordinates in hand. On the plus side, while we were walking around, I found two more small populations of Jack in the Pulpit!
 
-{% include tracklog-old.html %}
+{% include tracklog.html %}
 
 It was getting warm and very humid, and neither of us felt like cooking anything. Pizza (plain and fresh tomato-garlic) from Colarusso's in Clarks Summit was the perfect supper for this summer Friday!
