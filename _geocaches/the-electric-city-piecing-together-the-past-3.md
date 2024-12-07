@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'The Electric City! Piecing Together the Past #3'
-link: https://www.geocaching.com/geocache/GC73RM8_the-electric-city-piecing-together-the-past-3
+link: https://www.geocaching.com/geocache/GC73RM8
 owner: STEARanger
 date: 2017-07-16 00:01:00
 log_type: Found it

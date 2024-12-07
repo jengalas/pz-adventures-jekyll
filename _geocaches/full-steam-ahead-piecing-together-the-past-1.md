@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Full Steam Ahead! Piecing Together the Past #1'
-link: https://www.geocaching.com/geocache/GC73CVF_full-steam-ahead-piecing-together-the-past-1
+link: https://www.geocaching.com/geocache/GC73CVF
 owner: STEARanger
 date: 2017-07-16
 log_type: Found it

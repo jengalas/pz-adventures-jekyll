@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Snow White and the Seven Dwarfs"
-link: http://www.geocaching.com/seek/cache_details.aspx?wp=GC47207
+link: https://www.geocaching.com/geocache/GC47207
 owner: jkur247, NisHollow, Pserine
 date: 2013-05-13 00:01:00
 log_type: Found it

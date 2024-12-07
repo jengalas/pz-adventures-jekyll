@@ -1,19 +1,21 @@
+{% assign geocacheid =  geocache.link | remove: "https://www.geocaching.com/geocache/"  %}
+
 <div class="map-wrapper">
-    <div class="map" id="geocache-map-{{ geocache.geocache_id }}"></div>
+    <div class="map" id="geocache-map-{{ geocacheid }}"></div>
 </div>
 
 <script src="/assets/js/basemaps.js"></script>
 <script>
 
-    var markMap = L.map('geocache-map-{{ geocache.geocache_id }}').setView([{{ geocache.latitude }}, {{ geocache.longitude }}], 15);
-    var marker = L.marker([{{ geocache.latitude }}, {{ geocache.longitude }}]).addTo(markMap);
+    var geocacheMap = L.map('geocache-map-{{ geocacheid }}').setView([{{ geocache.latitude }}, {{ geocache.longitude }}], 15);
+    var marker = L.marker([{{ geocache.latitude }}, {{ geocache.longitude }}]).addTo(geocacheMap);
     marker.bindPopup("{{ geocache.title }}");
 
-    objBasemaps['USGS Topo'].addTo(markMap); // Assign default basemap
+    objBasemaps['USGS Topo'].addTo(geocacheMap); // Assign default basemap
     
     var objOverlays = {  
         'Geocache' : marker      
     };     
 
-    L.control.layers(objBasemaps, objOverlays).addTo(markMap);
+    L.control.layers(objBasemaps, objOverlays).addTo(geocacheMap);
 </script>

@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Anthracite! Piecing Together the Past #9'
-link: https://www.geocaching.com/geocache/GC73TPK_anthracite-piecing-together-the-past-9
+link: https://www.geocaching.com/geocache/GC73TPK
 owner: STEARanger
 date: 2017-07-28
 log_type: Found it

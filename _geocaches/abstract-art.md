@@ -21,5 +21,4 @@ rich_log:  >-
 
   ~Rich in NEPA~ and Zhanna
 post_id: 12634
-geocache_id: 537a
 ---

@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Among the Volumes! Piecing Together the Past #8'
-link: https://www.geocaching.com/geocache/GC73TN2_among-the-volumes-piecing-together-the-past-8
+link: https://www.geocaching.com/geocache/GC73TN2
 owner: STEARanger
 date: 2017-07-19
 log_type: Found it

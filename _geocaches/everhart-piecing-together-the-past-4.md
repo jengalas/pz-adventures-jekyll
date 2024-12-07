@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Everhart! Piecing Together the Past #4"
-link: https://www.geocaching.com/geocache/GC73RNA_everhart-piecing-together-the-past-4
+link: https://www.geocaching.com/geocache/GC73RNA
 owner: STEARanger
 date: 2017-07-17 00:01:00
 log_type: Found it

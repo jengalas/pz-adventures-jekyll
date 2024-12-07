@@ -39,7 +39,6 @@ rich_log:  >-
 
   ~Rich in NEPA~
 post_id: 850
-geocache_id: 356
 image_gallery_zh: gallery2
 image_gallery_r: gallery3
 ---

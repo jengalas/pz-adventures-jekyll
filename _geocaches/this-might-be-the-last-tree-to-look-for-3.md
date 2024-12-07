@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "This might be the last #*&% tree to look for!"
-link: http://www.geocaching.com/geocache/GC143JW
+link: https://www.geocaching.com/geocache/GC143JW
 owner: rxc640
 date: 2007-10-03
 log_type: Note

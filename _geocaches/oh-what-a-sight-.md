@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Oh What A Sight! (Pack 2000)
-link: https://www.geocaching.com/geocache/GC3QJQB_oh-what-a-sight-pack-2000
+link: https://www.geocaching.com/geocache/GC3QJQB
 owner: blitz10035
 date: 2018-04-22
 log_type: Found it

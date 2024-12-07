@@ -30,5 +30,4 @@ rich_log:   >-
 
     ~Rich in NEPA~
 post_id: 12375
-geocache_id: 526
 ---

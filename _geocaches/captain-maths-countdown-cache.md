@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: CaptainMath’s Countdown Cache
-link: https://www.geocaching.com/geocache/GC8V335_captainmaths-countdown-cache
+link: https://www.geocaching.com/geocache/GC8V335
 owner: teamajk (maintained by 0;)Angel)
 date: 2020-07-10 00:00:01
 log_type: Found it

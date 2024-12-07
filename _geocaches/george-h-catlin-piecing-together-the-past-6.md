@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'George H. Catlin! Piecing Together the Past #6'
-link: https://www.geocaching.com/seek/cache_details.aspx?wp=GC73VP9
+link: https://www.geocaching.com/geocache/GC73VP9
 owner: STEARanger
 date: 2017-07-13 00:01:00
 log_type: Found it

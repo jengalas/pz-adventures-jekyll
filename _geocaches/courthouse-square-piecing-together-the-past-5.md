@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Courthouse Square! Piecing Together the Past #5'
-link: https://www.geocaching.com/geocache/GC73RQ1_courthouse-square-piecing-together-the-past-5
+link: https://www.geocaching.com/geocache/GC73RQ1
 owner: STEARanger
 date: 2017-07-18
 log_type: Found it

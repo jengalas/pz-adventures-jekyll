@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'All Aboard! Piecing Together the Past #11'
-link: https://www.geocaching.com/seek/cache_details.aspx?wp=GC73VP9
+link: https://www.geocaching.com/geocache/GC73VP9
 owner: STEARanger
 date: 2017-07-13
 log_type: Found it
@@ -19,5 +19,4 @@ zhanna_log:  >-
 
   Zhanna
 post_id: 10806
-geocache_id: 507
 ---

@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Forging Ahead! Piecing Together the Past #7'
-link: https://www.geocaching.com/geocache/GC73RRR_forging-ahead-piecing-together-the-past-7
+link: https://www.geocaching.com/geocache/GC73RRR
 owner: STEARanger
 date: 2017-07-12 00:01:00
 log_type: Found it

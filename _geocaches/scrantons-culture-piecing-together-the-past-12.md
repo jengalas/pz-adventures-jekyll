@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Scranton's Culture! Piecing Together the Past #12"
-link: https://www.geocaching.com/geocache/GC73VTD_scrantons-culture-piecing-together-the-past-12
+link: https://www.geocaching.com/geocache/GC73VTD
 owner: STEARanger
 date: 2017-07-18 00:01:00
 log_type: Found it

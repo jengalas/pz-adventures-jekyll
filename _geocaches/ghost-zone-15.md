@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Ghost Zone #15"
-link: https://www.geocaching.com/geocache/GC8W57R_ghost-zone-15
+link: https://www.geocaching.com/geocache/GC8W57R
 owner: Baldeagle14
 date: 2020-07-05
 log_type: Found it

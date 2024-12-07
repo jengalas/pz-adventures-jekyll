@@ -19,5 +19,4 @@ zhanna_log: >-
   option to try, and that one worked\! Thanks for a fun challenge\!
 rich_log:
 post_id: 12605
-geocache_id: 537
 ---

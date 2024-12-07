@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Along the Trail! Piecing Together the Past #2'
-link: https://www.geocaching.com/geocache/GC73PJ6_along-the-trail-piecing-together-the-past-2
+link: https://www.geocaching.com/geocache/GC73PJ6
 owner: STEARanger
 date: 2017-08-12
 log_type: Found it

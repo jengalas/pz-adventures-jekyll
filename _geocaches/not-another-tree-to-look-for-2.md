@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Not another #*&% tree to look for!"
-link: http://www.geocaching.com/geocache/GC13P12
+link: https://www.geocaching.com/geocache/GC13P12
 owner: rxc640
 date: 2007-06-22
 log_type: Found it
