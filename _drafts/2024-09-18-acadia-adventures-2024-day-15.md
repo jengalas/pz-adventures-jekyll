@@ -18,6 +18,25 @@ post_id: 14440
 layout: post
 ---
 
+P9181637.JPG
+P9181651.JPG
+P9181656.JPG
+P9181668.JPG
+P9181676.JPG
+P9181684.JPG
+P9181685.JPG
+P9181688.JPG
+P9181692.JPG
+P9181712.JPG
+P9181719.JPG
+P9181727.JPG
+P9181732.JPG
+P9181736.JPG
+P9181743.JPG
+P9182060.JPG
+P9182065.JPG
+P9182067.JPG
+
 How can it be our last day here already?! We say this every year. But two weeks sounds like such a long time, and thinking back on the day we left home, in a way it _feels_ like a long time ago ... but it all went so quickly.
 
 Breakfast was a simple muffin from the lobby, shared between us, and the usual coffee, tea, and juice. Tomorrow morning we may get something a little more exotic—we'll see how hungry we are. But this was perfect for today, and gave us a chance to enjoy yet another warm morning sitting on the porch and discussing old times and where we would explore today.

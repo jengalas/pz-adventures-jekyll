@@ -14,6 +14,24 @@ post_id: 14430
 layout: post
 ---
 
+P9171539.JPG
+P9171547.JPG
+P9171548.JPG
+P9171552.JPG
+P9171556.JPG
+P9171559.JPG
+P9171562.JPG
+P9171566.JPG
+P9171570.JPG
+P9171574c.jpg
+P9171578.JPG
+P9171583c.jpg
+P9171585.JPG
+P9171592.JPG
+P9171613.JPG
+P9171628.JPG
+P9171631.JPG
+
 Today was the rest day that Rich has been waiting for! I went for my breakfast run to A Slice of Eden, where I picked up an egg and cheese sandwich on a croissant for Rich, and a strawberry danish (that was much larger than I expected) for myself. I almost always get a bagel there, but wasn't in the mood for something so big and heavy this morning. (I ended up saving about half of the danish for later.)
 
 After breakfast we discussed a few options for today's activities, including checking out the Quarry Trail or going back to the Cooksey Drive Overlook that we found for the first time last year. We instead landed on checking out the Shore Path from the far end, curious to see how far the reconstruction of the path has come since the severe damage it received over the winter from two back-to-back storms.

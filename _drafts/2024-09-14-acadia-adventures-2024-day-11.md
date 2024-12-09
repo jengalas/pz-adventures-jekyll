@@ -17,6 +17,16 @@ post_id: 14400
 layout: post
 ---
 
+P9141220.JPG
+P9141228.JPG
+P9141240.JPG
+P9141264.JPG
+P9141266.JPG
+P9141268c.jpg
+P9141271.JPG
+P9141276ca.jpg
+P9141283.JPG
+
 This morning was another very light breakfast day. We just had a banana and a breakfast bar from the lobby, shared between us, and the usual juice, coffee, and tea. It was sunny and already very warm by 8:00am, which usually portends a fully beautiful day here. We had a few ideas for today, one of which was to check out Blagden Preserve, where we haven't hiked in many years. When I checked their website and saw that dogs are not allowed on the preserve, I was even more drawn to spend some time there. Rich was also interested.
 
 On our way to the preserve, we stopped at the nearby intersection of Oak Hill Road and Indian Point Road to look for K 6, a USGS benchmark that somehow we've never searched for. The coordinates I had seemed way off, so I rescaled them from the topo map and tried again. This attempt at least brought me to a nice ledge about the correct distance from the road, which was a good start, but the ledge was completely covered with moss, dead/dried leaves, dead branches, and rotten trees. I didn't even know where to begin to clear off the ledge to look for the mark. I did roll up some of the moss layers to look underneath, and I moved a few of the more reasonably sized branches to no avail. 

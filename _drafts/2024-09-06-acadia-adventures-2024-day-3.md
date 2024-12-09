@@ -18,6 +18,45 @@ post_id: 14320
 layout: post
 ---
 
+P9060080.JPG
+P9060084.JPG
+P9060085.JPG
+P9060087.JPG
+P9060090.JPG
+P9060091.JPG
+P9060093.JPG
+P9060100.JPG
+P9060106.JPG
+P9060108.JPG
+P9060115.JPG
+P9060118.JPG
+P9060131.JPG
+P9060139.JPG
+P9060141.JPG
+P9060145.JPG
+P9060147c.jpg
+P9060149.JPG
+P9060151.JPG
+P9060154.JPG
+P9060166c.jpg
+P9060172.JPG
+P9060182c.jpg
+P9060199c.jpg
+P9060208c.jpg
+P9060218.JPG
+P9060227c.jpg
+P9060246.JPG
+P9060248.JPG
+P9060252c.jpg
+P9060256.JPG
+P9060260c.jpg
+P9060262c.jpg
+P9060269c.jpg
+P9060283c.jpg
+P9060285c.jpg
+P9060290c.jpg
+
+
 Today was a day for resting and catching up, or at least that's what we both had in mind when we woke up this morning. Still stuffed after huge lobster rolls and pizza yesterday, we picked up a few items from the hotel lobby for a very light breakfast this morning, which we ate on the porch as usual.
 
 A gentle stroll into town brought us past a place we've never noticed before, The Loft, that has sushi and poke on the menu and looks intriguing. (It also seems to be connected in some way to Testa's downstairs, but we'll try to find out more about that). We also found the Traveling Lobster micro-cafe that Constance mentioned to us yesterday when we checked in. Although we almost never eat lunch on vacation, it could be a good spot to get a lobster roll and sit in the park.

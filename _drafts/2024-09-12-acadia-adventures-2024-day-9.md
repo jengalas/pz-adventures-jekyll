@@ -16,6 +16,25 @@ post_id: 14380
 layout: post
 ---
 
+P9120931.JPG
+P9120934.JPG
+P9120944.JPG
+P9120945.JPG
+P9120948.JPG
+P9120948a.jpg
+P9120951.JPG
+P9120952.JPG
+P9120955.JPG
+P9120966.JPG
+P9120968.JPG
+P9120971.JPG
+P9120973.JPG
+P9120975.JPG
+P9120978.JPG
+P9120991.JPG
+P9120995.JPG
+P9121030c.jpg
+
 Part of our plans for today were decided last night when I was investigating some benchmarks we hadn't searched for yet and noticed a "not found" recovery note from JRO from 2018 on C 145 (PE0303). I found the mark on the USGS topo map and scaled coordinates from the map; then I checked the recent Street Views of the area, and I spotted something very close to the coordinates that looked exactly like a disk (round, brown, on a rock face in the right location and facing the right direction, and about the right distance above ground). Rich and I were both nearly convinced that was the benchmark, and we could hardly wait to check it out this morning.
 
 After a large and very filling dinner last night, we weren't in the mood for much of anything for breakfast. We split a small yogurt and a muffin, along with the customary tea, coffee, and orange juice. We took some time to get ready and then headed over toward Southwest Harbor to see if we could confirm our suspicions about the benchmark.

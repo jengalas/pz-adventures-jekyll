@@ -17,6 +17,25 @@ post_id: 14420
 layout: post
 ---
 
+P9161439c.jpg
+P9161445.JPG
+P9161454.JPG
+P9161457.JPG
+P9161459.JPG
+P9161474.JPG
+P9161482.JPG
+P9161484.JPG
+P9161490.JPG
+P9161491.JPG
+P9161502.JPG
+P9161511.JPG
+P9161513.JPG
+P9161519.JPG
+P9161521.JPG
+P9161523.JPG
+P9161526c.jpg
+P9162057.JPG
+
 We were still full from last night's dinner, so breakfast this morning was exceptionally light: just one strawberry breakfast bar, split between us, and a tiny orange for me. We ate on the porch as usual, while discussing what we wanted to do today.
 
 I've wanted to take Rich to see the Tilting Rock since I first found and followed the trail to it last year. It was a beautifully interesting and geologically intriguing area, and I knew he would like it. For some reason he was thinking that we had to access the area via the carriage roads, so he was understandably reluctant, since carriage road walks can be very long between access points. But when I showed him where it was and how we could access the area, he agreed that it could be a good activity for today!

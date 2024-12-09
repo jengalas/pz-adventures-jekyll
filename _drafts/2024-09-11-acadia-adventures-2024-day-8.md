@@ -17,6 +17,22 @@ post_id: 14370
 layout: post
 ---
 
+P9110860.JPG
+P9110866.JPG
+P9110871.JPG
+P9110872.JPG
+P9110877.JPG
+P9110880.JPG
+P9110886.JPG
+P9110889.JPG
+P9110892.JPG
+P9110895.JPG
+P9110908.JPG
+P9110909.JPG
+P9110916.JPG
+P9110918.JPG
+P9110924.JPG
+
 We had the most bizarre experience this morning at the Black Friar. Last night we decided to go for a slightly heartier breakfast this morning, and the options were the Black Friar or the Sunrise Cafe. The Black Friar is closer, and we were both in the mood for the Eggs Benedict that we've enjoyed so many times before, so that was our choice. 
 
 As the first to arrive, we had our choice of seats, and we took the usual corner spot. Everything seemed fine until our eggs came out. The Hollandaise sauce was clearly broken (I mean it looked and tasted like thick curds of lemony mayonnaise) and the eggs were overcooked (not runny at all). 

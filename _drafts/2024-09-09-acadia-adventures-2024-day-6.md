@@ -18,6 +18,25 @@ post_id: 14350
 layout: post
 ---
 
+P9090587c.jpg
+P9090598c.jpg
+P9090615.JPG
+P9090619.JPG
+P9090624.JPG
+P9090629.JPG
+P9090638c.jpg
+P9090643c.jpg
+P9090648c.jpg
+P9090650c.jpg
+P9090656c.jpg
+P9091941c.jpg
+P9091945c.jpg
+P9091948c.jpg
+P9091950c.jpg
+P9091955c.jpg
+P9091956c.jpg
+P9091963c.jpg
+
 It was another perfectly clear, cool morning. It took us a little while to get moving again, and this time we decided to try a little something different for breakfast, even though we didn't want much to eat. Rich picked up the tea, coffee, and juice as usual from the lobby while I ran down to Mount Dessert Bakery to see what they were offering today. Our thoughts were plain croissants or, if those weren't available, plain bagels with veggie cream cheese. 
 
 A line of about 8 people had already formed seven minutes after the bakery opened, but at least the line was moving quickly. I did not, however, see any plain croissants in the bakery case. But I asked about them when I got to the counter, and they did in fact have plain croissants—they had just come out of the oven. So we had delicious warm croissants for breakfast as we sat on the porch as usual.

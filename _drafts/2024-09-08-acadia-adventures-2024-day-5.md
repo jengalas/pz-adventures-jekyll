@@ -18,6 +18,22 @@ post_id: 14340
 layout: post
 ---
 
+P9080460c.jpg
+P9080470.JPG
+P9080478c.jpg
+P9080488c.jpg
+P9080506c.jpg
+P9080530.JPG
+P9080537c.jpg
+P9080540c.jpg
+P9080549c.jpg
+P9080555c.jpg
+P9080559c.jpg
+P9080564c.jpg
+P9081923c.jpg
+P9081925c.jpg
+
+
 Today started out a little slowly, but we were up and moving around by 7:00 and were so happy to have a slice of Rosalie's pizza to share for breakfast. We complemented it with tea, coffee, and orange juice from the motel lobby. The pizza reheated just fine in the microwave; although it was a little "floppy" it still tasted great. 
 
 It took a little longer to decide on what rest-day activity to choose for today. One idea was to explore the area of the carriage roads that we walked yesterday, but to walk farther and see if we could complete the small trail out to Paradise Hill Road that I found last year (across the carriage road from the Sweet Fern Path). 

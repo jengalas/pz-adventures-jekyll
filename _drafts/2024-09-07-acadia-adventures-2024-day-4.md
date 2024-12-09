@@ -18,6 +18,28 @@ post_id: 14330
 layout: post
 ---
 
+P9070300.JPG
+P9070312.JPG
+P9070319c.jpg
+P9070335.JPG
+P9070345.JPG
+P9070348.JPG
+P9070392.JPG
+P9070395.JPG
+P9070399.JPG
+P9070402.JPG
+P9070417c.jpg
+P9070419.JPG
+P9070420.JPG
+P9070421.JPG
+P9070426.JPG
+P9070431.JPG
+P9070433.JPG
+P9070444.JPG
+P9071884.JPG
+P9071897.JPG
+
+
 This morning felt very different from the past two days. Beneath heavy clouds and very humid air, we began our day with Rich picking up some coffee and tea from the lobby while I took my morning run over to Kennebec Street to see if the Flowered Apron was serving baked goodies this morning. Unfortunately, they weren't, so I ran back to the room and we picked up a blueberry muffin and yogurt from the lobby, both of which we shared.
 
 While we ate breakfast on the porch, Rich noticed that it was starting to rain. It was a very light sprinkle/mist, but before long everything was wet. We went back and forth trying to decide what to do today and eventually chose to drive over toward Norway Drive, with the intention of hiking some of the abandoned Old Norway Drive, or at least seeing what the road conditions were like.
