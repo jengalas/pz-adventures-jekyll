@@ -67,7 +67,7 @@ We discovered that there is a relatively easy path to follow all the way along t
 
 {% include gallery.html gallery_id="gallery2" class="" %}
 
-From at least a hundred yards away, Rich spotted a high ledge that he said would be a perfect spot for the azimuth mark.  I suspected he was right; we just had to get there.  Getting there involved mostly easy ledge walking, and a small amount of bushwhacking and more crevice-hopping.  But he <em>was</em> right!  I skipped ahead and spotted the azimuth mark easily.  We aren’t the only ones who have discovered this ledge lately, though.  The rock very near the mark is scrawled with graffiti in black paint. What is wrong with people?!  All this beauty, and they can’t resist making their pathetic ugly mark upon it. We noticed that the disk is stamped SAM POINT instead of SAMS POINT like the other disks.
+From at least a hundred yards away, Rich spotted a high ledge that he said would be a perfect spot for the azimuth mark.  I suspected he was right; we just had to get there.  Getting there involved mostly easy ledge walking, and a small amount of bushwhacking and more crevice-hopping.  But he _was_ right!  I skipped ahead and spotted the azimuth mark easily.  We aren’t the only ones who have discovered this ledge lately, though.  The rock very near the mark is scrawled with graffiti in black paint. What is wrong with people?!  All this beauty, and they can’t resist making their pathetic ugly mark upon it. We noticed that the disk is stamped SAM POINT instead of SAMS POINT like the other disks.
 
 {% include image.html filename="P1050879cm.jpg" thumb="P1050879b.jpg" caption="Dad enters the Ice Caves." %}
 
