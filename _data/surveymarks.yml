@@ -251,6 +251,10 @@
   mark_type: Survey Mark
   date: 2024-04-12
   post_id: 14260  
+- designation: 007Y
+  mark_type: Survey Mark
+  date: 2024-04-12
+  post_id: 14260    
 - designation: RM 07Y 52.70
   mark_type: Reference Mark
   date: 2024-04-12
@@ -291,6 +295,10 @@
   mark_type: Reference Mark
   date: 2024-04-12
   post_id: 14260  
+- designation: 20Y
+  mark_type: Survey Mark
+  date: 2024-04-12
+  post_id: 14260    
 - designation: 21Y? RESET
   mark_type: Survey Mark
   date: 2024-04-12
