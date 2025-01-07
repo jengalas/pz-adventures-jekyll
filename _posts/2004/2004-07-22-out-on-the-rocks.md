@@ -23,14 +23,14 @@ galleries:
   gallery2:
     suffix: cs
     images:
-    - filename: 
+    - filename: P7220010
       alt: The contents of the cache, as of this visit.
-    - filename: 
+    - filename: P7220014
       alt: Signing in ... “on the rocks.”
-    - filename: 
+    - filename: P7220028
       alt: John tells us about a typical day at work.
-    - filename: 
+    - filename: P7220034
       alt: Zhanna and John pose for a photo for my cache log.
-    - filename: 
+    - filename: P7220042
       alt: Convenient parking on a lazy, hazy Summer day.                        
 ---

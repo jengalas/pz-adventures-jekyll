@@ -46,5 +46,6 @@ rich_log: >-
   ~Rich in NEPA~
 image_gallery_zh: gallery1
 image_gallery_r: gallery2  
+image_gallery_r_class: 2by2
 post_id: 849
 ---
