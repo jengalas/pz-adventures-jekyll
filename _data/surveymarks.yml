@@ -219,26 +219,26 @@
   mark_type: Survey Mark
   date: 2024-06-29
   post_id: 14290    
-- designation: TT STA NO 24 B
-  mark_type: Survey Mark
-  date: 2024-05-04
-  post_id: 14280
-- designation: 152 HLZ
-  mark_type: Survey Mark
-  date: 2024-05-04
-  post_id: 14280
-- designation: 153 HLZ
+- designation: 58 CH
   mark_type: Survey Mark
   date: 2024-05-04
   post_id: 14280
 - designation: 51 CH
   mark_type: Survey Mark
   date: 2024-05-04
-  post_id: 14280
-- designation: 58 CH
+  post_id: 14280  
+- designation: 153 HLZ
   mark_type: Survey Mark
   date: 2024-05-04
-  post_id: 14280
+  post_id: 14280  
+- designation: 152 HLZ
+  mark_type: Survey Mark
+  date: 2024-05-04
+  post_id: 14280  
+- designation: TT STA NO 24 B
+  mark_type: Survey Mark
+  date: 2024-05-04
+  post_id: 14280  
 - designation: RM 58X 25.20
   mark_type: Reference Mark
   date: 2024-04-12
@@ -738,7 +738,7 @@
   date: 2019-03-28
   post_id: 11207  
 - designation: A 471
-  pid: CH0067
+  pid: DA1200
   mark_type: Survey Mark
   date: 2019-03-28
   post_id: 11207  
