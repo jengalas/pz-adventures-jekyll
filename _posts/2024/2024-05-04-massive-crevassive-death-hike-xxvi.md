@@ -44,7 +44,7 @@ Within a few minutes, Ken pulled up and parked next to me, just as I was setting
 
 But we knew we could still rely on Alan, right? Ol' Reliable Alan is the most die-hard member of the lifetime Death Hike crew (aside from me, Ken, and Gina, of course) and even though he may disappear for the rest of the year, he is somehow summoned from the depths of New Jersey and appears at the proper date, time, and location each year for the Hike.
 
-But where was he? Before Ken arrived, I had taken a quick run through the parking lot looking for Alan, his Subaru with New Jersey license plates, or anything resembling the above. Nothing. Hmm.
+But where _was_ he? Before Ken arrived, I had taken a quick run through the parking lot looking for Alan, his Subaru with New Jersey license plates, or anything resembling the above. Nothing. Hmm. Wouldn't surprise me if Alan went to the Route 118 lot, where we began the hike last year.
 
 Anyway, Ken assured me that one of his current students, Liam, was really into hiking and backpacking and was almost certain to join us. Which he did, within a few minutes. No one else showed up, although we waited until just past 10:00am. We shrugged, took the (very small) group photo, and headed off on the Highland Trail.
 
