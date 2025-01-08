@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 ruby "3.2.3"
 # gem "rails"
-gem "jekyll", "~> 4.2"
+gem "jekyll"
 gem "webrick", "~> 1.8.2"
 gem "tzinfo", "~> 2.0"
 
