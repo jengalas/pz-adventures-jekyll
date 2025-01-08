@@ -1,3 +1,5 @@
+@use 'sass:color';
+@use 'vars' as *;
 html {
   scroll-behavior: smooth;
   scroll-padding-top: $headerHeight; /* height of sticky header */
@@ -442,8 +444,8 @@ section.comments {
 //== Variables
 //
 $color-white: #fff;
-$color-white-darker: darken($color-white, 5%);
-$color-white-darken: darken($color-white, 15%);
+$color-white-darker: color.adjust($color-white, $lightness: -5%);
+$color-white-darken: color.adjust($color-white, $lightness: -15%);
 $header-height: $headerHeight;
 $nav-toggle-size: 2rem;
 $nav-toggle-transition-speed: .3s;
