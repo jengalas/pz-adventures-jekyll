@@ -17,8 +17,12 @@ galleries:
   gallery1:
     suffix: cvx
     images:
-    - filename: 
+    - filename: 58-ch
       alt: 
+    - filename: 58-chg1
+      alt: 
+    - filename: 58-chg5
+      alt:             
 featured_image: P5046064cvx.jpg    
 ---
 
