@@ -15,14 +15,14 @@ post_id: 14280
 layout: post  
 galleries:
   gallery1:
-    suffix: cvx
+    no_suffix: true
     images:
     - filename: 58-ch
-      alt: 
+      alt: USGS Bench Mark Disk 58 CH
     - filename: 58-chg1
-      alt: 
+      alt: The disk on the large flat rock
     - filename: 58-chg5
-      alt:             
+      alt: Grounds of the Cottage in the Woods Bed & Breakfast            
 featured_image: P5046064cvx.jpg    
 ---
 
@@ -37,6 +37,8 @@ Just like last year, I left our house at 7:00am and took the back roads through 
 The first benchmark I searched for, a USGS mark from 1942 designated **58 CH**, turned out to be the only one I found this morning, despite having high hopes for several marks in the area. 
 
 While doing my research from home, I had noticed that a "large flat rock" (as mentioned in the mark's description) is visible on Google Street View, and I suspected this was the rock that held **58 CH**. I was happy to see that this guess was correct. I parked at the nearby Cottage in the Woods Bed & Breakfast, which was calm and quiet this early morning. Then I walked up to the rock, where I immediately spotted the blue disk poking out halfway from underneath a mat of yellow moss. Somewhat interestingly, the stamped designation is actually **CH 58** rather than **58 CH**. I did not search for **58 CH**'s reference mark today. There is a drainage ditch that flows beneath a side road at approximately the distance given, but I didn't see a stone culvert anywhere in the area.
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 Moving on, I drove to a mark I had on my list last year but did not have time to search for: **51 CH**, another USGS mark that had been set in a church yard nearby. Unfortunately the yard is completely covered with grass and there is no sign of a rock outcrop.
 
