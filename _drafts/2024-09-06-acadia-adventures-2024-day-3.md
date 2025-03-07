@@ -57,11 +57,11 @@ P9060285c.jpg
 P9060290c.jpg
 
 
-Today was a day for resting and catching up, or at least that's what we both had in mind when we woke up this morning. Still stuffed after huge lobster rolls and pizza yesterday, we picked up a few items from the hotel lobby for a very light breakfast this morning, which we ate on the porch as usual.
+Today was a day for resting and catching up, or at least that's what Rich and I both had in mind when we woke up this morning. Still stuffed after huge lobster rolls and pizza yesterday, we picked up a few items from the hotel lobby for a very light breakfast this morning, which we ate on the porch as usual.
 
-A gentle stroll into town brought us past a place we've never noticed before, The Loft, that has sushi and poke on the menu and looks intriguing. (It also seems to be connected in some way to Testa's downstairs, but we'll try to find out more about that). We also found the Traveling Lobster micro-cafe that Constance mentioned to us yesterday when we checked in. Although we almost never eat lunch on vacation, it could be a good spot to get a lobster roll and sit in the park.
+A gentle stroll into town brought us past a place we've never noticed before, The Loft, that has sushi and poke on the menu and looks intriguing. (It also seems to be connected in some way to Testa's downstairs, but we'll try to find out more about that). We also located the Traveling Lobster micro-cafe that Constance mentioned to us yesterday when we checked in. Although we almost never eat lunch on vacation, it could be a good spot to get a lobster roll and sit in the park on a lazy day.
 
-Speaking of no lunch, well, today we ended up getting some lunch (or maybe more like second breakfast, since it was only around 9:45am). I wanted to check out the Sunrise Cafe to make sure they were still in business, and Rich said "let's see what it looks like, and if it's not busy, we'll get a veggie lover's crepe."
+Speaking of lunch, well, today we ended up getting some lunch (or maybe more like second breakfast, since it was only around 9:45am). I wanted to check out the Sunrise Cafe to make sure they were still in business, and Rich said "let's see what it looks like, and if it's not busy, we'll get a veggie lover's crepe."
 
 Although there was a line of about 5 people waiting for coffee and pastries (probably mostly people who were going on the whale watching tour) only one table was occupied, so we decided to go for it. The veggie crepe came out after a short wait, and it was incredible! It may have been the best one yet. Full of lots of roasted red peppers and onions, and avocado and arugula. Just perfect. 
 
