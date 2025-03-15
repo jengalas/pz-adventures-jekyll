@@ -41,9 +41,9 @@ One theme for today and this past week (and month) - TIRED! Rich has been suffer
 
 The first part of the drive went surprisingly well, with very little traffic. There was quite a bit of road work along I-84 (and, as an aside, a large truck fire on I-84 westbound near the Connecticut border) and that slowed us down and caused what traffic there was to accumulate more than would be expected at 2:00am. But once we worked our way through that area, the traffic thinned out again.
 
-We were beyond tired when we reached the Charleton Plaza on the Mass Pike just after 4:30am. We washed up, and then experienced a brief moment of panic when, while sitting at one of the booths at the nearly deserted plaza, we looked at our email confirmation and saw that it specified only _13_ nights and not 14 as we had requested and planned for.
+We were beyond tired when we reached the Charleton Plaza on the Mass Pike just after 4:30am. We washed up, and then experienced a brief moment of panic when, while sitting at one of the booths at the nearly deserted plaza, we looked at our email confirmation for our lodging and saw that it specified only _thirteen_ nights and not fourteen as we had requested and planned for.
 
-We went back to the car to get some rest, figuring we would sort it out in the morning (or, well, later in the morning). 
+We went back to the car to get some rest, figuring we would sort it out in the morning (or, well, _later_ in the morning). 
 
 As I lay down I had a vague memory of having noticed the incorrect confirmation back in January, calling the hotel manager to sort it out, and not receiving an updated confirmation but noting that the amount charged to our credit card was correct for 14 nights, so we figured that was good enough. We still couldn't be sure that was exactly what happened. We would have to wait until we found a trustworthy wifi connection to check our previous credit card statements.
 
@@ -51,20 +51,20 @@ We rested until about 6:30, actually getting some sleep this time, and then head
 
 I had intended to drive all the way to Young's Lobster Pound in Belfast, but stopped just a few miles before that as we were getting low on gas. Rich filled up at the Shell station and then he took over the driving from there, and we arrived at the lobster pound just before 11:00am.
 
-Our lobster rolls were amazing as always, very filling and a most welcome breakfast because my belly had felt empty since at least 3:00am. The place was busy too, much busier than I had ever seen it. In years past there were one or two other couples there at most, and at least once we had the place entirely to ourselves. Today it was sunny, warm and relatively humid, and breezy near the water.
+Our lobster rolls were amazing as always, very filling and a most welcome breakfast because my belly had felt empty since at least 3:00am. The place was busy too, much busier than I had ever seen it. In years past there were at most one or two other couples eating an early lunch there, and at least once we'd had the place entirely to ourselves. Today it was sunny, warm and relatively humid, and breezy near the water.
 
 Speaking of the water, there were three large yellow "rubber duckie" figures floating near the bridge. They were labeled **Joy**, **Greater Joy**, and **Greatest Joy** from smallest to largest. Very strange and amusing art installation, if that's what it is.
 
 We were very tired and sleepy and didn't want to spend too much time poking around today, but I did want to search for the **43 Bangor 1899** benchmark at the Buck Memorial Library in Bucksport. We were _right there_ last year, but I wasn't aware of the benchmark at that time, so we missed out on it.
 
-It was a very easy find on the steps of the library, and the picturesque library building made for some nice photos. We didn't stay long in Bucksport today. We headed directly toward Bar Harbor and arrived just before 2:00pm, hoping to check in early.
+The benchmark was a very easy find on the steps of the library, and the picturesque library building made for some nice photos. We didn't stay long in Bucksport today but instead headed directly toward Bar Harbor, arriving just before 2:00pm and hoping to check in early.
 
-Before anything else, we wanted to check out credit card statements to find out if we had indeed paid for 14 nights. Our wifi password from last year worked, and we were able to verify the information while sitting on the porch of the room we were about to check into.
+Before doing anything else, we wanted to check our credit card statements to find out if we had indeed paid for 14 nights. Our wifi password from last year still worked, and we were able to verify the information while sitting on the porch of the room we were about to check into.
 
-A sign greeted us at the desk reminding guests that check-in was at 3:00pm, so initially we were irked and disappointed that we might have to wait another hour (both being very tired and in need of a nap!). Fortunately the woman working at the desk this afternoon came by within a few minutes and said that we could have the room as soon as she checked it over.
+A sign greeted us at the desk in the lobby reminding guests that check-in was at 3:00pm, so initially we were irked and disappointed that we might have to wait another hour (both being very tired and in need of a nap!). Fortunately the woman working at the desk this afternoon came by within a few minutes and said that we could have the room as soon as she checked it over.
 
 We brought our stuff inside and collapsed for about 30 minutes until the pull of pizza and a LARGE glass of beer was stronger than the pull for more sleep. (That was a _strong_ pull!) 
 
-We were at Rosalie's by 3:55 and began the line-up, and consequently we were the first ones in the door. We claimed the first booth downstairs, our usual first-night favorite, and Rich ordered us our usual first-night medium plain pie and two large Allagash white ales. Conversation was as perfect as always, listening to the good music in Rosalie's and talking about some interesting music-related videos that Rich had seen. We watched one of the videos when we got back to the room (after a quick trip to Hannaford) and then collapsed into bed.
+We were at Rosalie's by 3:55pm, first in the queue, and consequently we were the first ones in the door. We claimed the first booth downstairs, our usual first-night favorite, and Rich ordered us our usual first-night medium plain pie and two large Allagash white ales. Conversation was as perfect as always, listening to the good music in Rosalie's and talking about some interesting music-related videos that Rich had seen. We watched one of those videos when we returned to the room (after a quick trip to Hannaford) and then collapsed into bed.
 
 {% include gallery.html gallery_id="gallery2" class="" %}
