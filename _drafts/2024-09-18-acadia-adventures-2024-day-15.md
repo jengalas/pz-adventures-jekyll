@@ -9,8 +9,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 18SEP24.gpx
@@ -37,9 +35,9 @@ P9182060.JPG
 P9182065.JPG
 P9182067.JPG
 
-How can it be our last day here already?! We say this every year. But two weeks sounds like such a long time, and thinking back on the day we left home, in a way it _feels_ like a long time ago ... but it all went so quickly.
+How can it be our last day in Maine already?! We say this every year. But two weeks sounds like such a long time, and thinking back on the day we left home, in a way it _feels_ like a long time ago ... but it all passed by so quickly.
 
-Breakfast was a simple muffin from the lobby, shared between us, and the usual coffee, tea, and juice. Tomorrow morning we may get something a little more exotic—we'll see how hungry we are. But this light breakfast was perfect for today, and gave us a chance to enjoy yet another warm morning sitting on the porch and discussing old times and where we would explore today.
+Breakfast was a simple muffin from the lobby, shared between us, and the usual coffee, tea, and juice. Tomorrow morning we may consider something a little more exotic—we'll see how hungry we are. But this light breakfast was perfect for today, and it gave us a chance to enjoy yet another warm morning sitting on the porch and discussing old times and where we would explore today.
 
 I had in mind a few activities in the Seal Harbor area again. Still intrigued by the Tilting Rock and the geologically fascinating area surrounding it, I suggested that we return there to check out the road leading north from the T-intersection near the Rock, and if there was time, poke around in the area to see what else we might find.
 
