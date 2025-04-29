@@ -45,7 +45,7 @@ Dad and I took a quick run up to check out the bridge. It wasn't until I reached
 
 After visiting the neck, we were interested in learning more about the tunnel, and we dug up the following resources:
 
-[Wash-out in Pennsylvania. Trains Delayed by Accident at the Vosburg Tunnel](https://thesurveystation.netlify.app/wp-content/uploads/2013/11/Vosburg_washout.pdf).
+[Wash-out in Pennsylvania. Trains Delayed by Accident at the Vosburg Tunnel](https://thesurveystation.com/assets/docs/publications/Vosburg_washout.pdf).
 
 [The Vosburg Tunnel. A Description of its Construction. Illustrated](https://babel.hathitrust.org/cgi/pt?id=hvd.32044091941195&view=1up).
 

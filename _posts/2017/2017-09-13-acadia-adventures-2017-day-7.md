@@ -75,7 +75,7 @@ We parked as directed at the National Park Headquarters and hiked up to the weat
 
 From here, we hiked straight up the old ski slope! The "trail" was obvious and still pretty wide, and definitely slippery since it was nearly vertical with lots of dried leaves underfoot. But it was a short distance, just a few hundred feet. 
 
-Soon we were on more level ground and the footing changed to a grassy slope studded here and there with rocks and bedrock outcroppings, which here typically means we're getting closer to a summit. And we were. In another hundred feet we saw the summit cairn and the new (2011) NPS/URI triangulation station [MARS](https://thesurveystation.netlify.app/surveymarks/mars/) set nearby. Whew!!! We were all pretty whipped! (Did I mention it was another day of full sun, and temperatures well into the 80s?)
+Soon we were on more level ground and the footing changed to a grassy slope studded here and there with rocks and bedrock outcroppings, which here typically means we're getting closer to a summit. And we were. In another hundred feet we saw the summit cairn and the new (2011) NPS/URI triangulation station [MARS](https://thesurveystation.com/surveymarks/mars/) set nearby. Whew!!! We were all pretty whipped! (Did I mention it was another day of full sun, and temperatures well into the 80s?)
 
 {% include gallery.html gallery_id="gallery2" class="" %}
 

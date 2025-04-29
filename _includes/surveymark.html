@@ -13,20 +13,20 @@
 
     {% if mark.pid %}
       {% if mark.custom_permalink %}
-        <li><a href="https://thesurveystation.netlify.app/surveymarks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
       {% elsif mark.mark_type == "Reference Mark" %}
-        <li><a href="https://thesurveystation.netlify.app/reference-marks/{{ mark.pid | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+        <li><a href="https://thesurveystation.com/reference-marks/{{ mark.pid | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
       {% else %}
-        <li><a href="https://thesurveystation.netlify.app/surveymarks/{{ mark.pid | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.pid | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
       {% endif %}  
     {% elsif mark.custom_permalink %}
       {% if mark.mark_type == "Reference Mark" %}
-        <li><a href="https://thesurveystation.netlify.app/reference-marks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+        <li><a href="https://thesurveystation.com/reference-marks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
       {% else %}
-        <li><a href="https://thesurveystation.netlify.app/surveymarks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.custom_permalink | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
       {% endif %}
     {% else %}
-        <li><a href="https://thesurveystation.netlify.app/surveymarks/{{ mark.designation | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+        <li><a href="https://thesurveystation.com/surveymarks/{{ mark.designation | slugify }}">{{ mark.designation }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
 
     {% endif %}
 {% endfor %}
