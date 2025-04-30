@@ -3,7 +3,7 @@ _schema: default
 title: Wheelin' and Dealin'
 link: https://www.geocaching.com/geocache/GC93D9
 owner: patw
-date: 2002-11-03 00:04:00
+date: 2002-11-03 00:01:00
 log_type: Found it
 display_coords: N 41° 24.672' W 074° 44.744'
 latitude: '41.4112'
@@ -16,7 +16,7 @@ zhanna_log:  >-
 
 
   Zhanna and Aaron
-image_gallery_zh: gallery4
+image_gallery_zh: gallery3
 image_gallery_zh_class:   
 post_id: 14480
 ---

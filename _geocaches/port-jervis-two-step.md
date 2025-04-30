@@ -16,7 +16,7 @@ zhanna_log:  >-
 
 
   Zhanna and Aaron
-image_gallery_zh: gallery3
-image_gallery_zh_class:   
+image_gallery_zh: gallery2
+image_gallery_zh_class: single  
 post_id: 14480
 ---

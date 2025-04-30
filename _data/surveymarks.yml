@@ -3758,6 +3758,41 @@
 
 # 2002
 
+- designation: NY CENTER OF POPULATION
+  pid: DG9708
+  mark_type: Survey Mark  
+  date: 2002-11-03
+  post_id: 14480
+- designation: LAUREL
+  pid: LY2611
+  mark_type: Survey Mark  
+  date: 2002-11-03
+  post_id: 14480    
+- designation: LAUREL RM 1
+  mark_type: Reference Mark  
+  date: 2002-11-03
+  custom_permalink: ly2611-rm-1
+  post_id: 14480  
+- designation: TRI STATES 1942
+  pid: LY2604
+  mark_type: Reference Mark  
+  date: 2002-11-03
+  post_id: 14480  
+- designation: NEVERSINK
+  pid: LY0728
+  mark_type: Survey Mark  
+  date: 2002-11-03
+  post_id: 14480  
+- designation: AIRWAY BN 22 B S DEL WATER GAP
+  pid: KV3571
+  mark_type: Survey Mark  
+  date: 2002-10-20
+  post_id: 275    
+- designation: MT MINSI
+  pid: KV3570
+  mark_type: Survey Mark  
+  date: 2002-10-20
+  post_id: 275   
 - designation: K 339
   pid: KU1438
   mark_type: Survey Mark  

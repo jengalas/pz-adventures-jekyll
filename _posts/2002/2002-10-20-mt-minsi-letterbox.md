@@ -11,7 +11,7 @@ tags:
 excerpt: >- 
   
 geocaches: true
-surveymarks: false
+surveymarks: true
 post_id: 275
 layout: post  
 galleries:

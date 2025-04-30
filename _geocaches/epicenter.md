@@ -15,8 +15,6 @@ zhanna_log:  >-
   We'd visited this park earlier in the year for the Monet Cache, but we didn't know about this marker at that time. It's neat! The area was deserted on this chilly Sunday, except for one woman walking a dalmatian. It's an attractive and significant spot... thanks for sharing it with us!
 
 
-  Zhanna and Aaron
-image_gallery_zh: gallery2
-image_gallery_zh_class:   
+  Zhanna and Aaron 
 post_id: 14480
 ---

@@ -3,7 +3,7 @@ _schema: default
 title: Round Robin
 link: https://www.geocaching.com/geocache/GC9091
 owner: patw
-date: 2002-11-03 00:01:00
+date: 2002-11-03 00:04:00
 log_type: Found it
 display_coords: N 41° 22.574' W 074° 41.682'
 latitude: '41.376233'
@@ -17,6 +17,5 @@ zhanna_log:  >-
 
   Zhanna and Aaron
 image_gallery_zh: gallery1
-image_gallery_zh_class:   
 post_id: 14480
 ---
