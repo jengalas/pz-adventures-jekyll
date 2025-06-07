@@ -61,46 +61,26 @@ We checked in at the Days Inn, which was not luxurious but was OK.  After taking
  
 <!--  Dickey Ridge photos -->
 
-[justified_image_grid ids=3411,3413,3421]
+
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-zh_at_dickey1
-zh_at_dickey3
-zh_r_at_dickey
 
 
 <!--  Massanutten, Indian Old Fields photos -->
 
-[justified_image_grid ids=3408,3416,3417]
-
 {% include gallery.html gallery_id="gallery2" class="" %}
-
-r_at_massanutten
-zh_at_indian1
-zh_at_indian2
 
 
 <!--  Deer and Range View photos -->
 
-[justified_image_grid ids=3407,3409,3420]
-
 {% include gallery.html gallery_id="gallery3" class="" %}
 
-deer
-r_at_rangeview1
-zh_at_rangeview
 
 <!--  Hogback Overlook and Little Hogback photos -->
 
-[justified_image_grid ids=3414,3418,3419]
 
 {% include gallery.html gallery_id="gallery4" class="" %}
 
-zh_at_hogback
-zh_at_little_hog1
-zh_at_little_hog2
-
-
-[caption id="attachment_10386" align="alignleft" width="640"]<a href="https://planetzhanna.com/images/2006/09/29/zh_at_hw3666.jpg"><img src="https://planetzhanna.com/adventures/wp-content/uploads/2006/09/zh_at_hw3666b.jpg" alt="Zhanna assumes the position and begins to document HW3666!" width="640" height="480" class="size-full wp-image-10386" /></a> Zhanna assumes the position and begins to document HW3666![/caption]
+{% include image.html filename="zh_at_hw3666.jpg" thumb="zh_at_hw3666b.jpg" caption="Zhanna assumes the position and begins to document HW3666!" %}
 
