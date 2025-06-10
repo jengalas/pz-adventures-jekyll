@@ -1,83 +1,83 @@
-{% assign todays = site.geocaches | where: "post_id", page.post_id | sort: 'date'  %}
+{% assign todays = site.geocaches | where: "post_id", page.post_id | sort: 'date' %}
 
 <h2 class="geocache-heading">
   {% if todays.size == 1 %}
-    Today's Geocache
-  {% else %}  
-    Today's Geocaches
+  Today's Geocache
+  {% else %}
+  Today's Geocaches
   {% endif %}
 </h2>
 
 {% for geocache in todays %}
 
 {% if {{geocache.bogus}} %}
-  {% assign warning = ":warning:" %}
-  {% assign warning_message = "These coordinates are bogus—solve the puzzle to determine the correct coordinates!" %}
+{% assign warning = ":warning:" %}
+{% assign warning_message = "These coordinates are bogus—solve the puzzle to determine the correct coordinates!" %}
 {% elsif geocache.first_stage %}
-  {% assign warning = ":warning:" %}  
-  {% assign warning_message = "This is a multi-stage geocache. Coordinates given are for the first stage." %}
+{% assign warning = ":warning:" %}
+{% assign warning_message = "This is a multi-stage geocache. Coordinates given are for the first stage." %}
 {% elsif geocache.moving %}
-  {% assign warning = ":warning:" %}  
-  {% assign warning_message = "This is a moving geocache. Coordinates given are for the location where we found the cache." %}  
+{% assign warning = ":warning:" %}
+{% assign warning_message = "This is a moving geocache. Coordinates given are for the location where we found the
+cache." %}
 {% elsif geocache.virtual %}
-  {% assign warning = ":warning:" %}  
-  {% assign warning_message = "This is a virtual geocache with no physical container to locate." %}  
+{% assign warning = ":warning:" %}
+{% assign warning_message = "This is a virtual geocache with no physical container to locate." %}
 {% endif %}
 
 <div class="accordionItem">
-    <h3>{{ geocache.title }}</h3>
-    <div>
-        <div class="geocache-data-wrapper">
-            <div class="geocache-data">
-                <ul>
-                    <li><b>Owner:</b> {{ geocache.owner }}</li>
-                    <li><b>Location:</b> {{ geocache.display_coords }} {{ warning }}</li>
-                    <li><b>Log Type:</b> {{ geocache.log_type }}</li>
-                    <li><b>Date:</b> {{ geocache.date | date: "%e %B %Y" }}</li>
-                    <li><a href="{{ geocache.link }}">Original Geocaching.com listing</a></li>
-                </ul>
-                {{ warning }} {{ warning_message }}
-            </div>
-             <div class="geocache-map">
-                {% include geocache-map.html %}
-            </div>            
-        </div>
-
-        <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="example-tabs">
-            <ul class="js-tablist">
-                {% if geocache.zhanna_log %}
-                    <li class="js-tablist__item">
-                        <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's Log</a>
-                    </li>
-                {% endif %}
-                {% if geocache.rich_log %}
-                    <li class="js-tablist__item">
-                        <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's Log</a>
-                    </li>
-                {% endif %}
-            </ul>
-                {% if geocache.zhanna_log %}
-                    <div id="id_first-{{ forloop.index }}" class="js-tabcontent">                        
-                        {{ geocache.zhanna_log | markdownify }}
-                        {% if geocache.image_gallery_zh %}
-                            {% assign gal_zh = geocache.image_gallery_zh %}
-                            {% assign gal_zh_class = geocache.image_gallery_zh_class %}
-                            {% include gallery.html gallery_id=gal_zh class=gal_zh_class %}
-                        {% endif %}
-                    </div>
-                {% endif %}
-                {% if geocache.rich_log %}
-                    <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
-                        {{ geocache.rich_log | markdownify }}
-                        {% if geocache.image_gallery_r %}
-                            {% assign gal_r = geocache.image_gallery_r %}
-                            {% assign gal_r_class = geocache.image_gallery_r_class %}
-                            {% include gallery.html gallery_id=gal_r class=gal_r_class %}
-                        {% endif %}
-                    </div>
-                {% endif %}
-          </div>
+  <h3>{{ geocache.title }}</h3>
+    <div class="geocache-data-wrapper responsive-two-columns">
+      <div class="geocache-data">
+        <ul>
+          <li><b>Owner:</b> {{ geocache.owner }}</li>
+          <li><b>Location:</b> {{ geocache.display_coords }} {{ warning }}</li>
+          <li><b>Log Type:</b> {{ geocache.log_type }}</li>
+          <li><b>Date:</b> {{ geocache.date | date: "%e %B %Y" }}</li>
+          <li><a href="{{ geocache.link }}">Original Geocaching.com listing</a></li>
+        </ul>
+        {{ warning }} {{ warning_message }}
+      </div>
+      <div class="map-wrapper">
+        {% include geocache-map.html %}
+      </div>
     </div>
+
+
+    <div class="js-tabs" data-existing-hx="h2" data-tabs-prefix-class="example-tabs">
+      <ul class="js-tablist">
+        {% if geocache.zhanna_log %}
+        <li class="js-tablist__item">
+          <a href="#id_first-{{ forloop.index }}" class="js-tablist__link" data-selected="1">Zhanna's Log</a>
+        </li>
+        {% endif %}
+        {% if geocache.rich_log %}
+        <li class="js-tablist__item">
+          <a href="#id_second-{{ forloop.index }}" class="js-tablist__link">Rich's Log</a>
+        </li>
+        {% endif %}
+      </ul>
+      {% if geocache.zhanna_log %}
+      <div id="id_first-{{ forloop.index }}" class="js-tabcontent">
+        {{ geocache.zhanna_log | markdownify }}
+        {% if geocache.image_gallery_zh %}
+        {% assign gal_zh = geocache.image_gallery_zh %}
+        {% assign gal_zh_class = geocache.image_gallery_zh_class %}
+        {% include gallery.html gallery_id=gal_zh class=gal_zh_class %}
+        {% endif %}
+      </div>
+      {% endif %}
+      {% if geocache.rich_log %}
+      <div id="id_second-{{ forloop.index }}" class="js-tabcontent">
+        {{ geocache.rich_log | markdownify }}
+        {% if geocache.image_gallery_r %}
+        {% assign gal_r = geocache.image_gallery_r %}
+        {% assign gal_r_class = geocache.image_gallery_r_class %}
+        {% include gallery.html gallery_id=gal_r class=gal_r_class %}
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
 </div>
 {% endfor %}
-
