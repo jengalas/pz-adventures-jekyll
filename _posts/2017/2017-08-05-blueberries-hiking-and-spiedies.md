@@ -7,7 +7,7 @@ categories:
   - hiking
 tags:
 excerpt: >-
-  While on our walk on the Lackawanna River Heritage Trail this morning, Rich and I found "Piecing Together the Past #2."
+  
 featured_image: P1090063clx.jpg
 geocaches: false
 surveymarks: false
