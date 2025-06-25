@@ -22,8 +22,39 @@ galleries:
     - filename: 3-amd-g2
       alt: This bridge was built in 1957.
     - filename: maybe-44-chg1
-      alt: It isn't much to look at, but this ledge is a promising location for 44 CH.           
+      alt: It isn't much to look at, but this ledge is a promising location for 44 CH.   
   gallery2:
+    suffix: cvx
+    images:
+    - filename: P5064899
+      alt:        
+    - filename: P5064904
+      alt:      
+    - filename: P5064906
+      alt:      
+    - filename: P5064908
+      alt: 
+  gallery3:
+    suffix:
+    images:
+    - filename: P5064912
+      alt:      
+    - filename: P5064913
+      alt:       
+    - filename: P5064911
+      alt:      
+    - filename: P5064914
+      alt:    
+  gallery4:
+    suffix:
+    images:
+    - filename: P5064918
+      alt:      
+    - filename: P5064921
+      alt:       
+    - filename: P5064926
+      alt:                            
+  gallery5:
     suffix: cvx
     images:
     - filename: P5065060
@@ -74,18 +105,25 @@ Alan and I chatted for a few minutes and snacked on some brownies I had brought 
 
 It took only a few more minutes for another vehicle to arrive. This group of four students—Mike, Shaaf, Jacob, and Anthony—were the only others who joined us today. There is no cell service in this area, so we waited until just after 10:00am just in case someone was running late. But apparently no one else was up for the challenge today.
 
+{% include gallery.html gallery_id="gallery2" class="2by2" %}
+
 There is no "death sign" at Ricketts Glen, but the kiosk at the end of the parking lot made for a decent group photo spot.  And in looking closely at the posted signs, I spotted a few that were at least somewhat reminiscent of the Glen Onoko death sign. A tripod and a camera with a self-timer made it easy to set up the group shot. Soon, we were done and heading north into the woods. 
+
+{% include gallery.html gallery_id="gallery3" class="2by2" %}
 
 The first mile or so follows Kitchen Creek quite closely along an old roadbed. It is mostly level and winds gently through hardwood trees. I spotted a few wildflowers here, mostly yellow violets, and I also spotted the first fractal fern of our journey (but it doesn't count because I'm one of the hike organizers!).  
 
+{% include gallery.html gallery_id="gallery4" class="" %}
+
 The trail passes over a few small wooden plank bridges as it crosses the creek, and it is still quite level and easily accessible at this point. This is precisely the easy woodland walk that we hoped would provide great anticipation as we drew nearer to the falls, and I think it served that purpose for at least some of us (others may have been talking too much to really notice, but that socialization is also part of the hike). After about a mile, though, the trail begins to climb.
+
 
 
 We had decided to return to our post-hike pizza spot from last year, King's Pizza in Mountain Top. This is a nice option because they have good food and drinks and plenty of room for our group. It's quite a drive from Rickett's Glen, though; it took about 40 minutes to drive out to the highway and circle up and around on Route 309. But we all made it there in good time and without getting lost.
 
 The staff at King's were kind enough to give us a reception room that was technically closed, so we had not just the whole table but actually the whole room to ourselves. Figuring out what to order is the most challenging part of the day! :grin: But we settled on the grandma-style pizza as recommended by someone Ken knew; a margherita pizza; and one more pizza topped half with sausage, and half as a Monks special (sausage, mushrooms, and onions). I ordered a cheese calzone to bring home for Rich, too.  Many raspberry iced teas helped us rehydrate after all the climbing! Fabulous fellowship as always, and it was over far too soon.
 
-{% include gallery.html gallery_id="gallery2" class="" %}
+{% include gallery.html gallery_id="gallery5" class="" %}
 
 I decided to take the back route home, and thoroughly enjoyed the drive through Luzerne and Wyoming Counties this evening. Listening to The Cranberries' album "Stars," as I was on all my travels today, was a perfect complement to the sunshine lighting up the delicate new foliage of spring.
 
