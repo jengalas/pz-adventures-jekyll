@@ -27,34 +27,107 @@ galleries:
     suffix: cvx
     images:
     - filename: P5064899
-      alt:        
+      alt: Arriving to find a nearly empty parking lot       
     - filename: P5064904
-      alt:      
+      alt: But of course Alan is already here!     
     - filename: P5064906
-      alt:      
+      alt: The rest of the group gathers.     
     - filename: P5064908
-      alt: 
+      alt: Leading the way! 
   gallery3:
-    suffix:
+    suffix: cvx
     images:
     - filename: P5064912
-      alt:      
+      alt: The closest thing we could find to a “Death Sign”    
     - filename: P5064913
-      alt:       
+      alt: “Death Kiosk,” maybe?      
     - filename: P5064911
-      alt:      
+      alt: Heading west from the parking lot toward the Falls Trail     
     - filename: P5064914
-      alt:    
+      alt: Passing a small picnic area on the way   
   gallery4:
-    suffix:
+    suffix: cvx
     images:
     - filename: P5064918
       alt:      
     - filename: P5064921
       alt:       
     - filename: P5064926
-      alt:                            
+      alt:         
   gallery5:
+    suffix: cvx
+    images:
+    - filename: P5064930
+      alt:      
+    - filename: P5064932
+      alt:       
+    - filename: P5064937
+      alt:          
+    - filename: P5064940
+      alt:      
+    - filename: P5064943
+      alt:      
+    - filename: P5064945
+      alt:                             
+    - filename: P5064949
+      alt:      
+    - filename: P5064954-Edit
+      alt:  
+    - filename: P5064958
+      alt:      
+    - filename: P5064961
+      alt:   
+    - filename: P5064964
+      alt:   
+    - filename: P5064965
+      alt:   
+    - filename: P5064967
+      alt:  
+    - filename: P5064968
+      alt:    
+    - filename: P5064970
+      alt:
+    - filename: P5064971
+      alt:
+    - filename: P5064976
+      alt:            
+    - filename: P5064980
+      alt:
+    - filename: P5064983
+      alt:
+    - filename: P5064984
+      alt:
+    - filename: P5064986
+      alt:     
+    - filename: P5064991
+      alt:
+    - filename: P5064996
+      alt: 
+    - filename: P5065004
+      alt:     
+    - filename: P5065013
+      alt: 
+    - filename: P5065018
+      alt:         
+    - filename: P5065021
+      alt:  
+    - filename: P5065023
+      alt:  
+    - filename: P5065024
+      alt:    
+    - filename: P5065027
+      alt: 
+    - filename: P5065030
+      alt:      
+    - filename: P5065036
+      alt:   
+    - filename: P5065038
+      alt:      
+    - filename: P5065042
+      alt:   
+    - filename: P5065044
+      alt:                                                                   
+  gallery6:
     suffix: cvx
     images:
     - filename: P5065060
@@ -107,6 +180,8 @@ It took only a few more minutes for another vehicle to arrive. This group of fou
 
 {% include gallery.html gallery_id="gallery2" class="2by2" %}
 
+{% include image.html filename="P5064909cvx.jpg" thumb="P5064909b.jpg" caption="The standard pre-hike group photo " %}
+
 There is no "death sign" at Ricketts Glen, but the kiosk at the end of the parking lot made for a decent group photo spot.  And in looking closely at the posted signs, I spotted a few that were at least somewhat reminiscent of the Glen Onoko death sign. A tripod and a camera with a self-timer made it easy to set up the group shot. Soon, we were done and heading north into the woods. 
 
 {% include gallery.html gallery_id="gallery3" class="2by2" %}
@@ -117,13 +192,15 @@ The first mile or so follows Kitchen Creek quite closely along an old roadbed. I
 
 The trail passes over a few small wooden plank bridges as it crosses the creek, and it is still quite level and easily accessible at this point. This is precisely the easy woodland walk that we hoped would provide great anticipation as we drew nearer to the falls, and I think it served that purpose for at least some of us (others may have been talking too much to really notice, but that socialization is also part of the hike). After about a mile, though, the trail begins to climb.
 
+{% include gallery.html gallery_id="gallery5" class="" %}
 
+{% include image.html filename="P5065059cvx.jpg" thumb="P5065059b.jpg" caption="As usual, some of us are looking a little too energetic at the end of the hike!" %}
 
 We had decided to return to our post-hike pizza spot from last year, King's Pizza in Mountain Top. This is a nice option because they have good food and drinks and plenty of room for our group. It's quite a drive from Rickett's Glen, though; it took about 40 minutes to drive out to the highway and circle up and around on Route 309. But we all made it there in good time and without getting lost.
 
 The staff at King's were kind enough to give us a reception room that was technically closed, so we had not just the whole table but actually the whole room to ourselves. Figuring out what to order is the most challenging part of the day! :grin: But we settled on the grandma-style pizza as recommended by someone Ken knew; a margherita pizza; and one more pizza topped half with sausage, and half as a Monks special (sausage, mushrooms, and onions). I ordered a cheese calzone to bring home for Rich, too.  Many raspberry iced teas helped us rehydrate after all the climbing! Fabulous fellowship as always, and it was over far too soon.
 
-{% include gallery.html gallery_id="gallery5" class="" %}
+{% include gallery.html gallery_id="gallery6" class="" %}
 
 I decided to take the back route home, and thoroughly enjoyed the drive through Luzerne and Wyoming Counties this evening. Listening to The Cranberries' album "Stars," as I was on all my travels today, was a perfect complement to the sunshine lighting up the delicate new foliage of spring.
 
