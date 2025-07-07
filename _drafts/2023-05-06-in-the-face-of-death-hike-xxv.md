@@ -68,31 +68,31 @@ galleries:
     - filename: P5064943
       alt:      
     - filename: P5064945
-      alt:                             
+      alt: Murray Reynolds                            
     - filename: P5064949
-      alt:      
+      alt:       
     - filename: P5064954-Edit
-      alt:  
+      alt: Sheldon Reynolds 
     - filename: P5064958
-      alt:      
+      alt: Sheldon Reynolds     
     - filename: P5064961
-      alt:   
+      alt: Sheldon Reynolds  
     - filename: P5064964
-      alt:   
+      alt: Sheldon Reynolds  
     - filename: P5064965
       alt:   
     - filename: P5064967
-      alt:  
+      alt: Harrison Wright 
     - filename: P5064968
-      alt:    
+      alt: Harrison Wright   
     - filename: P5064970
-      alt:
+      alt: Harrison Wright
     - filename: P5064971
-      alt:
+      alt: Harrison Wright
     - filename: P5064976
-      alt:            
+      alt: Harrison Wright            
     - filename: P5064980
-      alt:
+      alt: Harrison Wright
     - filename: P5064983
       alt:
     - filename: P5064984
@@ -100,7 +100,7 @@ galleries:
     - filename: P5064986
       alt:     
     - filename: P5064991
-      alt:
+      alt: Erie
     - filename: P5064996
       alt: 
     - filename: P5065004
@@ -118,13 +118,13 @@ galleries:
     - filename: P5065027
       alt: 
     - filename: P5065030
-      alt:      
+      alt: Ganoga     
     - filename: P5065036
-      alt:   
+      alt: Ganoga  
     - filename: P5065038
-      alt:      
+      alt: Ganoga     
     - filename: P5065042
-      alt:   
+      alt: Ganoga  
     - filename: P5065044
       alt:                                                                   
   gallery6:
@@ -148,9 +148,9 @@ An original tradition of the Death Hike was for the participants to meet at Ken'
 
 This changed in 2015, when Ken and Gina moved to a new townhouse. Fortunately, the breakfast invitation continued for me (although not for the other participants).
 
-Before this year, it made logistical sense for me to stop at Ken and Gina's home for breakfast (and, traditionally, leave my vehicle there while Ken drove us to the hike location). But this year, Ken suggested hiking at Ricketts Glen, which is much more accessible to me via a back route that, sadly, goes nowhere near Ken's house.
+In years past, it made logistical sense for me to stop at Ken and Gina's home for breakfast (and, traditionally, leave my vehicle there while Ken drove us to the hike location). But this year, Ken suggested hiking at Ricketts Glen, which is much more accessible to me via a back route that, sadly, goes nowhere near Ken's house.
 
-Taking the back route appealed to me so much, but it would be the first time in the history of the Death Hike (with the exception of the two virtual Death Hikes in 2020 and 2021) that I wouldn't be taking I-81. 
+Taking the back route was very appealing to me, but it would be the first time in the history of the Death Hike (with the exception of the two virtual Death Hikes in 2020 and 2021) that I wouldn't be taking I-81. 
 
 While I hate that highway as much as anyone else in this area, I admit there was a sense of excitement that built every Death Hike morning as I drove south along that highway, which I had nearly to myself so early in the morning.  And then the drive home down the long grade past Mountain Top, looking into the valley ahead, in early evening—the weather was always beautiful at that time of day, regardless of what kind of weather we had during the hike—somehow signified a shift into the summer season.  
 
