@@ -49,84 +49,84 @@ galleries:
     suffix: cvx
     images:
     - filename: P5064918
-      alt:      
+      alt: Kitchen Creek     
     - filename: P5064921
-      alt:       
+      alt: Ken points out the closed area that will prevent us from doing the full Falls Trail loop.      
     - filename: P5064926
-      alt:         
+      alt: The students look on, anticipating the day's activities.   
+    - filename: P5064930
+      alt: The level, wooded area along Kitchen Creek     
+    - filename: P5064932
+      alt: The level, wooded area along Kitchen Creek      
+    - filename: P5064937
+      alt: Excitement builds as we cross one of the small wooden bridges.        
   gallery5:
     suffix: cvx
-    images:
-    - filename: P5064930
-      alt:      
-    - filename: P5064932
-      alt:       
-    - filename: P5064937
-      alt:          
+    images:      
     - filename: P5064940
-      alt:      
+      alt: Of course, we are taking the difficult route!!!     
     - filename: P5064943
-      alt:      
+      alt: Kitchen Creek flowing rapidly     
     - filename: P5064945
-      alt: Murray Reynolds                            
+      alt: Murray Reynolds Falls                           
     - filename: P5064949
-      alt:       
+      alt: Creekside scene      
     - filename: P5064954-Edit
-      alt: Sheldon Reynolds 
+      alt: Sheldon Reynolds Falls
     - filename: P5064958
-      alt: Sheldon Reynolds     
+      alt: Steps climb alongside Sheldon Reynolds Falls    
     - filename: P5064961
-      alt: Sheldon Reynolds  
+      alt: A gathering of nerds at Sheldon Reynolds Falls 
     - filename: P5064964
-      alt: Sheldon Reynolds  
+      alt: A gathering of nerds at Sheldon Reynolds Falls  
     - filename: P5064965
-      alt:   
+      alt: Climbing higher ...  
     - filename: P5064967
-      alt: Harrison Wright 
+      alt: Nearing Harrison Wright Falls
     - filename: P5064968
-      alt: Harrison Wright   
+      alt: A nice display today at Harrison Wright Falls  
     - filename: P5064970
-      alt: Harrison Wright
+      alt: Harrison Wright Falls photo-ops
     - filename: P5064971
-      alt: Harrison Wright
+      alt: Harrison Wright Falls photo-ops
     - filename: P5064976
-      alt: Harrison Wright            
+      alt: Harrison Wright Falls photo-ops            
     - filename: P5064980
-      alt: Harrison Wright
+      alt: Harrison Wright Falls photo-ops
     - filename: P5064983
-      alt:
+      alt: A pretty day to be in the woods
     - filename: P5064984
-      alt:
+      alt: Registered Natural Landmark plaque near Waters Meet
     - filename: P5064986
-      alt:     
+      alt: More signage at Waters Meet    
     - filename: P5064991
-      alt: Erie
+      alt: Majestic 47' Erie Falls
     - filename: P5064996
-      alt: 
+      alt: Joining the train of people hiking today
     - filename: P5065004
-      alt:     
+      alt: Red trillium     
     - filename: P5065013
-      alt: 
+      alt: It is the perfect time of year to catch these beauties in bloom!
     - filename: P5065018
-      alt:         
+      alt: Slippery roots!        
     - filename: P5065021
-      alt:  
+      alt: The steps can also be slippery. 
     - filename: P5065023
-      alt:  
+      alt: Levels of cascades 
     - filename: P5065024
-      alt:    
+      alt: A cool spot   
     - filename: P5065027
-      alt: 
+      alt: Rounding the bend along the trail ...
     - filename: P5065030
-      alt: Ganoga     
+      alt: Ganoga Falls, the tallest waterfall in the park (94')     
     - filename: P5065036
-      alt: Ganoga  
+      alt: Cooling off at Ganoga Falls
     - filename: P5065038
-      alt: Ganoga     
+      alt: Yeah, really cool!     
     - filename: P5065042
-      alt: Ganoga  
+      alt: OK, that's a little better.  
     - filename: P5065044
-      alt:                                                                   
+      alt: Heading back (mostly) the way we came.                                                                  
   gallery6:
     suffix: cvx
     images:
@@ -193,6 +193,10 @@ The first mile or so follows Kitchen Creek quite closely along an old roadbed. I
 The trail passes over a few small wooden plank bridges as it crosses the creek, and it is still quite level and easily accessible at this point. This is precisely the easy woodland walk that we hoped would provide great anticipation as we drew nearer to the falls, and I think it served that purpose for at least some of us (others may have been talking too much to really notice, but that socialization is also part of the hike). After about a mile, though, the trail begins to climb.
 
 {% include gallery.html gallery_id="gallery5" class="" %}
+
+Once we reached Mohawk Falls near the top of the climb, we had a decision to make - go back entirely the way we'd come, or try something a little different. In order to make somewhat of a loop hike, we decided to take the Old Beaver Dam Road Trail, which has a spur that rejoins the Falls Trail at Ganoga Falls. This was a quiet (because no one seems to use it), relatively subdued walk through the woods just west of the spectacle of the falls - such a different environment just a few hundred yards away from the main attraction.
+
+By the time we joined the main trail again, it was midafternoon and things were getting crazy-busy. Loud toddlers and unruly Boy Scouts were just a few of the treasures we had to contend with along the way, but we made it through, getting another look at each waterfall from above. Once we reached level ground again, we enjoyed another peaceful walk through the woods along Kitchen Creek while we discussed our pizza options.
 
 {% include image.html filename="P5065059cvx.jpg" thumb="P5065059b.jpg" caption="As usual, some of us are looking a little too energetic at the end of the hike!" %}
 
