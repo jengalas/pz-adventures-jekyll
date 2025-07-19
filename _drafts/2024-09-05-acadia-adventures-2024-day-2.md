@@ -15,6 +15,56 @@ post_id: 14310
 layout: post
 ---
 
+P9041843.jpg
+P9041844.jpg
+P9041846dc.jpg
+P9041857c.jpg
+P9041864.jpg
+P9041872.jpg
+P9041878.jpg
+P9041881.jpg
+P9050001.jpg
+P9050004.jpg
+P9050006.jpg
+P9050009.jpg
+P9050010.jpg
+P9050012.jpg
+P9050016.jpg
+P9050017.jpg
+P9050018.jpg
+P9050021.jpg
+P9050025.jpg
+P9050026.jpg
+P9050028.jpg
+P9050030.jpg
+P9050034.jpg
+P9050041 - Copy.jpg
+P9050041.jpg
+P9050044.jpg
+P9050045 - Copy.jpg
+P9050045.jpg
+P9050050.jpg
+P9050057.jpg
+P9050059.jpg
+P9050064c.jpg
+P9050067c.jpg
+P9050074.jpg
+P9050075.jpg
+P9050081.jpg
+P9050083.jpg
+P9050090.jpg
+P9050094.jpg
+P9050100.jpg
+P9050104.jpg
+P9050108.jpg
+P9050113.jpg
+P9050115.jpg
+P9050129.jpg
+P9050132.jpg
+P9050136.jpg
+P9050142.jpg
+
+
 All through Massachusetts the traffic was relentless until well after midnight. Even past 1:00am, it was much heavier than we expected. But as usual, it thinned out a bit once we hit the Maine border, and we were at the rest area near Kittery by 1:30am. We rested until around 6:00am, washed up (noting, but not taking advantage of, the full blueberry bush in the native flora garden outside the rest stop entrance!) and then got on our way again. I had one remaining piece of a lemon yogurt cake to snack on for a light breakfast.
 
 Traffic on I-95 in Maine was typical morning commuter traffic for the most part, not too crazy or intense, and there weren't any delays. GPS indicated that we would arrive at our planned stop, Young's Lobster Pound (for our traditional lobster roll breakfast, of course), at 9:05am, just five minutes after they opened, which was perfect. 
