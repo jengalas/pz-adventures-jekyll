@@ -23,9 +23,9 @@ We knew we'd still have plenty of time to kill this morning, given that check-in
 
 The lobster rolls were incredibly amazing, as always. They may have contained even more lobster than usual—we were both saying there must be an entire large lobster in here! They included so much sweet, firm claw meat and also my favorite part, the meat from the small legs that is so tender and flavorful. The buttery, toasted buns and a bit of mayo and lettuce made for the perfect contrast to the meat.
 
-While we ate, Rich looked across toward the highway bridge (looking, I'm sure, for the large ducks that were here last year as part of a mysterious art installation but are now, just as mysteriously, gone). He commented, "I wonder what that low bridge is right in front of the highway bridge. A pedestrian bridge? Railroad bridge?" 
+While we ate, Rich looked across toward the highway bridge (searching, I thought, for the large ducks that were here last year as part of a mysterious art installation but are now, just as mysteriously, gone). He commented, "I wonder what that low bridge is right in front of the highway bridge. A pedestrian bridge? Railroad bridge?" 
 
-I remember having noticed it last year and wondered about why it was placed so close to the other bridge and more importantly, how boats passed through since it is so low to the water. But I neglected to comment on it, or look into it further, because we were so entranced by the ducks.
+I remember having noticed it last year and wondered about why it was placed so close to the other bridge and more importantly, how boats passed through since it is so low to the water. But I had neglected to comment on it, or look into it further, because we were so entranced by the ducks.
 
 Well, this year we were intrigued, and I took a moment to look it up on my phone. It was indeed a pedestrian bridge—a footbridge—and it appeared that there were small parking areas on either end of the bridge. We planned on checking it out (lots of time to kill, remember, and this is the kind of thing we love coming across!). 
 
