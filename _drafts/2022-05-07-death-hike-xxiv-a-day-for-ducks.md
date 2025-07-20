@@ -24,6 +24,12 @@ galleries:
 featured_image: IMG_9777cvx.jpg                                                        
 ---      
 
+About a month ago, Ken and I began our traditional annual planning sessions. While it is nominally a relaxing and joyful activity to celebrate the senior math majors' conquering of their challenging curriculum, it also marks the end of the academic year for me and Ken, and—despite the weather—is usually the first activity of the year that makes us believe that despite the long winter we've just had, summer truly is coming.
+
+The history of the Death Hike is long and varied, but for its first 21 years, it was held at Glen Onoko Falls on the Tuesday before Memorial Day. The closure of the Glen Onoko Falls trail in 2019 and then COVID-19 in 2020 and 2021 required us to change our plans (and even the date of the hike) significantly. 
+
+<!-- (See last year's write-up for more details about that.) -->
+
 Planning session on April 6. Due to the fact that graduation was moved up to May 21 this year, there is no Senior Week, and of course the Monkses will be leaving for Colorado by the 21st. So there is no opportunity to use the traditional Death Hike algorithm to choose the date. We could also not choose a weekday due to classes, and the weekend before finals was out. So our only option was the weekend of May 7-8. For no really good reason, we chose Saturday, the 7th.
 
 We also had to choose a new venue. The traditional venue, Glen Onoko Falls trail, was closed to public access in 2019, just after our last in-person Death Hike. We had discussed possibly holding future hikes along the appropriately named Shades of Death trail in Hickory Run State Park. The park has a lot of interesting history, somewhat somber and spooky, which would make it an appropriate location. But the hike itself would be rather tame, without much elevation gain and no great views to be had. Still, we thought it was a good choice.
@@ -45,7 +51,7 @@ The students were so wet and, in some cases not wearing "appropriate footwear," 
 We passed the small chapel and then emerged on Route 534, where we took a small detour to the old cemetery cloistered in the woods just north of the highway. Here we were able to find some of the graves from the dam burst catastrophe that Ken told us about during one of his "living kiosks" throughout the walk. Had it been a nicer day, we would have spent much more time here exploring and examining the old headstones.
 
 
-Story while we were cleaning up with bathroom and beach towels in the visitors center of little kid asking why we had been hiking and mother saying "I have no idea, honey, I really have no idea."
+Story while we were cleaning up with bathroom and beach towels in the visitors center of little kid asking why we had been hiking and mother shaking her head and saying "I have no idea, honey, I really have no idea."
 
 {% include tracklog.html %}
 
