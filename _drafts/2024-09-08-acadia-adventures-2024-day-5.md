@@ -16,25 +16,44 @@ surveymarks: true
 tracklog: 08SEP24.gpx
 post_id: 14340
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9080470
+      alt:        
+    - filename: P9080478
+      alt: 
+    - filename: P9080488
+      alt:        
+    - filename: P9080506
+      alt:   
+    - filename: P9080530
+      alt:       
+    - filename: P9081923
+      alt:   
+    - filename: P9081925
+      alt:       
+  gallery2:
+    suffix: cvx
+    images:
+    - filename: P9080537
+      alt:        
+    - filename: P9080540
+      alt: 
+    - filename: P9080549
+      alt:        
+    - filename: P9080555
+      alt:   
+    - filename: P9080559
+      alt:       
+    - filename: P9080564
+      alt:            
 ---
 
-P9080460c.jpg
-P9080470.JPG
-P9080478c.jpg
-P9080488c.jpg
-P9080506c.jpg
-P9080530.JPG
-P9080537c.jpg
-P9080540c.jpg
-P9080549c.jpg
-P9080555c.jpg
-P9080559c.jpg
-P9080564c.jpg
-P9081923c.jpg
-P9081925c.jpg
-
-
 Today started out a little slowly, but we were up and moving around by 7:00 and were so happy to have a slice of Rosalie's pizza to share for breakfast. We complemented it with tea, coffee, and orange juice from the motel lobby. The pizza reheated just fine in the microwave; although it was a little "floppy" it still tasted great. 
+
+{% include image.html filename="P9080460cvx.jpg" thumb="P9080460csm.jpg" caption="" %}
 
 It took a little longer to decide on what rest-day activity to choose for today. One idea was to explore the area of the carriage roads that we walked yesterday, but to walk farther and see if we could complete the small trail out to Paradise Hill Road that I found last year (across the carriage road from the Sweet Fern Path). 
 
@@ -42,13 +61,15 @@ Well, eventually we decided to investigate the rest of Old Norway Drive. After w
 
 The first hour or so of the hike was great. We saw some interesting mosses and lichens, a caterpillar, spider, some more old metal junk in the woods that we couldn't identify, and a tiny jack-in-the-pulpit in fruit. 
 
+{% include gallery.html gallery_id="gallery1" class="" %}
+
 But as we were getting closer to the northern end, we had an encounter with a very nasty woman. Long story short, we asked her to leash her dogs (because we have been attacked in the past), and she started yelling immediately that she didn't have leashes, didn't have to leash her dogs because this was private property, and that we had to get out because it was private. We told her that there were no signs stating that, which there are not from the southern end, and she went full screaming Karen on us, whipping out pepper spray (yes, Rich had it too, but it was for the dogs) and eventually called the cops. 
 
 They were waiting for us when we arrived back at the southern end of the road. They said they had no issue with us being there because there was no indication from the southern end that it was private, that the parking area implied that it was OK, and that they know people walk there all the time. However they were quite sure it was not town property. And they agreed that the private property sign at the northern end was probably placed by a landowner who was just tired of people parking/walking by their house and on the part of the road they own. 
 
-So when we came back to our hotel we spent some time looking at the property maps, and found that the abandoned section of the road has a series of different owners, including College of the Atlantic. Long story short: for now the cops are fine with people walking there as long as they don't cross any posted signs. Not all of the neighbors are fine with that, and may be exceptionally nasty. There are no leash laws in effect.
+So when we came back to our hotel we spent some time looking at the property maps, and found that the abandoned section of the road has a series of different owners, including College of the Atlantic. Long story short: for now the cops are fine with people walking there as long as they don't cross any posted signs. Not all of the neighbors are fine with that, and certain individuals may be exceptionally nasty. There are no leash laws in effect.
 
-After that somewhat demoralizing encounter (at least with the woman - luckily the cops showed the professionalism that one should expect from law enforcement, although that they certainly don't always exhibit) we were unsure what to do for the rest of the afternoon. We ended up checking out the area at the intersection of West Street Extension and Duck Brook Road, thinking we might look for an old foundation ("Russian Tea House"? Who knows.) But it wasn't clear if we could legally park at that intersection, so we passed on it today. Neither of us was looking for another confrontation.
+After that somewhat demoralizing encounter (at least with the woman; luckily the cops showed the professionalism that one should expect from law enforcement, although that they certainly don't always exhibit) we were unsure what to do for the rest of the afternoon. We ended up checking out the area at the intersection of West Street Extension and Duck Brook Road, thinking we might look for an old foundation ("Russian Tea House"? Who knows.) But it wasn't clear if we could legally park at that intersection, so we passed on it today. Neither of us was looking for another confrontation.
 
 We ended up just going back to the room for two hours, before supper, and doing some research as noted above.
 
