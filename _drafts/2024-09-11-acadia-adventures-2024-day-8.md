@@ -15,25 +15,52 @@ surveymarks: true
 tracklog: 11SEP24.gpx
 post_id: 14370
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9110860
+      alt:        
+    - filename: P9110866
+      alt: 
+    - filename: P9110871
+      alt:  
+    - filename: P9110872
+      alt:     
+  gallery2:
+    suffix: cvx
+    images:
+    - filename: P9110880
+      alt:        
+    - filename: P9110886
+      alt: 
+    - filename: P9110889
+      alt:     
+  gallery3:
+    suffix: cvx
+    images:
+    - filename: P9110892
+      alt:        
+    - filename: P9110895
+      alt:         
+  gallery4:
+    suffix: cvx
+    images:
+    - filename: P9110908
+      alt:        
+    - filename: P9110909
+      alt:    
+    - filename: P9110916
+      alt:  
+    - filename: P9110918
+      alt:  
+    - filename: P9110924
+      alt:                            
 ---
 
-P9110860.JPG
-P9110866.JPG
-P9110871.JPG
-P9110872.JPG
-P9110877.JPG
-P9110880.JPG
-P9110886.JPG
-P9110889.JPG
-P9110892.JPG
-P9110895.JPG
-P9110908.JPG
-P9110909.JPG
-P9110916.JPG
-P9110918.JPG
-P9110924.JPG
-
 We had the most bizarre experience this morning at the Black Friar. Last night we decided to go for a slightly heartier breakfast this morning, and the options were the Black Friar or the Sunrise Cafe. The Black Friar is closer, and we were both in the mood for the Eggs Benedict that we've enjoyed so many times before, so that was our choice. 
+
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 As the first to arrive, we had our choice of seats, and we took the usual corner spot. Everything seemed fine until our eggs came out. The Hollandaise sauce was clearly broken (I mean it looked and tasted like thick curds of lemony mayonnaise) and the eggs were overcooked (not runny at all). 
 
@@ -65,6 +92,8 @@ We found easy parking right across from the trailhead, and someone was leaving j
 
 The trail began quite level and easy, with relatively easy footing although quite rooted in spots. It was also extremely peaceful and quiet, something sorely lacking in other areas of the island. Birds were everywhere during the first part of our hike: chickadees, sparrows, and a goldfinch all a-twitter in the treetops. We also spotted some huge dragonflies flying high above us.
 
+{% include image.html filename="P9110877cvx.jpg" thumb="P9110877csm.jpg" caption="" %}
+
 Climbing higher, the trail became more rocky and eroded; it apparently sees a lot of drainage right down the trail in heavy rain events. The slope was still mild, so it wasn't too strenuous of a climb, but we still wanted to take it easy, so we turned around after just a bit more than half a mile. That was enough to get a taste of what the trail was like, and we can certainly come back.
 
 {% include tracklog.html %}
@@ -81,6 +110,8 @@ I told Rich that we were free to look around, but he preferred to stay with the 
 
 The disk is is very good condition on a solid rock outcrop. It doesn't seem to be in much danger of becoming overgrown, but a witness sign would be helpful for others to locate it because the woods here are quite dense with vegetation and other rock outcrops.
 
+{% include gallery.html gallery_id="gallery2" class="" %}
+
 After our miserable encounter this morning, I was so grateful to have such a pleasant interaction with this man. Although I'm sure he will never see this, to the kind man working at #1549 Tremont Road that afternoon, thank you for making my day so much better.
 
 When I returned to the car, Rich was happy to hear how well it had gone, and he asked if I had any other benchmarks on my list in this area. Why of course! 
@@ -92,6 +123,8 @@ Today, with some coordinates from surveyor "JRO" in hand, and the promise of a w
 However, it actually took a few minutes of stepping off the distance and then clearing the accumulated vegetation to uncover the mark! It's hard to believe that in less than 6 years since JRO did his work here, a thick layer of dusty soil, roots, and moss had grown over the mark, completely obscuring it. If the datasheet hadn't listed the distance from the witness post, and if a tiny peak of bare rock sticking out from the vegetation hadn't given me some idea of where to dig, I may not have been successful in finding the mark.
 
 The mark is in good condition in a very solid setting. My only concern for it is the fast rate at which it becomes overgrown. However, the witness post and associated directions should alleviate this issue, particularly for anyone who needs to use it professionally.
+
+{% include gallery.html gallery_id="gallery3" class="2by2" %}
 
 After the benchmark hunting, of course dinner was another highlight of the day. And by dinner, I mean Dinner! Yes, we went back to the new restaurant that took the place of Ciao. We were the first ones there and went right in at 5:00, but unlike last time, we were followed by quite a few other people, and by 5:30 the place was very busy. Strange, because tonight is a Wednesday, and it was much busier than on our visit last Friday!
 
