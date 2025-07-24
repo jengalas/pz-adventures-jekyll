@@ -14,9 +14,27 @@ surveymarks: true
 tracklog: 13SEP24.gpx
 post_id: 14390
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9131180
+      alt: 
+    - filename: P9131183
+      alt:     
+    - filename: P9131185
+      alt:    
+    - filename: P9131195
+      alt:   
+    - filename: P9131197
+      alt:   
+    - filename: P9131208
+      alt:              
+    - filename: P9131212
+      alt:                
 ---
 
-P9131041.JPG
+
 P9131044.JPG
 P9131048.JPG
 P9131065.JPG
@@ -37,14 +55,11 @@ P9131168.JPG
 P9131169.JPG
 P9131175c.jpg
 P9131180.JPG
-P9131183.JPG
-P9131185.JPG
-P9131195.JPG
-P9131197.JPG
-P9131208.JPG
-P9131212.JPG
+
 
 This Friday the 13th was also our 13th M00seversary! I had no idea what we would do today, but Rich had something in mind (I didn't know this until later). We wanted something a little heartier for breakfast, so I went down to Slice of Eden bakery and brought back a whole wheat bagel with veggie cream cheese for Rich and a salt and pepper bagel with green olive and pimiento cream cheese for me. In the meantime, Rich brought over some tea, coffee, and juice for us.
+
+{% include image.html filename="P9131041cvx.jpg" thumb="P9131041csm.jpg" caption="" %}
 
 After eating and cleaning up a bit, Rich suggested that we take a walk up to Great Head, to the triangulation station where we were married! I was thrilled with the idea. He'd had it in mind all week, and was ready for the walk today. 
 
