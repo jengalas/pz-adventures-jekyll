@@ -23,22 +23,22 @@ galleries:
     - filename: P9080470
       alt:        
     - filename: P9080478
-      alt: 
+      alt: "*"
     - filename: P9080488
-      alt:        
+      alt: "*"       
     - filename: P9080506
-      alt:   
+      alt: "*"  
     - filename: P9080530
       alt:       
     - filename: P9081923
-      alt:   
+      alt: "*"  
     - filename: P9081925
-      alt:       
+      alt: "*"       
   gallery2:
     suffix: cvx
     images:
     - filename: P9080537
-      alt:        
+      alt: "*"        
     - filename: P9080540
       alt: 
     - filename: P9080549
@@ -76,6 +76,8 @@ We ended up just going back to the room for two hours, before supper, and doing 
 Our dinner at Brasserie Le Brun (where, I just realized, we went on the first Sunday of last year's trip, too) was the most relaxing part of the day by far. We started out with some badly-needed and very intriguing cocktails: Death in the Afternoon (absinthe and champagne) for Rich and Center of Attention (gin and tonic with blackberry) for me. We had no idea what to expect from the absinthe, and to be honest I was very surprised that Rich ordered it. But we were both thrilled with it! My first thought was that it smelled and tasted like Good & Plenty candy (not a bad thing) but not as sweet. As we sipped it, we noticed other interesting herby notes. The gin & tonic was also intriguing and refreshing, and Rich commented that it would be very easy to drink a few without realizing the effect it was having, and then be unable to stand up afterward. 
 
 While we were trying the drinks, some warm crusty bread came out, served with a delicious chive butter. I would like to make something similar at home when I make fresh bread! 
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 Our entrees were something we've been looking forward to all year: filet mignon, but in two different ways. Rich chose the steak frites, and I had the au poivre. Apparently they are doing something new at Le Brun this year, and offering those two meals with a choice of five or six different cuts of meat. It was everything we were hoping for! The meat was as tender as ever, and the frites were perfectly thin and crispy, and it came with the malt vinegar aioli that I enjoyed so much last year.  My filet au poivre was amazing as well. The multicolored fingerling potatoes that came with it were perfectly textured and seasoned, and we both thought the sherry cream sauce was amazing. We also got a side order of asparagus, lightly grilled and topped with bearnaise sauce.
 

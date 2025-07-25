@@ -62,7 +62,7 @@ galleries:
     - filename: P9060145
       alt:       
     - filename: P9060147
-      alt:      
+      alt: "*"     
   gallery5:
     suffix: cvx
     images:
@@ -73,22 +73,22 @@ galleries:
     - filename: P9060154
       alt:       
     - filename: P9060166
-      alt:     
+      alt: "*"    
     - filename: P9060172
       alt:     
   gallery6:
     suffix: cvx
     images:
     - filename: P9060182
-      alt:       
+      alt: "*"      
     - filename: P9060199
-      alt:    
+      alt: "*"   
     - filename: P9060208
-      alt:       
+      alt: "*"      
     - filename: P9060212
-      alt:     
+      alt: "*"    
     - filename: P9060218
-      alt:        
+      alt: "*"        
     - filename: P9060227
       alt:    
   gallery7:
@@ -99,22 +99,22 @@ galleries:
     - filename: P9060248
       alt:    
     - filename: P9060252
-      alt:  
+      alt: "*" 
   gallery8:
     suffix: cvx
     images:
     - filename: P9060256
       alt:       
     - filename: P9060260
-      alt:    
+      alt: "*"   
     - filename: P9060262
-      alt:       
+      alt: "*"       
     - filename: P9060269
-      alt:     
+      alt: "*"     
     - filename: P9060283
-      alt:        
+      alt: "*"        
     - filename: P9060285
-      alt:                                                                        
+      alt: "*"                                                                        
 ---
 
 Today was a day for resting and catching up, or at least that's what Rich and I both had in mind when we woke up this morning. Still stuffed after huge lobster rolls and pizza yesterday, we picked up a few items from the hotel lobby for a very light breakfast this morning, which we ate on the porch as usual.
