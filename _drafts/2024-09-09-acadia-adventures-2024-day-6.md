@@ -25,7 +25,7 @@ galleries:
     - filename: P9091945
       alt: 
     - filename: P9090587
-      alt:   
+      alt: "*"    
   gallery2:
     suffix: cvx
     images:        
@@ -36,7 +36,7 @@ galleries:
     - filename: P9091955
       alt:     
     - filename: P9090598
-      alt:   
+      alt: "*"    
     - filename: P9091956
       alt:          
   gallery3:
@@ -45,26 +45,26 @@ galleries:
     - filename: P9091963
       alt:      
     - filename: P9090615
-      alt:      
+      alt: "*"       
     - filename: P9090619
       alt:     
     - filename: P9090624
       alt:   
     - filename: P9090629
-      alt:       
+      alt: "*"        
   gallery4:
     suffix: cvx
     images:        
     - filename: P9090638
-      alt:      
+      alt: "*"       
     - filename: P9090643
-      alt:      
+      alt: "*"       
     - filename: P9090648
-      alt:     
+      alt: "*"      
     - filename: P9090650
-      alt:   
+      alt: "*"    
     - filename: P9090656
-      alt:                                
+      alt: "*"                               
 ---
 
 It was another perfectly clear, cool morning. It took us a little while to get moving again, and this time we decided to try a little something different for breakfast, even though we didn't want much to eat. Rich picked up the tea, coffee, and juice as usual from the lobby while I ran down to Mount Dessert Bakery to see what they were offering today. Our thoughts were plain croissants or, if those weren't available, plain bagels with veggie cream cheese. 

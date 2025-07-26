@@ -27,7 +27,7 @@ galleries:
   gallery2:
     suffix: cvx
     images:
-    - filename: P9120945
+    - filename: P9120944
       alt: 
     - filename: P9120945
       alt:    
