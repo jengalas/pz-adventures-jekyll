@@ -13,26 +13,49 @@ surveymarks: false
 tracklog: 16SEP24.gpx
 post_id: 14420
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9161439
+      alt: 
+    - filename: P9161445
+      alt:     
+    - filename: P9161454
+      alt:     
+    - filename: P9161457
+      alt:     
+    - filename: P9161459
+      alt:  
+    - filename: P9161474
+      alt:     
+    - filename: P9161482
+      alt:    
+    - filename: P9161490
+      alt:           
+  gallery2:
+    suffix: cvx
+    images:
+    - filename: P9161491
+      alt: 
+    - filename: P9161502
+      alt:     
+    - filename: P9161511
+      alt: 
+  gallery3:
+    suffix: cvx
+    images:
+    - filename: P9161513
+      alt: 
+    - filename: P9161519
+      alt:     
+    - filename: P9161521
+      alt:     
+    - filename: P9161523
+      alt:     
+    - filename: P9161526
+      alt:           
 ---
-
-P9161439c.jpg
-P9161445.JPG
-P9161454.JPG
-P9161457.JPG
-P9161459.JPG
-P9161474.JPG
-P9161482.JPG
-P9161484.JPG
-P9161490.JPG
-P9161491.JPG
-P9161502.JPG
-P9161511.JPG
-P9161513.JPG
-P9161519.JPG
-P9161521.JPG
-P9161523.JPG
-P9161526c.jpg
-P9162057.JPG
 
 We were still full from last night's dinner, so breakfast this morning was exceptionally light: just one strawberry breakfast bar, split between us, and a tiny orange for me. We ate on the porch as usual, while discussing what we wanted to do today.
 
@@ -66,8 +89,12 @@ We took a slow walk down to the waterfront and arrived there just after 4:00pm. 
 
 As planned we both ordered a pint of Guinness and Rich ordered the wood fired pub burger. My choice today was the fish tacos, which I've had before and were excellent and pretty light (notwithstanding the fact that the fish is fried). Our meals came out very quickly and everything was perfect. The burger wasn't too big and the proportions of meat to veggies and bun were spot on. The fish tacos were also excellent. The fish had a light and crispy batter that wasn't oily at all, and the toppings of avocado, roasted corn salsa, and chipotle crema were very good accompaniments. I really like their cole slaw, too, and I chose that for my side dish. It's creamy but not at all watery.
 
+{% include gallery.html gallery_id="gallery2" class="" %}
+
 Although I like the blueberry pie at Paddy's (it is a unique take that is more like a tart than a traditional slice of pie), we decided to skip dessert there and see if we felt like having a small scoop of ice cream or sorbet later, after a brief walk around town.
 
 On that walk around town, we wandered into a few of the Acadia Shops, and I found a t-shirt to bring home for my father's friend Lucy. I also found something that he will like, but I had to wait for confirmation on his shirt size, and he didn't reply to me until we were back in the room.
 
 We were still in the mood for a tiny treat when we passed MDI Ice Cream, so we each got baby scoops: Callebaut chocolate for Rich, and blueberry basil sorbet for me. We sat on a bench in the strangely-not-busy park and enjoyed our dessert as a chilly wind began to whip around us. On the way back to our room, we stopped to check the hours for A Slice of Eden bakery, because we may want to get something there for breakfast tomorrow.
+
+{% include gallery.html gallery_id="gallery3" class="" %}
