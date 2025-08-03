@@ -13,34 +13,95 @@ surveymarks: false
 tracklog: 15SEP24.gpx
 post_id: 14410
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+      - filename: P9151308
+        alt: 
+      - filename: P9151310
+        alt: 
+      - filename: P9151313
+        alt: 
+      - filename: P9151318
+        alt: 
+  gallery2:
+    suffix: cvx
+    images:
+      - filename: P9151299
+        alt: 
+      - filename: P9151319
+        alt: 
+      - filename: P9151322
+        alt: 
+      - filename: P9151326
+        alt:      
+  gallery3:
+    suffix: cvx
+    images:
+      - filename: P9151329
+        alt: 
+      - filename: P9151338
+        alt: 
+      - filename: P9151353
+        alt: 
+      - filename: P9151365
+        alt: 
+      - filename: P9152018
+        alt: 
+      - filename: P9152024
+        alt:       
+      - filename: P9152033
+        alt: 
+      - filename: P9152043
+        alt: 
+      - filename: P9152054
+        alt:              
+  gallery4:
+    suffix: cvx
+    images:
+      - filename: P9151369
+        alt: 
+      - filename: P9151371
+        alt: 
+      - filename: P9151374
+        alt: 
+      - filename: P9151380
+        alt: 
+      - filename: P9151386
+        alt: 
+      - filename: P9151397
+        alt:         
+  gallery5:
+    suffix: cvx
+    images:
+      - filename: P9151400
+        alt: 
+      - filename: P9151403
+        alt: 
+      - filename: P9151407
+        alt: 
+      - filename: P9151410
+        alt: 
+      - filename: P9151411
+        alt: 
+      - filename: P9151414
+        alt: 
+      - filename: P9151420
+        alt: 
+      - filename: P9151427
+        alt: 
 ---
 
-P9151299c.jpg
-P9151308.JPG
-P9151310.JPG
-P9151313.JPG
-P9151318.JPG
-P9151319.JPG
-P9151322.JPG
-P9151326.JPG
+
+
 P9151329.JPG
 P9151338.JPG
 P9151353.JPG
 P9151365.JPG
-P9151369.JPG
-P9151371.JPG
-P9151374.JPG
-P9151380.JPG
-P9151386.JPG
-P9151397.JPG
-P9151400.JPG
-P9151403.JPG
-P9151407.JPG
-P9151410.JPG
-P9151411.JPG
-P9151414.JPG
-P9151420.JPG
-P9151427.JPG
+
+
+
 P9152018.JPG
 P9152024.JPG
 P9152033c.jpg
@@ -53,7 +114,11 @@ The cafe was busy when we arrived around 7:40am, but we grabbed one of the small
 
 We were halfway through our crepes when two guys came in and sat at the table next to us. One guy was wearing a t-shirt that said "Got venom?" on the front. As they were dressed in motorcycle attire, I assumed it was probably something to do with a motorcycle club. But then I noticed the logo on the back of his shirt: Florida Snakebite Institute. 
 
+{% include gallery.html gallery_id="gallery1" class="" %}
+
 I took a stealth photo at first, but then Rich came right out and asked him if he was into snakes! He said that yes, he doesn't work with them professionally but as a hobby, and has even bred timber rattlesnakes in the past. We talked a bit about snake advocacy and how we can't understand the desire to kill them, whether on the trail or in a roundup (Texas-style, where they actually kill them as opposed to the Pennsylvania one where they just capture, measure, and release). Rich mentioned our garter snakes living in the wall, and the man immediately commented on how he has seen them poking their heads out inquisitively, and how cute they are. So cool to meet another snake person!
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 And the day got a bit snakier, but you'll have to wait for that.
 
@@ -68,6 +133,8 @@ He was too quick for me, and I didn't have a chance to turn the camera on and po
 A few minutes down the trail, a frog crossed our path; well, hopped right across, bounced off the moss and landed in an eroded ditch. Then he hopped right back up again. That was amusing. He was well hidden and very well camouflaged, but I managed to take a few photos while he rested there.
 
 We quickly came to the end of the loop. On our way back to the car, we were curious about this other trail that branches off just before you reach the official preserve trails. It is marked by a rather large and very obvious blue arrow, and was confusing to me the first time because I wondered if it was part of the official trails. But I didn't follow it last time, and today we decided to walk down it just a bit. We would like to go back and check it out in full sometime soon. I just can't imagine where it goes, other than possibly to someone's neighborhood. But it doesn't make sense to me why anyone would basically be "advertising" their own private trail in that misleading way on a public preserve. If I had my own way in, I certainly wouldn't want to lead people astray right to my own back yard.
+
+{% include gallery.html gallery_id="gallery3" class="" %}
 
 While we were there, photographing a few leaves and plants, a woman came by and asked if we were photographing plants or animals. If we were watching an animal she didn't want to walk by and disturb it, which was very considerate. Just plants, though, so she passed right on by, down the mystery trail. I didn't think until later that I should have asked her where it went. Oh well, another mystery we will get to solve ourselves!
 
@@ -93,6 +160,8 @@ We didn't find a painted souvenir stone, but we did find the container with a pr
 
 Rich noticed a faint path passing by the boulders, so I followed it to map it out and see where it went. And wouldn't you believe it ... it went right down to the beach. So it's possible that if we had been able to cross the brook last year (which is nearly dried up this year, by the way, since it has been so dry) we may have also found this path and been able to reach the boulders last year. But in any case, we found the spot today and it was a lovely little diversion for the afternoon. And it helped us work up an appetite!
 
+{% include gallery.html gallery_id="gallery4" class="" %}
+
 We missed Red Sky very much last year, when for some reason we just didn't make it there for dinner. (Most likely because there was just too much good food right in town, and most nights we didn't want a big meal!) Tonight, it was perfect. We arrived just a few minutes early for our 5:00pm reservation, and checked out the menu while we waited, basically making our choices at that time. 
 
 We typically are assigned one of the small tables for two, but this time we got one of the larger tables where one side is a padded, booth-like seat. Very nice and much more roomy than the typical smaller tables. They have these interesting tap lights on a stand (not sure how to described them) that cycle between a cool and a warm light. That was nice because although they obviously wanted the warm light on for the ambiance, we were able to switch to the cool light when we were taking our food photos. 
@@ -101,6 +170,8 @@ Usually beer is our beverage of choice here, but tonight we opted for cocktails:
 
 We enjoyed the white bean dip and toasts that came out just before the bread, which was delicious as always. Then our appetizers came out, and they were spectacular. The smoked salmon was a perfect little piece, and so tasty with the goat cheese and cream cheese spread, capers, and red onions on their house-made sesame crackers. We've never tried the polenta topped with mushrooms before, but my father always liked it. It too was delicious, crispy-chewy with a topping of shiitake and crimini mushrooms and the green of the day: chard. I don't know if I've ever had chard before, but it has such a distinctive flavor ... somewhat cabbagy, musty/earthy. I just loved it.
 
-And that's a good thing, because our pasta dish, the house-made tagliatelle, also came topped with chard! The pasta noodles (or noodle, since Rich is convinced it was just one v-e-r-y l-o-n-g noodle folded over itself a hundred times in the bowl) were perfectly tender, and the mix of the pasta, greens, cherry tomatoes, ricotta and pepper was perfectly balanced. Loves every bite of that too!
+And that's a good thing, because our pasta dish, the house-made tagliatelle, also came topped with chard! The pasta noodles (or noodle, since Rich is convinced it was just one v-e-r-y l-o-n-g noodle folded over itself a hundred times in the bowl) were perfectly tender, and the mix of the pasta, greens, cherry tomatoes, ricotta and pepper was perfectly balanced. Loved every bite of that too!
+
+{% include gallery.html gallery_id="gallery5" class="" %}
 
 We had just the smallest amount of room left for a light dessert, and Rich chose the bittersweet Belgian chocolate pudding for us to share. It came topped with a dollop of whipped cream and a pistachio tuile on the side. It had just the right level of sweetness that we were looking for, and wasn't nearly as rich as I'd feared. Again, a perfect ending to a perfect meal (and day)!

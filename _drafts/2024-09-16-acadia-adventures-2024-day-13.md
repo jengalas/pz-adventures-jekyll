@@ -77,6 +77,8 @@ Just before the intersection with that trail, we noticed another trail leading o
 
 And then up came a trail that Rich noticed, leading off to the left. He was hoping we would find a trail leading down to the Champlain monument, and this one did! So cool. We finished our rather convoluted loop by taking the official trail from the monument back out to the Day Mountain trailhead.
 
+{% include gallery.html gallery_id="gallery1" class="" %}
+
 We sat in the parking area for a few minutes to determine where to go next. We decided just to bum around the area, and check out Steamboat Wharf in Seal Harbor. Taking New County Road (apparently the other side, and the still-used section of the County Road) down to the wharf was very cool. It's a very narrow, switchbacking road that winds its way downhill toward the water, passing by lovely large estates that all have their own names, as so many in this area do. We're also thinking we may have seen the driveway/private road to Martha Stewart's summer house!
 
 We stopped at Steamboat Wharf for the first time last year and thought it was a pretty and peaceful place with a nice view of Pemetic(?) Mountain. There aren't any tables or benches—it's really just a working dock, but we found seating along the edge of the pier that was comfortable enough for a few minutes' rest. 
