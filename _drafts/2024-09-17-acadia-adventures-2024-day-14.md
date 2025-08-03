@@ -10,27 +10,51 @@ geocaches: false
 surveymarks: false
 post_id: 14430
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9171547
+      alt: 
+    - filename: P9171548
+      alt:     
+    - filename: P9171552
+      alt:     
+    - filename: P9171556
+      alt:     
+    - filename: P9171559
+      alt:  
+    - filename: P9171562
+      alt:     
+    - filename: P9171566
+      alt:       
+    - filename: P9171570
+      alt:         
+  gallery2:
+    suffix: cvx
+    images:
+    - filename: P9171574
+      alt: 
+    - filename: P9171578
+      alt:     
+    - filename: P9171583
+      alt:     
+    - filename: P9171585
+      alt:     
+    - filename: P9171592
+      alt:  
+    - filename: P9171613
+      alt:     
+    - filename: P9171628
+      alt:       
+    - filename: P9171613
+      alt:          
 ---
 
-P9171539.JPG
-P9171547.JPG
-P9171548.JPG
-P9171552.JPG
-P9171556.JPG
-P9171559.JPG
-P9171562.JPG
-P9171566.JPG
-P9171570.JPG
-P9171574c.jpg
-P9171578.JPG
-P9171583c.jpg
-P9171585.JPG
-P9171592.JPG
-P9171613.JPG
-P9171628.JPG
-P9171631.JPG
 
 Today was the rest day that Rich has been waiting for! I went for my breakfast run to A Slice of Eden, where I picked up an egg and cheese sandwich on a croissant for Rich, and a strawberry danish (that was much larger than I expected) for myself. I almost always get a bagel there, but wasn't in the mood for something so big and heavy this morning. (I ended up saving about half of the danish for later.)
+
+{% include image.html filename="P9171539cvx.jpg" thumb="P9171539csm.jpg" caption="" %}
 
 After breakfast we discussed a few options for today's activities, including checking out the Quarry Trail or going back to the Cooksey Drive Overlook that we found for the first time last year. We instead landed on checking out the Shore Path from the far end, curious to see how far the reconstruction of the path has come since the severe damage it received over the winter from two back-to-back storms.
 
@@ -41,6 +65,8 @@ Continuing on, we went down Pleasant Street and then crossed over by Havana, fol
 A pleasant man was stationed at the end of the trail, and for the time being his job seemed to be to turn the tourists away. He explained just how bad the storms were, and said that the trail reconstruction was really only complete up to Grant Park, several blocks to the north. They hope to have it completed by next season, but it's a big job, money and the season are short, and they are of course at the mercy of whatever storms next winter will bring. But the man, a local old-timer, sounded hopeful. We thanked him for his time and turned around.
 
 We ended up checking out Grant Park, which we came to this time from Main Street (we've only seen it before from the Shore Path side). It's nothing exciting - just some greenspace and a few picnic tables and benches adjacent to the Shore Path. But it was a very peaceful place to sit and rest and chat for a while. We also saw the Balance Rock Inn on the way to the park. I was never quite sure where that was.
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 It was a hot day with very bright sunlight, and I was feeling very toasty after sitting for a while. So with a huge (3660 passenger) cruise ship looming in the harbor, we headed over into town so I could finish up my shopping.
 
@@ -61,5 +87,7 @@ The appetizers were actually very filling, and I was starting to worry that I wo
 I ordered the same thing I had last time: filet mignon au poivre with fingerling potatoes and sherry cream sauce. I was so tempted by the halibut, but I just couldn't resist getting the beef and potatoes one more time. Rich tried the short rib bourguignon this time, and it was spectacular! We were expecting more of a stew with cubes of meat, but it was the whole short rib, falling-apart tender, in a velvety savory sauce, and served with lardons and roasted onions, carrots, and king trumpet mushrooms. We shared our entrees as usual, and every bite was perfect.
 
 Somehow, we had a little bit of room left to share a dessert. We chose one we were considering last time, the stonefruit shortcake. It was fortunately very light: just three small biscuits and a compote of peaches and another fruit we're not sure of - maybe nectarines? Very tasty end to a perfect meal.
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 We spent the rest of the evening watching a few videos and reading (and researching local trails!) before bed.

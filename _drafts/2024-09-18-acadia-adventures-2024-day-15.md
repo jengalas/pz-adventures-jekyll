@@ -14,26 +14,53 @@ surveymarks: true
 tracklog: 18SEP24.gpx
 post_id: 14440
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9181637
+      alt: 
+    - filename: P9181651
+      alt:     
+    - filename: P9181656
+      alt:     
+    - filename: P9181668
+      alt:     
+    - filename: P9181676
+      alt:  
+  gallery2:
+    suffix: cvx
+    images:
+    - filename: P9181684
+      alt: 
+    - filename: P9181688
+      alt:     
+    - filename: P9181692
+      alt:     
+    - filename: P9181712
+      alt:    
+    - filename: P9182060
+      alt:     
+    - filename: P9182065
+      alt:     
+    - filename: P9182067
+      alt:       
+  gallery3:
+    suffix: cvx
+    images:
+    - filename: P9181719
+      alt: 
+    - filename: P9181727
+      alt:   
+  gallery4:
+    suffix: cvx
+    images:
+    - filename: P9181736
+      alt: 
+    - filename: P9181743
+      alt:                
 ---
 
-P9181637.JPG
-P9181651.JPG
-P9181656.JPG
-P9181668.JPG
-P9181676.JPG
-P9181684.JPG
-P9181685.JPG
-P9181688.JPG
-P9181692.JPG
-P9181712.JPG
-P9181719.JPG
-P9181727.JPG
-P9181732.JPG
-P9181736.JPG
-P9181743.JPG
-P9182060.JPG
-P9182065.JPG
-P9182067.JPG
 
 How can it be our last day in Maine already?! We say this every year. But two weeks sounds like such a long time, and thinking back on the day we left home, in a way it _feels_ like a long time ago ... but it all passed by so quickly.
 
@@ -51,14 +78,22 @@ Because we didn't want to be in their way, we went up to the Day Mountain parkin
 
 With that being rather a bust, we turned back to the Tilting Rock. I wanted to see if I could spot any signs of the trail that, according to the 1942 topo map, supposedly passed by the Rock and the headed up the steep slope to the carriage roads. There are little herd paths all over the area, but nothing that really seemed to go anywhere. It's a very steep wall that the trail would need to climb, so it won't be easy to poke around there without a clear idea of where to go. Perhaps getting some solid coordinates from the topo map and then trying again from the carriage road might work better?
 
+{% include gallery.html gallery_id="gallery1" class="" %}
+
 And one final exploration of this area led us down another path that basically parallels the first path we took to the Tilting Rock, but at a lower elevation. I don't think we followed the entire path, but it basically seemed to lead us to the base of the large granite dikes rather than on top of them. This allows for a much better view of them, and I suspect that this trail leads to a very large seastack in the area, although we didn't follow it that far today.
 
 It was a very hot day, so we decided to take a little break at the ledges at Cooksey Drive Overlook. They were deserted when we arrived but just like the Day Mountain parking lot, it filled right up afterward. At least we had some very pleasant quiet time to ourselves before the other groups arrived. There was a dog, of course, but at least he was leashed and under reasonably good control.
 
-After getting some rest and some sun, and noticing poison ivy in the foreground and the Bunker Ledge Monument in the background, we moved on to our final little stop for the day: checking on the MaineDOT mark set in the sidewalk along Steamboat Wharf Road in Seal Harbor. It was an easy find (we had first found it years ago, and I had confirmed on the Street View that it was most likely still in place). I took my photos of the mark while Rich parked in front of the No Parking sign. :grin:
+{% include gallery.html gallery_id="gallery2" class="" %}
+
+After getting some rest and some sun, and noticing poison ivy in the foreground and the Bunker Ledge Monument in the background, we moved on to our final little stop for the day: checking on the MaineDOT mark set in the sidewalk along Steamboat Wharf Road in Seal Harbor. It was an easy re-locate (we had first found it years ago, and I had confirmed on the Street View that it was most likely still in place). I took my photos of the mark while Rich parked in front of the No Parking sign. :grin:
+
+{% include gallery.html gallery_id="gallery3" class="" %}
 
 I've been dying for a slice of blueberry pie for the past two weeks, and I saw an opportunity this afternoon. We were heading back on Route 3 through the gorge when I noticed that it was just before 1:30pm. I figured we might just have a chance to make it to the Sunrise Cafe before their closing time of 2:00pm! Rich navigated through the extremely busy streets (cruise ships had deposited 4,000 passengers in town today), and finally made it down to the pier. There was clearly no place to park, so he just dropped me off so I could buy the slice of pie and then walk back to the hotel. This worked out just fine. Within five minutes I had the pie in hand and started making my way back through town, again trying as hard as I could to avoid the literal masses of cruise-goers.
 
 Our last-night supper was pizza at Rosalie's, as is tradition. Bringing a few slices of pizza home worked out so well last year, that we decided we would do it again this year. We decided on one small house veggie pizza to have tonight for supper, and then we ordered a small plain and another small house veggie to take home. 
+
+{% include gallery.html gallery_id="gallery4" class="" %}
 
 We were the first ones in the door, as we often are, and we claimed our usual 2nd floor booth. We enjoyed a few sips of our large Allagash White ales and then the pizza came out. It was sublime! We sat for over an hour just enjoying the food and drink and each other's company (great conversation as always) until five very loud people sat down at the table next to us. At least we were done eating, and we could take our conversation over to the Village Green, where we each enjoyed a baby scoop of ice cream (maple pecan for Rich and fresh basil for me). We took a slow walk back to the room as the sun set. And a little later, we had a second dessert of blueberry pie while watching a few videos before bed.
