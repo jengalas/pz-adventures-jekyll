@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-07-17
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   We had a decent view of all of Jupiter's moons, and I even enjoyed a tiny peek at Saturn as soon as I got home. 
 geocaches: false

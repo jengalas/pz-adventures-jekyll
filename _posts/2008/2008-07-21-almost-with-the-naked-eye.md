@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-07-21
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   This was one of the clearest, steadiest views of Jupiter's moons I've had yet.
 geocaches: false

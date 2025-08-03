@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-13
 categories:
   - geocaching
-tags:
 excerpt: >-
   Another piece in the geocaching puzzle ...
 geocaches: true

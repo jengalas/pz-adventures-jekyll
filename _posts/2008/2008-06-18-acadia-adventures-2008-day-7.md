@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2008'
   - hiking
-tags:
 featured_image: P1050009cs.jpg
 geocaches: false
 surveymarks: false

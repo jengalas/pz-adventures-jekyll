@@ -9,7 +9,6 @@ categories:
   - '2016'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Time to revisit the Friar and begin the trip with an easy hike around Jordan Pond.
 geocaches: false

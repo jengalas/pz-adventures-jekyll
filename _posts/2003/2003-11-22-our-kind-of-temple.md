@@ -6,7 +6,6 @@ date: 2003-11-22
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   An easy geocache hunt at Moon Lake County Park (a great place for mountain biking!) was followed by a trek through a cemetery and open woods to triangulation station TEMPLE atop the Shickshinny Mountain ridge. 
 geocaches: true

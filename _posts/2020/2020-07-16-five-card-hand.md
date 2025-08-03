@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-07-16
 categories:
   - geocaching
-tags:
 excerpt: This puzzle geocache, another one by zzbob, had us going crazy for a day or so just like the last one. 
 geocaches: true
 surveymarks: false

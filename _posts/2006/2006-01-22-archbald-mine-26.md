@@ -6,7 +6,6 @@ date: 2006-01-22
 categories:
   - hiking
   - mines
-tags:
 excerpt: >- 
   
 geocaches: false

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2003-09-27
 categories:
   - letterboxing
-tags:
 excerpt: >- 
   
 geocaches: false

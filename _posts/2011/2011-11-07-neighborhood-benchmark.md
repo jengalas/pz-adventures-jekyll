@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-11-07
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   Another neighborhood benchmark!
 

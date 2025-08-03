@@ -9,7 +9,6 @@ categories:
   - '2017'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna explore an intricate abandoned driveway and look for Brunnow's "lost trail."
 featured_image: P1090320clx.jpg

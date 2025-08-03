@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-07-12
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   This is our third consecutive weekend visiting the Waymart area for USGS benchmark hunting (... and pizza and BBQ from the Waymart Hotel). We haven't come close to finding all of them yet, but we attempted four marks today!
 featured_image: tt14tg4.jpg

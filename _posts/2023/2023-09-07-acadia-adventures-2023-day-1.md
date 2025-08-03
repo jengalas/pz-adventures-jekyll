@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2023'
   - survey mark hunting
-tags:
 excerpt: >-
   Similar to last year, this year's trip to Maine is off to a good start: lobster rolls, benchmark hunting, and pizza!
 geocaches: false

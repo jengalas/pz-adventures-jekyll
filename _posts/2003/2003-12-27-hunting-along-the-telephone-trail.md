@@ -5,7 +5,6 @@ author: Zhanna
 date: 2003-12-27
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   Continuing our adventures in Promised Land State Park, today we unraveled some confusing descriptions to find three marks in the 237 series.
 geocaches: false

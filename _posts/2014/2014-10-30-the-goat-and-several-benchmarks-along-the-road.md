@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-10-30
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   It's not Petal, but we found another cute goat along the road.
 featured_image: P1110856clx.jpg

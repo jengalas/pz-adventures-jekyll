@@ -7,7 +7,6 @@ categories:
   - geocaching
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   This warm winter day at Tanners' Falls was full of adventures!
 geocaches: true

@@ -5,8 +5,6 @@ author: Zhanna
 date: 2024-04-10
 categories: 
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 post_id: 14240

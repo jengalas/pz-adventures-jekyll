@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2017'
-tags:
 excerpt: >-
   Time to head for home. Another fantastic Maine vacation complete, as always too soon.
 featured_image: P1090981clx.jpg

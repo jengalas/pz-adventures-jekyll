@@ -8,7 +8,6 @@ categories:
   - southwest
   - '2019'
   - hiking
-tags:
 excerpt: >-
   
 geocaches: false

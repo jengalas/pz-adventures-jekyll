@@ -5,7 +5,6 @@ author: Zhanna
 date: "2023-11-26"
 categories: 
   - survey mark hunting
-tags:
 featured_image: tt-4-tg1.jpg
 geocaches: false
 surveymarks: true

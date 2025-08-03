@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-08-30
 categories:
   - geocaching
-tags:
 excerpt:
 geocaches: true
 surveymarks: false

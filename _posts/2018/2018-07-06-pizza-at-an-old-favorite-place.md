@@ -5,7 +5,6 @@ author: Zhanna
 date: 2018-07-06
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and I were enthusiastic about getting out of the house for a little local benchmark hunting this afternoon (I think the promise of pizza at the Waymart Hotel helped a lot, too!).
 surveymarks: true

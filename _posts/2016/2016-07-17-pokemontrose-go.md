@@ -5,7 +5,6 @@ author: Zhanna
 date: 2016-07-17
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   It's Architectural Treasure Hunt time!
 geocaches: false

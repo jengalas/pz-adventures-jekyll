@@ -10,7 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   The activity that appealed to us most was checking out the old abandoned Boyd Road near Hunters Brook, and then searching, once again, for the USGS survey marker K 19 that has thus far eluded us. 
 featured_image: P1040478clx.jpg

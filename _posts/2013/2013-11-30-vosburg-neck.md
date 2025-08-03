@@ -5,7 +5,6 @@ author: Zhanna
 date: 2013-11-30
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Late-fall lunch, exploration, and a benchmark find in Wyoming County!
 geocaches: false

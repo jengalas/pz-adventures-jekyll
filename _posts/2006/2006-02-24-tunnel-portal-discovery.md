@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-02-24
 categories:
   - mines
-tags:
 excerpt: >- 
   A batgate and several mine openings make for interesting finds on a warm March day.
 geocaches: false

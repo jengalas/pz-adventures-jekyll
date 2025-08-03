@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-10-12
 categories:
   - hiking
-tags:
 excerpt: >- 
     This is our first attempt at growing a "split rock" (_Pleiospilos nelii_).
 geocaches: false

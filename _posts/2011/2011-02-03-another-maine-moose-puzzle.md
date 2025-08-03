@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-02-03
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   This week's puzzle is a nice Maine scene.
 

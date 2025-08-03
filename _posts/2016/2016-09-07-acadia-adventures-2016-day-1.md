@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2016'
-tags:
 excerpt: >-
   Heavy traffic and a stop at Rein's Deli—two features of our annual drive to Maine!
 geocaches: false

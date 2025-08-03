@@ -9,7 +9,6 @@ categories:
   - '2017'
   - survey mark hunting
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna buy more goat cheese than they can handle at the farmers' market, and then spend the afternoon eating and searching for survey marks on the western side of the island.
 featured_image: P1090814clx.jpg

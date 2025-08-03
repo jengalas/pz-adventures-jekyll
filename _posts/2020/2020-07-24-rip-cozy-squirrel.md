@@ -6,7 +6,6 @@ date: 2020-07-24
 categories:
   - hiking
   - geocaching
-tags:
 excerpt: It was a tough decision to archive this old geocache of Rich's.
 geocaches: false
 surveymarks: false

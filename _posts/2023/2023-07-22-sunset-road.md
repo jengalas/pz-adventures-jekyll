@@ -5,7 +5,6 @@ author: Zhanna
 date: 2023-07-22
 categories: 
   - hiking
-tags:
 excerpt: >-
   A few weeks ago, Rich and I took a drive around the area to seek out good photo locations. On our way home from Waverly, right at a sweeping bend to the left heading toward Route 438, we noticed a blocked off, abandoned road heading east. We returned today to check it out. 
 featured_image: P7220034-Editcvx.jpg

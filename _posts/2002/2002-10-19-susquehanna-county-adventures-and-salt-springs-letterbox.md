@@ -7,7 +7,6 @@ categories:
   - geocaching
   - hiking
   - letterboxing
-tags:
 excerpt: >- 
   
 geocaches: true

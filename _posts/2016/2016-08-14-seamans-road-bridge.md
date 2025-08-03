@@ -5,7 +5,6 @@ author: Zhanna
 date: 2016-08-14
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Zhanna and Rich make a quick detour to search for a bench mark on a hot summer day.
 featured_image: P1060798cl.jpg

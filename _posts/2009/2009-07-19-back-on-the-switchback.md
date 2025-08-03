@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-07-19
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   For months now, Rich and I have wanted John to experience the Switchback Trail, and we were eager to ride it again ourselves.
 geocaches: false

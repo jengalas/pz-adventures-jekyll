@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2016'
-tags:
 excerpt: >-
   Rich and Zhanna enjoy one last Maine morning before they head back to reality.
 featured_image: P1080017cl.jpg

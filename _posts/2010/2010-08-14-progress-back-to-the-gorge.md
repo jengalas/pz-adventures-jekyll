@@ -6,7 +6,6 @@ date: 2010-08-14
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
   We enjoyed an awesome ride at Lehigh Gorge, followed by some survey mark hunting. We were denied a special blessing by a nun.
 geocaches: false

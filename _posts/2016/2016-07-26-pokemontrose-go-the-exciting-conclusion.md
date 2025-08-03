@@ -5,7 +5,6 @@ author: Zhanna
 date: 2016-07-26
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   Remaining clues: found! Chocolate: purchased! Lunch: yum! A cache hunt and a serendipitous bench mark find: whee! Fantastic day in Susquehanna County with Rich.
 featured_image: P1060634cl.jpg

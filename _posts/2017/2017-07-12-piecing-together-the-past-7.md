@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-12
 categories:
   - geocaching
-tags:
 excerpt: >-
   It's time to start looking for the puzzle pieces in the Piecing Together the Past geocache series!
 geocaches: true

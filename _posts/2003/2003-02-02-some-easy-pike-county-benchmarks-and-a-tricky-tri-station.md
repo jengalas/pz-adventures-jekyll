@@ -5,7 +5,6 @@ author: Zhanna
 date: 2003-02-02
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   This very cold and windy Sunday was just perfect for a few quick benchmark finds in Pike County.
 geocaches: false

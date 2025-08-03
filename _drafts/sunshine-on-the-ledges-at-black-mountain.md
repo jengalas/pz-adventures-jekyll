@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-05-30
 categories:
   - hiking
-tags:
 excerpt: >- 
    Rich and Zhanna return to the same area they visited yesterday, this time to explore Harriman State Park.
 geocaches: false

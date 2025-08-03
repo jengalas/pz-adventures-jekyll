@@ -9,7 +9,6 @@ categories:
   - mines
   - survey mark hunting
   - terracaching
-tags:
 excerpt: >- 
   
 geocaches: true

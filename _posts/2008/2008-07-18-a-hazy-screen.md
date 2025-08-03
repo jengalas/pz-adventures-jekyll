@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-07-18
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   Jupiter was visible as usual, though quite dark and weak tonight through all the haze. 
 geocaches: false

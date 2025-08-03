@@ -6,7 +6,6 @@ date: 2010-08-29
 categories:
   - geocaching
   - hiking
-tags:
 excerpt: >- 
     To test out Rich's new knees, he and I have been going on some successively longer bike rides over the past few weeks. This weekend he decided to try some mild hiking, too. 
 geocaches: true

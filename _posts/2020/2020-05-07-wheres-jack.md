@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-05-07
 categories:
   - hiking
-tags:
 excerpt: >-
   Rich and I spent several afternoons at Lackawanna State Park searching for and photographing the emerging spring wildflowers.
 geocaches: false

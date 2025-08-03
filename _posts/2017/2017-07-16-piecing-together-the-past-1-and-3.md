@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-16
 categories:
   - geocaching
-tags:
 excerpt: >-
   It was a humid but beautiful day for a long walk and two more geocache finds!
 geocaches: true

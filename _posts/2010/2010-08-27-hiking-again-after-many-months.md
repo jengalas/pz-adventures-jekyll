@@ -6,7 +6,6 @@ date: 2010-08-27
 categories:
   - geocaching
   - hiking
-tags:
 excerpt: >- 
     We found our first geocache in quite some time ... and Rich tested out his new knees on a short hike! 
 geocaches: true

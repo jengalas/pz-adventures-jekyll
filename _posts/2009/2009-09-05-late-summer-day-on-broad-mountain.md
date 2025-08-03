@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-09-05
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Today we finally came back to Broad Mountain to ride the famous "loop."
 geocaches: false

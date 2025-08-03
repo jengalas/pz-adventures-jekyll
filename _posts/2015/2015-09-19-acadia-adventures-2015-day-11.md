@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2015'
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and Zhanna venture to Moose Island to explore Eastport, the easternmost city in the US!
 featured_image: P1150076cl.jpg

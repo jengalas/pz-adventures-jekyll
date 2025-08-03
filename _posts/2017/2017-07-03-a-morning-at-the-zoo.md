@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-03
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   A five day weekend for me included a trip to the zoo to visit a sloth!
 featured_image: P1040386cl.jpg

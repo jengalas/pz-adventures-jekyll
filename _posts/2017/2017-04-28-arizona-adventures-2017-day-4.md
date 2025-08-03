@@ -7,7 +7,6 @@ categories:
   - travel
   - arizona
   - '2017'
-tags:
 excerpt: >-
   
 geocaches: false

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2012-12-20
 categories:
   - geocaching
-tags:
 excerpt: >-
 
 geocaches: true

@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2008'
-tags:
 featured_image: IMG_0398cs.jpg
 excerpt: The Burning Tree is currently one of our favorite restaurants on the island.
 geocaches: false

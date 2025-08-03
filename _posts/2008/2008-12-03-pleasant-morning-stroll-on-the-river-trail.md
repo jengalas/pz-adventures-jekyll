@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-12-03
 categories:
   - hiking
-tags:
 excerpt: >- 
   Rich and I decided to check out the newest section of the Lackawanna River Heritage Trail this morning.
 geocaches: false

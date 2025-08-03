@@ -6,8 +6,6 @@ date: 2023-05-06
 categories: 
   - hiking
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 06MAY23.gpx

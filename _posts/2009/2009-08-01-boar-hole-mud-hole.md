@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-08-01
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Rich and Zhanna explore the area near the "Boar Hole!"
 geocaches: false

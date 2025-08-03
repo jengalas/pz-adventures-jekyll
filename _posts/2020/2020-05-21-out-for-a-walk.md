@@ -6,7 +6,6 @@ date: 2020-05-21
 categories:
   - hiking
   - moosellaneous
-tags:
 excerpt: >-
   Spring color this week, and Black Angus cattle!
 geocaches: false

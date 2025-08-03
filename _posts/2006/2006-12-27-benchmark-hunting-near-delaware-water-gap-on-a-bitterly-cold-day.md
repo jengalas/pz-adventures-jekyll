@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-12-27
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
    I'm not sure what possessed us to travel to the Delaware Water Gap NRA on this brutally cold December day, but we were intrigued by the triangulation station MUD and figured that searching for benchmarks would be a fine activity for the day. 
 geocaches: false

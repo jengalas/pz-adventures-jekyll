@@ -6,7 +6,6 @@ date: 2006-12-02
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and Zhanna are unable to find a local geocache (but meet a locally famous geocacher!) and then have mixed luck searching for some survey marks.
 geocaches: true

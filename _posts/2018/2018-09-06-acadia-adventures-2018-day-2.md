@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2018' 
   - survey mark hunting
-tags:
 excerpt: >-
   Lobster, light rain, pizza and a benchmark on our first day in Maine ...
 featured_image: P1040155clx.jpg

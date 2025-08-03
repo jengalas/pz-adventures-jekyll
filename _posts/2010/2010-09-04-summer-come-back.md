@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-09-04
 categories:
   - mountain biking
-tags:
 excerpt: >- 
     Today's outing was a nice, easy ride from Forest City to just past Herrick Center and back, all on the D&H. 
 geocaches: false

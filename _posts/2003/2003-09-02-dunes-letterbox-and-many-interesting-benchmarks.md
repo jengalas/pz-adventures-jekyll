@@ -7,7 +7,6 @@ categories:
   - geocaching
   - letterboxing
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: true

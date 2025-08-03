@@ -7,7 +7,6 @@ categories:
   - travel
   - southwest
   - '2019'
-tags:
 excerpt: >-
   The Mooses are heading to Arizona!
 featured_image: P1060786clx.jpg

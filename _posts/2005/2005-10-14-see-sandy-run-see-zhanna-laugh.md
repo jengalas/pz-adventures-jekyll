@@ -6,7 +6,6 @@ date: 2005-10-14
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and Zhanna dodge poor weather conditions and enjoy some hiking and geocaching adventures, followed by some surprisingly good pizza.
 geocaches: true

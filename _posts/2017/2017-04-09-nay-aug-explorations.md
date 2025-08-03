@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-04-09
 categories:
   - hiking
-tags:
 excerpt: >-
   Nay Aug Park in Scranton was the perfect setting for some early-spring explorations with a new camera.
 geocaches: false

@@ -9,7 +9,6 @@ categories:
   - '2008'
   - hiking
   - survey mark hunting  
-tags:
 excerpt: >- 
   
 geocaches: false

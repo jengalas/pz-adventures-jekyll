@@ -6,7 +6,6 @@ date: 2004-07-10
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and Zhanna search for a geocache first thing in the morning, and then head to the Bruce Lake/Promised Land State Park area for a benchmark hunt.
 geocaches: true

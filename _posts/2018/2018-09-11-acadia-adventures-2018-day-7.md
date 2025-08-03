@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2018' 
-tags:
 excerpt: >-
   
 featured_image: P1040547clx.jpg

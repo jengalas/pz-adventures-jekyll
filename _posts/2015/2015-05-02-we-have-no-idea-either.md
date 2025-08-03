@@ -5,7 +5,6 @@ author: Zhanna
 date: 2015-05-02
 categories:
   - geocaching
-tags:
 excerpt: >-
   Rich, Zhanna and Dad explore the Scranton section of the Lackawanna River Heritage Trail and find a surprise (to Zhanna, anyway) geocache.
 geocaches: true

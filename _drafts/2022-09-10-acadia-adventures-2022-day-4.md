@@ -9,8 +9,6 @@ categories:
   - '2022'
   - abandoned trails
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 10SEP22.gpx

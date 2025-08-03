@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-11-03
 categories:
   - hiking
-tags:
 excerpt: >- 
     Today we hunted in the Turkey Hill section of the park.  It's our default area for those days when we don't have a lot of time or don't have the inclination for a long hike.  
 geocaches: false

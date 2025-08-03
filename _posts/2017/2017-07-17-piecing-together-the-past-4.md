@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-17
 categories:
   - geocaching
-tags:
 excerpt: >-
   Today's wet conditions made me a bit hesitant but I decided to go for my geocache-walk anyway.
 geocaches: true

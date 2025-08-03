@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2015'
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna take Dad to meet the Friar, play on Little Hunters Beach, and then get lost in the woods near Jordan Stream.
 geocaches: false

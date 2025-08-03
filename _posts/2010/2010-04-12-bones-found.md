@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-04-12
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   This morning we heard that bones had been found by ATV riders off Marshwood Road, in an area where we sometimes go mountain biking. These stories typically cause all kinds of alarm until it’s discovered that the bones in question are from a deer carcass or something else non-human.
 geocaches: false

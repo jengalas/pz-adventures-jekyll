@@ -6,7 +6,6 @@ date: 2003-11-30
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   On this chilly Sunday, Rich and I decided to continue our search for marks in the 235 series in Pike County.
 geocaches: true

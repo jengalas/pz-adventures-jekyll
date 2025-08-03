@@ -6,7 +6,6 @@ date: 2005-10-21
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and Zhanna explore Sam's Point, finding a triangulation station and ice caves along the way, and have a close encounter with the Crab People(?!).
 geocaches: false

@@ -6,7 +6,6 @@ date: 2015-07-17
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Zhanna finally gets to see Wyalusing Rocks, and she and Rich explore the area through several benchmark hunts.
 featured_image: P1130827cl.jpg

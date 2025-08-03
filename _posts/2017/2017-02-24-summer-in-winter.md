@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-02-24
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   Zhanna and Rich enjoy this record-setting day: 76° in February!
 geocaches: false

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-10-09
 categories:
   - geocaching
-tags:
 excerpt: >-
   This morning Rich and I solved two more puzzle caches, although because they were very easy and straightforward and already had a few other solvers, we decided not to log a “solved it” note like we’ve done for some others recently.
 geocaches: false

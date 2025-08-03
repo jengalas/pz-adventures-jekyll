@@ -5,7 +5,6 @@ author: Zhanna
 date: 2021-08-21
 categories:
   - geocaching
-tags:
 excerpt: Fun with numbers and coding!
 geocaches: true
 surveymarks: false

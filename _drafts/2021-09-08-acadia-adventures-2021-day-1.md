@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2021'
-tags:
 excerpt: 
 geocaches: false
 surveymarks: false

@@ -6,7 +6,6 @@ date: 2006-03-30
 categories:
   - mines
   - mountain biking
-tags:
 excerpt: >- 
   An early ride to an old mine tunnel was followed by a hot dog lunch!
 geocaches: false

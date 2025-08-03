@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-05-25
 categories:
   - hiking
-tags:
 excerpt: >- 
   The 12th annual Death Hike marked my "unofficial start to the Summer season."  The only fatality this time was a traffic cone!
 geocaches: false

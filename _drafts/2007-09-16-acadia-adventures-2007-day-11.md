@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2007'
   - mountain biking
-tags:
 excerpt: >- 
   
 geocaches: false

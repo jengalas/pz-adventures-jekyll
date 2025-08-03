@@ -9,7 +9,6 @@ categories:
   - '2015'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   It was another day for exploring old ruins, this time near Eagle Lake.
 featured_image: P1150370cl.jpg

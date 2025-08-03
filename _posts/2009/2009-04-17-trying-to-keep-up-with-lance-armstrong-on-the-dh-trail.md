@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-04-17
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   John was flying today!
 geocaches: false

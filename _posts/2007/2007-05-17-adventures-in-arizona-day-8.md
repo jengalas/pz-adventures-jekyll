@@ -7,7 +7,6 @@ categories:
   - travel
   - arizona
   - '2007'
-tags:
 excerpt: >- 
   In which the mooses leave the moose cave early but manage to find neither wildlife nor the trails they planned to hike, spend many hours exploring and laughing while at the Desert Museum, and take the wimpy way into and out of Sabino Canyon.
 geocaches: false

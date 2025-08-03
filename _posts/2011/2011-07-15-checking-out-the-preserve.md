@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-07-15
 categories:
   - hiking
-tags:
 excerpt: >- 
   We hiked the Conglomerate Loop & the Stonehenge Trail.
 

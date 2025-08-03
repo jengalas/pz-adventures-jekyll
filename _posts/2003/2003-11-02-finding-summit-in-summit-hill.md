@@ -6,7 +6,6 @@ date: 2003-11-02
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and I had a very full day in the Jim Thorpe/Summit Hill area: a long mountain bike ride followed by a tricky triangulation station recovery and a drenching downpour!
 geocaches: false

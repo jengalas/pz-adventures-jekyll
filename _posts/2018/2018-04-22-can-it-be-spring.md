@@ -7,7 +7,6 @@ categories:
   - geocaching
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Some photos from our mid-winter warm day walk to the neighborhood park
 geocaches: true

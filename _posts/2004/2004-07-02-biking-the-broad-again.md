@@ -6,7 +6,6 @@ date: 2004-07-02
 categories:
   - geocaching
   - mountain biking
-tags:
 excerpt: >- 
   
 geocaches: true

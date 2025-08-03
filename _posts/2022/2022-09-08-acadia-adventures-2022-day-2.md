@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2022'
   - survey mark hunting
-tags:
 excerpt: >-
   This year's trip to Maine is off to a good start: lobster rolls, benchmark hunting, and pizza!
 featured_image: 20220908_102658cvx.jpg

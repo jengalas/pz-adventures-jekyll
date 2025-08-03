@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2014'
-tags:
 excerpt: >-
   A canceled cruise leads to a day of hiking and exploring adventures on the island.
 featured_image: P1100510cm.jpg

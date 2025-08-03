@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-12-04
 categories:
   - hiking
-tags:
 excerpt: >- 
 
 geocaches: false

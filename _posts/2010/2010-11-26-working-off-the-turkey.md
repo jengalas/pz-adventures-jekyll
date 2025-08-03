@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-11-26
 categories:
   - hiking
-tags:
 excerpt: >- 
   Two turkey dinners yesterday provided more than enough calories to fuel rigorous outdoor activities today.  
 geocaches: false

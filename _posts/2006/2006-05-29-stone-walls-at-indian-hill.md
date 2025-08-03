@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-05-29
 categories:
   - hiking
-tags:
 excerpt: >- 
    Rich, Zhanna, and Aaron explore a new area in Sterling Forest!
 geocaches: false

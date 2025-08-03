@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2017'
-tags:
 excerpt: >-
   The tide was high and the ocean was angry on this quiet day of rest and light exploration.
 featured_image: P1090144clx.jpg

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2003-10-10
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and Zhanna enjoy a day-long adventure full of bushwhacking, challenging reference mark searches, and an encounter (pleasant!) with a local landowner.
 geocaches: false

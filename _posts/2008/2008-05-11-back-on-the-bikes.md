@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-05-11
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   
 geocaches: false

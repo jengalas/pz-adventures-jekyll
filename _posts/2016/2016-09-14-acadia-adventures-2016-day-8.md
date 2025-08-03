@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2016'
-tags:
 excerpt: >-
   A rest day provides unique photo opportunities!
 featured_image: P1070517cl.jpg

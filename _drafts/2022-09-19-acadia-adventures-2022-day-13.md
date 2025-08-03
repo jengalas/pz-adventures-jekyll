@@ -10,8 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 19SEP22.gpx

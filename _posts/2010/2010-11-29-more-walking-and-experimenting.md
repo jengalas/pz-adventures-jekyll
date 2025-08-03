@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-11-29
 categories:
   - hiking
-tags:
 excerpt: >- 
   Today's short walk took us along Breaker Road to Winton, where Rich played some more with his new camera.
 geocaches: false

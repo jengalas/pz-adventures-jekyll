@@ -5,7 +5,6 @@ author: Zhanna
 date: 2015-07-24
 categories:
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna discover a cactus nursery in Pike County, PA and attempt a benchmark find.
 featured_image: signcm.jpg

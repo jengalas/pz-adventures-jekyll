@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2023'
-tags:
 excerpt: >-
   
 geocaches: false

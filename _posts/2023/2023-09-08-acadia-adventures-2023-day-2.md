@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2023'
-tags:
 geocaches: false
 surveymarks: false
 tracklog: 08SEP23.gpx

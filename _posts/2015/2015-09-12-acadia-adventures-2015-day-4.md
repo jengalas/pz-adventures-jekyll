@@ -9,7 +9,6 @@ categories:
   - '2015'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   The Great Cave has been found by Rich and Zhanna!
 featured_image: P1140601cl.jpg

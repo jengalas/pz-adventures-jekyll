@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-05-12
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   It was a pleasantly warm day for a few benchmark searches in Pike County.
 geocaches: false

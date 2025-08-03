@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-10-13
 categories:
   - geocaching
-tags:
 excerpt: >-
   Today’s puzzle was a fun little challenge for a coder!
 geocaches: true

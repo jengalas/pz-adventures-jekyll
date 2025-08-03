@@ -9,7 +9,6 @@ categories:
   - '2018' 
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Our plan for today was to keep our activities very simple and easy. 
 featured_image: P1040390clx.jpg

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-02-17
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   Heat wave (50s) in Pennsylvania!
 

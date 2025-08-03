@@ -9,7 +9,6 @@ categories:
   - '2018' 
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   
 featured_image: P1050109clx.jpg

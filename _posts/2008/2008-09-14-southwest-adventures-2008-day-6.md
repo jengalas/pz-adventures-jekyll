@@ -8,7 +8,6 @@ categories:
   - southwest
   - '2008'
   - survey mark hunting  
-tags:
 excerpt: >- 
   
 geocaches: false

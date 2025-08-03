@@ -10,7 +10,6 @@ categories:
   - survey mark hunting
   - hiking
   - abandoned trails
-tags:
 excerpt: >-
   After Dad leaves for home, Rich and Zhanna explore a new trail and enjoy another excellent dinner in Southwest Harbor!
 featured_image: P1020425clx.jpg

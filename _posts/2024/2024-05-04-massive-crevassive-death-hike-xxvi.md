@@ -6,8 +6,6 @@ date: 2024-05-04
 categories: 
   - hiking
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 04MAY24.gpx

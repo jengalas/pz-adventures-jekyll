@@ -5,7 +5,6 @@ author: Zhanna
 date: 2016-08-05
 categories:
   - hiking
-tags:
 excerpt: >-
   Pancake-powered architectural treasure hunting and hiking in Susquehanna County!
 featured_image: P1060682cl.jpg

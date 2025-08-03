@@ -5,7 +5,6 @@ author: Zhanna
 date: 2012-04-14
 categories:
   - hiking
-tags:
 excerpt: >- 
   We hit the wildflower jackpot during a walk at Lackawanna State Park.
 

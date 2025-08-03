@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-03-30
 categories:
   - hiking
-tags:
 excerpt: >-
   Our walks along Taylor Road last Thursday and today were a perfect opportunity for some local exploration. Not much is growing yet, and the weather remains cold and wet.
 geocaches: false

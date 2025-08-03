@@ -5,7 +5,6 @@ author: Zhanna
 date: 2002-07-21
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   
 geocaches: false

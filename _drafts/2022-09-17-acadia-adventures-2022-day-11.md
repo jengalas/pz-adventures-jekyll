@@ -9,8 +9,6 @@ categories:
   - '2022'
   - abandoned trails
   - hiking
-tags:
-
 geocaches: false
 surveymarks: false
 tracklog: 17SEP22.gpx

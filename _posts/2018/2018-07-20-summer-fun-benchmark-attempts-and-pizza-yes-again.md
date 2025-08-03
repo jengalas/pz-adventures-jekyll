@@ -5,7 +5,6 @@ author: Zhanna
 date: 2018-07-20
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Zhanna and Rich explore the grounds of a former nudist colony (and don't find anything exciting) ... and finish off the day with pizza.
 surveymarks: true

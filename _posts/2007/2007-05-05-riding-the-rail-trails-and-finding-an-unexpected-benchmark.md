@@ -6,7 +6,6 @@ date: 2007-05-05
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
   For the first time all year, this weekend decent weather and days off coincided. Rich and I decided to take full advantage of this extraordinary event by spending most of Friday and Saturday outdoors. 
 geocaches: false

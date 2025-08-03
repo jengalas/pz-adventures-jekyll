@@ -6,7 +6,6 @@ date: 2006-12-17
 categories:
   - moosellaneous
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: false

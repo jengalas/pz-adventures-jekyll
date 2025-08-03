@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-07-29
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   Watching Jupiter's moons again!
 geocaches: false

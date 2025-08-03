@@ -6,7 +6,6 @@ date: 2020-07-17
 categories:
   - hiking
   - geocaching
-tags:
 excerpt: We began our day with another fun puzzle geocache by zzbob. This one was much simpler than the others! When we looked at the final location, though, we weren't too excited by the thought of poking around in yet more knotweed and poison ivy.
 geocaches: true
 surveymarks: false

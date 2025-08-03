@@ -9,7 +9,6 @@ categories:
   - '2008'
   - hiking
   - survey mark hunting
-tags:
 featured_image: IMG_0133cs.jpg
 geocaches: false
 surveymarks: true

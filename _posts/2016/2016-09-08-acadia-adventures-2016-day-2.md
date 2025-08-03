@@ -10,7 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and Zhanna wake up to the scent of balsam and pine, spend a long time exploring Fort Knox and the bridge observatory, and conclude the day with the traditional pizza and beer at Rosalie's!
 featured_image: P1060982cl.jpg

@@ -6,7 +6,6 @@ date: 2017-04-23
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Dad's first visit to Hickory Run's famous boulder field ... and our first visit in years!
 geocaches: false

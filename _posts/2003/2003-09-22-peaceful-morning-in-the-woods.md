@@ -6,7 +6,6 @@ date: 2003-09-22
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and I spent the morning geocaching in the Poconos. Afterward, we stopped to recover a bench mark along Kimbles Road. 
 geocaches: true

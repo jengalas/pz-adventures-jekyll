@@ -6,7 +6,6 @@ date: 2006-07-21
 categories:
   - hiking
   - mountain biking
-tags:
 excerpt: >- 
   
 geocaches: false

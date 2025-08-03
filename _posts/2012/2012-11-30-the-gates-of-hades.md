@@ -5,7 +5,6 @@ author: Zhanna
 date: 2012-11-30
 categories:
   - geocaching
-tags:
 excerpt: >-
   Night cache!!!
 geocaches: true

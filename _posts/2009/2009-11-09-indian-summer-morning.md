@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-11-09
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Our first bike ride in a long time, and wearing new jerseys!
 geocaches: false

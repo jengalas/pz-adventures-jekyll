@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-04-21
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and I spent some time in Bethlehem today before the annual showing of the Banff Mountain Film Festival World Tour, and of course, we found some survey marks along the way.
 

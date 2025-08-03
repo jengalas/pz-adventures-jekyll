@@ -9,7 +9,6 @@ categories:
   - '2017'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna spend their last full day in Maine exploring Otter Point and Otter Creek!
 featured_image: P1090920clx.jpg

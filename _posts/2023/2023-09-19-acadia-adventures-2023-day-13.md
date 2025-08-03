@@ -9,7 +9,6 @@ categories:
   - '2023'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   
 geocaches: false

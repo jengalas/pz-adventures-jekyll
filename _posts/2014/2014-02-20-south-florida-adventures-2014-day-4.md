@@ -9,7 +9,6 @@ categories:
   - '2014'
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
 featured_image: IMG_20140220_184026cm.jpg
 geocaches: false

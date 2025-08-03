@@ -6,7 +6,6 @@ date: 2003-11-09
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   And wow, was he mad!
 geocaches: true

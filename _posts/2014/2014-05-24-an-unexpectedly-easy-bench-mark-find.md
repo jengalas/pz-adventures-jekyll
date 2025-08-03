@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-05-24
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Tonight's bench mark scouting mission in Clarks Summit proved quite fruitful! Rich and I found TT 38 T.
 featured_image: tt38tg1.jpg

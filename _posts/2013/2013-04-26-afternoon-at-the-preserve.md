@@ -6,7 +6,6 @@ date: 2013-04-26
 categories:
   - hiking
   - geocaching
-tags:
 excerpt: >-
   Four months after our first attempt, we returned to Eales Preserve to finish a geocache hunt. 
 geocaches: true

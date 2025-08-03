@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-10-14
 categories:
   - geocaching
-tags:
 excerpt: >-
   This was a strange puzzle that sent us in many different (incorrect)
   directions over the course of several weeks. As usual, you realize it’s

@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2017'
   - survey mark hunting
-tags:
 excerpt: >-
   
 geocaches: false

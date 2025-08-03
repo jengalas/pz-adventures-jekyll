@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-01-23
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   We finally completed the "Acadia" puzzle from John.
 

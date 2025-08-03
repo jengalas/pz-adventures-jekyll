@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-07-19
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   Too foggy for much viewing tonight!
 geocaches: false

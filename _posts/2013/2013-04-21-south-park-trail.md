@@ -6,7 +6,6 @@ date: 2013-04-21
 categories:
   - hiking
   - mountain biking
-tags:
 excerpt: >-
   View video of mountain bikers on the South Park Trail in Nockamixon State Park.  I also have a tracklog of my hike with Rich and my father. 
 geocaches: false

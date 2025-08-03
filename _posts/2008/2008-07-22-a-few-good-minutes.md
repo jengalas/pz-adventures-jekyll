@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-07-22
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   It was a tricky night for skywatching.
 geocaches: false

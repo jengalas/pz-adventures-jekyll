@@ -6,7 +6,6 @@ date: 2002-11-23
 categories:
   - hiking
   - letterboxing
-tags:
 excerpt: >- 
   
 geocaches: true

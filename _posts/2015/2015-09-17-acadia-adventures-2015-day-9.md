@@ -10,7 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   
 featured_image: P1150059cl.jpg

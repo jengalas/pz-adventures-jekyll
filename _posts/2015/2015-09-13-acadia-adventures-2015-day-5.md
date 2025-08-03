@@ -9,7 +9,6 @@ categories:
   - '2015'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Another successful search for a long-lost feature of the park!
 featured_image: P1140699cl.jpg

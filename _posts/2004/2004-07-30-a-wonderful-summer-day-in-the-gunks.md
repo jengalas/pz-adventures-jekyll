@@ -7,7 +7,6 @@ categories:
   - geocaching
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and Zhanna return to the Gunks for a bike ride along the carriage roads, some hiking, geocaching and a survey mark hunt.
 geocaches: true

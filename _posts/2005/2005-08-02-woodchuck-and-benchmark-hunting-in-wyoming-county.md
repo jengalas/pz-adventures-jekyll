@@ -5,7 +5,6 @@ author: Zhanna
 date: 2005-08-02
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
    
 geocaches: false

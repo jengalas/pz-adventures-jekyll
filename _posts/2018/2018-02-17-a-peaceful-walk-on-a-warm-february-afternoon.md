@@ -5,7 +5,6 @@ author: Zhanna
 date: 2018-02-17
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   Some photos from our mid-winter warm day walk to the neighborhood park
 geocaches: false

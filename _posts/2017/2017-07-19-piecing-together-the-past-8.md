@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-19
 categories:
   - geocaching
-tags:
 excerpt: >-
   This evening's geocache walk took me to the public library!
 geocaches: true

@@ -7,7 +7,6 @@ categories:
   - geocaching
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: true

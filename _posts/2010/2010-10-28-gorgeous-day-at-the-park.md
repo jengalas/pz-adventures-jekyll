@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-10-28
 categories:
   - hiking
-tags:
 excerpt: >- 
     We spent this calm, warm, sunny, blue-sky morning hunting squirrels at Lackawanna State Park. 
 geocaches: false

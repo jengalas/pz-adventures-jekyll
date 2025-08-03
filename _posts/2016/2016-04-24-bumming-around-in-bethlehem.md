@@ -6,7 +6,6 @@ date: 2016-04-24
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   A morning hike at Jacobsburg State Park was followed by a delicious lunch in Bethlehem and a film festival!
 featured_image: P1050326cl.jpg

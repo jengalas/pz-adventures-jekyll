@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-11-21
 categories:
   - hiking
-tags:
 excerpt: >- 
     After a busy and cold weekend, we had to get out of the house.  Rich and I made a quick decision to investigate the relatively new Archbald park adjoining Archbald Pothole State Park.
 geocaches: false

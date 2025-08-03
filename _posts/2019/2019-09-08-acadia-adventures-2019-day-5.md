@@ -10,7 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - mines
-tags:
 excerpt: >-
   What an amazing day full of unexpected adventures and finds! It all began this morning when we realized we both were in the mood for a light breakfast. 
 featured_image: 20190908_101600clx.jpg

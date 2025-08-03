@@ -5,7 +5,6 @@ author: Zhanna
 date: "2023-11-04"
 categories: 
   - survey mark hunting
-tags:
 featured_image: PB045536cvx.jpg
 geocaches: false
 surveymarks: true

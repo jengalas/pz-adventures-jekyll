@@ -9,7 +9,6 @@ categories:
   - '2016'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna made an unexpected and haunting discovery at an abandoned house on the shore of Eagle Lake. 
 featured_image: P1070188cl.jpg

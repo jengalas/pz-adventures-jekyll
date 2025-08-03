@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2021'
   - survey mark hunting
-tags:
 excerpt: 
 geocaches: false
 surveymarks: true

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-07-30
 categories:
   - hiking
-tags:
 excerpt: >- 
   Herons and blackberries in the parks of NEPA.
 

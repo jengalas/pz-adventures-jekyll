@@ -6,7 +6,6 @@ date: 2006-09-07
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: false

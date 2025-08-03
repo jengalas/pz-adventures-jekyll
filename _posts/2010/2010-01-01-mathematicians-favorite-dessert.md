@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-01-01
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   Of course, it's pi.
 geocaches: true

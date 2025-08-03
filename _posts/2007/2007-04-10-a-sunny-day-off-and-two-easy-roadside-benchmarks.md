@@ -6,7 +6,6 @@ date: 2007-04-10
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Today was our first attempt at finding triangulation station GIRR.  We'll have to go back.  We did find two elevation marks, S 30 and T 30. 
 geocaches: false

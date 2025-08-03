@@ -8,8 +8,6 @@ categories:
   - acadia
   - '2019'
 
-tags:
-
 geocaches: false
 surveymarks: false
 tracklog: 

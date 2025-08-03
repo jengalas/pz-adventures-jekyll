@@ -7,7 +7,6 @@ categories:
   - hiking
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   Today's adventures included a scenic hike and a geocache find, followed by several roadside benchmark hunts.
 geocaches: true

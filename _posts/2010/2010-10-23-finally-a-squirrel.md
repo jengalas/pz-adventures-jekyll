@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-10-23
 categories:
   - hiking
-tags:
 excerpt: >- 
     Today, at long last, a squirrel! 
 geocaches: false

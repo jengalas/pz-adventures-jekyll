@@ -6,7 +6,6 @@ date: 2013-09-28
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Dad joins Zhanna and Rich on a day-long excursion to Sam's Point. They find an azimuth mark, explore the Ice Caves and see beautiful fall color everywhere around them!
 geocaches: false

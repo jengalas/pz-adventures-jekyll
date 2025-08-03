@@ -10,7 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and Zhanna explore two unofficial trails and eat lots of lobster!
 featured_image: P1070351cl.jpg

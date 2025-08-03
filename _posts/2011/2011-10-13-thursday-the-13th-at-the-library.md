@@ -5,7 +5,6 @@ author: Zhanna
 date: 2011-10-13
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   Zhanna's Lego skeletons FTW!
 

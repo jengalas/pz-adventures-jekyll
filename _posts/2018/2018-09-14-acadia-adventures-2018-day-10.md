@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2018' 
   - hiking
-tags:
 excerpt: >-
   
 featured_image: 20180914_130843clx.jpg

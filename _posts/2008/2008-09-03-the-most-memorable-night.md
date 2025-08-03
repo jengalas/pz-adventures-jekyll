@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-09-03
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   
 geocaches: false

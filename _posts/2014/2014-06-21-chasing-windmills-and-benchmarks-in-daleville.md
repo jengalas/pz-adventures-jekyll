@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-06-21
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Inspired by a vague memory from Rich's childhood, he and Zhanna go on a benchmark hunting run in Daleville!
 featured_image: ly1616g2.jpg

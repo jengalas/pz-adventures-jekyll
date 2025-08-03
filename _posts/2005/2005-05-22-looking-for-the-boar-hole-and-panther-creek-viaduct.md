@@ -6,7 +6,6 @@ date: 2005-05-22
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
    Rich and Zhanna enjoy a peaceful ride on an old railbed, find a USGS bench mark, and come across the remnants of a grand old viaduct!
 geocaches: false

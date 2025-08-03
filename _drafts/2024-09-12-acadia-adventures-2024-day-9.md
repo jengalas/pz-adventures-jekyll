@@ -8,8 +8,6 @@ categories:
   - '2024'
   - hiking
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 post_id: 14380

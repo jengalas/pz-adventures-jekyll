@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-28
 categories:
   - geocaching
-tags:
 excerpt: >-
   Finally, Rich has been able to join me on a few of these "Pieces of the Past" geocache hunts!
 featured_image: P1080943clx.jpg

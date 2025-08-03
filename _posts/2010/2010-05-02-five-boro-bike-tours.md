@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-05-02
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Today John and Chris completed all 40+ miles of the Five Boro Bike Tour in New York City.   It was a terribly hot and humid day and riders were dropping like flies all over the place, but John and Chris persevered. 
 geocaches: false

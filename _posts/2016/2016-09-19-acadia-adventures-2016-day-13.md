@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2016'
-tags:
 excerpt: >-
   The thought of a pizza dinner got Rich and Zhanna through this rainy day ... but what?! Rosalie's is closed on Monday?!
 featured_image: P1070946cl.jpg

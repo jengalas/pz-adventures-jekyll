@@ -6,7 +6,6 @@ date: 2005-05-07
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
    While enjoying a day of mountain biking on the Switchback Trail, Rich and I took a short detour from Summit Hill to search the area near the coordinates for any sign of the old Switchback chimney.
 geocaches: false

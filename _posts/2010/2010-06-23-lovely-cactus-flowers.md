@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-06-23
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   My Gymnocalycium bloomed again!
 geocaches: false

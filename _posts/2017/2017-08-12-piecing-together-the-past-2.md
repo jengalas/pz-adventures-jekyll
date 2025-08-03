@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-08-12
 categories:
   - geocaching
-tags:
 excerpt: >-
   While on our walk on the Lackawanna River Heritage Trail this morning, Rich and I found "Piecing Together the Past #2."
 featured_image: P1090103clx.jpg

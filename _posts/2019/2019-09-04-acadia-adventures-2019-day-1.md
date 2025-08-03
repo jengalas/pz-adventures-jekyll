@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2019'
-tags:
 excerpt: >-
   The Mooses are heading to Maine!
 geocaches: false

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-10-02
 categories:
   - geocaching
-tags:
 excerpt: >-
   Today’s solve was one that had stumped us for a week or more, even though it looked like it should be (and ultimately turned out to be) pretty easy.
 geocaches: true

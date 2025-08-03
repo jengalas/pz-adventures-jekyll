@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2015'
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna investigate another new/old trail and their camera goes on an adventure of its own!
 featured_image: 20150918_131437cl.jpg

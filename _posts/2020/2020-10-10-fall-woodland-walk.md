@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-10-10
 categories:
   - hiking
-tags:
 excerpt: >-
   Today was very warm and sunny, and we really wanted to spend some time outside on a photo walk.
 geocaches: false

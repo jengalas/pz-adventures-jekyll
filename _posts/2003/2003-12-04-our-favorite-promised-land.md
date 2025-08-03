@@ -5,7 +5,6 @@ author: Zhanna
 date: 2003-12-04
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   This still, chilly December day with just a bit of snow on the ground was perfect for hunting a tri-station and benchmark in Promised Land State Park.
 geocaches: false

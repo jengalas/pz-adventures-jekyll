@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-03-19
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Easter is a great day for mountain biking, as long as it's sunny and hot like today was.  We had the whole trail to ourselves!
 geocaches: false

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-06-28
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Today Rich and I set out on a benchmark hunting trip in the Waymart area. We are on a quest to find more "J" bench marks, those set in the mid-1920s by Oscar Jones and which, so far, have all been made of Aich's metal.
 featured_image: 10-63-2034-4g3cm.jpg

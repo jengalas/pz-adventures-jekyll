@@ -5,7 +5,6 @@ author: Zhanna
 date: 2016-08-20
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   Paradise Park in late summer, as experienced by Rich and Zhanna.
 featured_image: P1060841cl.jpg

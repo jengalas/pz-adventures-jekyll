@@ -5,7 +5,6 @@ author: Zhanna
 date: 2007-03-30
 categories:
   - geocaching
-tags:
 excerpt: >- 
   In which Zhanna was a few hours too early for a First Find ... something fishy is in the air!
 geocaches: true

@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2007'
   - survey mark hunting
-tags:
 excerpt: >- 
   In which the mooses make the long drive from the Canyon to Tucson, encountering along the way several benchmarks, nice Indians, a disappointment, a pleasant surprise, and hamburgers.
 geocaches: false

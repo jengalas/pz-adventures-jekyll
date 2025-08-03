@@ -6,7 +6,6 @@ date: 2003-08-30
 categories:
   - letterboxing
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: false

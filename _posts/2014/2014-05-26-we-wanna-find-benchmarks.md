@@ -6,7 +6,6 @@ date: 2014-05-26
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Benchmarks and wildlife on a beautiful May day!
 featured_image: ly1248g4.jpg

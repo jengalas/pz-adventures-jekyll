@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-08-05
 categories:
   - hiking
-tags:
 excerpt: >-
   
 featured_image: P1090063clx.jpg

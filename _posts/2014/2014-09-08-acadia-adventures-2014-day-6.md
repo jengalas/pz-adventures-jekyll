@@ -9,7 +9,6 @@ categories:
   - '2014'
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   
 featured_image: P1100637cm.jpg

@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2008'
-tags:
 featured_image: 
 geocaches: false
 surveymarks: false

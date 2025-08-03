@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-08-21
 categories:
   - mountain biking
-tags:
 excerpt: >- 
     A 15 mile ride, and fried fish! Sometimes we discover a new trail at just the right time.  
 geocaches: false

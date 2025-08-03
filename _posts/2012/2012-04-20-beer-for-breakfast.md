@@ -6,7 +6,6 @@ date: 2012-04-20
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Dad has been wanting to visit and hike at Hawk Mountain for several months already. We finally got an opportunity for a day-trip to Schuylkill County, as well as some great weather!
 

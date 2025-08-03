@@ -5,7 +5,6 @@ author: Zhanna
 date: 2004-10-30
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   Zhanna spent the day with her parents in the Finger Lakes region of New York, tasting wine and looking for benchmarks.
 geocaches: false

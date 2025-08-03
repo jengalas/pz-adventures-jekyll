@@ -7,7 +7,6 @@ categories:
   - geocaching
   - letterboxing
   - survey mark hunting
-tags:
 excerpt: >- 
   I saw more rain on this crazy-weather Thursday than I have in a very long time. I still decided to try for a geocache, letterbox, and a few benchmarks.
 geocaches: true

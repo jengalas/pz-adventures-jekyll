@@ -9,7 +9,6 @@ categories:
   - '2018' 
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Today's adventure actually originated two years ago, when a man we met at Jordan Pond House vaguely mentioned "spiral steps" that were supposedly located somewhere behind Wildwood Stables. 
 featured_image: P1040295clx.jpg

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-11-06
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
     This is the adorable crochet moose I made for Rich while he was in the hospital. 
 geocaches: false

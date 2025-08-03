@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-03-17
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Team Moose celebrates the start of the 2010 cycling season!
 geocaches: false

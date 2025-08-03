@@ -9,8 +9,6 @@ categories:
   - '2022'
   - hiking
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 14SEP22.gpx

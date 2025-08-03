@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-06-05
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   A rainy evening and a perfect setting for a late-spring meal ...
 geocaches: false

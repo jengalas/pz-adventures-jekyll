@@ -5,7 +5,6 @@ author: Zhanna
 date: 2016-10-29
 categories:
   - hiking
-tags:
 excerpt: >-
   A somber fall walk.
 featured_image: P1080100cl.jpg

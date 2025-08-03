@@ -10,8 +10,6 @@ categories:
   - abandoned trails
   - hiking
 
-tags:
-
 geocaches: false
 surveymarks: false
 tracklog: 16SEP19.gpx

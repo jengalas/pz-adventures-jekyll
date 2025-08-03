@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-08-27
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
     We finished this peaceful panoramic waterfall view tonight while relaxing outside on the patio. 
 geocaches: false

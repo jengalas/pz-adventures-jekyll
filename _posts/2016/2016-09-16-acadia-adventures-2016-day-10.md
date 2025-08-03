@@ -9,7 +9,6 @@ categories:
   - '2016'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna check out the progress on the Jordan Stream Trail and find some great burgers in town.
 featured_image: P1070745cl.jpg

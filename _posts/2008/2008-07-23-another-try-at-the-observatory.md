@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-07-23
 categories:
   - skywatching  
-tags:
 excerpt: >- 
   Tonight at the observatory, John Sabia spoke on "Observing Planets with a Telescope."
 geocaches: false

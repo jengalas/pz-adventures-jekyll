@@ -7,8 +7,6 @@ categories:
   - travel
   - acadia
   - '2022'
-tags:
-
 geocaches: false
 surveymarks: false
 post_id: 14012

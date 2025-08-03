@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2015'
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and Zhanna make the traditional stops-including the Bagaduce Lunch!-along the way to Bar Harbor.
 featured_image: 20150910_061043cl.jpg

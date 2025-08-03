@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-07-31
 categories:
   - hiking
-tags:
 excerpt: Today's photo hike took place on a loop along the Frost Hollow and Snowflake Trails. 
 geocaches: false
 surveymarks: false

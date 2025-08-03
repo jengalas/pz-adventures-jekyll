@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-09-03
 categories:
   - geocaching
-tags:
 excerpt: Today's puzzles were quite varied.
 geocaches: true
 surveymarks: false

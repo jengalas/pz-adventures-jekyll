@@ -5,7 +5,6 @@ author: Zhanna
 date: 2007-11-04
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   The second of a two-part series: documenting our recovery of the LENOX tri-station and fixing errors on the datasheet.
 geocaches: false

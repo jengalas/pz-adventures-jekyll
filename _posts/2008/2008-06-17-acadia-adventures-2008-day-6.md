@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2008'
   - mountain biking
-tags:
 featured_image: IMG_0158cs.jpg
 geocaches: false
 surveymarks: false

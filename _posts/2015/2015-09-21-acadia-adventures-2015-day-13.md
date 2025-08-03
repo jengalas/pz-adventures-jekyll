@@ -9,7 +9,6 @@ categories:
   - '2015'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna find the abandoned Upper Ladder Trail!
 featured_image: P1150382cl.jpg

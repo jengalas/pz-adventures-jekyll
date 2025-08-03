@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-04-16
 categories:
   - hiking
-tags:
 excerpt: >- 
    Rich and Zhanna decide on an “easy” hike that turned out to be a little more difficult than we expected, but also far more spectacular!
 geocaches: false

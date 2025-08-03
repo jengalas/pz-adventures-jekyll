@@ -6,7 +6,6 @@ date: 2006-03-23
 categories:
   - mines
   - hiking
-tags:
 excerpt: >- 
   A batgate and several mine openings make for interesting finds on a warm March day.
 geocaches: false

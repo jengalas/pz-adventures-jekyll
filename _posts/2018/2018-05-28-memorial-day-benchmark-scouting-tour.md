@@ -5,7 +5,6 @@ author: Zhanna
 date: 2018-05-28
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and Zhanna scout out some survey marks, then try a GIANT meatball for lunch!
 surveymarks: true

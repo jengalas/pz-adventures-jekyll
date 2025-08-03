@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2014'
-tags:
 excerpt: >-
 
 geocaches: false

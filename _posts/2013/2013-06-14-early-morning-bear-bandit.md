@@ -5,7 +5,6 @@ author: Zhanna
 date: 2013-06-14
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   We finally caught our neighborhood bear in the act of destroying our bird feeders.
 geocaches: false

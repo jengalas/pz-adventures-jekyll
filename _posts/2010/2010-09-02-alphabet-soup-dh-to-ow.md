@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-09-02
 categories:
   - mountain biking
-tags:
 excerpt: >- 
     Crazy kids on quads and the messy trail surface had turned us off to the O&W trail in the past, but we decided to give it a try today as part of a loop with a section of the D&H Rail Trail that we ride frequently. 
 geocaches: false

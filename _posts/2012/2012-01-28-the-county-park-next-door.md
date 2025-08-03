@@ -5,7 +5,6 @@ author: Zhanna
 date: 2012-01-28
 categories:
   - hiking
-tags:
 excerpt: >- 
   This beautiful park was planned and built by our neighbor. 
 

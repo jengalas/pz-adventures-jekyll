@@ -6,7 +6,6 @@ date: 2017-08-22
 categories:
   - abandoned trails
   - moosellaneous
-tags:
 excerpt: >-
   If you’re a fan of my abandoned trail-finding adventures, please check out this new book by Matthew Marchon, one of our sources of information and a great inspiration!
 geocaches: false

@@ -9,8 +9,6 @@ categories:
   - '2019'
   - hiking
 
-tags:
-
 geocaches: false
 surveymarks: false
 tracklog: 11SEP19.gpx

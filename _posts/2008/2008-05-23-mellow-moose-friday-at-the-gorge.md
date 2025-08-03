@@ -5,7 +5,6 @@ author: Zhanna
 date: 2008-05-23
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Great riding at Lehigh Gorge on this chilly late-May Friday!
 geocaches: false

@@ -6,7 +6,6 @@ date: 2003-02-03
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: true

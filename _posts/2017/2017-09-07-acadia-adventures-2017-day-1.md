@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2017'
-tags:
 excerpt: >-
   A late start means no traffic and an easy (but long) drive for Rich and Zhanna. First day meals include unexpected Mexican and Rosalie's pizza!
 featured_image: P1040831clx.jpg

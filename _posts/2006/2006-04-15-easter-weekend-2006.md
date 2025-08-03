@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-04-15
 categories:
   - climbing
-tags:
 excerpt: >- 
 
 geocaches: false

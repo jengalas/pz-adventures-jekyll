@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2015'
-tags:
 excerpt: >-
   Rich and Zhanna drive to Maine in a new m00se-mobile!
 geocaches: false

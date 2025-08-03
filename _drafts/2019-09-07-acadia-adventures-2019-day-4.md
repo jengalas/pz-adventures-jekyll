@@ -7,8 +7,6 @@ categories:
   - travel
   - acadia
   - '2019'
-tags:
-
 geocaches: false
 surveymarks: false
 post_id: 11909

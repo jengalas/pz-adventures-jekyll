@@ -6,7 +6,6 @@ date: 2006-08-31
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   HICKORY provided a nice goal for our hike in Hickory Run State Park on this humid August day.
 geocaches: false

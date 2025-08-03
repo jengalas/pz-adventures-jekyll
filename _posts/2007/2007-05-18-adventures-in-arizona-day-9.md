@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2007'
   - survey mark hunting
-tags:
 excerpt: >- 
   In which the mooses discover their own mountainous desert hideaway, wander among politically-incorrectly-named rock formations, survive a thunder- and hailstorm brought on by Zhanna’s Vortex Hat, find a surprise benchmark at an historic ranch house, and stuff themselves silly at Salsa Fiesta.
 geocaches: false

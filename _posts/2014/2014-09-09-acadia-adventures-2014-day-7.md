@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2014'
   - hiking
-tags:
 excerpt: >-
   Dad's first full day in Maine: Sieur de Monts, Dorr Mountain, and Red Sky!
 featured_image: P1020698cm.jpg

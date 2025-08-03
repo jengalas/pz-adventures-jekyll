@@ -7,7 +7,6 @@ categories:
   - letterboxing
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: true

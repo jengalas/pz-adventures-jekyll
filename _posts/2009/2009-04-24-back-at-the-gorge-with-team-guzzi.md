@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-04-24
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   So far we've had a decent Spring; at least, the days I've had off have been warm and clear.  Today John wanted to come along for the ride on the Lehigh Gorge Trail, which was fine with us.
 geocaches: false

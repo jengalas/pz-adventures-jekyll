@@ -6,7 +6,6 @@ date: 2013-10-05
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and Zhanna check out the Tannery tract of the Varden Conservation area. It was a beautiful fall day for a hike!
 geocaches: false

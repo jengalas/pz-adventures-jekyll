@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-11-07
 categories:
   - hiking
-tags:
 excerpt: >- 
     Rich and Zhanna check out two trails in an area of Lackawanna State Park that's new to them.
 geocaches: false

@@ -8,8 +8,6 @@ categories:
   - acadia
   - '2019'
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 post_id: 11900

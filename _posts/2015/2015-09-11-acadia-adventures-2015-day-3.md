@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2015'
   - hiking
-tags:
 excerpt: >-
   On a drizzly day, Rich and Zhanna discover a new place for breakfast (and dinner!) and enjoy a walk through Acadia's memorials.
 featured_image: P1140333cl.jpg

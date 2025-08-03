@@ -10,7 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   We hiked the Beachcroft Path to the summit of Champlain, found an abandoned trail and a cave, and finished off the day with lobster rolls and much-needed beer!
 featured_image: P1140785cl.jpg

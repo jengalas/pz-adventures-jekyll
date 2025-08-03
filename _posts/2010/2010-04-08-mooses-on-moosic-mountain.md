@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-04-08
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   The string of gorgeous, sunny, 80°+ days we’ve had this month has been truly unbelievable and most welcome. Unable to resist getting out for one more ride before a cold front comes through for the weekend, Rich and I loaded the bikes on the car and drove to the top of Moosic Mountain.
 geocaches: false

@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2007'
-tags:
 excerpt: >- 
   
 geocaches: false

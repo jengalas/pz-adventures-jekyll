@@ -6,7 +6,6 @@ date: 2009-05-31
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
   There's nothing too unusual or exciting about LY0177, near New Paltz, NY ... except the beauty of the surrounding mountains!
 geocaches: false

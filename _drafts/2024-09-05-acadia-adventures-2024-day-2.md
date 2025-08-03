@@ -7,8 +7,6 @@ categories:
   - acadia
   - '2024'
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 post_id: 14310

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-05-14
 categories:
   - geocaching
-tags:
 excerpt: >- 
   Zhanna and Rich find their first geocache in over a year ... and along with Zhanna's parents, eat a total of 20 tacos for supper!
 geocaches: true

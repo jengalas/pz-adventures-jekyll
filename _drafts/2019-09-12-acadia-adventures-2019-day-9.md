@@ -10,8 +10,6 @@ categories:
   - hiking
   - survey mark hunting
 
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 12SEP19.gpx

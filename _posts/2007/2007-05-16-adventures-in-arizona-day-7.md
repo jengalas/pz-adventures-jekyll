@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2007'
   - mines
-tags:
 excerpt: >- 
   In which the mooses become acquainted with the majestic and comical saguaro, hike an easy trail to centuries-old Hohokam petroglyphs, and have a close call with their first thunderstorm in the desert while near the abandoned Gould Mine.
 geocaches: false

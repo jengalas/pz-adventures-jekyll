@@ -5,7 +5,6 @@ author: Zhanna
 date: 2019-06-09
 categories:
   - moosellaneous
-tags:
 excerpt: >-
   This warm, dry Sunday morning was perfect for breakfast at the Mustard Seed and a stop at the Cactus Man!
 geocaches: false

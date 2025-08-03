@@ -6,7 +6,6 @@ date: 2013-01-06
 categories:
   - hiking
   - moosellaneous
-tags:
 excerpt: >-
 
 geocaches: false

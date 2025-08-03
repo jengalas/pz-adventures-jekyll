@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-10-15
 categories:
   - hiking
-tags:
 excerpt: >- 
   A simple hike to Buttermilk Falls in the Delaware Water Gap National Recreation Area ...
 geocaches: false

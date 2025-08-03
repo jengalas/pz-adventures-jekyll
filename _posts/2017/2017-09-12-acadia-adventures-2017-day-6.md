@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2017'
   - hiking
-tags:
 excerpt: >-
   Today Rich, Dad and Zhanna hike on official trails, and Dad has his first Rosalie's pizza in two years.
 featured_image: 20170912_123636clx.jpg

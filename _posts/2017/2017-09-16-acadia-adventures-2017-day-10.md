@@ -9,7 +9,6 @@ categories:
   - '2017'
   - survey mark hunting
   - hiking
-tags:
 excerpt: >-
   
 featured_image: P1040922clx.jpg

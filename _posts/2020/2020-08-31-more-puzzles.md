@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-08-31
 categories:
   - geocaching
-tags:
 excerpt: Today's puzzle geocaches were a little more straightforward for us, and therefore pretty easy and fun to solve.
 geocaches: true
 surveymarks: false

@@ -6,7 +6,6 @@ date: 2014-06-14
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Zhanna, Rich, and Dave have adventures in Minnewaska State Park, including a porcupine sighting.
 featured_image: P1080899cm.jpg

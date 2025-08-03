@@ -5,7 +5,6 @@ author: Zhanna
 date: 2022-05-07
 categories:
   - hiking
-tags:
 excerpt: >- 
    
 geocaches: false

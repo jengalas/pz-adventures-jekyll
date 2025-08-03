@@ -5,7 +5,6 @@ author: Zhanna
 date: 2016-01-30
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   First, the bad news: our first benchmark hunt of 2016 didn't result in a find. But the good news: it was nice enough for a survey mark hunt in January
 featured_image: ly0190sitecl.jpg

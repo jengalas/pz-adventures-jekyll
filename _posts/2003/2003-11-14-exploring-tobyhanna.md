@@ -6,7 +6,6 @@ date: 2003-11-14
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
   Today's adventures in Tobyhanna were relatively quick, because it was cold and horribly windy!
 geocaches: true

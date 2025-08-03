@@ -5,7 +5,6 @@ author: Zhanna
 date: 2018-05-20
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   After a triangulation station scouting trip near home, Rich and Zhanna head north to New York for Lupo's famous spiedies!
 surveymarks: true

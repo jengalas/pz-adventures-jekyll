@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-10-14
 categories:
   - hiking
-tags:
 excerpt: >-
   This year's fall colors are still spectacular, so we took another walk around the neighborhood on this warm afternoon to enjoy them. We even found some interesting wildlife along the way to photograph!
 featured_image: P1021987clx.jpg

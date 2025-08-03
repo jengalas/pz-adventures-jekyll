@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2021' 
   - hiking
-tags:
 excerpt: 
 geocaches: false
 surveymarks: false

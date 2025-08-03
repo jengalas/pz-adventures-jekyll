@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-08-15
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Rich and Zhanna ride the Lehigh Gorge Trail and have lots of treats for breakfast and dinner!
 geocaches: false

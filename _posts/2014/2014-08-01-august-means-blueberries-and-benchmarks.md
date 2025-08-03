@@ -6,7 +6,6 @@ date: 2014-08-01
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   The first weekend of August = Montrose Blueberry Festival!
 featured_image: redheadedmamm01cm.jpg

@@ -8,8 +8,6 @@ categories:
   - '2024'
   - abandoned trails
   - hiking
-tags:
-
 geocaches: false
 surveymarks: false
 tracklog: 15SEP24.gpx

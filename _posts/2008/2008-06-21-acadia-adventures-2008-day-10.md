@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2008'
   - survey mark hunting
-tags:
 featured_image: pe2033g2.jpg
 geocaches: false
 surveymarks: true

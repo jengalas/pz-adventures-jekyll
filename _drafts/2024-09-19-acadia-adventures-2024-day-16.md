@@ -6,8 +6,6 @@ categories:
   - travel
   - acadia
   - '2024'
-tags:
-
 geocaches: false
 surveymarks: false
 post_id: 14450

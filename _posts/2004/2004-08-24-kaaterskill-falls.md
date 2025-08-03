@@ -8,7 +8,6 @@ categories:
   - geocaching
   - letterboxing
   - survey mark hunting
-tags:
 excerpt: >- 
   I was pretty excited when Rich suggested taking a day trip to Kaaterskill Falls. He’s talked about the falls before, and I could hardly wait to see them for myself.
 geocaches: true

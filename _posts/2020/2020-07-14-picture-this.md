@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-07-14
 categories:
   - geocaching
-tags:
 excerpt: Last night a new puzzle cache popped up nearby, and Rich happened to notice the notification email. We had a chance for a First Find! 
 geocaches: true
 surveymarks: false

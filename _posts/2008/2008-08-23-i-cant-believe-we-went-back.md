@@ -7,7 +7,6 @@ categories:
   - hiking
   - geocaching
   - mountain biking  
-tags:
 excerpt: >- 
   After breakfast we took the bikes over to the mountain to continue exploring more of the unfamiliar trails we explored on Wednesday when searching for "Rocks from afar."
 geocaches: true

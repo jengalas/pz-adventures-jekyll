@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-07-25
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Expecting hot and very humid conditions, today Rich and I opted for an easy ride—another cruise down the Lehigh Gorge trail.
 geocaches: false

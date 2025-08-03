@@ -6,7 +6,6 @@ date: 2005-05-29
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
    Rich and Zhanna return to the area where they found TT 1 H a few weeks ago, this time to search for TT 2 H!
 geocaches: false

@@ -8,8 +8,6 @@ categories:
   - acadia
   - '2022'
   - hiking
-tags:
-
 geocaches: false
 surveymarks: false
 tracklog: 12SEP22.gpx

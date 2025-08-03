@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2016'
-tags:
 excerpt: >-
   Today's rain thwarted Rich and Zhanna at every turn, but it still turned out to be a wonderful day. 
 featured_image: P1070257cl.jpg

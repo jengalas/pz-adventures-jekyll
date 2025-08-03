@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-05-13
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   On this humid May morning we met my father at Zummo's Cafe, and then went for a walk.
 featured_image: lake-scranton-w-wg1.jpg

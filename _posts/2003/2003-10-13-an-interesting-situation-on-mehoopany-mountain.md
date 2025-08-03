@@ -5,7 +5,6 @@ author: Zhanna
 date: 2003-10-13
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   MEHOOPANY RM 2 and the fire tower at the site have an interesting history.  Are they one and the same?  Who knows!
 geocaches: false

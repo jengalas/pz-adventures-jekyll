@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2017'
-tags:
 excerpt: >-
   It was a beautiful day for a picnic on Great Hill—and more abandoned trail finding!
 featured_image: P1090226clx.jpg

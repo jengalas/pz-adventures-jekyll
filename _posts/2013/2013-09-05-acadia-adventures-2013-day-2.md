@@ -9,7 +9,6 @@ categories:
   - '2013'
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Rich and Zhanna finally make their way to the Bagaduce Lunch to discover what they've been missing all these years. Plus, GOATS!!!
 geocaches: false

@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2015'
-tags:
 excerpt: >-
   Two breakfasts and a long ride home-the perfect end to a perfect vacation!
 geocaches: false

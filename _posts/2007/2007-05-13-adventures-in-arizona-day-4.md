@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2007'
   - survey mark hunting
-tags:
 excerpt: >- 
   In which the mooses head below the South Rim and beat themselves up on their "easy warm-up hike," finally find one of the Boston Museum benchmarks, and discover the healing properties of Fat Tire Ale.
 geocaches: false

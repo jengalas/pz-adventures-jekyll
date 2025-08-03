@@ -9,7 +9,6 @@ categories:
   - '2017'
   - survey mark hunting
   - hiking
-tags:
 excerpt: >-
   Rich, Zhanna and Dad travel south to Baker Island!
 featured_image: P1090602clx.jpg

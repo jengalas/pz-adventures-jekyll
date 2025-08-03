@@ -5,7 +5,6 @@ author: Zhanna
 date: 2006-06-09
 categories:
   - terracaching
-tags:
 excerpt: >- 
   
 geocaches: false

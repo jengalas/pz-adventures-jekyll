@@ -9,7 +9,6 @@ categories:
   - '2015'
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Dad finally got to cruise to the Cranberry Isles! And we discovered the Granite Museum.
 geocaches: false

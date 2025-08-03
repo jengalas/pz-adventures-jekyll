@@ -9,7 +9,6 @@ categories:
   - '2016'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna celebrate their 5th anniversary with two hikes up Great Hill, abandoned trail explorations, and their best meal ever at Havana.
 featured_image: P1070423cl.jpg

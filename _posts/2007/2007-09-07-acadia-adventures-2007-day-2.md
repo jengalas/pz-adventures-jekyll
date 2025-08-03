@@ -9,7 +9,6 @@ categories:
   - '2007'
   - climbing
   - hiking
-tags:
 excerpt: >- 
   
 geocaches: false

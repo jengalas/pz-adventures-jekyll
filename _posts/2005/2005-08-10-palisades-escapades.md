@@ -7,7 +7,6 @@ categories:
   - geocaching
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Rich and I had a few tri-stations and geocaches in mind as possible diversions on our day-trip to the Palisades, but the main goal of the day was just hiking and exploring. 
 geocaches: true

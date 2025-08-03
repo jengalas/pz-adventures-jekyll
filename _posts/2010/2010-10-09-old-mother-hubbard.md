@@ -6,7 +6,6 @@ date: 2010-10-09
 categories:
   - hiking
   - geocaching
-tags:
 excerpt: >- 
     This afternoon we explored a new area very close to home, and found two geocaches along the way.
 geocaches: true

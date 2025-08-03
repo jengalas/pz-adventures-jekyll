@@ -5,7 +5,6 @@ author: Zhanna
 date: 2019-08-05
 categories:
   - skywatching
-tags:
 excerpt: >-
   "I'll bet that's Jupiter," Rich said, and he brought out the scope so we could check for its Galilean moons.
 geocaches: false

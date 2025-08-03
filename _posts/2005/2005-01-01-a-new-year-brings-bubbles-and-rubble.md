@@ -6,7 +6,6 @@ date: 2005-01-01
 categories:
   - hiking
   - geocaching
-tags:
 excerpt: >- 
    
 geocaches: true

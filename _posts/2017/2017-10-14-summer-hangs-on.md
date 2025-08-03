@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-10-14
 categories:
   - hiking
-tags:
 excerpt: >-
   October has been very warm and dry this year, so the fall color is somewhat lacking, but honestly, I can appreciate the colors of summer for as long as they last!
 geocaches: false

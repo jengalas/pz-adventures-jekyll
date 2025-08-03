@@ -6,7 +6,6 @@ date: 2007-08-25
 categories:
   - mountain biking
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: false

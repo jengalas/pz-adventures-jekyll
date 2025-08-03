@@ -5,7 +5,6 @@ author: Zhanna
 date: 2017-07-18
 categories:
   - geocaching
-tags:
 excerpt: >-
   Today's geocache finds are two more examples of why I wasn't thrilled about this series.
 geocaches: true

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2004-04-17
 categories:
   - survey mark hunting
-tags:
 excerpt: >- 
   We returned to the Blooming Grove area today to search for a few benchmarks, some of which had eluded us in the past.
 geocaches: false

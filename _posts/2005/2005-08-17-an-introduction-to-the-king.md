@@ -7,7 +7,6 @@ categories:
   - geocaching
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Our trip to Storm King was the second in our late-Summer series of day trips to the Hudson Valley region.
 geocaches: true

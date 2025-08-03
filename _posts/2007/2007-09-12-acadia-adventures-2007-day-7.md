@@ -9,7 +9,6 @@ categories:
   - '2007'
   - moutain biking
   - survey mark hunting
-tags:
 excerpt: >- 
   
 geocaches: false

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2012-02-18
 categories:
   - moosellaneous
-tags:
 excerpt: >- 
   Winter activity: moose puzzle!
 

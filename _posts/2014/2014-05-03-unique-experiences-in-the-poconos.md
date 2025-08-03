@@ -6,7 +6,6 @@ date: 2014-05-03
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Rich, Dad and Zhanna go hiking at Bruce Lake, find a strange place for lunch, and search for a survey marker on the way home!
 featured_image: P1080359cl.jpg

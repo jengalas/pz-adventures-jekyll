@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-07-11
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   A short bike ride in breathtaking surroundings was the perfect way to introduce John to Minnewaska State Park!
 geocaches: false

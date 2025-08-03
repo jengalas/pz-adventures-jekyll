@@ -11,8 +11,6 @@ categories:
   - hiking
   - letterboxing
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 11SEP22.gpx

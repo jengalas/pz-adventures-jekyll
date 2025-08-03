@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2007'
   - survey mark hunting
-tags:
 excerpt: >- 
   In which the mooses arrive in their sunshine paradise, take the long way to Sedona, gawk at the “famous” Haunted Hamburger in Jerome, and eat rattlesnake.
 geocaches: false

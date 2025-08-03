@@ -7,8 +7,6 @@ categories:
   - acadia
   - '2024'
   - hiking
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 13SEP24.gpx

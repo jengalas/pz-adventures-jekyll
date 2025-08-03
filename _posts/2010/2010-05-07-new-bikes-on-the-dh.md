@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-05-07
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Rich and Zhanna have new bikes!
 geocaches: false

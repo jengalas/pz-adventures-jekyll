@@ -9,7 +9,6 @@ categories:
   - '2017'
   - survey mark hunting
   - hiking
-tags:
 excerpt: >-
   Rich, Dad and Zhanna persevere and eventually make their way up McFarland Mountain! To celebrate, Dad later has his first Guinness Stout!
 featured_image: P1090514clx.jpg

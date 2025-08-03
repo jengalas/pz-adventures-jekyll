@@ -10,7 +10,6 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
   Today was our first transition day, going from Tucson to Ajo. We didn't have anything particular in mind to do along the way, so I thought I'd see if there were a few BMs along Route 86. Were there ever!
   

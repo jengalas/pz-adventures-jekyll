@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2017'
   - hiking
-tags:
 excerpt: >-
   
 geocaches: false

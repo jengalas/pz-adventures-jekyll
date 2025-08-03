@@ -8,8 +8,6 @@ categories:
   - acadia
   - '2022'
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: false
 post_id: 14009

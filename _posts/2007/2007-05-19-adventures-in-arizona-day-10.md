@@ -8,7 +8,6 @@ categories:
   - arizona
   - '2007'
   - survey mark hunting
-tags:
 excerpt: >- 
   In which the mooses visit a church without being struck by lightning, search for a tri-station in a restricted area at the National Observatory without getting caught, travel the Ajo Mountain Drive without busting the oil pan or getting locked in, and consume Pizza Hut pizza and Budweiser without admitting it to anyone (well, until now).
 geocaches: false

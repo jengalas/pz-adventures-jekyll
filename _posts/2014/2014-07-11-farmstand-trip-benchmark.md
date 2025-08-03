@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-07-11
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   
 featured_image: penndot-unstamped-4g1.jpg

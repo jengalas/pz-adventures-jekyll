@@ -9,7 +9,6 @@ categories:
   - '2013'
   - hiking
   - survey mark hunting
-tags:
 excerpt: >-
   Hiking on Acadia Mountain and a cozy supper at Fiddlers Green made this day perfect.
 geocaches: false

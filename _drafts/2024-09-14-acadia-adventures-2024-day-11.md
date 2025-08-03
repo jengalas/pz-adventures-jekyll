@@ -8,26 +8,46 @@ categories:
   - '2024'
   - hiking
   - survey mark hunting
-tags:
-
 geocaches: false
 surveymarks: true
 tracklog: 14SEP24.gpx
 post_id: 14400
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9141228
+      alt: 
+    - filename: P9141240
+      alt:     
+    - filename: P9141264
+      alt: 
+    - filename: P9141283
+      alt:  
+  gallery2:
+    suffix: cvx
+    images:            
+    - filename: P9141266
+      alt:     
+    - filename: P9141268
+      alt: 
+  gallery3:
+    suffix: cvx
+    images:       
+    - filename: P9141271
+      alt:     
+    - filename: P9141276
+      alt: 
+                       
 ---
 
-P9141220.JPG
-P9141228.JPG
-P9141240.JPG
-P9141264.JPG
-P9141266.JPG
-P9141268c.jpg
-P9141271.JPG
-P9141276ca.jpg
-P9141283.JPG
 
-This morning was another very light breakfast day. We just had a banana and a breakfast bar from the lobby, shared between us, and the usual juice, coffee, and tea. It was sunny and already very warm by 8:00am, which usually portends a fully beautiful day here. We had a few ideas for today, one of which was to check out Blagden Preserve, where we haven't hiked in many years. When I checked their website and saw that dogs are not allowed on the preserve, I was even more drawn to spend some time there. Rich was also interested.
+This morning was another very light breakfast day. We just had a banana and a breakfast bar from the lobby, shared between us, and the usual juice, coffee, and tea. It was sunny and already very warm by 8:00am, which usually portends a fully beautiful day here. 
+
+{% include image.html filename="P9141220cxv.jpg" thumb="P9141220csm.jpg" caption="Very light, mostly liquid, breakfast" %}
+
+We had a few ideas for today, one of which was to check out Blagden Preserve, where we haven't hiked in many years. When I checked their website and saw that dogs are not allowed on the preserve, I was even more drawn to spend some time there. Rich was also interested.
 
 On our way to the preserve, we stopped at the nearby intersection of Oak Hill Road and Indian Point Road to look for K 6, a USGS benchmark that somehow we've never searched for. The coordinates I had seemed way off, so I rescaled them from the topo map and tried again. This attempt at least brought me to a nice ledge about the correct distance from the road, which was a good start, but the ledge was completely covered with moss, dead/dried leaves, dead branches, and rotten trees. I didn't even know where to begin to clear off the ledge to look for the mark. I did roll up some of the moss layers to look underneath, and I moved a few of the more reasonably sized branches to no avail. 
 
@@ -47,11 +67,15 @@ But first, we thought we'd try to find the reference marks. One was on a large, 
 
 It took a few more minutes and more checking of our previous photos, but then I spotted the monument holding RM 2. The entire monument was thickly covered in moss, soil, and pine needles, but the square shape of the monument was unmistakable once I noticed it.
 
+{% include gallery.html gallery_id="gallery3" class="2by2" %}
+
 Then we turned our attention to RM 1. According to the description and our earlier photos, it was set on the very top of a large, rounded boulder projecting at least two feet above the ground. Should be easy to find, right? Well, again, such heavy growth of young pines and spruce have grown up in this area that it was hard to even find the boulder, let alone to get to it! 
 
 The first boulder we spotted from the road wasn't the one containing the mark, but it is currently obvious enough that we can use it as a reference boulder, if you will, for the boulder holding the actual reference mark. The boulder you want is just a few yards east of the first obvious, large boulder when coming into the woods from the road.
 
 The shape of the correct boulder was unmistakable once I saw it, but it was a chore to get to and to clean off the disk. Little did we know what we had in store for us when we started to look in earnest for the station mark itself!
+
+{% include gallery.html gallery_id="gallery2" class="2by2" %}
 
 When I was at RM 1, Rich began to poke around in the area where we expected to find the station mark, given the coordinates. (Keep in mind that this entire area looks completely different from how it looked in 2005.) The idea was that I would tell him when he was lined up with the arrow on the reference mark, and we would estimate the distance of 7.3 meters as much as possible in an area that was nearly impossible to walk around in.
 
@@ -61,9 +85,11 @@ I worked my way over to where he stood, and we began our search by comparing wha
 
 We figured that had to be the rock since it appeared to be the only one anywhere near the witness tree. But it still required ten minutes of digging to clear the rock, and even then, a few more minutes to clean off the last layer of soil enough that we could see and positively identify the bolt. It was a thrilling re-recovery, and yet another reminder of how quickly things can change. (And yet there is that bolt from 1865, quietly sitting in the same place, and still findable by us today.)
 
-{% include tracklog.html %}
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 When we got back to the car, Rich said "I think I'm about done!" I was too, since it really was quite a bit of hot, sweaty work and so tricky to move around in those thick woods. 
+
+{% include tracklog.html %}
 
 But we were still in the mood to stop at Beech Hill Farm. The place was busy as you would expect on a Saturday, but the space is large enough that it's still easy to move around. The produce looks absolutely perfect, as it always does, and we were wishing we had a way to bring home some of their gorgeous chard, cilantro, and basil. It was too late for the cakes and breads, although there was one whole blueberry pie left.
 
@@ -71,8 +97,8 @@ I had actually come here to restock on "Take it Easy tea," a delicious blend of 
 
 We were hungry after all of the work it took to uncover the old survey station, but we still weren't looking for a big meal. Rosalie's it is! And it's Blondihacks day, which means that we both had an interest in getting takeout again and bringing it back to the room so we could eat while watching the new video about the A3 switcher build (and probably a few others). 
 
-I walked down just after 4:00pm and ordered a small house veggie. Just like on Thursday they said to give them about 20-25 minutes, but I figured it would likely be a bit quicker again. The place really wasn't too busy - surprising for a Saturday.
+I walked down just after 4:00pm and ordered a small house veggie pizza. Just like on Thursday they said to give them about 20-25 minutes, but I figured it would likely be a bit quicker again. The place really wasn't too busy - surprising for a Saturday.
 
 In the meantime I took a quick walk over to Le Brun just to check out their menu again. Another idea I've had for a light meal is to just get a few appetizers from their menu, maybe along with an interesting drink like Death in the Afternoon. (We both really liked it!) Then I made a loop up Kennebec Street and over toward MDI Ice Cream to see if they still had blueberry basil sorbet on the menu (they do). Then I went back to Rosalie's and had less than 5 minutes to wait until the pizza was ready. It took 16 minutes this time.
 
-Back at the room, we somehow made the small pizza last for the entire Blondihacks video, so it worked out perfectly. I was craving something for dessert (like a piece of blueberry pie, or blueberry crepes from Sunrise Cafe - too bad they're not open) but decided to just wait until tomorrow. 
+Back at the room, we somehow made the small pizza last for the entire Blondihacks video, so it worked out perfectly. I was craving something for dessert (like a piece of blueberry pie, or blueberry crepes from Sunrise Cafe - too bad they're not open now) but decided to just wait until tomorrow. 

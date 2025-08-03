@@ -9,7 +9,6 @@ categories:
   - '2021'
   - abandoned trails
   - hiking
-tags:
 excerpt: 
 geocaches: false
 surveymarks: false

@@ -6,7 +6,6 @@ date: 2003-03-22
 categories:
   - geocaching
   - letterboxing
-tags:
 excerpt: >- 
   
 geocaches: true

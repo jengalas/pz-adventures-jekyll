@@ -9,7 +9,6 @@ categories:
   - '2023'
   - abandoned trails
   - hiking
-tags:
 geocaches: false
 surveymarks: false
 tracklog: 11SEP23-wpt.gpx

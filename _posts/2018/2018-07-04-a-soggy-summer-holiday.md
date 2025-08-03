@@ -5,7 +5,6 @@ author: Zhanna
 date: 2018-07-04
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   The rain held off just long enough for a few benchmark hunts before our annual picnic!
 surveymarks: true

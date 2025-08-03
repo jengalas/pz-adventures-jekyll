@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2016'
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna hike a trail that's new to both of them, finding peace and solitude and some unusual vegetation in the woods.
 featured_image: P1070554cl.jpg

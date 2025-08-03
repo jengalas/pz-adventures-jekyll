@@ -5,7 +5,6 @@ author: Zhanna
 date: 2009-09-02
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   A long ride and a bear encounter made for an exciting day!
 geocaches: false

@@ -9,7 +9,6 @@ categories:
   - '2016'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Rich and Zhanna complete their exploration of the Eagles Crag footpath and celebrate with burgers (again)!
 featured_image: 20160917_132756cl.jpg

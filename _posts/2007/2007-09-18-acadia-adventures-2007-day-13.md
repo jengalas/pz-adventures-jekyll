@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2007'
   - survey mark hunting
-tags:
 excerpt: >- 
   We spent the morning recovering two tri-stations before heading home.
 geocaches: false

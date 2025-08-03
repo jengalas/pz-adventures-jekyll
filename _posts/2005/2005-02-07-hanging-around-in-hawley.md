@@ -6,7 +6,6 @@ date: 2005-02-07
 categories:
   - geocaching
   - survey mark hunting
-tags:
 excerpt: >- 
    Rich and Zhanna headed to Hawley in search of a geocache and possibly a nearby benchmark or two. 
 geocaches: true

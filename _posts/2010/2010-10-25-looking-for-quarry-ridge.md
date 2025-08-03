@@ -6,7 +6,6 @@ date: 2010-10-25
 categories:
   - hiking
   - survey mark hunting
-tags:
 excerpt: >- 
     This morning's quest had its roots in our discussion Saturday about how we might access the upper section of the Abington Trail more directly than from within the park or from the end of Lily Lake Road.  
 geocaches: false

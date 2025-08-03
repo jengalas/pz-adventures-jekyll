@@ -9,7 +9,6 @@ categories:
   - '2017'
   - abandoned trails
   - hiking
-tags:
 excerpt: >-
   Thanks to a tip from a local, Rich and Zhanna find the easiest way up to the Bowl, just before Dad arrives in town!
 featured_image: P1090462clx.jpg

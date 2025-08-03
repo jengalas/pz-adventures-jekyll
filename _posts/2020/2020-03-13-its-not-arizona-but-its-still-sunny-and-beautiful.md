@@ -5,7 +5,6 @@ author: Zhanna
 date: 2020-03-13
 categories:
   - hiking
-tags:
 excerpt: >-
   We were supposed to have been on a plane this morning, heading to Arizona for two weeks of hiking and exploring in the warmth and sunshine! Unfortunately, our plans changed radically at the last minute due to the coronavirus.
 geocaches: false

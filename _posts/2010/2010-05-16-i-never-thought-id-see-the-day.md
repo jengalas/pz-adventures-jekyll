@@ -5,7 +5,6 @@ author: Zhanna
 date: 2010-05-16
 categories:
   - mountain biking
-tags:
 excerpt: >- 
   Dad's riding a mountain bike with us. With a little practice he'll soon be keeping up with us easily, and he won't feel sore for three days afterward!
 geocaches: false

@@ -5,7 +5,6 @@ author: Zhanna
 date: 2014-07-19
 categories:
   - survey mark hunting
-tags:
 excerpt: >-
   Our return trip to search for USGS bench mark disk TT 16 T was a success. It was also the scene of an ugly confrontation!
 featured_image: tt16t.jpg

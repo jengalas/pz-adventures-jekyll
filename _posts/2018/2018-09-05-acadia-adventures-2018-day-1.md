@@ -7,7 +7,6 @@ categories:
   - travel
   - acadia
   - '2018' 
-tags:
 excerpt: >-
   Light traffic and a humid night to start off our 2018 trip to Maine ...
 featured_image: 20180905_195229clx.jpg
