@@ -34,11 +34,11 @@ galleries:
     suffix: cvx
     images:
     - filename: P9171574
-      alt: 
+      alt: "*"
     - filename: P9171578
       alt:     
     - filename: P9171583
-      alt:     
+      alt: "*"    
     - filename: P9171585
       alt:     
     - filename: P9171592

@@ -31,14 +31,14 @@ galleries:
     - filename: P9141266
       alt:     
     - filename: P9141268
-      alt: 
+      alt: "*"
   gallery3:
     suffix: cvx
     images:       
     - filename: P9141271
       alt:     
     - filename: P9141276
-      alt: 
+      alt: "*"
                        
 ---
 

@@ -18,7 +18,7 @@ galleries:
     suffix: cvx
     images:
     - filename: P9161439
-      alt: 
+      alt: "*"
     - filename: P9161445
       alt:     
     - filename: P9161454
@@ -54,7 +54,7 @@ galleries:
     - filename: P9161523
       alt:     
     - filename: P9161526
-      alt:           
+      alt: "*"          
 ---
 
 We were still full from last night's dinner, so breakfast this morning was exceptionally light: just one strawberry breakfast bar, split between us, and a tiny orange for me. We ate on the porch as usual, while discussing what we wanted to do today.

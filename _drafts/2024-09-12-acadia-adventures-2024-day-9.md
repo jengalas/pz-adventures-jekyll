@@ -106,6 +106,6 @@ The road itself wasn't so exciting. It is marked private and is basically just a
 
 Our final little investigation for the day was to check out the old beaver pond near Eagle Lake. It appears to be turning into a bog rapidly. There are still two beaver lodges but no sign that they are active, and nearly the entire surface of the pond is covered with lilypads. We followed small trails along the northern shore, coming across an old dump site and some sundews, which I know I've seen before when we were poking around here with Angie a few years ago. I was just curious whether they were still here.
 
-{% include image.html filename="P9121030cvx.jpg" thumb="P9121030csm.jpg" caption="" %}
+{% include image.html filename="P9121030cvx.jpg" thumb="P9121030b.jpg" caption="Beaver habitat" %}
 
 We spent the rest of the afternoon reading and working on benchmarks on the porch on this warm day. Around 4:30, it was time for a light dinner. Rich and I headed into town, where he stopped at Hannaford for some beer while I continued on to order takeout at Rosalie's. It wasn't busy, and in 15 minutes our small cheese pizza was in hand, and 5 minutes of jogging later, I was back at our room with the pizza. It was excellent, even as takeout, and so relaxing to sit and eat together while watching a few videos (Desert Drifter and Sip and Feast, tonight).

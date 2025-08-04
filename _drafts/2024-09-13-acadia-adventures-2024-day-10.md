@@ -54,7 +54,7 @@ galleries:
     - filename: P9131169
       alt:           
     - filename: P9131175
-      alt:        
+      alt: "*"       
   gallery3:
     suffix: cvx
     images:

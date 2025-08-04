@@ -29,7 +29,7 @@ galleries:
     suffix: cvx
     images:
       - filename: P9151299
-        alt: 
+        alt: "*"
       - filename: P9151319
         alt: 
       - filename: P9151322
