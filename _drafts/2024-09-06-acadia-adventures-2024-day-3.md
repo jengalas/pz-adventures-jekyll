@@ -167,4 +167,4 @@ Our entrees were skirt steak with Colcannon potatoes and Swiss chard (chosen by 
 
 Their dessert offerings (tiramisu and chocolate pots de creme) didn't excite us tonight, so we passed on them, and then took a walk to the park where we bought small sorbets from Mount Desert Ice Cream (my favorite blueberry basil, and sour cherry - also one of my favorites - for Rich.) We enjoyed our desserts while resting on a bench in the park, surrounded by screaming kids, and then walked back slowly, enjoying the scenery as it grew darker and chillier, and relished in the heat once we got back to the room.
 
-{% include image.html filename="P9060290cvx.jpg" thumb="P9060290csm.jpg" caption="" %}
+{% include image.html filename="P9060290cvx.jpg" thumb="P9060290b.jpg" caption="House veggie pizza is waiting for us!" %}

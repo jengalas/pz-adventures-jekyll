@@ -13,42 +13,106 @@ surveymarks: true
 tracklog: 10SEP24.gpx
 post_id: 14360
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9100669
+      alt: "*"      
+    - filename: P9100675
+      alt: "*"     
+    - filename: P9100677
+      alt:     
+    - filename: P9100683
+      alt:     
+    - filename: P9100688
+      alt:     
+    - filename: P9100696
+      alt: "*"        
+    - filename: P9100701
+      alt:      
+    - filename: P9100705
+      alt:     
+    - filename: P9100712
+      alt: "*"     
+    - filename: P9100720
+      alt: "*"     
+    - filename: P9100726
+      alt: "*"     
+    - filename: P9100733
+      alt: "*" 
+    - filename: P9101966
+      alt:     
+    - filename: P9101967
+      alt:      
+    - filename: P9101974
+      alt:     
+    - filename: P9101978
+      alt:       
+    - filename: P9101985
+      alt:              
+  gallery2:
+    suffix: cvx
+    images:
+    - filename: P9100738
+      alt: "*"      
+    - filename: P9100742
+      alt: "*"     
+    - filename: P9100744
+      alt: "*"     
+    - filename: P9100750
+      alt: "*"     
+    - filename: P9100752
+      alt: "*"     
+    - filename: P9100759
+      alt: "*"       
+    - filename: P9100761
+      alt: "*"      
+    - filename: P9100762
+      alt:     
+    - filename: P9100767
+      alt:  
+    - filename: P9101997
+      alt:        
+    - filename: P9102000
+      alt:      
+    - filename: P9102001
+      alt:     
+    - filename: P9102004
+      alt:         
+  gallery3:
+    suffix: cvx
+    images:
+    - filename: P9100770
+      alt: "*"      
+    - filename: P9100772
+      alt: "*"     
+    - filename: P9100777
+      alt: "*"     
+    - filename: P9100781
+      alt: "*"    
+  gallery4:
+    suffix: cvx
+    images:
+    - filename: P9100790
+      alt: "*"      
+    - filename: P9100798
+      alt: "*"     
+    - filename: P9100816
+      alt: "*"     
+    - filename: P9100821
+      alt: "*"     
+    - filename: P9100839
+      alt: "*"   
+  gallery5:
+    suffix: cvx
+    images:
+    - filename: P9100849
+      alt: "*"      
+    - filename: P9100854
+      alt: "*"                                                                            
 ---
 
-P9100661c.jpg
-P9100669c.jpg
-P9100675c.jpg
-P9100677.JPG
-P9100683.JPG
-P9100688.JPG
-P9100696c.jpg
-P9100701.JPG
-P9100705.JPG
-P9100712c.jpg
-P9100720c.jpg
-P9100726c.jpg
-P9100733c.jpg
-P9100738c.jpg
-P9100742c.jpg
-P9100744c.jpg
-P9100750c.jpg
-P9100752c.jpg
-P9100759c.jpg
-P9100761c.jpg
-P9100762.JPG
-P9100767c.jpg
-P9100770c.jpg
-P9100772c.jpg
-P9100777c.jpg
-P9100781c.jpg
-P9100790c.jpg
-P9100798c.jpg
-P9100816c.jpg
-P9100821c.jpg
-P9100839c.jpg
-P9100847c.jpg
-P9100849c.jpg
-P9100854c.jpg
 P9101966.JPG
 P9101967.JPG
 P9101974.JPG
@@ -60,6 +124,8 @@ P9102001.JPG
 P9102004.JPG
 
 We were planning on a relatively quiet rest day for today, and I figured that would fit in well with our plans to visit the Bucking Lobster food truck at the Northeast Harbor marina at least once this trip. We were sure to have a very light breakfast: just tea, coffee, and juice and one blueberry muffin that we split. 
+
+{% include image.html filename="P9100661cvx.jpg" thumb="P9100661b.jpg" caption="" %}
 
 Of course we needed to do _some_ exercise to earn our lobster, so we headed to Northeast Harbor to check out the Asticou Stream Trail.  I've noticed signs for it in the past, but we had never checked it out. Today we parked at the large parking area off Route 3 across from the azalea gardens. A short walk south on the sidewalk along the highway brought us to the southern trailhead for the Asticou Trail. The trail begins with some stone steps leading down into a small meadow. Within a few minutes' walking you're already at the northern shore of the harbor. For such a short trail, we were surprised by the number of constructed elements: wooden bridges, bogwalks, a stone bench, stepping stones. Beautiful and interesting! 
 

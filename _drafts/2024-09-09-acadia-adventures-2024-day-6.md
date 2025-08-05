@@ -23,7 +23,7 @@ galleries:
     - filename: P9091945
       alt: 
     - filename: P9090587
-      alt: "*"    
+      alt: Joining up with the official trail system on Beech Mountain    
   gallery2:
     suffix: cvx
     images:        
@@ -34,7 +34,7 @@ galleries:
     - filename: P9091955
       alt:     
     - filename: P9090598
-      alt: "*"    
+      alt: Huge boulders and small caves along the Valley Trail    
     - filename: P9091956
       alt:          
   gallery3:
@@ -43,26 +43,26 @@ galleries:
     - filename: P9091963
       alt:      
     - filename: P9090615
-      alt: "*"       
+      alt: One of the boundary markers along Lurvey Spring Road       
     - filename: P9090619
       alt:     
     - filename: P9090624
       alt:   
     - filename: P9090629
-      alt: "*"        
+      alt: Boundary monument        
   gallery4:
     suffix: cvx
     images:        
     - filename: P9090638
-      alt: "*"       
+      alt: Excited to try blueberry mojitos at the Black Friar       
     - filename: P9090643
-      alt: "*"       
+      alt: Crab cakes       
     - filename: P9090648
-      alt: "*"      
+      alt: Awesome stuffed cabbage      
     - filename: P9090650
-      alt: "*"    
+      alt: Arctic char    
     - filename: P9090656
-      alt: "*"                               
+      alt: Cheesecake with blueberry topping                               
 ---
 
 It was another perfectly clear, cool morning. It took us a little while to get moving again, and this time we decided to try a little something different for breakfast, even though we didn't want much to eat. Rich picked up the tea, coffee, and juice as usual from the lobby while I ran down to Mount Dessert Bakery to see what they were offering today. Our thoughts were plain croissants or, if those weren't available, plain bagels with veggie cream cheese. 
