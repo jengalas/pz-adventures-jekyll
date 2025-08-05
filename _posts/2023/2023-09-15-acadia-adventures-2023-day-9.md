@@ -21,7 +21,7 @@ galleries:
   gallery1:
     suffix: cvx
     images:
-      - filename: 
+      - filename: P1079448
         alt:
     
 ---

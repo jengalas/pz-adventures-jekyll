@@ -20,8 +20,10 @@ galleries:
   gallery1:
     suffix: cvx
     images:
-      - filename: 
+      - filename: P1079356
         alt:
+      - filename: P1079360
+        alt:        
       
 ---
 

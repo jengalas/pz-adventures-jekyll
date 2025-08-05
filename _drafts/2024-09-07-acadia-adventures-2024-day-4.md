@@ -23,7 +23,7 @@ galleries:
     - filename: P9070312
       alt: 
     - filename: P9070319
-      alt: "*"        
+      alt: Old Norway Drive cascade        
     - filename: P9070335
       alt:   
   gallery2:
@@ -34,7 +34,7 @@ galleries:
     - filename: P9070395
       alt: 
     - filename: P9070399
-      alt: "*"          
+      alt: NPS Boundary Marker along Old Norway Drive          
   gallery3:
     suffix: cvx
     images:
@@ -48,7 +48,7 @@ galleries:
     - filename: P9070402
       alt:        
     - filename: P9070417
-      alt: "*"   
+      alt: Carriage road scene near Witch Hole Pond   
     - filename: P9070419
       alt:        
     - filename: P9070420

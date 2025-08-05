@@ -21,22 +21,22 @@ galleries:
     - filename: P9080470
       alt:        
     - filename: P9080478
-      alt: "*"
+      alt: Decaying into soil
     - filename: P9080488
-      alt: "*"       
+      alt: Coral fungus      
     - filename: P9080506
-      alt: "*"  
+      alt: Likely a monarch caterpillar  
     - filename: P9080530
       alt:       
     - filename: P9081923
-      alt: "*"  
+      alt: Some type of Orbweaver (Marbled?) 
     - filename: P9081925
-      alt: "*"       
+      alt: Golden leaf       
   gallery2:
     suffix: cvx
     images:
     - filename: P9080537
-      alt: "*"        
+      alt: Taking refuge at Le Brun        
     - filename: P9080540
       alt: 
     - filename: P9080549

@@ -60,7 +60,7 @@ galleries:
     - filename: P9060145
       alt:       
     - filename: P9060147
-      alt: "*"     
+      alt: Wandering on the rocks near the Shore Path    
   gallery5:
     suffix: cvx
     images:
@@ -71,22 +71,22 @@ galleries:
     - filename: P9060154
       alt:       
     - filename: P9060166
-      alt: "*"    
+      alt: Wildwood Farm Bridge    
     - filename: P9060172
       alt:     
   gallery6:
     suffix: cvx
     images:
     - filename: P9060182
-      alt: "*"      
+      alt: Forest closeup     
     - filename: P9060199
-      alt: "*"   
+      alt: Steep embankments on either side of the washed-out area   
     - filename: P9060208
-      alt: "*"      
+      alt: Large boulders meant to block vehicle traffic (I assume)       
     - filename: P9060212
-      alt: "*"    
+      alt: Unstamped boundary marker    
     - filename: P9060218
-      alt: "*"        
+      alt: The boundary monument's surroundings, looking toward the old road       
     - filename: P9060227
       alt:    
   gallery7:
@@ -97,22 +97,22 @@ galleries:
     - filename: P9060248
       alt:    
     - filename: P9060252
-      alt: "*" 
+      alt: Poor snake :( 
   gallery8:
     suffix: cvx
     images:
     - filename: P9060256
       alt:       
     - filename: P9060260
-      alt: "*"   
+      alt: Margarita and dirty martini  
     - filename: P9060262
-      alt: "*"       
+      alt: Grilled shrimp       
     - filename: P9060269
-      alt: "*"     
+      alt: Skirt steak and Swiss chard     
     - filename: P9060283
-      alt: "*"        
+      alt: Halibut with greens       
     - filename: P9060285
-      alt: "*"                                                                        
+      alt: That is some amazing hair!!!                                                                        
 ---
 
 Today was a day for resting and catching up, or at least that's what Rich and I both had in mind when we woke up this morning. Still stuffed after huge lobster rolls and pizza yesterday, we picked up a few items from the hotel lobby for a very light breakfast this morning, which we ate on the porch as usual.
