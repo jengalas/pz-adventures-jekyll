@@ -17,11 +17,11 @@ galleries:
     suffix: cvx
     images:
     - filename: P9120931
-      alt: 
-    - filename: P9120934
-      alt:     
-    - filename: P9120978
-      alt:        
+      alt: NGS Bench Mark Disk TIDAL 6 STA 12
+    - filename: P9120935
+      alt: Eyelevel view of the disk from the ledge    
+    - filename: P9120981
+      alt: Looking SW from atop the seawall behind 8 Crows Nest       
   gallery2:
     suffix: cvx
     images:
@@ -29,9 +29,9 @@ galleries:
       alt: 
     - filename: P9120945
       alt:    
-    - filename: P9120948a
+    - filename: P9120948
       alt: 
-    - filename: P9120951a
+    - filename: P9120951
       alt:    
     - filename: P9120952
       alt: 
@@ -40,16 +40,14 @@ galleries:
     images:
     - filename: P9120955
       alt: 
-    - filename: P9120966
+    - filename: P9120967
       alt:                               
     - filename: P9120968
       alt: 
     - filename: P9120971
       alt:    
-    - filename: P9120973
-      alt: 
-    - filename: P9120975
-      alt:   
+    - filename: P9120974
+      alt:  
   gallery4:
     suffix: cvx
     images:
