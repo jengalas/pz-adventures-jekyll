@@ -93,21 +93,6 @@ galleries:
         alt: 
 ---
 
-
-
-P9151329.JPG
-P9151338.JPG
-P9151353.JPG
-P9151365.JPG
-
-
-
-P9152018.JPG
-P9152024.JPG
-P9152033c.jpg
-P9152043.JPG
-P9152054.JPG
-
 All last night I was craving something made with wild Maine blueberries: blueberry pie, or the blueberry crepes from Sunrise Cafe. Rich wasn't too hungry this morning (and honestly neither was I, but I was still craving blueberries). We decided to give it a try anyway.
 
 The cafe was busy when we arrived around 7:40am, but we grabbed one of the small tables and waited for our order. I had the blueberry crepes as planned, and Rich got the turkey crepe, which is stuffed with cheese (gruyere?), arugula, creamy sauce, and avocado and comes with a small salad on the side with a tasty mustard vinaigrette.
