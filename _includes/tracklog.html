@@ -106,6 +106,10 @@
                 elLossFt = track.get_elevation_loss_imp().toFixed(0);
                 timeMoveMs = track.get_moving_time();
                  
+              lyrGPX.on('click', function (e) {
+                console.log(e.target.get_name());
+              });
+
             // create track details box
             const legend = L.control({ position: "bottomright" });
 
