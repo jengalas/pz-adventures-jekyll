@@ -9,7 +9,6 @@ categories:
   - '2019'
   - hiking
   - survey mark hunting
-
 geocaches: false
 surveymarks: true
 tracklog: 12SEP19.gpx

@@ -8,7 +8,6 @@ categories:
   - acadia
   - '2019'
   - hiking
-
 geocaches: false
 surveymarks: false
 tracklog: 11SEP19.gpx
@@ -25,6 +24,8 @@ Our plan was to get ourselves to the northern end of Eagle Lake either via the b
 When we arrived at the lake it was windy as hell and there was still mist in the air. It was chilly in the spots where the wind blew clear across the lake. I think Dad was regretting not bringing a jacket. But that didn't last long - soon we were shielded from the lake and winds by vegetation and then forest. It was much warmer, and before long the sun even began to peek out.
 
 About halfway down the eastern side of the lake, we detoured into the woods and down the faint path to the foundation arches. We've wanted to show it to dad for a few years now, since we found it, but we had never had the chance.  He loved it! Enjoyed walking among the various walls and supports and speculating about what might have happened here to cause the abandonment of the structure. We ate our trail snacks at the northernmost arch where Rich and I have rested and snacked before.
+
+{% include tracklog.html %}
 
 Back on the carriage road we continued south, again venturing into the woods at another faint path that would take us out to the old steamboat wharf area. Dad and I were looking at the round grass(?) growing there when Dad said - "Uh oh - " and pointed - "sundews!" I couldn't believe I had missed them! They were beautiful and were densely growing in one area of the shoreline here. Rich wandered off into the heavier boggy area while I was photographing the  sundews, and he found even more, including some nice tiny specimens growing on a tree stump. The sun was peeking out again at this point and every once in a while the dewdrops would catch the light and sparkle.
 
