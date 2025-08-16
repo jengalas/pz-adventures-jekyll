@@ -60,18 +60,18 @@ galleries:
     suffix: clx
     images:
     - filename: P1080659
-      alt:     
+      alt: Refreshing IPA after a day of hiking    
     - filename: P1080665
-      alt: 
+      alt: Scranton pride and pizza!
     - filename: P1080669
-      alt: 
+      alt: Main Street shops
     - filename: P1080674
-      alt:                   
+      alt: Evening at the waterfront                  
 ---
 
 This was a day full of unexpected adventures! We were very unsure this morning about what to do and what area to explore. We narrowed it down to either the area around Witch Hole Pond, which we could reach from the visitor center, or the carriage roads around Barr Hill, which we didn't think we had ever hiked before. After a near-repeat of yesterday's breakfast at Mount Dessert Bakery (cheese bagels with veggie cream cheese for both of us, and no sticky bun) we decided on the Witch Hole Pond area. It turned out to be a wise choice!
 
-We drove to the visitors center rather than taking the bus because we figured it would be more efficient and that there would be plenty of parking at the center. The lot is large but it sure was filling up quickly! We found a decent corner spot, though, and headed out. Rich's idea, and it was a good one, was that there might be a way onto Breakneck Road from one of the access roads heading out toward Route 3 from the Visitors center. We found a little dead end road leading toward  some kind of park maintenance shed and we could clearly see the brook down below, but no sign of any trail crossing it to reach Breakneck Road. At this point who should come driving by but a park ranger. Rich asked if there was any way across to Breakneck Road via a trail, and the ranger said no, and that furthermore there was private property down by the brook so he could not endorse that we try to make our way through. He recommended parking by the general store in Hulls Cove and accesing the road from there. We are familiar with the store at the northern end of the road, but had no plans to park there, so we walked down there instead (we retraced our steps to the other access road that would take us out to Route 3, and followed Route 3 downhill for a hundred yards or so toward the road with the store). 
+We drove to the visitors center rather than taking the bus because we figured it would be more efficient and that there would be plenty of parking at the center. The lot is large but it sure was filling up quickly! We found a decent corner spot, though, and headed out. Rich's idea, and it was a good one, was that there might be a way onto Breakneck Road from one of the access roads heading out toward Route 3 from the Visitors center. We found a little dead end road leading toward  some kind of park maintenance shed and we could clearly see the brook down below, but no sign of any trail crossing it to reach Breakneck Road. At this point who should come driving by but a park ranger. Rich asked if there was any way across to Breakneck Road via a trail, and the ranger said no, and that furthermore there was private property down by the brook so he could not endorse that we try to make our way through. He recommended parking by the general store in Hulls Cove and accessing the road from there. We are familiar with the store at the northern end of the road, but had no plans to park there, so we walked down there instead (we retraced our steps to the other access road that would take us out to Route 3, and followed Route 3 downhill for a hundred yards or so toward the road with the store). 
 
 We were greeted by an elaborate exhibit of Breakneck Road history - something we had never seen before and that was apparently funded by the artist who has a small museum (and objects of sculpture) at the northern end of Breakneck. We were so interested to read about the history of this "cross-island road" charted in 1777 that is still essentially in use today. Much of it has been overlaid with the modern Routes 233, 102, and 198 but there are still a few sections used as walking paths, namely the section we hiked today and the Valley Trail near Beech Mountain. Beech Mountain road was also part of the route. There is only one little section "Lovers Lane" that is currently private and unmarked.
 

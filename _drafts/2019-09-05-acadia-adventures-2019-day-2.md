@@ -17,58 +17,56 @@ galleries:
     suffix: clx
     images:
     - filename: P1014563
-      alt: 
+      alt: This place is huge!
     - filename: P1014571
-      alt: 
+      alt: Checking out the lobster tanks
     - filename: P1014574
-      alt: 
-    - filename: P1014581
-      alt: 
+      alt: That looks like a good one. 
     - filename: P1014598
-      alt: 
+      alt: Captain Seaweed and sidekick
     - filename: P1014615
-      alt: 
+      alt: Delicious platter!!!
     - filename: P1014622
-      alt: 
+      alt: A perfect day for eating outside
   gallery2:
     suffix: clx
     images:
     - filename: P1014630
-      alt: 
+      alt: NGS Bench Mark Disk V 18
     - filename: P1014631
-      alt: 
+      alt: The monument is buried in vegetation (and probably ticks).
     - filename: P1014635
-      alt:   
+      alt: The monument is near this historical marker.  
   gallery3:
     suffix: clx
     images:
     - filename: P1014674
-      alt: 
+      alt: Not the usual ale, but still great!
     - filename: P1014677
-      alt: 
+      alt: First-night standby, medium plain pizza
     - filename: P1014680
-      alt:       
+      alt: So tired and so hungry!      
   gallery4:
     suffix: clx
     images:
     - filename: P1014686
-      alt: 
+      alt: A new restaurant to try
     - filename: P1014694
-      alt: 
+      alt: Flowers around town
     - filename: P1014703
-      alt:         
+      alt: Flowers around town        
     - filename: P1014711
-      alt: 
+      alt: Amazing giraffe!
     - filename: P1014714
-      alt: 
+      alt: Please do not touch the giraffe.
     - filename: P1014719
-      alt:        
+      alt: Current ice cream and sorbet flavors at MDI Ice Cream       
     - filename: P1014721
-      alt: 
+      alt: Finishing up a cone of blueberry basil sorbet
     - filename: P1014726
-      alt: 
+      alt: Flowers around town
     - filename: P1014741
-      alt:            
+      alt: Bar Harbor's new parking meters           
 ---
 
 We woke up at 6am after a typical mildly-uncomfortable night in the car under our fleece moose-motif blanket. It really helped that I was wearing Rich's headband over my face as an eye mask, even though we were able to get our favorite dark corner parking spot that we were unable to get the past few years. There are still always a few lights hitting us in the face in certain positions. I will have to remember to bring the headbands again for us next year. I know it took a while to fall asleep but I slept quite well through the night. I recall dreaming about a change made to a work policy: we could either get a yearly raise or opt instead to hug a sloth. I was trying to work out how much it would cost to hug a sloth at a zoo and see if I could do it more than once if I took the raise, or if just hugging the sloth at work would be the better deal. (Yes, I think I was still tired (and dehydrated!)).
