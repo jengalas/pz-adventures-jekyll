@@ -62,17 +62,17 @@ Breakfast at Sunrise Cafe which we had all to ourselves as huge raindrops smacke
 
 {% include gallery.html gallery_id="gallery1" class="2by2" %}
 
-We worked our way back through town, still mostly deserted, and stopped in a few shops looking for lightweight rain paints for R. Didn't find any although we found heavy ones, light ones that didn't fit, and some that were probably perfect and fantastic but were also almost $200. 
+We worked our way back through town, still mostly deserted, and stopped in a few shops looking for lightweight rain paints for R. Didn't find any although we found heavy ones, light ones that didn't fit, and some that were probably a perfect fit and fantastic quality, but were also almost $200. 
 
 {% include gallery.html gallery_id="gallery2" class="" %}
 
-We spent some time in the room getting dried and warmed up and then headed out on our little adventure which was t be research at the Northeast Harbor library followed by popovers and light lunch at Asticou. The library was beautiful and we spent a few hours looking at maps, Maine history books and the trail sign exhibit. We barely scratched the surface of what they had available. Could have stayed there all day! 
+We spent some time in the room getting dried and warmed up and then headed out on our little adventure which was to be research at the Northeast Harbor library followed by popovers and light lunch at Asticou. The library was beautiful and we spent a few hours looking at maps, Maine history books and the trail sign exhibit. We barely scratched the surface of what they had available. Could have stayed there all day! 
 
 {% include gallery.html gallery_id="gallery3" class="" %}
 
 But we were getting hungry and looking forward to those popovers, Unfortunately it was not to be. We got to Asticou (after passing the "Asti-cow" that R spotted in someone's side yard) only to find that the restaurant was closed for a private event. Boo! 
 
-We drove back through NEH thinking we might find somewhere else to eat. Couldn't find much so we tried the Colonel's restaurant. It was good for a "family restaurant," nothing like the places we usually find but certainly more than passable food in a pleasant environment. We shared a crab and a lobster roll with fries and cole slaw. 
+We drove back through Northeast Harbor, thinking we might find somewhere else to eat. We couldn't find many offerings of interest, so we tried the Colonel's Restaurant & Bakery. It was quite good for a "family restaurant," nothing like the places we usually find but certainly more than passable food in a pleasant environment. We shared a crab and a lobster roll with fries and cole slaw. 
 
 {% include gallery.html gallery_id="gallery4" class="2by2" %}
 
