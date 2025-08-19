@@ -11,6 +11,14 @@ geocaches: false
 surveymarks: true
 post_id: 14310
 layout: post
+galleries:
+  gallery6:
+    suffix: cvx
+    images:
+    - filename: P9050136
+      alt: 
+    - filename: P9050142
+      alt:  
 ---
 
 P9041843.jpg
@@ -24,6 +32,8 @@ P9041881.jpg
 P9050001.jpg
 P9050004.jpg
 P9050006.jpg
+
+
 P9050009.jpg
 P9050010.jpg
 P9050012.jpg
@@ -34,12 +44,15 @@ P9050021.jpg
 P9050025.jpg
 P9050026.jpg
 P9050028.jpg
+
+
 P9050030.jpg
 P9050034.jpg
-P9050041 - Copy.jpg
+P9050041 - Copy.jpg *
 P9050041.jpg
 P9050044.jpg
 P9050045 - Copy.jpg
+
 P9050045.jpg
 P9050050.jpg
 P9050057.jpg
@@ -59,8 +72,7 @@ P9050113.jpg
 P9050115.jpg
 P9050129.jpg
 P9050132.jpg
-P9050136.jpg
-P9050142.jpg
+
 
 
 All through Massachusetts the traffic was relentless until well after midnight. Even past 1:00am, it was much heavier than we expected. But as usual, it thinned out a bit once we hit the Maine border, and we were at the rest area near Kittery by 1:30am. We rested until around 6:00am, washed up (noting, but not taking advantage of, the full blueberry bush in the native flora garden outside the rest stop entrance!) and then got on our way again. I had one remaining piece of a lemon yogurt cake to snack on for a light breakfast.
@@ -108,6 +120,8 @@ An hour or so of rest and then we made our way to Rosalie's, where like last yea
 Rich ordered the usual medium plain pizza and two large Allagash ales, and I headed upstairs for one of the window tables. We later moved to a booth because of the completely obnoxious loud couple that sat down at the table next to us. Entirely intolerable. 
 
 But the pizza was fantastic, the beer was thirst-quenching and most welcome, and the company (NOT the obnoxious people who were now across the room from us after we moved) was perfect. 
+
+{% include gallery.html gallery_id="gallery6" class="2by2" %}
 
 We talked about the possibilities for hiking up Conner's Nubble, reminisced about a few benchmarks that we'd had trouble finding (like Q 145 which took us three tries, and M 145 which we still haven't found!). We stayed as long as we could and made the pizza and beer last as long as we could, which unfortunately was dictated more by the loud obnoxious behavior than anything else.
 

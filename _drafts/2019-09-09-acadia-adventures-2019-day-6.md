@@ -34,15 +34,15 @@ galleries:
     suffix: clx
     images:
     - filename: P1080493
-      alt:      
+      alt: Ciao! Just a quick bite tonight.     
     - filename: P1080498
-      alt:  
+      alt: Everything sounds so good! 
     - filename: P1080501
-      alt:  
+      alt: High Noon cocktails 
     - filename: P1080510
-      alt:  
+      alt: Extremely awesome marinated mushrooms and olives with feta 
     - filename: P1080516
-      alt:                
+      alt: Spanish Shrimp               
 ---
 
 Mount Dessert bakery for bagels (plain and cheese with veggie cream cheese), sticky bun (I think they have Morning Glory's recipe).
@@ -55,6 +55,10 @@ Stone marker #1 - 370 - 375
 #4 - 391-394
 #5 - 403-406
 
+{% include tracklog.html %}
+
+<!-- TODO: add image of map here -->
+
 Map showing Archbold estate: https://www.loc.gov/resource/g3734b.np000031/?r=0.229,0.333,0.18,0.101,0
 
 Spontaneous trip to Asticou for popovers, lobster ceviche and lobster/crab cakes. 
@@ -65,9 +69,9 @@ Then back to the room for rest and research, and quick bite later at Ciao (High 
 
 {% include gallery.html gallery_id="gallery3" class="" %}
 
-Maple walnut and coriander lemon curd at MDI Ice Cream!
+Maybe the "quick bite" wasn't quite enough to satisfy our appetites after all the exploring we did this morning. We ended up stopping at MDI Ice Cream for baby cones of maple walnut and coriander lemon curd ice cream! 
 
 https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=1896+mount+desert+island
 
-{% include tracklog.html %}
+
 
