@@ -38,6 +38,8 @@ The only actual hike we had in mind for today was to explore the Alfred Butler M
 
 We continued following the loop, which eventually passed over a small wooden bridge and then brought us back close to the solar panels. After concluding the loop, I decided to go back up on top and map out the little trails between the panels, where I also found a picnic table and a stone bench (one of several stone benches I saw along this path) at the very top. Could be a fun place to bring a lobster roll for a picnic - but there is no shade, so plan accordingly!
 
+{% include tracklog.html %}
+
 On the way to search for the only NGS benchmark we had on our list for today, G 145, we noticed Archie's Lobster at the western vertex of the triangle formed by Routes 102 and 102A, and Flatiron Road. It looks like they have a nice outdoor seating area. We've put it on our list to try sometime.
 
 JRO's use of the phrase "in heavy woods" in his description made me a little hesitant; he seems like a pretty tough guy, so I was afraid I'd be entering a nearly impenetrable thicket. But thankfully, it wasn't too bad - especially once I found the very short path leading directly to the mark from the road shoulder. The only hazard there was a thorn bush that was easily avoided. Of course, when I first approached the mark, I came in from the side road near the cemetery where Rich had parked, and those woods were thicker! But it was easy enough to spot the ledge from a distance, and fortunately the top of the ledge was completely clear of moss and debris, so the mark was easy to spot and photograph. I tied some flagging tape around two nearby trees to help indicate the mark for future users.

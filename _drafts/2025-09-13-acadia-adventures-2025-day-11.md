@@ -13,6 +13,8 @@ post_id: 14620
 layout: post
 ---
 
+{% include tracklog.html %}
+
 On our way back we took Ledgelawn Avenue again, and came down Holland. As we were approaching our hotel, a plump woman in a white sundress popped out of the bushes and into the parking lot for the adjoining motel. OK, we thought ... maybe she thought she was taking a shortcut (not sure where from or where too), or maybe she just really had to pee and was desperate. In any case, it appeared quite bizarre.
 
 We enjoyed a long, leisurely refuel with orange juice, tea and coffee, and another blueberry muffin, and great conversation, while sitting outside on the porch. Rich wanted to take it easy and work on some of the photos from the morning, and I wanted to spend some more time in the sunshine, so I figured I would go on a walk around town and see if I could pick up a few goodies for Elaine, dad, and people at work. I made a nice loop through town, starting down on Cottage Street and going up Main to pick up, first, a few more blueberry-mango jams for Elaine. I checked all of the Acadia shops along the way, but never found seedless strawberry jam for dad - the only thing he said he wanted - even though there were strawberry offerings from a few different companies. I also bought blueberry butter and blueberry honey for Sam and Mary.
