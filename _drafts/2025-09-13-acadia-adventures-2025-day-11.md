@@ -11,6 +11,30 @@ surveymarks: false
 tracklog: 13SEP25.gpx
 post_id: 14620
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
+    - filename: 
+      alt:     
 ---
 
 I woke up just a little nervous about the 5K race this morning. Of course I was thinking of it as just an activity, not a race, which helped. But I still wanted to be able to complete it and not come in dead last.

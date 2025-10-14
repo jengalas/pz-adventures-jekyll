@@ -38,4 +38,6 @@ I wanted to make a note about the pizza-cutting jig that we saw one of the emplo
 
 Although we were too full to have dessert, we still wanted to check out the offerings at MDI Ice Cream, because we haven't even gone by there yet (we usually check it out on the first night). They had a few flavors that were very enticing, such as peach, cinnamon-cardamom, sweet basil, pineapple pimenton sorbet, and of course blueberry basil sorbet. But we'll have to wait for another night to try them.
 
+{% include image.html filename="P9090639cvx.jpg" thumb="P9090639b.jpg" caption="" %}
+
 The night was still young when we returned to the room, so we spent some time relaxing while watching a few videos before reading, note taking, and bed.

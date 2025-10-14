@@ -35,7 +35,7 @@ We didn't have any good ideas about what to do for today. The weather was so unp
 
 We eventually decided to take a long walk around town, check out the sandbar and then walk the full extent of the Shore Path. This worked out very well, and gave us a total of over 2.5 miles, by far the longest distance Rich has walked since his back and leg began hurting. 
 
-{% include image.html filename="P1079693-Panocvx.jpg" thumb="P1079693-Panocsm.jpg" caption="" %}
+{% include image.html filename="P1079693cvx.jpg" thumb="P1079693b.jpg" caption="" %}
 
 Near the southern end of the Shore Path, I made a point of looking for the site of the 1890s Musgrave Tea Tower, which we learned about last year when we saw it on an old postcard. Nothing remains of the tea tower or the attached estate (cottages Edgemere and Mare Vista) but it was neat to be able to line up the postcard view with what we were seeing. The Shore Path has changed a bit and has been reinforced, but the same basic curving shape remains at this location, as well as the rock outcrops on the shore itself.
 

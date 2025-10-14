@@ -11,6 +11,12 @@ geocaches: false
 surveymarks: false
 post_id: 14610
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P9121132
+      alt:     
 ---
 
 Breakfast for this morning was waiting for us in the fridge: the blueberry-cheese and raspberry-cheese pastries we purchased yesterday at the Sugar Bakery. Although it was another cold morning, we bundled up and sat on the porch as usual for breakfast. With coffee and tea, we were warm enough for a while. The pastries were still quite good after a day, and we cut them in half to share as always. It was just enough for a morning treat.
@@ -20,6 +26,8 @@ We've been so curious about what happened with the Asticou Inn (now the Asticou 
 The trail was similar to when we explored it last year, although the lack of rain this year has made the woods drier and somewhat less colorful. The tide was out, so we were able to explore more of the small cove where we noticed some large boulders and neon green algae last year. The sun felt so warm and it was very welcome on this otherwise chilly and windy morning.
 
 We took the sharp right turn on the trail and headed up behind the new "cabins." We felt a bit like creepers, but no one seemed to be staying in most of the cabins at this time, and no one said anything to us. We soon popped out onto the road where we could see the various names of the cabins, which were quite neat. There was #1, the Fish Monger; #2, the Beekeeper; #3, the Arborist (I thought at first it said Arsonist!), and a bunch of others like the Conservationist, the Herbalist, and the Gardener. My first thought was that we could create some kind of interesting puzzle here, even a geocache where the names corresponded to the numbers needed to find the coordinates. 
+
+{% include image.html filename="P9121094cvx.jpg" thumb="P9121094b.jpg" caption="" %}
 
 As we walked, we noticed that the place seemed strangely deserted, although some people are clearly staying here. The main inn/hotel building looks similar to the way it used to, at least from the outside, but it was clearly remodeled because we saw it last year with only its "bones" showing. We arrived at 10:35am, 5 minutes after breakfast ended and almost an hour before lunch began, so we knew we wouldn't even have a chance to try the popovers, if they even have them (I had heard earlier in the summer that they did not, but it wasn't clear whether they were planning to put them back on the menu in the future). No menu was posted anywhere that we could see.
 
