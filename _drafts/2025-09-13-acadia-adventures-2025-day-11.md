@@ -15,26 +15,28 @@ galleries:
   gallery1:
     suffix: cvx
     images:
-    - filename: 
+    - filename: P9131187
       alt:     
-    - filename: 
+    - filename: P9131192
       alt:     
-    - filename: 
+    - filename: P9131200
       alt:     
-    - filename: 
+    - filename: P9131213
       alt:     
-    - filename: 
+    - filename: P9131219
       alt:     
-    - filename: 
+    - filename: P9131227
       alt:     
-    - filename: 
+    - filename: P9131233
       alt:     
-    - filename: 
+    - filename: P9131235
       alt:     
-    - filename: 
+    - filename: P9131247
       alt:     
-    - filename: 
-      alt:     
+    - filename: P9131252
+      alt:   
+    - filename: P9131264
+      alt:         
 ---
 
 I woke up just a little nervous about the 5K race this morning. Of course I was thinking of it as just an activity, not a race, which helped. But I still wanted to be able to complete it and not come in dead last.
@@ -47,7 +49,9 @@ It was time to line up, and most of us were poised and ready to start our watche
 
 I felt pretty strong immediately, and the downhill along Main Street gave me an extra boost, but more than anything I kept telling myself just to go easy, pace myself, and not wear out in the first half. I had a feeling I would be able to keep a steady pace on the West Street hill, and probably gain something there.
 
-And that is what happened. I crossed the wide intersection at West and Route 3 (one of two places on the course where police were managing traffic) and immediately noticed that nearly everyone I could see on the hill ahead of me was walking. I just kind of chugged past them, in some cases putting out more speed than I wanted to just so I wasn't breathing down someone's neck like a creep, and got up the hill quickly. Then the course levels off for a short stretch before the next climb on Cleftstone up to Eagle Lake Road. Then from there we crossed over Eagle Lake Road (the second place with police coverage) and after the stretch of very slightly rolling hills along Cromwell HArbor Road (where I spotted three turkeys alongside the road), flew down to the finish!
+{% include gallery.html gallery_id="gallery1" class="" %}
+
+And that is what happened. I crossed the wide intersection at West and Route 3 (one of two places on the course where police were managing traffic) and immediately noticed that nearly everyone I could see on the hill ahead of me was walking. I just kind of chugged past them, in some cases putting out more speed than I wanted to just so I wasn't breathing down someone's neck like a creep, and got up the hill quickly. Then the course levels off for a short stretch before the next climb on Cleftstone up to Eagle Lake Road. Then from there we crossed over Eagle Lake Road (the second place with police coverage) and after the stretch of very slightly rolling hills along Cromwell Harbor Road (where I spotted three turkeys alongside the road), flew down to the finish!
 
 This was a little strange because it appeared that the way they were directing runners into the park was blocked by orange cones. A woman just ahead of me kept running straight, which confused me and someone behind me briefly, but I didn't see any other way to get into the park, so I just followed the arrow and then noticed that the path turned and went right into the park and straight toward the finish line. It was a thrill to run down that final stretch! I was looking around for Rich but didn't spot him until I had already crossed the line. 
 
