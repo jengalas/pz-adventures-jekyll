@@ -111,7 +111,7 @@
     });
 
     let trackName = e.target.get_name();
-    this.bindTooltip("<b>" + trackName + "</b>", { sticky: true }).addTo(tracklogMap);
+    // this.bindTooltip("<b>" + trackName + "</b>", { sticky: true }).addTo(tracklogMap);
 
     // create track details box
     const legend = L.control({ position: "bottomright" });
@@ -125,7 +125,7 @@
 
     let desc = document.querySelector(".track-info");
 
-    desc.innerHTML = "<table><tbody><tr><th>Track Data</th></tr><tr><td><b>Total distance</b></td><td>" + distMi + " mi.</td></tr><tr><td><b>Elev. gain/loss</b></td><td> " + elGainFt + "'/" + elLossFt + "'</td></tr></tbody></table>";
+    desc.innerHTML = "<table><tbody><tr><th>Track Data</th></tr><tr><td><i>" + trackName + "</i></td></tr><tr><td><b>Total distance</b></td><td>" + distMi + " mi.</td></tr><tr><td><b>Elev. gain/loss</b></td><td> " + elGainFt + "'/" + elLossFt + "'</td></tr></tbody></table>";
 
   }).addTo(tracklogMap);
 
