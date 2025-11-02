@@ -1,3 +1,5 @@
+<!-- {% capture urls %}{% for tracklog in page.tracklog %}{{ tracklog }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %} -->
+
 <div class="map tracklog-map" id="tracklog-map"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.2.0/gpx.min.js"></script>
@@ -61,6 +63,16 @@
 
   var objOverlays = {
   };
+
+  var url_list = "{{urls}}";
+
+  console.log("{{urls}}");
+
+  console.log(url_list.split(","));
+
+  var gpx_list = url_list.split(",");
+
+  console.log(gpx_list);
 
   var gpx = "https://tracklogs.planetzhanna.com/{{ page.tracklog }}";
 
