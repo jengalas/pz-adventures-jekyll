@@ -1,4 +1,5 @@
-<!-- {% capture urls %}{% for tracklog in page.tracklog %}{{ tracklog }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %} -->
+{% capture urls %}{% for tracklog in page.tracklog %}{{ tracklog }}{% unless forloop.last %},{% endunless %}{% endfor
+%}{% endcapture %}
 
 <div class="map tracklog-map" id="tracklog-map"></div>
 
@@ -11,21 +12,21 @@
 <script src="/assets/js/basemaps.js"></script>
 <script>
 
-  var latlngs = [[43.02071359427862, -70.83984375], [44.43377984606822, -66.90673828125], [47.45780853075031, -67.17041015625], [47.41322033016902, -71.08154296875], [43.02071359427862, -70.83984375]];
+  let latlngs = [[43.02071359427862, -70.83984375], [44.43377984606822, -66.90673828125], [47.45780853075031, -67.17041015625], [47.41322033016902, -71.08154296875], [43.02071359427862, -70.83984375]];
 
-  var polygon = L.polygon(latlngs, {});
+  let polygon = L.polygon(latlngs, {});
 
-  var latlngs1903 = [[44.276937, -68.162799], [44.450338, -68.163884], [44.434830, -68.308574], [44.283651, -68.314044], [44.276937, -68.162799]];
+  let latlngs1903 = [[44.276937, -68.162799], [44.450338, -68.163884], [44.434830, -68.308574], [44.283651, -68.314044], [44.276937, -68.162799]];
 
-  var polygon1903 = L.polygon(latlngs1903, {});
+  let polygon1903 = L.polygon(latlngs1903, {});
 
-  var latlngs1911 = [[44.201179, -68.156388], [44.482209, -68.151643], [44.480535, -68.473502], [44.205968, -68.468638], [44.201179, -68.156388]];
+  let latlngs1911 = [[44.201179, -68.156388], [44.482209, -68.151643], [44.480535, -68.473502], [44.205968, -68.468638], [44.201179, -68.156388]];
 
-  var polygon1911 = L.polygon(latlngs1911, {});
+  let polygon1911 = L.polygon(latlngs1911, {});
 
-  var latlngsLLP = [[44.27924, -68.24013], [44.32135, -68.23993], [44.32169, -68.28596], [44.27957, -68.28616], [44.27924, -68.24013]];
+  let latlngsLLP = [[44.27924, -68.24013], [44.32135, -68.23993], [44.32169, -68.28596], [44.27957, -68.28616], [44.27924, -68.24013]];
 
-  var polygonLLP = L.polygon(latlngsLLP, {});
+  let polygonLLP = L.polygon(latlngsLLP, {});
 
   let lyrME1910Topos = L.esri.imageMapLayer({
     url: 'https://gis.maine.gov/arcgis/rest/services/imageryBaseMapsEarthCover/topoUsgs24k1910/ImageServer',
@@ -57,90 +58,106 @@
     maxZoom: 16
   });
 
-  var tracklogMap = L.map('tracklog-map', { fullscreenControl: true, }).setView([44.5, -69], 15);
+  let tracklogMap = L.map('tracklog-map', { fullscreenControl: true, layers: [objBasemaps['OpenStreetMap']] }).setView([44.5, -69], 15);
 
-  objBasemaps['OpenStreetMap'].addTo(tracklogMap); // Assign default basemap
+  let overlayRegistry = {};
 
-  var objOverlays = {
-  };
-
-  var url_list = "{{urls}}";
-
-  console.log("{{urls}}");
-
-  console.log(url_list.split(","));
-
-  var gpx_list = url_list.split(",");
-
-  console.log(gpx_list);
-
-  var gpx = "https://tracklogs.planetzhanna.com/{{ page.tracklog }}";
-
-  var ctlLayers = L.control.layers(objBasemaps, objOverlays).addTo(tracklogMap);
-
-  L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(tracklogMap);
-
-  const lyrGPX = new L.GPX(gpx, {
-    async: true,
-    markers: {
-      wptIconUrls: {
-        '': '200px-Yellow_icon.svg.png',
-        'Flag, Blue': 'blue-flag-32.png'
-      },
-      iconSize: [20, 20],
-      iconAnchor: [0, 16],
+  window.onload = function () {
+    const markerOptions = {
       startIcon: null,
       endIcon: null
-    },
-    polyline_options: {
-      color: "red"
-    }
-  }).on('loaded', function (e) {
-    tracklogMap.fitBounds(e.target.getBounds());
-    if (e.target.getBounds().intersects(polygon.getBounds())) {
-      ctlLayers.addBaseLayer(lyrME1910Topos, "Maine 1910 Topo");
-      ctlLayers.addBaseLayer(lyrME1945Topos, "Maine 1945 Topo");
     };
-    if (e.target.getBounds().intersects(polygon1903.getBounds())) {
-      ctlLayers.addBaseLayer(lyr1903PathMap, "1903 Path Map");
-    }
-    if (e.target.getBounds().intersects(polygon1911.getBounds())) {
-      ctlLayers.addBaseLayer(lyr1911PathMap, "1911 Path Map");
-      ctlLayers.addBaseLayer(lyr1942AcadiaTopo, "Acadia 1942 Topo");
-    }
-    if (e.target.getBounds().intersects(polygonLLP.getBounds())) {
-      ctlLayers.addBaseLayer(lyrLittleLongPond, "Little Long Pond Trails");
+
+    const polylineOptions = {
+      opacity: 1,
+      weight: 3,
+      lineCap: 'round'
+    };
+
+    const url_list = "{{urls}}";
+    const gpx_list = url_list.split(",");
+
+    /**
+    *  Set up controls
+    */
+
+    L.control.polylineMeasure({ unit: 'landmiles', showBearings: true }).addTo(tracklogMap);
+
+    let control = L.control.layers(objBasemaps, overlayRegistry, {
+      collapsed: true
+    }).addTo(tracklogMap);
+
+    function addOverlay(name, newLayer) {
+      // Check if the layer is already registered in control
+      if (overlayRegistry[name]) {
+        // console.log(`Overlay "${name}" is already registered.`);
+        return;
+      }
+      // Add to the layer control (unchecked)
+      control.addOverlay(newLayer, name);
+
+      // Remember it so we don't add again
+      overlayRegistry[name] = newLayer;
     }
 
-    var track = e.target,
-      distMi = track.get_distance_imp().toFixed(3);
-    elGainFt = track.get_elevation_gain_imp().toFixed(0);
-    elLossFt = track.get_elevation_loss_imp().toFixed(0);
-    timeMoveMs = track.get_moving_time();
+    let bounds = null;
 
-    lyrGPX.on('click', function (e) {
-      console.log(e.target);
+    let gpxTracks = L.featureGroup().addTo(tracklogMap);
+    control.addOverlay(gpxTracks, "Tracklog");
+
+    gpx_list.forEach(function (el, index, array) {
+
+      new L.GPX('https://tracklogs.planetzhanna.com/' + el, {
+        async: true,
+        markers: markerOptions,
+        polyline_options: polylineOptions
+      })
+
+        .on('loaded', function (e) {
+          gpxTracks.addLayer(e.layers).setStyle({ color: 'red' });
+          let track = e.target,
+            trackName = track.get_name();
+          distMi = track.get_distance_imp();
+          elGainFt = track.get_elevation_gain_imp().toFixed(0);
+          elLossFt = track.get_elevation_loss_imp().toFixed(0);
+          this.bindTooltip("<b>" + trackName + "</b><br>" + distMi.toFixed(3) + " miles<br><i class='fa-solid fa-mountain'></i> +" + elGainFt + "ft./-" + elLossFt + "ft.", { sticky: true }).addTo(tracklogMap);
+          // tracklogMap.getContainer().addEventListener('mousedown', e => e.preventDefault());
+          tracklogMap.getContainer().addEventListener('mousedown', e => {
+            // Prevent focus jump, but still allow dragging and panning
+            if (e.target.closest('.leaflet-tooltip, .leaflet-interactive')) {
+              e.preventDefault();
+            }
+          });
+
+          let layerBounds = e.target.getBounds();
+          if (bounds === null) {
+            bounds = layerBounds;
+          } else {
+            bounds.extend(layerBounds);
+          }
+          tracklogMap.fitBounds(bounds);
+
+          if (bounds.intersects(polygon.getBounds())) {
+            addOverlay("Maine 1910 Topo", lyrME1910Topos);
+            addOverlay("Maine 1945 Topo", lyrME1945Topos);
+          };
+
+          if (bounds.intersects(polygon1903.getBounds())) {
+            addOverlay("1903 Path Map", lyr1903PathMap);
+          }
+
+          if (bounds.intersects(polygon1911.getBounds())) {
+            addOverlay("Acadia 1942 Topo", lyr1942AcadiaTopo);
+            addOverlay("1911 Path Map", lyr1911PathMap);
+          }
+
+          if (bounds.intersects(polygonLLP.getBounds())) {
+            addOverlay("Little Long Pond Trails", lyrLittleLongPond);
+          }
+        })
+
     });
 
-    let trackName = e.target.get_name();
-    // this.bindTooltip("<b>" + trackName + "</b>", { sticky: true }).addTo(tracklogMap);
 
-    // create track details box
-    const legend = L.control({ position: "bottomright" });
-
-    legend.onAdd = function () {
-      let div = L.DomUtil.create("div", "track-info");
-      return div;
-    };
-
-    legend.addTo(tracklogMap);
-
-    let desc = document.querySelector(".track-info");
-
-    desc.innerHTML = "<table><tbody><tr><th>Track Data</th></tr><tr><td><i>" + trackName + "</i></td></tr><tr><td><b>Total distance</b></td><td>" + distMi + " mi.</td></tr><tr><td><b>Elev. gain/loss</b></td><td> " + elGainFt + "'/" + elLossFt + "'</td></tr></tbody></table>";
-
-  }).addTo(tracklogMap);
-
-  ctlLayers.addOverlay(lyrGPX, "GPX");
-
+  }
 </script>
