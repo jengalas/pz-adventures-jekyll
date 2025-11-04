@@ -9,7 +9,7 @@ categories:
   - survey mark hunting
 geocaches: false
 surveymarks: true
-tracklog: 14SEP25.gpx
+tracklog: [14SEP25a.gpx,14SEP25b.gpx]
 post_id: 14630
 layout: post
 ---
