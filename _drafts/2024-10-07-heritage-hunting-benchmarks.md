@@ -7,7 +7,7 @@ categories:
   - survey mark hunting
 geocaches: false
 surveymarks: true
-tracklog: 07OCT24-wpt.gpx
+tracklog: [07OCT24a.gpx,07OCT24b.gpx]
 post_id: 14460
 layout: post
 ---
