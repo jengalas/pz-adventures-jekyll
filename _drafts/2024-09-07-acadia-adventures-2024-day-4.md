@@ -87,6 +87,8 @@ Once we were settled, we continued on. We ended up walking about a third of a mi
 
 I was hoping to see some snakes in this area, but we were lucky enough to watch a hairy woodpecker for a few minutes, and then to spot a huge striped slug! We wanted to take it easy today, and it began to rain more heavily, so we decided to turn around and maybe try completing the hike of the abandoned road (on another day) from the north end. This would involve driving over to the north end of the road to scout out the access point, which is what we did. 
 
+{% include tracklog.html %}
+
 ... although we didn't go exactly the way I was expecting, which was to continue north on Norway Drive, then turn right onto the Crooked Road, and then right again onto Old Norway Drive—and this turned out to be a good thing. Rich instead crossed the Crooked Road and got onto Old Norway drive at its northernmost point.
 
 As we turned onto this northernmost section of Old Norway Drive, we noticed an orange NPS witness post—the type that often indicates a stone post and boundary monument disk at its base—in one corner of the intersection. I investigated it, but this one had no associated stone monument or disk.

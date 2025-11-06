@@ -69,6 +69,8 @@ So when we came back to our hotel we spent some time looking at the property map
 
 After that somewhat demoralizing encounter (at least with the woman; luckily the cops showed the professionalism that one should expect from law enforcement, although that they certainly don't always exhibit) we were unsure what to do for the rest of the afternoon. We ended up checking out the area at the intersection of West Street Extension and Duck Brook Road, thinking we might look for an old foundation ("Russian Tea House"? Who knows.) But it wasn't clear if we could legally park at that intersection, so we passed on it today. Neither of us was looking for another confrontation.
 
+{% include tracklog.html %}
+
 We ended up just going back to the room for two hours, before supper, and doing some research as noted above.
 
 Our dinner at Brasserie Le Brun (where, I just realized, we went on the first Sunday of last year's trip, too) was the most relaxing part of the day by far. We started out with some badly-needed and very intriguing cocktails: Death in the Afternoon (absinthe and champagne) for Rich and Center of Attention (gin and tonic with blackberry) for me. We had no idea what to expect from the absinthe, and to be honest I was very surprised that Rich ordered it. But we were both thrilled with it! My first thought was that it smelled and tasted like Good & Plenty candy (not a bad thing) but not as sweet. As we sipped it, we noticed other interesting herby notes. The gin & tonic was also intriguing and refreshing, and Rich commented that it would be very easy to drink a few without realizing the effect it was having, and then be unable to stand up afterward. 
