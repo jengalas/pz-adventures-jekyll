@@ -29,5 +29,7 @@ We did not see many critters today, other than a few chipmunks and a lot of fat 
 
 We took the shortcut trail that was new to me (but Rich had ridden it years ago) between Breakneck Road and the carriage roads,and came back to the visitors center via the carriage roads. We didn't see too mcuh ehre other than some more mushrooms, a woman who had lost her husband "he's wearing a bright orange Acadia t-shirt!" (adn found humid again soon after), lots of cyclists, and no snakes. :(
 
+{% include tracklog.html %}
+
 As I told Dad, I'm almost embarrassed to admit what we had for supper tonight. Yes, we did takeout of Epi's pizza! It wasn't bad, althugh it doesn't come close to Rosalie's in flavor or texture. I will say that everyone there was extremely friendly and the service was prompt. I called in the order, Rich drove us downtown and dropped me off, and I picked up the pizza which was ready within a few minutes and then walked over to where he had parked on Rodick Street. It worked out well, and we had beer and pizza back on our porch (and split a lemon square for dessert). 
 

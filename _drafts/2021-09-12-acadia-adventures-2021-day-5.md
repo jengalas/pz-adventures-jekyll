@@ -39,9 +39,11 @@ Rich wanted to take it easy today, so he waited about halfway down the carriage 
 
 Halfmoon Pond wasn't nearly as fruitful as it was last year because it was just overfull and the bog plants were submerged. I saw a few Sarracenia flowers here and some pitchers (these are a deep red) but unlike last time, when I could walk right over to them, I couldn't get anywhere near them.
 
-On my way back I stopped at the little pond again when I noticed a strange shiny gray roundish object in the water. I couldn't iagine what it was at first, but then saw that it was a tiny hatchling turtle! So cute and funny! And right next to it was another frog.
+On my way back I stopped at the little pond again when I noticed a strange shiny gray roundish object in the water. I couldn't imagine what it was at first, but then saw that it was a tiny hatchling turtle! So cute and funny! And right next to it was another frog.
 
 I returned to R where he had been resting, watching, and taking some photos further up along Withc Hole Pond. We headed back to the car but it wasn't long before he exclaimed and pointed to the ground. At my feet was a tiny little brow snake!!! Wriggling along like crazy, he was still nice enough to pause here and there for photos. He sayed with us for quite a while, until we led him back off the carriage road to safety. R said he has seen snakes on the carriage roads before, but they were almost always run over. :(
+
+{% include tracklog.html %}
 
 We returned to the car without further excitement or issues, and headed downtown to check out the situation at McKays. I still have no idea what their deal is because they still had the "Closed Sat." sign out after 2pm on Sunday. We chose not to risk it and instead, after cleanign up and resting in the room for a few minutes, went to Side Street again for great lobster roll (I needed to have it and the clam chowder again!) and lobster mc & cheese for R. We both had the Peaks "The Juice" beer again. It was so good! As expected, we were too stuffed for dessert.
 

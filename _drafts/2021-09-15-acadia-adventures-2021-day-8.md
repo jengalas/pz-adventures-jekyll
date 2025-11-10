@@ -22,7 +22,7 @@ Dad was looking for some crepes for breakfast (no surprise!) so we took a walk t
 
 We had our usual crepes today, veggie for R, blueberry for me, and strawberry-banana-nutella for Dad. Everything was excellent! They both had coffee and I had tea (Constant Comment this time). The place became veyr busy, but I think as usual most people were just getting coffee and treats to go, and a few people were sitting at the outside tables in spite of the wind.
 
-Walking back through town, it began to sprinkle as we looked at the menus for Galyn's and Testa's (Testes) and noticed that Jeannie's was completly full (as usual) and that they now have a few tables outside, in the small galleria where people wait in line to be served.
+Walking back through town, it began to sprinkle as we looked at the menus for Galyn's and Testa's (Testes) and noticed that Jeannie's was completely full (as usual) and that they now have a few tables outside, in the small galleria where people wait in line to be served.
 
 The rain was mostly light, on and off, throughout the early morning while we got ready for our hike, which again we didn't really know if we were doing anything until the last minute. We decided to take the bus to Sieur de Monts and from there, wait for the Park Loop Road bus and ride the loop if it was still raining. There was a heavy shower while we waited, but then it began to clear up as we talked to a man from San Francisco. By the time the bus arrived it was looking a bit brighter, and because no one got off the bus tere was really only room for the California couple anyway. So we passed on the bus ride and headed back toward the trails.
 
@@ -32,7 +32,9 @@ After the gardens, we joined Dad again at the field behind the gift shop, where 
 
 Emerging from the Jesup boardwalk, we had a choice of trails. It took a minute of checking out the map, but we eventually decided to take the Hemlock Road out to the Park Loop Road, cross over and continue on the Great Meadow loop (the eastern section) all the way around to Spring Street, which we followed back into town. This section was complete peace and solitude as we din't see a single other person the whole way. Interestingly, I learned later from Pathmakers that the Hemlock Road was Dorr's original entrance road to the park, and at the time he called it the Spring Road. I wondered if it might have been at one time a continuation of Spring Street, with which it is roughly in line to the north. It culd also be a concidence, since I'm sure there are a number of springs in the area - or the name may have had a completely different derivation.
 
-Whilw we were on the eastern portion of the Great Meadow loop, R found a golf ball and kept trying to throw it at Dad's feet so he would think it came from the course (or from the heavens, or whatever) but he didn't notice it. Eventually we had to just bounce it over to him. 
+While we were on the eastern portion of the Great Meadow loop, R found a golf ball and kept trying to throw it at Dad's feet so he would think it came from the course (or from the heavens, or whatever) but he didn't notice it. Eventually we had to just bounce it over to him. 
+
+{% include tracklog.html %}
 
 It was still windy but felt much warmer at this point. Dad and I walked down to Mount Dessert Bakery for a few afternoon treats to tide us over. We bought lemon square, coffeecake slice, and a slice of pumpkin bread with chocolate chips, which we ate on the porch. All excellent! 
 
