@@ -1,7 +1,22 @@
 {% capture urls %}{% for tracklog in page.tracklog %}{{ tracklog }}{% unless forloop.last %},{% endunless %}{% endfor
 %}{% endcapture %}
 
-<div class="map tracklog-map" id="tracklog-map"></div>
+<style>
+  #loading {
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translateX(-50%);
+   color: rgb(92, 91, 91);
+   padding: 10px;
+   font-size: 1.3rem;
+   border-radius: 6px;
+   z-index: 9999;
+ }
+</style>
+
+<div class="map tracklog-map" id="tracklog-map"><div id="loading">Loading ...</div></div>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.2.0/gpx.min.js"></script>
 <script src="https://ppete2.github.io/Leaflet.PolylineMeasure/Leaflet.PolylineMeasure.js"></script>
@@ -156,6 +171,7 @@
           }
         })
 
+        document.getElementById("loading").style.display = "none";
     });
 
 
