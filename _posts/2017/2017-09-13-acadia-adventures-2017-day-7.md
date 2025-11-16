@@ -16,7 +16,7 @@ geocaches: false
 surveymarks: true
 post_id: 8402
 layout: post
-tracklog: 13SEP17.gpx
+tracklog: [13SEP17a.gpx,13SEP17b.gpx]
 galleries:
   gallery1:
     images:
