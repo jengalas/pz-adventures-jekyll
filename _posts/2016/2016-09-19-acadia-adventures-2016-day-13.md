@@ -71,7 +71,7 @@ It was still raining, so we spent some time in the room working on photos and de
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-It was still misting heavily, so after finishing the trail we headed back into town and checked out Sherman's bookstore for a few minutes. They had an interesting puzzle of an Edward Gorey illustration [private role="administrator"](Pomegranate was the brand, and it was an Edward Gorey illustration)[/private] and we also learned that there was a limited 300 (or 400?) copy reprint of <cite>Trails of History</cite> made last November. It was so weird to see that book back on the shelves! The quality of the paper and covers seems inferior to the original edition, though.
+It was still misting heavily, so after finishing the trail we headed back into town and checked out Sherman's bookstore for a few minutes. They had an interesting puzzle of an Edward Gorey illustration <!-- (Pomegranate was the brand, and it was an Edward Gorey illustration)--> and we also learned that there was a limited 300 (or 400?) copy reprint of <cite>Trails of History</cite> made last November. It was so weird to see that book back on the shelves! The quality of the paper and covers seems inferior to the original edition, though.
 
 It was early afternoon by this point. For years I've been wanting to check out the Bar Harbor Historical Society on Ledgelawn Avenue. For one reason or another we never got there—mostly because the weather was good, or when it wasn't, the historical society wasn't open. Today it worked out perfectly. There was no one, other than the volunteer working there, in the building when we arrived. 
 

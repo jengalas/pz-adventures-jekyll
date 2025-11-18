@@ -30,7 +30,7 @@ Today was mostly a rest day. It was expected to storm right in the middle of the
 
 We began with breakfast at Jeannie's; our plan was to check it out and if it was too busy, go over to the Black Friar instead. We were seated at Jeannie's right away, though, so we decided to stay. We thought we'd try the Friar tonight, because as of last year Johnny was cooking on Sunday nights (Chef Don cooked the other nights). Breakfast was good as usual; we shared an egg and bacon sandwich on croissant and a strawberry pancake. We picked up 6 jars of the famous strawberry rhubarb sauce to take home. They're always good for gifts or just for ourselves to put on English muffins (or popovers?).
 
-{% include image.html filename="P1070251dl.jpg" thumb="P1070251b.jpg" caption="Griswolds?" %}t="Griswolds?" width="640" height="480" class="size-full wp-image-7528" />
+{% include image.html filename="P1070251dl.jpg" thumb="P1070251b.jpg" caption="Griswolds?" %}
 
 When we were done we took a slow walk back to our room, a walk which might have been even slower if it hadn't been so incredibly windy. For a while we watched the electrical workers installing new poles and hooking everything up outside of the new Atlantic Brewing Company building that's supposed to open next year (it's in the location where Little Notch Bakery was the past few years). Rich explained how all of the cabling works. Then we stopped by the Black Friar to find Johnny taking a break in the back. We asked if he would be cooking tonight and he said no, this year they're closed on Sundays! Apparently Chef Don retired and Johnny is now cooking 7 mornings and 6 nights a week, so he needs Sunday nights off.  Bummer! But we'll be able to come for supper during the week.
 

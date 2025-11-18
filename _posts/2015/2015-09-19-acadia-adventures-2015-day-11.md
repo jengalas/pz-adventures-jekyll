@@ -34,7 +34,7 @@ It took nearly three hours, but eventually we found ourselves at the "Equator St
 
 The story is that the mark first set by the original USC&GS surveyors was a bronze marker possibly similar to modern benchmark disks or bolts, but was considered a temporary marker and set as such. After several years, there was concern that the mark, and thus the surveyed location, would be lost so a permanent marker was set up in the form of the red granite monument we see today. 
 
-The following site annotates the story with some pertinent points and questions, such as "where is the original bronze marker,"  and "what is the history of the location(s) of the stone" which we know to have been moved at least once? See [THE HALFWAY MARKER](http://www.calaisalumni.org/History/halfway.htm).
+The following site annotates the story with some pertinent points and questions, such as "where is the original bronze marker,"  and "what is the history of the location(s) of the stone" which we know to have been moved at least once? See [THE HALFWAY MARKER](https://web.archive.org/web/20220327161851/http://www.calaisalumni.org/History/halfway.htm).
 
 We noted that according to our GPSr, the stone's coordinates are 44.9997051°N, -067.0887218°W. Not exactly 45 N, but pretty damned close! 
 
