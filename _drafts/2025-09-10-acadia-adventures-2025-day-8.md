@@ -29,6 +29,8 @@ There were no warning signs or any indication about the trail being closed when 
 
 I was feeling OK, just extremely sweaty, so of course I went for Kebo. And it was pretty tough, but more than doable, and I loved the feeling of topping that last stretch of hill! The downhill was rough on the quads, but it can only help to build strength.
 
+{% include tracklog.html %}
+
 [Afternoon run - write more here about how part of teh Great Meadow Loop was closed and I had to go on the road, and then sneak back past the guy who had told me the trail was closed]
 
 Red Sky is always a special spot for dinner. The food is understated but spectacular, and as long as people are considerate and quiet, the atmosphere is cozy and pleasant. We arrived this evening in Southwest Harbor with about 30 minutes to spare before Red Sky opened, so first we checked out the wine and cheese shop around the corner. The aroma of cheese (and, interestingly enough, olives) when we first stepped inside was intoxicating ... to someone who likes cheese, anyway, and we do. It really made us want to buy some (which is probably the point or at least a side effect of having so much cheese in the shop), but we decided against it because we didn't think we would finish the cheese while we're here, and we don't have a cooler with us to bring anything home this time. I did purchase their last jar of guava marmalade, which sounds amazing and which Elaine will probably like as well.
