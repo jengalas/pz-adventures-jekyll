@@ -12,7 +12,7 @@ categories:
 excerpt: >-
   
 geocaches: false
-surveymarks: true
+surveymarks: false
 tracklog: 01MAY17.gpx
 post_id: 7819
 layout: post
