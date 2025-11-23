@@ -10,6 +10,7 @@ excerpt: >-
 featured_image: signcm.jpg
 geocaches: false
 surveymarks: false
+tracklog: 24JUL15.gpx
 post_id: 5477
 layout: post                    
 ---
@@ -64,5 +65,7 @@ We did our best to ignore the bugs, and their buzzing and swooping eventually ab
 So that was the end of the hike. 
 
 Oh wait, it wasn't! We had another three miles to walk back to the car. But on a beautiful sunny day, with a great partner by your side, any distance is too short. 
+
+{% include tracklog.html %}
 
 And need I mention that we drove back through Waymart, arriving at the Waymart Hotel at 3:53pm, just in time for the 4:00pm opening of the barbecue pit?  We stuffed ourselves with cheeseburgers (grilled, medium, onion and ketchup), fries, onion rings, and a half-pitcher of beer. And back at home, we collapsed on the bed and watched Stage 19 of the Tour de France—another fleeting pleasure of summer.
