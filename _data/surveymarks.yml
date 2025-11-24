@@ -1581,10 +1581,95 @@
   mark_type: Survey Mark
   date: 2014-10-30
   post_id: 5044
+- designation: S 114
+  mark_type: Survey Mark
+  date: 2014-09-11
+  custom_permalink: s-114
+  post_id: 5031     
+- designation: S 116
+  mark_type: Survey Mark
+  date: 2014-09-11
+  custom_permalink: s-116
+  post_id: 5031   
+- designation: S 110
+  mark_type: Survey Mark
+  date: 2014-09-11
+  custom_permalink: s-110
+  post_id: 5031       
+- designation: BLUE HILL LOOKOUT TOWER 1956
+  pid: PE1961
+  mark_type: Survey Mark
+  date: 2014-09-10
+  post_id: 5002   
+- designation: BLUE HILL RESET
+  pid: PE1962
+  mark_type: Survey Mark
+  date: 2014-09-10
+  post_id: 5002     
+- designation: BLUE HILL RM 1
+  mark_type: Reference Mark
+  date: 2014-09-10
+  custom_permalink: pe1962-rm-1
+  post_id: 5002     
+- designation: BLUE HILL RM 2
+  mark_type: Reference Mark
+  date: 2014-09-10
+  custom_permalink: pe1962-rm-2
+  post_id: 5002    
+- designation: BLUE HILL RM 3
+  pid: PE1963
+  mark_type: Reference Mark
+  date: 2014-09-10
+  post_id: 5002  
+- designation: BLUE HILL CONG CHURCH SPIRE
+  pid: PE1960
+  mark_type: Survey Mark
+  date: 2014-09-10
+  post_id: 5002      
+- designation: LITTLE DEER ISLE RESET
+  pid: PE1984
+  mark_type: Survey Mark
+  date: 2014-09-10
+  post_id: 5002   
+- designation: LITTLE DEER ISLE RM 1
+  mark_type: Reference Mark
+  date: 2014-09-10
+  custom_permalink: pe1984-rm-1
+  post_id: 5002   
+- designation: LITTLE DEER ISLE RM 2
+  mark_type: Reference Mark
+  date: 2014-09-10
+  custom_permalink: pe1984-rm-2
+  post_id: 5002   
+- designation: PUMPKIN ISLAND LIGHTHOUSE
+  pid: PE1981
+  mark_type: Survey Mark
+  date: 2014-09-10
+  post_id: 5002    
+- designation: BILLINGS RESET
+  pid: PE1978
+  mark_type: Survey Mark
+  date: 2014-09-10
+  post_id: 5002   
+- designation: BILLINGS RM 1
+  mark_type: Reference Mark
+  date: 2014-09-10
+  custom_permalink: pe1978-rm-1
+  post_id: 5002    
+- designation: BILLINGS RM 2
+  mark_type: Reference Mark
+  date: 2014-09-10
+  custom_permalink: pe1978-rm-2
+  post_id: 5002     
 - designation: TBM 841 3320 Aquatrak
   mark_type: Survey Mark
   date: 2014-09-08
   post_id: 4973 
+- designation: 6288.176 FT. RESET
+  mark_type: Survey Mark
+  date: 2014-09-07
+  custom_permalink: 6288-176-ft-reset
+  post_id: 4970  
 - designation: D 147
   mark_type: Survey Mark
   date: 2014-09-04
