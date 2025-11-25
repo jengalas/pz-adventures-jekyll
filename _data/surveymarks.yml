@@ -1581,6 +1581,21 @@
   mark_type: Survey Mark
   date: 2014-10-30
   post_id: 5044
+- designation: TOW 
+  pid: PE1779
+  mark_type: Survey Mark
+  date: 2014-09-13
+  post_id: 4984   
+- designation: 'NPS (Unstamped, Acadia #7)'
+  mark_type: Survey Mark
+  date: 2014-09-13
+  custom_permalink: nps-unstamped-acadia-7
+  post_id: 4984
+- designation: BAKER ISLAND LIGHTHOUSE 1861 
+  pid: PE1822
+  mark_type: Survey Mark
+  date: 2014-09-13
+  post_id: 4984    
 - designation: S 114
   mark_type: Survey Mark
   date: 2014-09-11
