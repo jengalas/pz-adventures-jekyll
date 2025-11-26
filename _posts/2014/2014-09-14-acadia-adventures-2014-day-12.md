@@ -20,17 +20,17 @@ galleries:
     suffix: cm
     images:
     - filename: '20140914_111346'
-      alt: 
+      alt: Looking out over Sand Beach and Great Head
     - filename: '20140914_112829'
-      alt: 
+      alt: A wooden bridge and some rungs
     - filename: '20140914_113050'
-      alt: 
+      alt: Looking down one set of rungs along the Beehive
     - filename: '20140914_113328'
-      alt: 
+      alt: Climbing higher ...
     - filename: '20140914_114102'
-      alt: 
+      alt: Smooth ledges at the top of the Beehive!
     - filename: P1110367
-      alt: 
+      alt: The Bowl, and a convenient picnic ledge
 ---
 
 Today was supposed to be another easy day, and it was ... mostly. Our day started out with coffee and tea from The Independent, which we sipped while wandering around the farmers' market in town. The market was packed as usual, but we found our way to the Sunset Acres tent (and bought some peach/cherry jam along the way too). We loaded up on goat cheese: the cranberry-orange-honey that I'd wished I bought last year, tomato-basil, plain, garlic-dill, and parisienne. We also bought a hunk of summer sausage from Smith Family Farm and a sourdough boule from Breadbox Bakery. If you can't guess, we planned to bring the sausage, cheese and bread along for our snack on our hike, with the small box of wine that we bought at Hannaford-Bananaford a few nights ago.
