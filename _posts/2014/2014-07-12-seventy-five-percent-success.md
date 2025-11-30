@@ -22,7 +22,7 @@ This morning, we made Keen Lake our first stop. We parked on North Elk Forest Dr
 
 Although the disk is in excellent condition, Rich and I had to wonder why it was set into this boulder that appears to be sitting right on the surface of the ground rather than an embedded boulder or outcropping bedrock, as it typically used. I'm still going to call the condition "good" but with the caveat that I don't know how much the boulder might have moved since the mark was set. The coordinates I recorded at the spot were within 20 feet of the coordinates I estimated from the topo map.
 
-Little is left of the gravity railroad in this area. One structure can be seen clearly from Route 6: [Gravity R.R. Structure on Keen Lake](http://maps.google.com/maps?q=Keen+Lake,+Canaan,+PA&hl=en&ll=41.592787,-75.374665&spn=0.015823,0.033023&sll=41.40453,-75.661934&sspn=0.253907,0.528374&oq=keen+lake&t=h&hnear=Keen+Lake&z=16&layer=c&cbll=41.592751,-75.374503&panoid=li5IPiTngtpArhOXooYpoQ&cbp=12,188.03,,1,6.26)
+Little is left of the gravity railroad in this area. One structure can be seen clearly from Route 6: [Gravity R.R. Structure on Keen Lake](https://maps.app.goo.gl/WUFESk6a5uvJXicW9)
 
 
 ## No. 2
