@@ -12,6 +12,18 @@ geocaches: false
 surveymarks: true
 post_id: 4911
 layout: post       
+galleries:
+  gallery1:
+    suffix: cm
+    images:
+    - filename: tt14tg3
+      alt: 'TT 14 T: The disk is set near the middle of the boulder’s top surface.'
+    - filename: tt13tg2
+      alt: 'TT 13 T: Looking E from Tuthill Road'
+    - filename: tt19tg1
+      alt: 'TT 19 T: Eyelevel view of the disk on the concrete post'
+    - filename: tt16tg2
+      alt: 'TT 16 T: Looking NW along Flat Rock Road, with the rock outcrop to the left'           
 ---
 
 ## No. 1
@@ -45,4 +57,4 @@ The disk and monument are in near-perfect condition. They have a good caretaker 
 
 Even though we didn't find the final mark we had planned for today (**`TT 16 T`**), we had a great time searching! This was our fourth and final targeted mark for the day, and it worked out well because Flat Rock Road provided a nice back route home from Waymart. In fact, neither of us had ever driven on this narrow, winding gravel road before, so even that was an adventure. When we approached the coordinates, we spotted the 12 foot high outcrop immediately, even though the forest is now swallowing it up. "This is neat!" Rich exclaimed as we picked our way across the top of the outcrop. It certainly was. The high ledges gave us a nice view through the thick forest, and the outcrop would make a pleasantly shaded picnic spot. We identified two sections of ledge that appeared to be likely benchmark locations, but the areas were large and without a metal detector, it might have been hours before we uncovered the mark from beneath heavy leaf litter and pine debris. We plan to come back soon with our metal detector (and some "gardening" tools) and search again.
 
-
+{% include gallery.html gallery_id="gallery1" class="2by2" %}

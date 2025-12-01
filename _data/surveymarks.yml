@@ -1724,6 +1724,26 @@
   date: 2014-08-01
   custom_permalink: pdh-8
   post_id: 5386
+- designation: I
+  pid: LY1069
+  mark_type: Survey Mark
+  date: 2014-07-26
+  post_id: 4941  
+- designation: 08-63-0006-3
+  mark_type: Survey Mark
+  date: 2014-07-26
+  custom_permalink: 08-63-0006-3
+  post_id: 4941   
+- designation: '1353.170'
+  mark_type: Survey Mark
+  date: 2014-07-26
+  custom_permalink: '1353-170'
+  post_id: 4941   
+- designation: 08-63-0296-1
+  mark_type: Survey Mark
+  date: 2014-07-22
+  custom_permalink: 08-63-0296-1
+  post_id: 4938   
 - designation: TT 27 T
   mark_type: Survey Mark
   date: 2014-07-19
@@ -1888,6 +1908,31 @@
   custom_permalink: ly1199-az-mk
   date: 2014-05-03
   post_id: 4390   
+- designation: V 268
+  pid: KV1768
+  mark_type: Survey Mark  
+  date: 2014-04-27
+  post_id: 4348  
+- designation: GATE
+  pid: KV1764
+  mark_type: Survey Mark  
+  date: 2014-04-27
+  post_id: 4348    
+- designation: Q 363
+  pid: KV2906
+  mark_type: Survey Mark  
+  date: 2014-04-27
+  post_id: 4348   
+- designation: XX
+  pid: KV1464
+  mark_type: Survey Mark  
+  date: 2014-04-27
+  post_id: 4348     
+- designation: H
+  pid: KV1475
+  mark_type: Survey Mark  
+  date: 2014-04-27
+  post_id: 4348
 - designation: N 328
   pid: AA0216
   mark_type: Survey Mark  
