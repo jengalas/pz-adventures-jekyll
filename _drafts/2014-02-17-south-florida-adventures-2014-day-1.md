@@ -19,7 +19,7 @@ galleries:
       alt:              
 ---
 
-[caption id="attachment_6158" align="aligncenter" width="640"]<a href="https://planetzhanna.com/images/2014/02/17/P1060180cm.jpg" rel="attachment wp-att-6158"><img src="https://planetzhanna.com/adventures/wp-content/uploads/2014/02/P1060180b.jpg" alt="Our tribute to Petal!" width="640" height="480" class="size-full wp-image-6158" /></a> Our tribute to Petal![/caption]
+{% include image.html filename="P1060180cm.jpg" thumb="P1060180b.jpg" caption="Our tribute to Petal!" %}
 
 Old Tavernier
 

@@ -1947,7 +1947,32 @@
   pid: AA0130
   mark_type: Reference Mark  
   date: 2014-02-20
-  post_id: 4260   
+  post_id: 4260  
+- designation: 872 3776 TIDAL 1
+  pid: AA0934
+  mark_type: Survey Mark  
+  date: 2014-02-18
+  post_id: 4256    
+- designation: 872 3776 TIDAL 3
+  pid: AA0933
+  mark_type: Survey Mark  
+  date: 2014-02-18
+  post_id: 4256    
+- designation: 872 3868 TIDAL 2
+  pid: AA0806
+  mark_type: Survey Mark  
+  date: 2014-02-18
+  post_id: 4256   
+- designation: 872 3868 F TIDAL
+  pid: AA1731
+  mark_type: Survey Mark  
+  date: 2014-02-18
+  post_id: 4256   
+- designation: 872 3868 TIDAL 3
+  pid: AA0808
+  mark_type: Survey Mark  
+  date: 2014-02-18
+  post_id: 4256   
 
 # 2013
 
