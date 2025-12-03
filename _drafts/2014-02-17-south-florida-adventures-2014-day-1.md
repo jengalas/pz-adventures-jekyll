@@ -19,7 +19,7 @@ galleries:
       alt:              
 ---
 
-{% include image.html filename="P1060180cm.jpg" thumb="P1060180b.jpg" caption="Our tribute to Petal!" %}
+{% include image.html filename="P1060180cl.jpg" thumb="P1060180b.jpg" caption="Our tribute to Petal!" %}
 
 Old Tavernier
 

@@ -13,7 +13,7 @@ excerpt: >-
 featured_image: IMG_20140220_184026cm.jpg
 geocaches: false
 surveymarks: true
-tracklog: 20FEB14-full.gpx
+tracklog: [20FEB14b.gpx,20FEB14c.gpx]
 post_id: 4260
 layout: post
 galleries:
