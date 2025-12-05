@@ -48,6 +48,3 @@ We relaxed for the rest of the afternoon (well, dad went to the Hannaford, appar
 Dinner at Red Sky: R and I shared oyster chowder and mixed green salad with balsamic vinaigrette, cranberries and blue cheese. Dad had crispy polenta with mushrooms and mom also had the salad.  R had Bug Lager to drink and the rest of us had the New Guy IPA. Mom and I both had the sauteed sole in citrus butter sauce (with potatoes and carrot slaw), R had the cannelloni stuffed with mushrooms and zucchini, and dad had the half chicken that I had on Sunday night.  For dessert, we shared the large cheese plate (Camembert, a Tomme, a Vermont cheddar, and Fuzzy Udder blue(?). 
 
 {% include tracklog.html %}
-
-
-
