@@ -23,6 +23,11 @@ galleries:
 
 ---
 
-Owl sighting at Mahogany Hammock trail, lots of BMs, Snake Bight trail with bromeliads and LOTS of mosquitoes and other bugs!
+
+Guava pastries this morning (from the grocery store but they were still good). Owl sighting at Mahogany Hammock trail, lots of BMs, Snake Bight trail with bromeliads and LOTS of mosquitoes and other bugs!
 
 {% include tracklog.html %}
+
+https://www.nps.gov/ever/planyourvisit/mahogany-hammock-trail.htm
+
+https://www.nps.gov/ever/planyourvisit/snake-bight-trail.htm
