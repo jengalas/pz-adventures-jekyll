@@ -11,6 +11,7 @@ categories:
   - survey mark hunting
 geocaches: false
 surveymarks: true
+tracklog: [24FEB14-bh.gpx,24FEB14c.gpx]
 post_id: 4268
 layout: post
 galleries:
