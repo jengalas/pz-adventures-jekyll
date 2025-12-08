@@ -28,4 +28,4 @@ After Dad left (kinda promptly because rain was expected) we hiked the eastern s
 
 {% include tracklog.html %}
 
-Ask R what we did for supper - maybe Fiddlers Green and maybe our drive through the park? Have R check credit card statements. I don't have anything from this date. If it was Fiddlers we had the lobster enchilada, "little pig" (sampling of our roast pork, chile romesco and chipotle citrus bbq. sauces)
+Ask R what we did for supper - maybe Fiddlers Green and maybe our drive through the park? Have R check credit card statements. I don't have anything from this date. If it was Fiddlers we had the lobster enchilada, "little pig" (sampling of our roast pork, chile romesco and chipotle citrus bbq. sauces), panzerotti/boar, Heidi cake, blueberry pie, double espresso. Beers were Wanderlust Foundation and Green Warden.
