@@ -50,7 +50,7 @@ We next headed toward our next stop at Sugarloaf Lodge, but along the way we not
 
 We arrived at Sugarloaf a little before 5. Checked in with no problem. Great large clean room overlooking the bay. Noise from some HOA party at the tiki bar but otherwise ok. We had a small pizza as a snack from the pizza shop on the property. It was ok but not great.
 
-<a href="https://planetzhanna.com/adventures/wp-content/uploads/2016/02/SugarloafMap.pdf">Sugarloaf Map <i>(PDF)</i></a>
+{% include image.html filename="SugarloafMapclx.jpg" thumb="SugarloafMapb.jpg" caption="Quirky Sugarloaf Lodge map" %}
 
 
 
