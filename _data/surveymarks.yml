@@ -1392,6 +1392,50 @@
   mark_type: Survey Mark
   date: 2016-04-24
   post_id: 6332  
+- designation: FDOT 9097 GPS 25
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189   
+- designation: M 69
+  pid: AA0388
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189     
+- designation: M 69 RESET
+  pid: AA0389
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189   
+- designation: 872 3906 E TIDAL
+  pid: AA1721
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189     
+- designation: 872 3872 D TIDAL
+  pid: AA0828
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189   
+- designation: P 69 RESET
+  pid: AA0377
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189     
+- designation: 872 3706 F TIDAL
+  pid: AA1720
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189   
+- designation: 872 3872 G TIDAL
+  pid: AA1727
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189   
+- designation: Q 69 RESET
+  pid: AA0375
+  mark_type: Survey Mark
+  date: 2016-02-22
+  post_id: 6189   
 - designation: C 272
   pid: AA0140
   mark_type: Survey Mark
