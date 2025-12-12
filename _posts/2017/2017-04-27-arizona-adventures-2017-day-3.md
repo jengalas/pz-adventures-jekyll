@@ -9,8 +9,6 @@ categories:
   - '2017'
   - hiking
   - survey mark hunting
-excerpt: >-
-  
 featured_image: P1080374cl.jpg
 geocaches: false
 surveymarks: true

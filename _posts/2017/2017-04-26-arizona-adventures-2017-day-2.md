@@ -9,8 +9,6 @@ categories:
   - '2017'
   - hiking
   - survey mark hunting
-excerpt: >-
-  
 featured_image: P1000735cl.jpg
 geocaches: false
 surveymarks: true
@@ -200,11 +198,11 @@ The next benchmark on our list was along Kinney Road and was another easy find, 
 
 The third benchmark of the day was at Old Tucson, a touristy "old west" theme park. The mark is located just off the edge of the parking lot in a standard round concrete monument.
 
-And the fourth and final find for today was a new GPS station high above the road near the Desert Museum. It was another easy find and the disk itself appears to be in good condition, although we both questioned the stability of the rock it's set into. The site offers great views of Brown Mountain and its trails!  But it was tricky to maneuver down the dry rocky gravel slope near the road and as we descended, Rich slipped and his hand landed right on one of those cute fishhook mamms. Ouch!!! We spent a few minutes pulling out the spines but all was well,  even with the cactus (yes, we checked). 
+And the fourth and final find for today was a new GPS station set high above the road near the Desert Museum. It was another easy find and the disk itself appears to be in good condition, although we both questioned the stability of the rock it's set into. The site offers great views of Brown Mountain and its trails!  But it was tricky to maneuver down the dry rocky gravel slope near the road, and as we descended, Rich slipped and his hand landed right on one of those cute fishhook mammillarias. Ouch!!! We spent a few minutes pulling out the spines, but all was well ... even with the cactus (yes, we checked). 
 
 {% include gallery.html gallery_id="gallery3" class="2by2" %}
 
-By now we were beat and just wanted to get cleaned up and go for some dinner. No surprise, we chose Mexican again, this time from one of our old favorites, El Charro. The restaurant dates back to the 1920s and is a charming and relaxing place for a solid Mexican meal, nothing fancy. They are best known for their carne seca, so Rich couldn't resist trying the carne seca enchiladas. I had to go with one of my usual favorites, chicken flautas. At El Charro they come topped with a red sauce, which is unusual but very tasty. We had plenty of beer (their special 95th Anniversary draft!) and then took a brief walk around the block looking at the neighborhood cactus gardens. Fully satisfied from our day and the food, we were in bed by 6:30 tonight!  
+By now we were feeling really beat and just wanted to get cleaned up and go for some dinner. No surprise, we chose Mexican again—this time from one of our old favorites, El Charro. The restaurant dates back to the 1920s and is a charming and relaxing place for a solid Mexican meal, nothing fancy. They are best known for their carne seca, so Rich couldn't resist trying the carne seca enchiladas. I went with one of my usual favorites, chicken flautas. The flautas at El Charro come topped with a red sauce, which is unusual but very tasty. We had plenty of beer (their special 95th Anniversary draft!) and then took a brief walk around the block looking at the neighborhood cactus gardens. Fully satisfied from our day and the food, we were in bed by 6:30 tonight!  
 
 {% include gallery.html gallery_id="gallery4" class="" %}
 
