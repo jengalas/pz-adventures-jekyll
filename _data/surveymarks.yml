@@ -1392,6 +1392,21 @@
   mark_type: Survey Mark
   date: 2016-04-24
   post_id: 6332  
+- designation: STATE
+  pid: AA1407
+  mark_type: Survey Mark
+  date: 2016-02-23
+  post_id: 6191     
+- designation: STATE RM 1
+  mark_type: Reference Mark
+  date: 2016-02-23
+  custom_permalink: aa1407-rm-1
+  post_id: 6191  
+- designation: STATE RM 2
+  mark_type: Reference Mark
+  date: 2016-02-23
+  custom_permalink: aa1407-rm-2
+  post_id: 6191   
 - designation: FDOT 9097 GPS 25
   mark_type: Survey Mark
   date: 2016-02-22
