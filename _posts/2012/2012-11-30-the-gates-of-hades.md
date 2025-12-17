@@ -9,6 +9,9 @@ excerpt: >-
   Night cache!!!
 geocaches: true
 surveymarks: false
+tracklog: 30NOV12.gpx
 post_id: 3011
 layout: post 
 ---
+
+{% include tracklog.html %}
