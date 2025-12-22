@@ -1743,6 +1743,26 @@
   mark_type: Survey Mark
   date: 2015-06-13
   post_id: 5159
+- designation: E 400
+  mark_type: Survey Mark
+  date: 2015-04-03
+  custom_permalink: ly2401-2
+  post_id: 5136  
+- designation: TT15 WJK
+  pid: AA7943
+  mark_type: Survey Mark
+  date: 2015-04-03
+  post_id: 5136   
+- designation: J 139
+  pid: NA1289
+  mark_type: Survey Mark
+  date: 2015-04-03
+  post_id: 5136    
+- designation: L 139 RESET 1944
+  pid: NA1292
+  mark_type: Survey Mark
+  date: 2015-04-03
+  post_id: 5136   
 
 # 2014
 
@@ -2468,6 +2488,50 @@
   custom_permalink: ly2900-az-mk-2
   date: 2013-09-28
   post_id: 3909    
+- designation: 20 R ALT
+  mark_type: Survey Mark  
+  date: 2013-09-16
+  post_id: 3864    
+- designation: 19 L
+  mark_type: Survey Mark  
+  date: 2013-09-16
+  post_id: 3864   
+- designation: BAR HARBOR CHURCH
+  pid: PE1813
+  mark_type: Survey Mark  
+  date: 2013-09-16
+  post_id: 3864     
+- designation: POR 1944
+  pid: PE1793
+  mark_type: Survey Mark  
+  date: 2013-09-15
+  post_id: 3862  
+- designation: 12487-31
+  mark_type: Survey Mark  
+  date: 2013-09-15
+  post_id: 3862   
+- designation: BROWN MOUNTAIN
+  pid: PE1906
+  mark_type: Survey Mark  
+  date: 2013-09-14
+  custom_permalink: pe1906-2
+  post_id: 3853    
+- designation: BROWN MOUNTAIN RM 1
+  mark_type: Reference Mark  
+  date: 2013-09-14
+  custom_permalink: pe1906-rm-1-2
+  post_id: 3853 
+- designation: BROWN MOUNTAIN RM 2
+  mark_type: Reference Mark  
+  date: 2013-09-14
+  custom_permalink: pe1906-rm-2-2
+  post_id: 3853       
+- designation: Q 145
+  pid: PE0323
+  mark_type: Survey Mark  
+  date: 2013-09-13
+  custom_permalink: pe0323-2
+  post_id: 3857    
 - designation: WINTER HARBOR LH
   pid: PE1770
   mark_type: Survey Mark  
