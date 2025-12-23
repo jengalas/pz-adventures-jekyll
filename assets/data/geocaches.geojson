@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "7 1/2 million years of Deep Thought",
+        "log_type": "Note",
+        "owner": "Douglas Adams",
+        "date": "2020-10-13",
+        "gc_link": "https://www.geocaching.com/geocache/GC8RVM5",
+        "post_id": 12667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.734416,
+          41.17695
+        ]
+      }
+    }
+  ]
+}
