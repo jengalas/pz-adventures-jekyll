@@ -2679,6 +2679,71 @@
   mark_type: Survey Mark  
   date: 2011-11-07
   post_id: 2836
+- designation: GUN
+  pid: DU0876
+  mark_type: Survey Mark  
+  date: 2011-06-05
+  post_id: 2263    
+- designation: GUN RM 1
+  mark_type: Reference Mark  
+  date: 2011-06-05
+  custom_permalink: du0876-rm-1
+  post_id: 2263  
+- designation: GUN RM 2
+  pid: DU0875
+  mark_type: Reference Mark  
+  date: 2011-06-05
+  post_id: 2263   
+- designation: GOVERNOR HUNTS TOMB
+  pid: DU2182
+  mark_type: Survey Mark  
+  date: 2011-06-05
+  post_id: 2263     
+- designation: T1NR4E S4 N1/16
+  mark_type: Survey Mark  
+  date: 2011-06-05
+  custom_permalink: t1nr4e
+  post_id: 2263    
+- designation: TEMPE SALT R PROJECT RADIO TWR
+  pid: DU2174
+  mark_type: Survey Mark  
+  date: 2011-06-04
+  post_id: 2261  
+- designation: CACTUS
+  pid: CZ1951
+  mark_type: Survey Mark  
+  date: 2011-06-02
+  post_id: 2247     
+- designation: CACTUS RM 1
+  mark_type: Reference Mark  
+  date: 2011-06-02
+  custom_permalink: cz1951-rm-1
+  post_id: 2247   
+- designation: CACTUS RM 2
+  mark_type: Reference Mark  
+  date: 2011-06-02
+  custom_permalink: cz1951-rm-2
+  post_id: 2247    
+- designation: VAH KI
+  pid: CZ1952
+  mark_type: Survey Mark  
+  date: 2011-06-02
+  post_id: 2247     
+- designation: VAH KI RM 1
+  mark_type: Reference Mark  
+  date: 2011-06-02
+  custom_permalink: cz1952-rm-1
+  post_id: 2247     
+- designation: VAH KI RM 2
+  mark_type: Reference Mark  
+  date: 2011-06-02
+  custom_permalink: cz1952-rm-2
+  post_id: 2247   
+- designation: FLORENCE
+  pid: DU0538
+  mark_type: Survey Mark  
+  date: 2011-06-02
+  post_id: 2247     
 - designation: AZHD (Unstamped)
   mark_type: Survey Mark  
   date: 2011-05-31
@@ -2790,6 +2855,21 @@
   mark_type: Survey Mark  
   date: 2010-10-25
   post_id: 1663   
+- designation: BURNT COAT HARBOR LIGHTHOUSE
+  pid: PE1864
+  mark_type: Survey Mark  
+  date: 2010-09-16
+  post_id: 1407      
+- designation: BEEN 1944
+  pid: PE1865
+  mark_type: Survey Mark  
+  date: 2010-09-16
+  post_id: 1407   
+- designation: K 17
+  pid: PE0321
+  mark_type: Survey Mark  
+  date: 2010-09-15
+  post_id: 1404    
 - designation: GREEN
   pid: LY2755
   mark_type: Survey Mark  
