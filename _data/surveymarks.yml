@@ -2657,6 +2657,26 @@
 
 # 2012  
 
+- designation: Q 145
+  pid: PE0323
+  mark_type: Survey Mark  
+  date: 2012-09-15
+  post_id: 2984
+- designation: P 145
+  pid: PE0322
+  mark_type: Survey Mark  
+  date: 2012-09-15
+  post_id: 2984  
+- designation: B 145
+  pid: PE0302
+  mark_type: Survey Mark  
+  date: 2012-09-15
+  post_id: 2984  
+- designation: OTTER
+  pid: PE1781
+  mark_type: Survey Mark  
+  date: 2012-09-14
+  post_id: 2982  
 - designation: 841 3320 TIDAL D
   mark_type: Survey Mark  
   date: 2012-09-09
