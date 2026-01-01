@@ -11,6 +11,16 @@ surveymarks: false
 tracklog: 16SEP25.gpx
 post_id: 14650
 layout: post
+galleries:
+  gallery2:
+    suffix: clx
+    images:
+    - filename: P9161696
+      alt:       
+    - filename: P9161702
+      alt: 
+    - filename: P9161708
+      alt:   
 ---
 
 
@@ -44,6 +54,8 @@ It looked like it would be easier to head upwards through the relatively open wo
 
 And it wasn't. But that's OK. At least my curiosity was satisfied, and we got a good hike out of it. I joined Rich (who was a little surprised to see me coming back the opposite way on the Valley Trail) and we retraced our steps back down to the shortcut trail and then back to the car.
 
+Coordinates for NPS boundary monument with drill hole: 44.29816, -68.0.344598
+
 I was really curious about the fish rearing pool. These structures and their associated operation and maintenance were apparently part of the CCC's mission, although I had never heard about this until this morning when I started researching the fish pool (coordinates for which I'd gotten from [a post](https://acadiamemorials.blogspot.com/2015/03/the-civilian-conservation-corps-at.html) on Don Lenahan's _Memorials of Acadia National Park_ website). 
 
 Parking at Long Pond was tight today, and we ended up pulling over on the west shoulder of the road, within a few hundred feet of the coordinates. "Look," Rich said. "There's an old road in there." And there was, an old road branching off Long Pond Road with no gates or signs, but also no indication that anyone drives in there althouhg it was plenty wide enough to do so.
@@ -52,7 +64,9 @@ We cut through the woods and followed the old road through a clearing (where we 
 
 And finally, we made our way to the Beech Hill Farm stand. We were greeted with literal stacks of pies when we first opened the door, and were really wishing we'd come here earlier in the trip so we could have had a pie to snack on all week. As it was, we knew we wouldn't be able to finish a whole pie before it was time to leave. But I made a note of it for next time.
 
-The bakery case also featured cheddar scallion scones, orange cream cake, and cardamom pecan coffee cake, all of which sounded wonderful but that we really didn't need. We did, however, pick up an olive oil focaccia, some herbed goat cheese to go with it, some pecan shortbread cookies, and a few tins of the Chinese tea that I always buy here. They also had the biggest, most perfect-looking, incredble oyster mushrooms we've ever seen. Too bad we don't really have a way to saute them ... they would be so good.
+The bakery case also featured cheddar scallion scones, orange cream cake, and cardamom pecan coffee cake, all of which sounded wonderful but that we really didn't need. We did, however, pick up an olive oil focaccia, some herbed goat cheese to go with it, some pecan shortbread cookies, and a few tins of the Chinese tea that I always buy here. They also had the biggest, most perfect-looking, incredible oyster mushrooms we've ever seen. Too bad we don't really have a way to saute them ... they would be so good.
+
+{% include image.html filename="P9161691clx.jpg" thumb="P9161691b.jpg" caption="" %}
 
 As you might suspect, we ate the shortbread cookies on the ride back to the hotel, and then had half of the focaccia spread with half of the goat cheese for lunch. (We're saving the other half for breakfast.) We spent a relaxing afternoon reading and researching again, which is how I learned even more about the fish rearing pool and the CCC's work here in general.
 
@@ -69,6 +83,8 @@ Most people were sitting outside on this warm, perfectly blue-sky day. As usual,
 Our server Ermen brought out our pints of Guinness right away, but it took us a while to decide on what to order. We weren't very hungry, more just snacky, so we didn't even consider an appetizer, and just chose a sandwich (pork banh mi) which was new to us, and fish tacos, which I've had before. Rich ordered fries without salt, which is what we prefer but usually forget to ask for. They were happy to oblige, just mentioned that it would take a little longer.
 
 Everything ended up being very tasty and satisfying, and the atmosphere was relaxed and peaceful (again, because very few people were seated inside, and no one sat near us). The cole slaw had a heavy helping of horseradish included, which we really liked. I also like that it wasn't swimming in sauce. And the fish tacos featured the same very well executed fish that's in their fish & chips and Wexford fish sandwich (just smaller pieces). The pork banh mi was also surprisingly good, with a balanced mix of sweet and pickle flavors in the veggies, tender, thinly sliced pork, and served on a fresh, toasted ciabatta bun.
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 We were too full at the moment to order dessert, but we had already discussed stopping at MDI Ice Cream on our walk back to the room, as long as it was still warm. Funny enough, Ermen recommended it to us and told us it was his favorite ice cream place in town! (Rich started looking around for the cameras and microphones.)
 

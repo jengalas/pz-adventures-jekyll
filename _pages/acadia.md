@@ -31,6 +31,9 @@ grid_items:
   - image_filename: 2013/09/11/thumbnails/P1050291csm.jpg
     year: 2013
     link: /travel/acadia/2013
+  - image_filename: 2010/09/20/thumbnails/P1080770csm.jpg
+    year: 2010
+    link: /travel/acadia/2010    
   - image_filename: 2008/06/17/thumbnails/P1040898csm.jpg
     year: 2008
     link: /travel/acadia/2008

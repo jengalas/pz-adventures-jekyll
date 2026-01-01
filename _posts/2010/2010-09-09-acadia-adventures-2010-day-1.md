@@ -19,4 +19,7 @@ galleries:
       alt: 
 ---
 
+And we're off!
+
 {% include image.html filename="P1080443cm.jpg" thumb="P1080443b.jpg" caption="The Team Moose team car is ready to go!" %}
+
