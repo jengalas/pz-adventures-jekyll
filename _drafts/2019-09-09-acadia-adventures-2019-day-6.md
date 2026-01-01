@@ -57,7 +57,7 @@ Stone marker #1 - 370 - 375
 
 {% include tracklog.html %}
 
-<!-- TODO: add image of map here -->
+{% include image.html filename="archbold_estate_mapclx.jpg" thumb="archbold_estate_mapb.jpg" caption="1904 map showing the Archbold Estate" %}
 
 Map showing Archbold estate: https://www.loc.gov/resource/g3734b.np000031/?r=0.229,0.333,0.18,0.101,0
 

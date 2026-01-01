@@ -11,7 +11,7 @@ categories:
   - hiking
 geocaches: false
 surveymarks: false
-tracklog: 15SEP19.gpx
+tracklog: [15SEP19a.gpx,15SEP19b.gpx]
 post_id: 11952
 layout: post  
 galleries:
