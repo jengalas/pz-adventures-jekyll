@@ -1,3 +1,9 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.css" />
+<script src="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
 <div class="fullscreen-map-wrapper">
   <div id="map" class="map" style="height: 600px;"></div>
 </div>
@@ -5,15 +11,13 @@
 <!-- Load common basemaps -->
 <script src="/assets/js/basemaps.js"></script>
 <script>
+  /* ------------------ Map setup ------------------ */
 
-  const map = L.map('map').setView([48.2083537, 16.3725042], 2)
+  const map = L.map('map').setView([48.2, 16.37], 2);
 
-  objBasemaps['USGS Topo'].addTo(map); // Assign default basemap
+  objBasemaps['OpenStreetMap'].addTo(map); // Assign default basemap
 
-  L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg', {
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
-    subdomains: 'abcd'
-  }).addTo(map)
+  /* ------------------ Data ------------------ */
 
   const jsontest = {
     "type": "FeatureCollection",
@@ -26,7 +30,7 @@
         },
         "properties": {
           "Name": "Gran Hotel, Puerto de la Cruz",
-          "year": '1890',
+          "user": 'Rich',
           "month": "February",
           "days": "11-13th",
           "organiser": "Pedro Reid, English tradesman living in Puerto de la Cruz",
@@ -42,7 +46,7 @@
         },
         "properties": {
           "Name": "Teatro Circo, Barcelona",
-          "year": '1890',
+          "user": 'Rich',
           "month": "February-March",
           "days": "early",
           "organiser": "Charles Kalb, representative of Edison",
@@ -58,7 +62,7 @@
         },
         "properties": {
           "Name": "Casino, Girona",
-          "year": '1890',
+          "user": 'Rich',
           "month": "March",
           "days": "early",
           "organiser": "Charles Kalb",
@@ -74,7 +78,7 @@
         },
         "properties": {
           "Name": "Teatre Sant Andreu, Barcelona",
-          "year": '1890',
+          "user": 'Rich',
           "month": "September",
           "days": "",
           "organiser": "Paz y Esperanza choir",
@@ -90,7 +94,7 @@
         },
         "properties": {
           "Name": "Claustros del Carmen, Maó",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "June",
           "days": "",
           "organiser": "Mr Natini",
@@ -106,7 +110,7 @@
         },
         "properties": {
           "Name": "Unknown location, Almería",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "August",
           "days": "ca. 12",
           "organiser": "Mr Freixas",
@@ -122,7 +126,7 @@
         },
         "properties": {
           "Name": "Town Hall, Málaga",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "mid-August",
           "days": "",
           "organiser": "unclear, possibly Mr Freixas, as he was in Almería shortly before this",
@@ -138,7 +142,7 @@
         },
         "properties": {
           "Name": "Hotel de París, Madrid",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "November",
           "days": "1",
           "organiser": "Mr Sears and Mr Warring, representatives of Edison",
@@ -154,7 +158,7 @@
         },
         "properties": {
           "Name": "Teatro de la Comedia, Madrid",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "December",
           "days": "3",
           "organiser": "Mr Sears and Mr Warring, representatives of Edison",
@@ -170,7 +174,7 @@
         },
         "properties": {
           "Name": "Teatro Coliseum, Madrid",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "January",
           "days": "11",
           "organiser": "Mr Sears and Mr Warring, representatives of Edison",
@@ -186,7 +190,7 @@
         },
         "properties": {
           "Name": "Teatro Lara, Madrid",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "February",
           "days": "24",
           "organiser": "Mr Sears and Mr Warring, representatives of Edison",
@@ -202,7 +206,7 @@
         },
         "properties": {
           "Name": "Teatro Apolo, Madrid",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "December",
           "days": "1",
           "organiser": "unknown - likely Mr Sears and Mr Warring, representatives of Edison, as they had been touring the Madrid theatres with a phonograph during the previous weeks",
@@ -218,7 +222,7 @@
         },
         "properties": {
           "Name": "Passeig del Born, in front of Centro Militar, Palma de Mallorca",
-          "year": '1892',
+          "user": 'Zhanna',
           "month": "June",
           "days": "",
           "organiser": "Mr Natini (representative of Demeyer)",
@@ -234,7 +238,7 @@
         },
         "properties": {
           "Name": "Paseo de Valencia, Pamplona",
-          "year": '1893',
+          "user": 'Rich',
           "month": "July",
           "days": "ca. 6",
           "organiser": "Sr. Freixas",
@@ -250,7 +254,7 @@
         },
         "properties": {
           "Name": "Fonda Ángel, Pamplona\n",
-          "year": '1893',
+          "user": 'Rich',
           "month": "mid-July",
           "days": "",
           "organiser": "Organizers: Sr. Freixas",
@@ -266,7 +270,7 @@
         },
         "properties": {
           "Name": "Fonógrafo Soley, Barcelona",
-          "year": '1893',
+          "user": 'Rich',
           "month": "August",
           "days": "",
           "organiser": "?",
@@ -282,7 +286,7 @@
         },
         "properties": {
           "Name": "Café Méndez Núñez, Vigo\n",
-          "year": '1893',
+          "user": 'Rich',
           "month": "September",
           "days": "21",
           "organiser": "Mr Shelton, from Chicago",
@@ -293,46 +297,105 @@
     ]
   };
 
-  //array to store layers for each feature type
+  /* ------------------ Cluster group (the only real layer) ------------------ */
 
-  const mapLayerGroupsYear = {};
-  const mapLayerGroupsType = {};
-
-  function onEachFeature(feature, layer) {
-    const yearKey = feature.properties.year;
-    const typeKey = feature.properties.eventType;
-
-    // YEAR layer group
-    if (!mapLayerGroupsYear[yearKey]) {
-      mapLayerGroupsYear[yearKey] = L.layerGroup().addTo(map);
-    }
-
-    // EVENT TYPE layer group
-    if (!mapLayerGroupsType[typeKey]) {
-      mapLayerGroupsType[typeKey] = L.layerGroup().addTo(map);
-    }
-
-    layer.bindPopup(feature.properties.eventType);
-
-    // Add the feature to BOTH groups
-    mapLayerGroupsYear[yearKey].addLayer(layer);
-    mapLayerGroupsType[typeKey].addLayer(layer);
-  }
-
-
-  L.geoJSON(jsontest, {
-    onEachFeature: onEachFeature,
-    pointToLayer: (point, latlng) => {
-      const className = point.properties.year + " " + point.properties.eventType
-      const icon = new L.Icon.Default({ className: className }) // create custom icon from default icon
-      return L.marker(latlng, { icon: icon })
-    }
-  })
-
-  L.control.layers(objBasemaps, {
-    ...mapLayerGroupsYear,
-    ...mapLayerGroupsType
+  const clusterGroup = L.markerClusterGroup({
+    showCoverageOnHover: false,
+    disableClusteringAtZoom: 10,
+    chunkedLoading: true
   }).addTo(map);
 
+  /* ------------------ Create markers one time ------------------ */
 
+  const allMarkers = [];
+
+  L.geoJSON(jsontest, {
+    pointToLayer: (feature, latlng) => {
+      const marker = L.marker(latlng);
+
+      marker.meta = {
+        user: feature.properties.user,
+        type: feature.properties.eventType
+      };
+
+      marker.bindPopup(`
+      <strong>${feature.properties.Name}</strong><br>
+      user: ${feature.properties.user}<br>
+      Type: ${feature.properties.eventType}
+    `);
+
+      allMarkers.push(marker);
+      return marker;
+    }
+  });
+
+  /* ------------------ Create dummy layers for UI ------------------ */
+
+  const userLayers = {};
+  const typeLayers = {};
+
+  jsontest.features.forEach(f => {
+    userLayers[f.properties.user] ??= L.layerGroup();
+    typeLayers[f.properties.eventType] ??= L.layerGroup();
+  });
+
+  /* ------------------ Set up grouped control ------------------ */
+
+  const groupedOverlays = {
+    "users": userLayers,
+    "Event Types": typeLayers
+  };
+
+  L.control.groupedLayers(
+    objBasemaps,
+    groupedOverlays,
+    { collapsed: false }
+  ).addTo(map);
+
+  /* ------------------ Manage filter state ------------------ */
+
+  // Add dummy layers to map so checkboxes show as checked
+  Object.values(userLayers).forEach(layer => map.addLayer(layer));
+  Object.values(typeLayers).forEach(layer => map.addLayer(layer));
+
+  // Initialize filter state
+  const activeUsers = new Set(Object.keys(userLayers));
+  const activeTypes = new Set(Object.keys(typeLayers));
+
+  /* ------------------ Create AND filter ------------------ */
+
+  function applyFilters() {
+    clusterGroup.clearLayers();
+
+    allMarkers.forEach(marker => {
+      const { user, type } = marker.meta;
+      if (activeUsers.has(user) && activeTypes.has(type)) {
+        clusterGroup.addLayer(marker);
+      }
+    });
+
+    // Zoom to fit currently visible markers
+    if (clusterGroup.getLayers().length > 0) {
+      map.fitBounds(clusterGroup.getBounds(), { padding: [50, 50] });
+    }
+  }
+
+  /* ------------------ Control events ------------------ */
+
+  map.on('overlayadd', e => {
+    if (userLayers[e.name]) activeUsers.add(e.name);
+    if (typeLayers[e.name]) activeTypes.add(e.name);
+    applyFilters();
+  });
+
+  map.on('overlayremove', e => {
+    if (userLayers[e.name]) activeUsers.delete(e.name);
+    if (typeLayers[e.name]) activeTypes.delete(e.name);
+    applyFilters();
+  });
+
+  /* ------------------ Initial map draw ------------------ */
+
+  applyFilters();
+  
 </script>
