@@ -329,7 +329,15 @@
     }
   });
 
-  /* ------------------ Create dummy layers for UI ------------------ */
+  /* ------------------ Create dummy layers for UI ------------------ 
+  Leaflet.GroupedLayerControl is a good fit as a UI, but the key thing to be very explicit about is this:
+
+  The plugin only groups checkboxes visually.
+  It does NOT change Leaflet’s OR logic.
+
+  So we will use it only as a control surface, while keeping your central AND-filtering + clustering logic exactly as before.
+  These dummy layers never contain markers.
+  They exist only to give the control something to toggle. ------------------ */
 
   const userLayers = {};
   const typeLayers = {};
@@ -342,8 +350,8 @@
   /* ------------------ Set up grouped control ------------------ */
 
   const groupedOverlays = {
-    "users": userLayers,
-    "Event Types": typeLayers
+    "Users": userLayers,
+    "Log Types": typeLayers
   };
 
   L.control.groupedLayers(
@@ -380,22 +388,58 @@
     }
   }
 
+  /* ------------------ Live counts ------------------ */
+  function countUser(user) {
+    return allMarkers.filter(m => m.meta.user === user && activeTypes.has(m.meta.type)).length;
+  }
+  function countType(type) {
+    return allMarkers.filter(m => m.meta.type === type && activeUsers.has(m.meta.user)).length;
+  }
+  function updateCounts() {
+    // Select all overlay labels in grouped control
+    document.querySelectorAll('.leaflet-control-layers-overlays label').forEach(label => {
+      const input = label.querySelector('input');
+      if (!input) return;
+
+      // Strip any existing count from the text
+      let name = label.querySelector('span')?.textContent || label.textContent;
+      name = name.replace(/\s*\(\d+\)$/, '').trim();
+
+      let count = 0;
+      if (userLayers[name]) count = countUser(name);
+      if (typeLayers[name]) count = countType(name);
+
+      // Update the span or fallback to label text
+      const span = label.querySelector('span');
+      if (span) {
+        span.textContent = `${name} (${count})`;
+      } else {
+        label.childNodes.forEach(node => {
+          if (node.nodeType === 3) node.nodeValue = ` ${name} (${count})`;
+        });
+      }
+    });
+  }
+
   /* ------------------ Control events ------------------ */
 
   map.on('overlayadd', e => {
     if (userLayers[e.name]) activeUsers.add(e.name);
     if (typeLayers[e.name]) activeTypes.add(e.name);
     applyFilters();
+    updateCounts();
   });
 
   map.on('overlayremove', e => {
     if (userLayers[e.name]) activeUsers.delete(e.name);
     if (typeLayers[e.name]) activeTypes.delete(e.name);
     applyFilters();
+    updateCounts();
   });
 
   /* ------------------ Initial map draw ------------------ */
 
   applyFilters();
-  
+  updateCounts();
+
 </script>
