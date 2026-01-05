@@ -23,289 +23,191 @@
 
   objBasemaps['OpenStreetMap'].addTo(map); // Assign default basemap
 
-  /* ------------------ Data ------------------ */
+  /* ------------------ Fetch data ------------------ */
 
-  const geocacheData = {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "eventType": "Didn't find it",
-          "date": "2001-09-16",
-          "geocache_title": "Cozy Squirrel Lookout",
-          "state": "Pennsylvania",
-          "user": "Zhanna",
-          "gc_link": "GC79B",
-          "owner": "Rich in NEPA & Zhanna",
-          "post_id": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.70185,
-            41.559967
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "eventType": "Found it",
-          "date": "2001-09-16",
-          "geocache_title": "Hemlock Woods Cache",
-          "state": "Pennsylvania",
-          "user": "Zhanna",
-          "gc_link": "GCAF1",
-          "owner": "Sherlockholmes",
-          "post_id": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.718267,
-            41.56575
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "eventType": "Found it",
-          "date": "2001-09-16",
-          "geocache_title": "Lee Hill Cache",
-          "state": "Pennsylvania",
-          "user": "Zhanna",
-          "gc_link": "GC7A6",
-          "owner": "Capt. Jer and Gunner",
-          "post_id": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.703867,
-            41.573783
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "eventType": "Found it",
-          "date": "2001-09-01",
-          "geocache_title": "Riddler's Revenge",
-          "state": "Pennsylvania",
-          "user": "Zhanna",
-          "gc_link": "GC879",
-          "owner": "Rich in NEPA",
-          "post_id": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.711683,
-            41.549483
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "eventType": "Found it",
-          "date": "2001-04-23",
-          "geocache_title": "Lee Hill Cache",
-          "state": "Pennsylvania",
-          "user": "Rich",
-          "gc_link": "GC7A6",
-          "owner": "Capt. Jer and Gunner",
-          "post_id": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.703867,
-            41.573783
-          ]
-        }
-      }
-    ]
-  };
+  fetch('/assets/data/geocaches.geojson')
+    .then(res => res.json())
+    .then(data => initMap(data))
+    .catch(err => console.error('GeoJSON load error:', err));
 
-  /* ------------------ Cluster group (the only real layer) ------------------ */
+  function initMap(geojson) {
+    
+    /* ------------------ Cluster group (the only real layer) ------------------ */
 
-  const clusterGroup = L.markerClusterGroup({
-    showCoverageOnHover: false,
-    disableClusteringAtZoom: 18,
-    chunkedLoading: true
-  }).addTo(map);
+    const clusterGroup = L.markerClusterGroup({
+      showCoverageOnHover: false,
+      disableClusteringAtZoom: 18,
+      chunkedLoading: true
+    }).addTo(map);
 
-  /* ------------------ Create markers one time ------------------ */
+    /* ------------------ Create markers one time ------------------ */
 
-  const allMarkers = [];
+    const allMarkers = [];
 
-  const userIcons = {
-    "Rich": "r",
-    "Zhanna": "z"
-  };
+    const userIcons = {
+      "Rich": "r",
+      "Zhanna": "z"
+    };
 
-  const typeColors = {
-    "Found it": "green",
-    "Didn't find it": "red",
-    "free-exhibition": "blue",
-    "paying-exhibition": "orange",
-    "paying-demonstration": "purple",
-    "unknown": "gray"
-  };
+    const typeColors = {
+      "Found it": "green",
+      "Didn't find it": "red",
+      "free-exhibition": "blue",
+      "paying-exhibition": "orange",
+      "paying-demonstration": "purple",
+      "unknown": "gray"
+    };
 
-  L.geoJSON(geocacheData, {
-    pointToLayer: (feature, latlng) => {
-      const marker = L.marker(latlng, {
-        icon: getMarkerIcon(
-          feature.properties.user,
-          feature.properties.eventType
-        )
-      });
+    L.geoJSON(geojson, {
+      pointToLayer: (feature, latlng) => {
+        const marker = L.marker(latlng, {
+          icon: getMarkerIcon(
+            feature.properties.user,
+            feature.properties.eventType
+          )
+        });
 
-      // Metadata used for AND filtering
-      marker.meta = {
-        user: feature.properties.user,
-        type: feature.properties.eventType
-      };
+        // Metadata used for AND filtering
+        marker.meta = {
+          user: feature.properties.user,
+          type: feature.properties.eventType
+        };
 
-      let date = new Date(feature.properties.date).toLocaleDateString("en-US",{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+        let date = new Date(feature.properties.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
-      marker.bindPopup(`
+        marker.bindPopup(`
       <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
       User: ${feature.properties.user}<br>
       Type: ${feature.properties.eventType}<br>
       Date: ${date}
     `);
 
-      allMarkers.push(marker);
-      return marker;
-    }
-  });
-
-  /* ------------------ Create dummy layers for UI ------------------ 
-  Leaflet.GroupedLayerControl is a good fit as a UI, but the key thing to be very explicit about is this:
-
-  The plugin only groups checkboxes visually.
-  It does NOT change Leaflet’s OR logic.
-
-  So we will use it only as a control surface, while keeping your central AND-filtering + clustering logic exactly as before.
-  These dummy layers never contain markers.
-  They exist only to give the control something to toggle. ------------------ */
-
-  const userLayers = {};
-  const typeLayers = {};
-
-  geocacheData.features.forEach(f => {
-    userLayers[f.properties.user] ??= L.layerGroup();
-    typeLayers[f.properties.eventType] ??= L.layerGroup();
-  });
-
-  /* ------------------ Set up grouped control ------------------ */
-
-  const groupedOverlays = {
-    "Users": userLayers,
-    "Log Types": typeLayers
-  };
-
-  L.control.groupedLayers(
-    objBasemaps,
-    groupedOverlays,
-    { collapsed: false }
-  ).addTo(map);
-
-  function getMarkerIcon(user, eventType) {
-    return L.AwesomeMarkers.icon({
-      icon: userIcons[user] || "circle",
-      prefix: "fa",
-      markerColor: typeColors[eventType] || "gray",
-      iconColor: "white"
-    });
-  }
-
-  /* ------------------ Manage filter state ------------------ */
-
-  // Add dummy layers to map so checkboxes show as checked
-  Object.values(userLayers).forEach(layer => map.addLayer(layer));
-  Object.values(typeLayers).forEach(layer => map.addLayer(layer));
-
-  // Initialize filter state
-  const activeUsers = new Set(Object.keys(userLayers));
-  const activeTypes = new Set(Object.keys(typeLayers));
-
-  /* ------------------ Create AND filter ------------------ */
-
-  function applyFilters() {
-    clusterGroup.clearLayers();
-
-    allMarkers.forEach(marker => {
-      const { user, type } = marker.meta;
-      if (activeUsers.has(user) && activeTypes.has(type)) {
-        clusterGroup.addLayer(marker);
+        allMarkers.push(marker);
+        return marker;
       }
     });
 
-    // Zoom to fit currently visible markers
-    if (clusterGroup.getLayers().length > 0) {
-      map.fitBounds(clusterGroup.getBounds(), { padding: [50, 50] });
-    }
-  }
+    /* ------------------ Create dummy layers for UI ------------------ 
+    Leaflet.GroupedLayerControl is a good fit as a UI, but the key thing to be very explicit about is this:
+  
+    The plugin only groups checkboxes visually.
+    It does NOT change Leaflet’s OR logic.
+  
+    So we will use it only as a control surface, while keeping your central AND-filtering + clustering logic exactly as before.
+    These dummy layers never contain markers.
+    They exist only to give the control something to toggle. ------------------ */
 
-  /* ------------------ Live counts ------------------ */
-  function countUser(user) {
-    return allMarkers.filter(m => m.meta.user === user && activeTypes.has(m.meta.type)).length;
-  }
-  function countType(type) {
-    return allMarkers.filter(m => m.meta.type === type && activeUsers.has(m.meta.user)).length;
-  }
-  function updateCounts() {
-    // Select all overlay labels in grouped control
-    document.querySelectorAll('.leaflet-control-layers-overlays label').forEach(label => {
-      const input = label.querySelector('input');
-      if (!input) return;
+    const userLayers = {};
+    const typeLayers = {};
 
-      // Strip any existing count from the text
-      let name = label.querySelector('span')?.textContent || label.textContent;
-      name = name.replace(/\s*\(\d+\)$/, '').trim();
-
-      let count = 0;
-      if (userLayers[name]) count = countUser(name);
-      if (typeLayers[name]) count = countType(name);
-
-      // Update the span or fallback to label text
-      const span = label.querySelector('span');
-      if (span) {
-        span.textContent = `${name} (${count})`;
-      } else {
-        label.childNodes.forEach(node => {
-          if (node.nodeType === 3) node.nodeValue = ` ${name} (${count})`;
-        });
-      }
+    geojson.features.forEach(f => {
+      userLayers[f.properties.user] ??= L.layerGroup();
+      typeLayers[f.properties.eventType] ??= L.layerGroup();
     });
+
+    /* ------------------ Set up grouped control ------------------ */
+
+    const groupedOverlays = {
+      "Users": userLayers,
+      "Log Types": typeLayers
+    };
+
+    L.control.groupedLayers(
+      objBasemaps,
+      groupedOverlays,
+      { collapsed: false }
+    ).addTo(map);
+
+    function getMarkerIcon(user, eventType) {
+      return L.AwesomeMarkers.icon({
+        icon: userIcons[user] || "circle",
+        prefix: "fa",
+        markerColor: typeColors[eventType] || "gray",
+        iconColor: "white"
+      });
+    }
+
+    /* ------------------ Manage filter state ------------------ */
+
+    // Add dummy layers to map so checkboxes show as checked
+    Object.values(userLayers).forEach(layer => map.addLayer(layer));
+    Object.values(typeLayers).forEach(layer => map.addLayer(layer));
+
+    // Initialize filter state
+    const activeUsers = new Set(Object.keys(userLayers));
+    const activeTypes = new Set(Object.keys(typeLayers));
+
+    /* ------------------ Create AND filter ------------------ */
+
+    function applyFilters() {
+      clusterGroup.clearLayers();
+
+      allMarkers.forEach(marker => {
+        const { user, type } = marker.meta;
+        if (activeUsers.has(user) && activeTypes.has(type)) {
+          clusterGroup.addLayer(marker);
+        }
+      });
+
+      // Zoom to fit currently visible markers
+      if (clusterGroup.getLayers().length > 0) {
+        map.fitBounds(clusterGroup.getBounds(), { padding: [50, 50] });
+      }
+    }
+
+    /* ------------------ Live counts ------------------ */
+    function countUser(user) {
+      return allMarkers.filter(m => m.meta.user === user && activeTypes.has(m.meta.type)).length;
+    }
+    function countType(type) {
+      return allMarkers.filter(m => m.meta.type === type && activeUsers.has(m.meta.user)).length;
+    }
+    function updateCounts() {
+      // Select all overlay labels in grouped control
+      document.querySelectorAll('.leaflet-control-layers-overlays label').forEach(label => {
+        const input = label.querySelector('input');
+        if (!input) return;
+
+        // Strip any existing count from the text
+        let name = label.querySelector('span')?.textContent || label.textContent;
+        name = name.replace(/\s*\(\d+\)$/, '').trim();
+
+        let count = 0;
+        if (userLayers[name]) count = countUser(name);
+        if (typeLayers[name]) count = countType(name);
+
+        // Update the span or fallback to label text
+        const span = label.querySelector('span');
+        if (span) {
+          span.textContent = `${name} (${count})`;
+        } else {
+          label.childNodes.forEach(node => {
+            if (node.nodeType === 3) node.nodeValue = ` ${name} (${count})`;
+          });
+        }
+      });
+    }
+
+    /* ------------------ Control events ------------------ */
+
+    map.on('overlayadd', e => {
+      if (userLayers[e.name]) activeUsers.add(e.name);
+      if (typeLayers[e.name]) activeTypes.add(e.name);
+      applyFilters();
+      updateCounts();
+    });
+
+    map.on('overlayremove', e => {
+      if (userLayers[e.name]) activeUsers.delete(e.name);
+      if (typeLayers[e.name]) activeTypes.delete(e.name);
+      applyFilters();
+      updateCounts();
+    });
+
+    /* ------------------ Initial map draw ------------------ */
+
+    applyFilters();
+    updateCounts();
   }
-
-  /* ------------------ Control events ------------------ */
-
-  map.on('overlayadd', e => {
-    if (userLayers[e.name]) activeUsers.add(e.name);
-    if (typeLayers[e.name]) activeTypes.add(e.name);
-    applyFilters();
-    updateCounts();
-  });
-
-  map.on('overlayremove', e => {
-    if (userLayers[e.name]) activeUsers.delete(e.name);
-    if (typeLayers[e.name]) activeTypes.delete(e.name);
-    applyFilters();
-    updateCounts();
-  });
-
-  /* ------------------ Initial map draw ------------------ */
-
-  applyFilters();
-  updateCounts();
 
 </script>
