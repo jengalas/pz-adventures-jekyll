@@ -1,297 +1,131 @@
+<!-- Geocoder API -->
+<link rel="stylesheet" href="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.css">
+<script src="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.css" />
 <script src="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+<script src="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.js"></script>
 
-<div class="fullscreen-map-wrapper">
-  <div id="map" class="map" style="height: 600px;"></div>
-</div>
+<!-- <div class="fullscreen-map-wrapper"> -->
+<div id="map" class="map" style="height: 600px;"></div>
+<!-- </div> -->
 
 <!-- Load common basemaps -->
 <script src="/assets/js/basemaps.js"></script>
 <script>
   /* ------------------ Map setup ------------------ */
 
-  const map = L.map('map').setView([48.2, 16.37], 2);
+  const map = L.map('map', { fullscreenControl: true, geocoderControl: true }).setView([48.2, 16.37], 2);
 
   objBasemaps['OpenStreetMap'].addTo(map); // Assign default basemap
 
   /* ------------------ Data ------------------ */
 
-  const jsontest = {
+  const geocacheData = {
     "type": "FeatureCollection",
     "features": [
       {
         "type": "Feature",
+        "properties": {
+          "eventType": "Didn't find it",
+          "date": "2001-09-16",
+          "geocache_title": "Cozy Squirrel Lookout",
+          "state": "Pennsylvania",
+          "user": "Zhanna",
+          "gc_link": "GC79B",
+          "owner": "Rich in NEPA & Zhanna",
+          "post_id": ""
+        },
         "geometry": {
           "type": "Point",
-          "coordinates": [-16.5471268, 28.4136726]
-        },
-        "properties": {
-          "Name": "Gran Hotel, Puerto de la Cruz",
-          "user": 'Rich',
-          "month": "February",
-          "days": "11-13th",
-          "organiser": "Pedro Reid, English tradesman living in Puerto de la Cruz",
-          "eventType": "funfair",
-          "notes": ""
+          "coordinates": [
+            -75.70185,
+            41.559967
+          ]
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "eventType": "Found it",
+          "date": "2001-09-16",
+          "geocache_title": "Hemlock Woods Cache",
+          "state": "Pennsylvania",
+          "user": "Zhanna",
+          "gc_link": "GCAF1",
+          "owner": "Sherlockholmes",
+          "post_id": ""
+        },
         "geometry": {
           "type": "Point",
-          "coordinates": [2.1753895, 41.3767925]
-        },
-        "properties": {
-          "Name": "Teatro Circo, Barcelona",
-          "user": 'Rich',
-          "month": "February-March",
-          "days": "early",
-          "organiser": "Charles Kalb, representative of Edison",
-          "eventType": "trade-demonstration",
-          "notes": ""
+          "coordinates": [
+            -75.718267,
+            41.56575
+          ]
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "eventType": "Found it",
+          "date": "2001-09-16",
+          "geocache_title": "Lee Hill Cache",
+          "state": "Pennsylvania",
+          "user": "Zhanna",
+          "gc_link": "GC7A6",
+          "owner": "Capt. Jer and Gunner",
+          "post_id": ""
+        },
         "geometry": {
           "type": "Point",
-          "coordinates": [2.8241, 41.98219]
-        },
-        "properties": {
-          "Name": "Casino, Girona",
-          "user": 'Rich',
-          "month": "March",
-          "days": "early",
-          "organiser": "Charles Kalb",
-          "eventType": "trade-demonstration",
-          "notes": ""
+          "coordinates": [
+            -75.703867,
+            41.573783
+          ]
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "eventType": "Found it",
+          "date": "2001-09-01",
+          "geocache_title": "Riddler's Revenge",
+          "state": "Pennsylvania",
+          "user": "Zhanna",
+          "gc_link": "GC879",
+          "owner": "Rich in NEPA",
+          "post_id": ""
+        },
         "geometry": {
           "type": "Point",
-          "coordinates": [2.188959, 41.4304234]
-        },
-        "properties": {
-          "Name": "Teatre Sant Andreu, Barcelona",
-          "user": 'Rich',
-          "month": "September",
-          "days": "",
-          "organiser": "Paz y Esperanza choir",
-          "eventType": "free-exhibition",
-          "notes": "for working class communities"
+          "coordinates": [
+            -75.711683,
+            41.549483
+          ]
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "eventType": "Found it",
+          "date": "2001-04-23",
+          "geocache_title": "Lee Hill Cache",
+          "state": "Pennsylvania",
+          "user": "Rich",
+          "gc_link": "GC7A6",
+          "owner": "Capt. Jer and Gunner",
+          "post_id": ""
+        },
         "geometry": {
           "type": "Point",
-          "coordinates": [4.2660212, 39.8887063]
-        },
-        "properties": {
-          "Name": "Claustros del Carmen, Maó",
-          "user": 'Zhanna',
-          "month": "June",
-          "days": "",
-          "organiser": "Mr Natini",
-          "eventType": "trade-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-2.4635124, 36.834363]
-        },
-        "properties": {
-          "Name": "Unknown location, Almería",
-          "user": 'Zhanna',
-          "month": "August",
-          "days": "ca. 12",
-          "organiser": "Mr Freixas",
-          "eventType": "paying-exhibition",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-4.4809735, 36.6559053]
-        },
-        "properties": {
-          "Name": "Town Hall, Málaga",
-          "user": 'Zhanna',
-          "month": "mid-August",
-          "days": "",
-          "organiser": "unclear, possibly Mr Freixas, as he was in Almería shortly before this",
-          "eventType": "unknown",
-          "notes": "likely to be a paying-exhibition"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-3.7032321, 40.4168227]
-        },
-        "properties": {
-          "Name": "Hotel de París, Madrid",
-          "user": 'Zhanna',
-          "month": "November",
-          "days": "1",
-          "organiser": "Mr Sears and Mr Warring, representatives of Edison",
-          "eventType": "trade-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-3.7003922, 40.4155335]
-        },
-        "properties": {
-          "Name": "Teatro de la Comedia, Madrid",
-          "user": 'Zhanna',
-          "month": "December",
-          "days": "3",
-          "organiser": "Mr Sears and Mr Warring, representatives of Edison",
-          "eventType": "trade-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-3.710345, 40.4232612]
-        },
-        "properties": {
-          "Name": "Teatro Coliseum, Madrid",
-          "user": 'Zhanna',
-          "month": "January",
-          "days": "11",
-          "organiser": "Mr Sears and Mr Warring, representatives of Edison",
-          "eventType": "trade-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-3.704428, 40.422096]
-        },
-        "properties": {
-          "Name": "Teatro Lara, Madrid",
-          "user": 'Zhanna',
-          "month": "February",
-          "days": "24",
-          "organiser": "Mr Sears and Mr Warring, representatives of Edison",
-          "eventType": "trade-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-3.6961898, 40.4192079]
-        },
-        "properties": {
-          "Name": "Teatro Apolo, Madrid",
-          "user": 'Zhanna',
-          "month": "December",
-          "days": "1",
-          "organiser": "unknown - likely Mr Sears and Mr Warring, representatives of Edison, as they had been touring the Madrid theatres with a phonograph during the previous weeks",
-          "eventType": "trade-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [2.6464342, 39.5699375]
-        },
-        "properties": {
-          "Name": "Passeig del Born, in front of Centro Militar, Palma de Mallorca",
-          "user": 'Zhanna',
-          "month": "June",
-          "days": "",
-          "organiser": "Mr Natini (representative of Demeyer)",
-          "eventType": "trade-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-1.6450463, 42.8154445]
-        },
-        "properties": {
-          "Name": "Paseo de Valencia, Pamplona",
-          "user": 'Rich',
-          "month": "July",
-          "days": "ca. 6",
-          "organiser": "Sr. Freixas",
-          "eventType": "funfair",
-          "notes": "fiestas del Paseo de Valencia"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-1.6428161, 42.8168971]
-        },
-        "properties": {
-          "Name": "Fonda Ángel, Pamplona\n",
-          "user": 'Rich',
-          "month": "mid-July",
-          "days": "",
-          "organiser": "Organizers: Sr. Freixas",
-          "eventType": "paying-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [2.1763815, 41.3818165]
-        },
-        "properties": {
-          "Name": "Fonógrafo Soley, Barcelona",
-          "user": 'Rich',
-          "month": "August",
-          "days": "",
-          "organiser": "?",
-          "eventType": "paying-demonstration",
-          "notes": ""
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-8.7256683, 42.2382719]
-        },
-        "properties": {
-          "Name": "Café Méndez Núñez, Vigo\n",
-          "user": 'Rich',
-          "month": "September",
-          "days": "21",
-          "organiser": "Mr Shelton, from Chicago",
-          "eventType": "unknown",
-          "notes": ""
+          "coordinates": [
+            -75.703867,
+            41.573783
+          ]
         }
       }
     ]
@@ -301,7 +135,7 @@
 
   const clusterGroup = L.markerClusterGroup({
     showCoverageOnHover: false,
-    disableClusteringAtZoom: 10,
+    disableClusteringAtZoom: 18,
     chunkedLoading: true
   }).addTo(map);
 
@@ -309,19 +143,42 @@
 
   const allMarkers = [];
 
-  L.geoJSON(jsontest, {
-    pointToLayer: (feature, latlng) => {
-      const marker = L.marker(latlng);
+  const userIcons = {
+    "Rich": "r",
+    "Zhanna": "z"
+  };
 
+  const typeColors = {
+    "Found it": "green",
+    "Didn't find it": "red",
+    "free-exhibition": "blue",
+    "paying-exhibition": "orange",
+    "paying-demonstration": "purple",
+    "unknown": "gray"
+  };
+
+  L.geoJSON(geocacheData, {
+    pointToLayer: (feature, latlng) => {
+      const marker = L.marker(latlng, {
+        icon: getMarkerIcon(
+          feature.properties.user,
+          feature.properties.eventType
+        )
+      });
+
+      // Metadata used for AND filtering
       marker.meta = {
         user: feature.properties.user,
         type: feature.properties.eventType
       };
 
+      let date = new Date(feature.properties.date).toLocaleDateString("en-US",{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+
       marker.bindPopup(`
-      <strong>${feature.properties.Name}</strong><br>
-      user: ${feature.properties.user}<br>
-      Type: ${feature.properties.eventType}
+      <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
+      User: ${feature.properties.user}<br>
+      Type: ${feature.properties.eventType}<br>
+      Date: ${date}
     `);
 
       allMarkers.push(marker);
@@ -342,7 +199,7 @@
   const userLayers = {};
   const typeLayers = {};
 
-  jsontest.features.forEach(f => {
+  geocacheData.features.forEach(f => {
     userLayers[f.properties.user] ??= L.layerGroup();
     typeLayers[f.properties.eventType] ??= L.layerGroup();
   });
@@ -359,6 +216,15 @@
     groupedOverlays,
     { collapsed: false }
   ).addTo(map);
+
+  function getMarkerIcon(user, eventType) {
+    return L.AwesomeMarkers.icon({
+      icon: userIcons[user] || "circle",
+      prefix: "fa",
+      markerColor: typeColors[eventType] || "gray",
+      iconColor: "white"
+    });
+  }
 
   /* ------------------ Manage filter state ------------------ */
 
