@@ -4,18 +4,100 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7 1/2 million years of Deep Thought",
-        "log_type": "Note",
-        "owner": "Douglas Adams",
-        "date": "2020-10-13",
-        "gc_link": "https://www.geocaching.com/geocache/GC8RVM5",
-        "post_id": 12667
+        "eventType": "Didn't find it",
+        "date": "2001-09-16",
+        "geocache_title": "Cozy Squirrel Lookout",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC79B",
+        "owner": "Rich in NEPA & Zhanna",
+        "post_id": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.734416,
-          41.17695
+          -75.70185,
+          41.559967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "eventType": "Found it",
+        "date": "2001-09-16",
+        "geocache_title": "Hemlock Woods Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCAF1",
+        "owner": "Sherlockholmes",
+        "post_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.718267,
+          41.56575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "eventType": "Found it",
+        "date": "2001-09-16",
+        "geocache_title": "Lee Hill Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC7A6",
+        "owner": "Capt. Jer and Gunner",
+        "post_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.703867,
+          41.573783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "eventType": "Found it",
+        "date": "2001-09-01",
+        "geocache_title": "Riddler's Revenge",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC879",
+        "owner": "Rich in NEPA",
+        "post_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711683,
+          41.549483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "eventType": "Found it",
+        "date": "2001-04-23",
+        "geocache_title": "Lee Hill Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC7A6",
+        "owner": "Capt. Jer and Gunner",
+        "post_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.703867,
+          41.573783
         ]
       }
     }

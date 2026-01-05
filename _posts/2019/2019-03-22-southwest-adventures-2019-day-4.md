@@ -13,7 +13,7 @@ excerpt: >-
   
 geocaches: false
 surveymarks: true
-tracklog: 22MAR19.gpx
+tracklog: [22MAR19a.gpx,22MAR19b.gpx]
 post_id: 11175
 layout: post  
 galleries:
