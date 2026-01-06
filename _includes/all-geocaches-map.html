@@ -63,14 +63,14 @@
         const marker = L.marker(latlng, {
           icon: getMarkerIcon(
             feature.properties.user,
-            feature.properties.eventType
+            feature.properties.log_type
           )
         });
 
         // Metadata used for AND filtering
         marker.meta = {
           user: feature.properties.user,
-          type: feature.properties.eventType
+          type: feature.properties.log_type
         };
 
         let date = new Date(feature.properties.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
@@ -78,7 +78,7 @@
         marker.bindPopup(`
       <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
       User: ${feature.properties.user}<br>
-      Type: ${feature.properties.eventType}<br>
+      Type: ${feature.properties.log_type}<br>
       Date: ${date}
     `);
 
@@ -102,7 +102,7 @@
 
     geojson.features.forEach(f => {
       userLayers[f.properties.user] ??= L.layerGroup();
-      typeLayers[f.properties.eventType] ??= L.layerGroup();
+      typeLayers[f.properties.log_type] ??= L.layerGroup();
     });
 
     /* ------------------ Set up grouped control ------------------ */
@@ -118,11 +118,11 @@
       { collapsed: false }
     ).addTo(map);
 
-    function getMarkerIcon(user, eventType) {
+    function getMarkerIcon(user, log_type) {
       return L.AwesomeMarkers.icon({
         icon: userIcons[user] || "circle",
         prefix: "fa",
-        markerColor: typeColors[eventType] || "gray",
+        markerColor: typeColors[log_type] || "gray",
         iconColor: "white"
       });
     }
