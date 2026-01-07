@@ -89,6 +89,489 @@
       "type": "Feature",
       "properties": {
         "log_type": "Found it",
+        "date": "9/10/2001",
+        "geocache_title": "WORTH THE WALK",
+        "state": "Maine",
+        "user": "Rich",
+        "gc_link": "GC1532",
+        "owner": "ZACHARY & JEFF",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.365,
+          44.382467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/10/2001",
+        "geocache_title": "First Light",
+        "state": "Maine",
+        "user": "Rich",
+        "gc_link": "GC1548",
+        "owner": "Bob Hogan",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.222217,
+          44.35265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/1/2001",
+        "geocache_title": "Cannonball Run",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC1926",
+        "owner": "danz",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.92385,
+          41.178217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/1/2001",
+        "geocache_title": "Mountain Spring Lake Siding",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC1970",
+        "owner": "Cachier",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.231933,
+          41.341667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/18/2001",
+        "geocache_title": "ANDREA'S CHARM",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC15C6",
+        "owner": "Rocky and Family",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.998633,
+          42.127733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/17/2001",
+        "geocache_title": "Powder Hole",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC16BC",
+        "owner": "danz",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.11865,
+          41.06655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/7/2001",
+        "geocache_title": "Rails To Trails to Treasure",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC149E",
+        "owner": "PA PIE-RATS  ",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.471733,
+          41.601217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/3/2001",
+        "geocache_title": "Glen Onoko Treasure",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC73C",
+        "owner": "Steve,Will,Laura,Daniel",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76515,
+          40.890683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/31/2001",
+        "geocache_title": "Jacobsburg by Bike or Hike Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC1399",
+        "owner": "Mark & Mike 4RO",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.305267,
+          40.785167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/28/2001",
+        "geocache_title": "Limpidity-2: ^^^ High Point ^^^",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC11DE",
+        "owner": "StayFloopy (Adopted by PolskiKrol)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.651383,
+          41.3336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/20/2001",
+        "geocache_title": "Day of the Locusts",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCF50",
+        "owner": "Team Grayrun",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.033233,
+          40.78635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/9/2001",
+        "geocache_title": "Aylesworth Dam",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCDC7",
+        "owner": "sherlockholmes",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.522633,
+          41.521183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "7/7/2001",
+        "geocache_title": "Aylesworth Dam",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCDC7",
+        "owner": "sherlockholmes",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.522633,
+          41.521183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/5/2001",
+        "geocache_title": "JQ008-Loyalsock",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCA3B",
+        "owner": "TEAM JackQuest- Adopted by Team GeoRemdation",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46985,
+          41.456933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/5/2001",
+        "geocache_title": "Uprooted in the Gamelands",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCD88",
+        "owner": "Team Tattoo",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.606617,
+          41.91235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/5/2001",
+        "geocache_title": "Cache at the Airport",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCC72",
+        "owner": "Chuckweed & Bodyinker",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.533217,
+          41.954733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "7/2/2001",
+        "geocache_title": "JQ007-Ricketts Glen",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC92C",
+        "owner": "TEAM JackQuest and adopted by RickettsGlen",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23455,
+          41.338467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/30/2001",
+        "geocache_title": "Aylesworth Dam",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCDC7",
+        "owner": "sherlockholmes",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.522633,
+          41.521183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "6/27/2001",
+        "geocache_title": "JQ007-Ricketts Glen",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC92C",
+        "owner": "TEAM JackQuest and adopted by RickettsGlen",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23455,
+          41.338467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/4/2001",
+        "geocache_title": "Sarge's First",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCAF4",
+        "owner": "timberhunter",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66795,
+          42.011067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/2/2001",
+        "geocache_title": "The Camel's Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCB0D",
+        "owner": "Topdog",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.342467,
+          41.043283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/31/2001",
+        "geocache_title": "Hemlock Woods Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCAF1",
+        "owner": "sherlockholmes",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.718267,
+          41.56575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/18/2001",
+        "geocache_title": "Chicago to Littlerock",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC98D",
+        "owner": "sherlockholmes",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54135,
+          41.59005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
         "date": "5/16/2001",
         "geocache_title": "JQ006-Fern Rock",
         "state": "Pennsylvania",
