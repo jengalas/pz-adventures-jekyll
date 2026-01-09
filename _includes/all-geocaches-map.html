@@ -9,14 +9,34 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 <script src="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
 
 <!-- <div class="fullscreen-map-wrapper"> -->
+
 <div id="map" class="map" style="height: 600px;"></div>
+<div id="timeline-control" style="padding:8px;">
+  <strong>Date range:</strong>
+  <span id="date-range-label"></span>
+  <div id="date-slider" style="margin-top:6px;"></div>
+</div>
 <!-- </div> -->
 
 <!-- Load common basemaps -->
 <script src="/assets/js/basemaps.js"></script>
 <script>
+
+  function parseMDY(dateStr) {
+    // Expected format: MM/DD/YYYY
+    const [m, d, y] = dateStr.split("/").map(Number);
+    return new Date(y, m - 1, d).getTime();
+  }
+
+  function formatMDY(ts) {
+    const d = new Date(ts);
+    return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
+  }
+
   /* ------------------ Map setup ------------------ */
 
   const map = L.map('map', { fullscreenControl: true, geocoderControl: true }).setView([48.2, 16.37], 2);
@@ -31,7 +51,7 @@
     .catch(err => console.error('GeoJSON load error:', err));
 
   function initMap(geojson) {
-    
+
     /* ------------------ Cluster group (the only real layer) ------------------ */
 
     const clusterGroup = L.markerClusterGroup({
@@ -68,9 +88,11 @@
         });
 
         // Metadata used for AND filtering
+        const timestamp = parseMDY(feature.properties.date);
         marker.meta = {
           user: feature.properties.user,
-          type: feature.properties.log_type
+          type: feature.properties.log_type,
+          timestamp
         };
 
         let date = new Date(feature.properties.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
@@ -144,7 +166,13 @@
 
       allMarkers.forEach(marker => {
         const { user, type } = marker.meta;
-        if (activeUsers.has(user) && activeTypes.has(type)) {
+        const t = marker.meta.timestamp;
+        if (
+          activeUsers.has(user) &&
+          activeTypes.has(type) &&
+          t >= activeRange[0] &&
+          t <= activeRange[1]
+        ) {
           clusterGroup.addLayer(marker);
         }
       });
@@ -155,12 +183,56 @@
       }
     }
 
+    /* ------------------ Date slider ------------------ */
+
+    const times = allMarkers.map(m => m.meta.timestamp);
+    const minTime = Math.min(...times);
+    const maxTime = Math.max(...times);
+
+    let activeRange = [minTime, maxTime];
+
+    const slider = document.getElementById("date-slider");
+    const rangeLabel = document.getElementById("date-range-label");
+
+    noUiSlider.create(slider, {
+      start: [minTime, maxTime],
+      connect: true,
+      step: 24 * 60 * 60 * 1000, // 1 day
+      range: {
+        min: minTime,
+        max: maxTime
+      },
+      tooltips: {
+        to: formatMDY
+      }
+    });
+
+    rangeLabel.textContent = `${formatMDY(minTime)} – ${formatMDY(maxTime)}`;
+
+    slider.noUiSlider.on("update", values => {
+      activeRange = values.map(Number);
+      rangeLabel.textContent = `${formatMDY(activeRange[0])} – ${formatMDY(activeRange[1])}`;
+      applyFilters();
+      updateCounts();
+    });
+
     /* ------------------ Live counts ------------------ */
     function countUser(user) {
-      return allMarkers.filter(m => m.meta.user === user && activeTypes.has(m.meta.type)).length;
+      return allMarkers.filter(m =>
+        m.meta.user === user &&
+        activeTypes.has(m.meta.type) &&
+        m.meta.timestamp >= activeRange[0] &&
+        m.meta.timestamp <= activeRange[1]
+      ).length;
     }
+
     function countType(type) {
-      return allMarkers.filter(m => m.meta.type === type && activeUsers.has(m.meta.user)).length;
+      return allMarkers.filter(m =>
+        m.meta.type === type &&
+        activeUsers.has(m.meta.user) &&
+        m.meta.timestamp >= activeRange[0] &&
+        m.meta.timestamp <= activeRange[1]
+      ).length;
     }
     function updateCounts() {
       // Select all overlay labels in grouped control
