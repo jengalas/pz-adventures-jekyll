@@ -12,14 +12,18 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
 
-<!-- <div class="fullscreen-map-wrapper"> -->
+<style>
+  .timeline-control {
+    font-size: 13px;
+  }
 
+  .timeline-control .noUi-target {
+    margin-top: 4px;
+  }
+</style>
+
+<!-- <div class="fullscreen-map-wrapper"> -->
 <div id="map" class="map" style="height: 600px;"></div>
-<div id="timeline-control" style="padding:8px;">
-  <strong>Date range:</strong>
-  <span id="date-range-label"></span>
-  <div id="date-slider" style="margin-top:6px;"></div>
-</div>
 <!-- </div> -->
 
 <!-- Load common basemaps -->
@@ -34,7 +38,7 @@
 
   function formatMDY(ts) {
     const d = new Date(ts);
-    return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
+    return `${d.toLocaleString('default', { month: 'long' })} ${d.getDate()}, ${d.getFullYear()}`;
   }
 
   /* ------------------ Map setup ------------------ */
@@ -183,6 +187,33 @@
       }
     }
 
+    /* ------------------ Timeline control (inside map) ------------------ */
+
+    const TimelineControl = L.Control.extend({
+      options: {
+        position: 'bottomleft'
+      },
+
+      onAdd() {
+        const container = L.DomUtil.create('div', 'leaflet-control timeline-control');
+        container.innerHTML = `
+      <div style="background:white;padding:8px 18px;border-radius:6px;min-width:460px;text-align:center;">
+        <strong>Date range:</strong> 
+        <span id="date-range-label"></span>
+        <div id="date-slider" style="margin-top:6px;"></div>
+      </div>
+    `;
+
+        // Prevent map dragging when interacting with slider
+        L.DomEvent.disableClickPropagation(container);
+        L.DomEvent.disableScrollPropagation(container);
+
+        return container;
+      }
+    });
+
+    map.addControl(new TimelineControl());
+
     /* ------------------ Date slider ------------------ */
 
     const times = allMarkers.map(m => m.meta.timestamp);
@@ -197,14 +228,12 @@
     noUiSlider.create(slider, {
       start: [minTime, maxTime],
       connect: true,
-      step: 24 * 60 * 60 * 1000, // 1 day
+      step: 24 * 60 * 60 * 1000,
       range: {
         min: minTime,
         max: maxTime
       },
-      tooltips: {
-        to: formatMDY
-      }
+      tooltips: false
     });
 
     rangeLabel.textContent = `${formatMDY(minTime)} – ${formatMDY(maxTime)}`;
