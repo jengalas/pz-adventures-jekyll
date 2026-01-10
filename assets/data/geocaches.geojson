@@ -4,6 +4,573 @@
     {
       "type": "Feature",
       "properties": {
+        "log_type": "Found it",
+        "date": "12/1/2001",
+        "geocache_title": "Point Rock Geocache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC2A49",
+        "owner": "GeeOh (Team GeeOh!)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.196667,
+          41.441433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "11/24/2001",
+        "geocache_title": "Cozy Squirrel Lookout",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC79B",
+        "owner": "Rich in NEPA & Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70185,
+          41.559967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/18/2001",
+        "geocache_title": "The Second of Four Lost Brothers",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC18BE",
+        "owner": "Cucumber",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9764,
+          40.767183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/15/2001",
+        "geocache_title": "Dreamcatcher",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC5F8",
+        "owner": "RAT Team 6",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06775,
+          41.002633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/15/2001",
+        "geocache_title": "Helispot",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC276E",
+        "owner": "Waterboy with Wife (www)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.083967,
+          40.982133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/8/2001",
+        "geocache_title": "Penny Rock Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC26A2",
+        "owner": "pendotron",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.865533,
+          41.9093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/27/2001",
+        "geocache_title": "NORWAL PINES",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC2418",
+        "owner": "Sickticket",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.267167,
+          41.10645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/27/2001",
+        "geocache_title": "The Camel's Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB0D",
+        "owner": "Topdog",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.342467,
+          41.043283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/27/2001",
+        "geocache_title": "NORWAL PINES",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC2418",
+        "owner": "Sickticket",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.267167,
+          41.10645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/21/2001",
+        "geocache_title": "Round Lake National Natural Landmark",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC766",
+        "owner": "Marc & Laurie",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.977583,
+          43.045833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/20/2001",
+        "geocache_title": "Green Critter's Hole",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC1564",
+        "owner": "JJ",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.96895,
+          43.0545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/20/2001",
+        "geocache_title": "Confluence Marks the Spot",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC6A2",
+        "owner": "Anton",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76,
+          43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/20/2001",
+        "geocache_title": "Dry Bones Cache",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC67A",
+        "owner": "EGG - Lisa",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.138467,
+          43.0321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/7/2001",
+        "geocache_title": "KoDo Cache",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCDC1",
+        "owner": "kernbob",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.098883,
+          41.426883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/7/2001",
+        "geocache_title": "Echo",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC1CC6",
+        "owner": "Kernbob and Deva Huti",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0353,
+          41.395783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/7/2001",
+        "geocache_title": "Plum Point",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC6D9",
+        "owner": "Barb48",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014633,
+          41.465433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/7/2001",
+        "geocache_title": "lion's liar",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC62B",
+        "owner": "roja/psptpr",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32955,
+          41.601317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/29/2001",
+        "geocache_title": "lion's liar",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC62B",
+        "owner": "roja/psptpr",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32955,
+          41.601317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/29/2001",
+        "geocache_title": "The Experiment and The Resurrection",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8CC",
+        "owner": "mountainbiker",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.524067,
+          41.519917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/23/2001",
+        "geocache_title": "RB1",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC1986",
+        "owner": "Vin-Charlie & Charlie",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.907417,
+          41.138333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/23/2001",
+        "geocache_title": "Burgwood89",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC139C",
+        "owner": "Pack 89 Ogdensburg",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.814417,
+          41.073633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/23/2001",
+        "geocache_title": "Kids Cache #2",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC1935",
+        "owner": "The JRT Team",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0897,
+          40.731767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/23/2001",
+        "geocache_title": "Black Rock Back to School Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC18E8",
+        "owner": "Mike4ro, Emily, Josh, Jorey, and Nick",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.314917,
+          40.751833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/23/2001",
+        "geocache_title": "Chicago to Littlerock",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC98D",
+        "owner": "sherlockholmes",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54135,
+          41.59005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/22/2001",
+        "geocache_title": "Aylesworth Dam",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCDC7",
+        "owner": "sherlockholmes",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.522633,
+          41.521183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/21/2001",
+        "geocache_title": "Cozy Squirrel Lookout",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC79B",
+        "owner": "Rich in NEPA & Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70185,
+          41.559967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/19/2001",
+        "geocache_title": "Cozy Squirrel Lookout",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC79B",
+        "owner": "Rich in NEPA & Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70185,
+          41.559967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "log_type": "Didn't find it",
         "date": "9/16/2001",
         "geocache_title": "Cozy Squirrel Lookout",
