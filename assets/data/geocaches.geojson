@@ -5,6 +5,4206 @@
       "type": "Feature",
       "properties": {
         "log_type": "Found it",
+        "date": "5/4/2003",
+        "geocache_title": "Easy Roadside Cache",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCF654",
+        "owner": "HartClimbs",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.799717,
+          40.901817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/4/2003",
+        "geocache_title": "Deer Park Pond Cache",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCF43F",
+        "owner": "Wunderdog (w/ Mrs. W. and Kelly)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.792717,
+          40.907483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/4/2003",
+        "geocache_title": "What's On Your Mine?",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GCF651",
+        "owner": "HartClimbs",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.803133,
+          40.897233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/4/2003",
+        "geocache_title": "Easy Roadside Cache",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GCF654",
+        "owner": "HartClimbs",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.799717,
+          40.901817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/4/2003",
+        "geocache_title": "Deer Park Pond Cache",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GCF43F",
+        "owner": "Wunderdog (w/ Mrs. W. and Kelly)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.792717,
+          40.907483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/4/2003",
+        "geocache_title": "Pocono Cold Air Cave",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9173",
+        "owner": "Zhanna & Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122267,
+          40.963633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/4/2003",
+        "geocache_title": "Deer Park Pond Cache",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GCF43F",
+        "owner": "Wunderdog (w/ Mrs. W. and Kelly)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.792717,
+          40.907483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/1/2003",
+        "geocache_title": "Archbald Pothole",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC7CE6",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573783,
+          41.511383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/1/2003",
+        "geocache_title": "Event Cache Red Rock and Rolls!",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCD737",
+        "owner": "Dubbsy and Friends",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2797,
+          41.33995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/26/2003",
+        "geocache_title": "Virtual Cache That's Progress?!?",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC465E",
+        "owner": "CCCooperAgency",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.271367,
+          40.113333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/23/2003",
+        "geocache_title": "Watch your step...",
+        "state": "Maine",
+        "user": "Rich",
+        "gc_link": "GC98BA",
+        "owner": "Fusto",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.176833,
+          44.32655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/18/2003",
+        "geocache_title": "Valley View",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCFB69",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5518,
+          41.478067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/17/2003",
+        "geocache_title": "Webcam Cache * Surfing in Scranton * - Webcam Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCFAC2",
+        "owner": "The Artful Dodger",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.666183,
+          41.409367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/10/2003",
+        "geocache_title": "CACHE & WASH OR WASH & CACHE",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCF311",
+        "owner": "The WolfPac",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579717,
+          41.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/10/2003",
+        "geocache_title": "CACHE & WASH OR WASH & CACHE",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCF311",
+        "owner": "The WolfPac",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579717,
+          41.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/8/2003",
+        "geocache_title": "CACHE & WASH OR WASH & CACHE",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCF311",
+        "owner": "The WolfPac",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579717,
+          41.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "4/7/2003",
+        "geocache_title": "CACHE & WASH OR WASH & CACHE",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCF311",
+        "owner": "The WolfPac",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579717,
+          41.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "4/7/2003",
+        "geocache_title": "CACHE & WASH OR WASH & CACHE",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCF311",
+        "owner": "The WolfPac",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579717,
+          41.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/6/2003",
+        "geocache_title": "Bearfort Fire Tower",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GCA17C",
+        "owner": "Skully & Mulder et al.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41725,
+          41.10405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/6/2003",
+        "geocache_title": "Pochuck Bypass",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GC8B94",
+        "owner": "Skully & Mulder et al.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.470717,
+          41.231917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/6/2003",
+        "geocache_title": "Needful Things",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GC1037",
+        "owner": "Skully & Mulder",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.43865,
+          41.086233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/6/2003",
+        "geocache_title": "Clinton Road Drive and Dump",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GCBA9E",
+        "owner": "BrianSnat",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.450333,
+          41.07175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/6/2003",
+        "geocache_title": "Sierra Bravo 01-Clinton Rd.",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GC1064",
+        "owner": "Skibum and Lil' Mo- Mo",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.443217,
+          41.08485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/29/2003",
+        "geocache_title": "Red Rock and Rolls!",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCD737",
+        "owner": "Dubbsy and Friends",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2797,
+          41.33995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/29/2003",
+        "geocache_title": "Two Parks Are Better Than One",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCEDB9",
+        "owner": "Papadadio & Family",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594533,
+          41.475017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/29/2003",
+        "geocache_title": "Locationless (Reverse) Cache This Way In.....Form Two Lines",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCB3AF",
+        "owner": "Team Position Police",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97055,
+          42.333483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/29/2003",
+        "geocache_title": "Two Parks Are Better Than One",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCEDB9",
+        "owner": "Papadadio & Family",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594533,
+          41.475017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/27/2003",
+        "geocache_title": "Clinton Road Drive and Dump",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCBA9E",
+        "owner": "BrianSnat",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.450333,
+          41.07175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/27/2003",
+        "geocache_title": "Bearfort Fire Tower",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCA17C",
+        "owner": "Skully & Mulder et al.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41725,
+          41.10405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/27/2003",
+        "geocache_title": "The Best Cache in NJ (a.k.a. Hamburger Lady)",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC845D",
+        "owner": "BrianSnat",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5549,
+          41.1086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/27/2003",
+        "geocache_title": "Pochuck Bypass",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC8B94",
+        "owner": "Skully & Mulder et al.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.470717,
+          41.231917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/27/2003",
+        "geocache_title": "284 State Line",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCEAFE",
+        "owner": "Team Divi Divi",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5558,
+          41.287433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/22/2003",
+        "geocache_title": "The Love Shack and Beyond",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GC5397",
+        "owner": "renegadejane",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89985,
+          40.925167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/22/2003",
+        "geocache_title": "Don't Jump Jenny!",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GC98C4",
+        "owner": "Skully & Mulder et al.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.912283,
+          40.91565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/16/2003",
+        "geocache_title": "The Covered Bridge Cache (Revived)",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC400D",
+        "owner": "Team PATHer - Andy, Paul & Leigh",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.279817,
+          41.063883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/16/2003",
+        "geocache_title": "\"Miners Tour\"",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC92C1",
+        "owner": "HappySr",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.967617,
+          40.991417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/16/2003",
+        "geocache_title": "\"Kids Day Out Cache\"",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8449",
+        "owner": "Team PATH'er - Paul & Andy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.335167,
+          40.968833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "3/2/2003",
+        "geocache_title": "RPA-21 Ricketts Glen",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9E7F",
+        "owner": "Bayonets4u",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.292317,
+          41.3347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "3/1/2003",
+        "geocache_title": "Go-Won-Go Mohawk's Cabin",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC6666",
+        "owner": "Bowerbird",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.831,
+          42.2123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/1/2003",
+        "geocache_title": "Whitney Copse",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC67BB",
+        "owner": "Trapjack (adopted by bhouston21)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.982617,
+          42.377717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/26/2003",
+        "geocache_title": "Don't Jump Jenny!",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC98C4",
+        "owner": "Skully & Mulder et al.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.912283,
+          40.91565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/26/2003",
+        "geocache_title": "Pocono Cold Air Cave",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9173",
+        "owner": "Zhanna & Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122267,
+          40.963633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/15/2003",
+        "geocache_title": "Hickory Run Campgrounds",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8C03",
+        "owner": "rayt333 adopted by SNI Road Warrior",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694917,
+          41.025433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/15/2003",
+        "geocache_title": "Preacher's Camp 2",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCA6FB",
+        "owner": "ArtVandelay",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.600583,
+          40.864417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/8/2003",
+        "geocache_title": "A WALK IN THE PAST PRESENT AND FUTURE",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCCFFF",
+        "owner": "WOLFPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554167,
+          41.469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/5/2003",
+        "geocache_title": "A WALK IN THE PAST PRESENT AND FUTURE",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCCFFF",
+        "owner": "WOLFPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554167,
+          41.469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/3/2003",
+        "geocache_title": "W-B FIRE",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCCE59",
+        "owner": "WBDF130",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.890117,
+          41.240683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/3/2003",
+        "geocache_title": "W-B FIRE",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCCE59",
+        "owner": "WBDF130",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.890117,
+          41.240683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "2/2/2003",
+        "geocache_title": "Pocono Cold Air Cave",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9173",
+        "owner": "Zhanna & Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122267,
+          40.963633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/31/2003",
+        "geocache_title": "I80/I81 Travel Bug Hotel",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCABDC",
+        "owner": "MapLady",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.957817,
+          41.070633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "1/28/2003",
+        "geocache_title": "Archbald Pothole",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC7CE6",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573783,
+          41.511383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/25/2003",
+        "geocache_title": "No Hints Bridges the Gap",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCB7A1",
+        "owner": "Waterboy With Wife",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.04415,
+          41.0146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/25/2003",
+        "geocache_title": "Monkey Barrel",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC65B1",
+        "owner": "awfroadan",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.84185,
+          40.517567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/25/2003",
+        "geocache_title": "Virtual Cache Covered Bridge Tour of Berks County",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCC85A",
+        "owner": "Alan2",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.80545,
+          40.533567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/19/2003",
+        "geocache_title": "The Gravity",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCC50C",
+        "owner": "jkur247",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.545133,
+          41.413217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/18/2003",
+        "geocache_title": "CCC3: Banner Alley",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9969",
+        "owner": "Urban Hiker ODragon",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.160083,
+          39.94696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/18/2003",
+        "geocache_title": "Virtual Cache CCC4: Let me in",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA00D",
+        "owner": "Animal Trainer ODragon",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17405,
+          39.9485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/18/2003",
+        "geocache_title": "Virtual Cache CCC1: No way!",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8F81",
+        "owner": "freeside",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.162833,
+          39.9502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/18/2003",
+        "geocache_title": "Virtual Cache America's Favorite Cookies",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC65B5",
+        "owner": "Phil and Mady",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.163583,
+          39.9543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/18/2003",
+        "geocache_title": "Virtual Cache Colonial Martyr",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC7B88",
+        "owner": "Strix (adopted by tiki-4)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.164733,
+          39.955833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/18/2003",
+        "geocache_title": "Virtual Cache Big Ben",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA660",
+        "owner": "Team N2IVN",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.167233,
+          39.95835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/17/2003",
+        "geocache_title": "The Gravity",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCC50C",
+        "owner": "jkur247",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.545133,
+          41.413217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/12/2003",
+        "geocache_title": "Power Plant Hill Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCC262",
+        "owner": "Renyoldman",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.804133,
+          41.38035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/12/2003",
+        "geocache_title": "Power Plant Hill Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCC262",
+        "owner": "Renyoldman",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.804133,
+          41.38035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/31/2002",
+        "geocache_title": "Our House",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCB9B1",
+        "owner": "Lowerfalls",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.644067,
+          41.4084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/31/2002",
+        "geocache_title": "Our House",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB9B1",
+        "owner": "Lowerfalls",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.644067,
+          41.4084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/28/2002",
+        "geocache_title": "Welcome to My World",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB5F5",
+        "owner": "Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71865,
+          41.485817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/27/2002",
+        "geocache_title": "Welcome to My World",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB5F5",
+        "owner": "Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71865,
+          41.485817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/24/2002",
+        "geocache_title": "Scranton Scramble",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCB769",
+        "owner": "Lowerfalls",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.627167,
+          41.42815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/24/2002",
+        "geocache_title": "Scranton Scramble No. 2",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCB7CC",
+        "owner": "Lowerfalls",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.643867,
+          41.400433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/24/2002",
+        "geocache_title": "Virtual Cache Scranton Scramble",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB769",
+        "owner": "Lowerfalls",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.627167,
+          41.42815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/24/2002",
+        "geocache_title": "Scranton Scramble No. 2",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB7CC",
+        "owner": "Lowerfalls",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.643867,
+          41.400433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/22/2002",
+        "geocache_title": "A DAY BY THE FALLS",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCB708",
+        "owner": "THE WOLFPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61305,
+          41.4814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/22/2002",
+        "geocache_title": "A DAY BY THE FALLS",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB708",
+        "owner": "THE WOLFPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61305,
+          41.4814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/21/2002",
+        "geocache_title": "Delaware Rock Show",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB49F",
+        "owner": "Fren-Z",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.130467,
+          41.400733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/18/2002",
+        "geocache_title": "Welcome to My World",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCB5F5",
+        "owner": "Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71865,
+          41.485817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/17/2002",
+        "geocache_title": "Welcome to My World",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCB5F5",
+        "owner": "Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71865,
+          41.485817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/16/2002",
+        "geocache_title": "Delaware Rock Show",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCB49F",
+        "owner": "Fren-Z",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.130467,
+          41.400733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/16/2002",
+        "geocache_title": "Twin Bridges: Marina's birthday cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC2D00",
+        "owner": "Zhanna and Aaron",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682533,
+          41.475367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/13/2002",
+        "geocache_title": "SCRUB OAK TOWER'S",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC6301",
+        "owner": "N3SLZ, TIPPY FAMILY, ATREBOR, SCOOBY DOG, TWINS.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594333,
+          41.381283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/8/2002",
+        "geocache_title": "Virtual Cache Whispering Pines",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCA72E",
+        "owner": "alexofvestal",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8936,
+          42.06825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/8/2002",
+        "geocache_title": "Twin Bridges: Marina's birthday cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC2D00",
+        "owner": "Zhanna and Aaron",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682533,
+          41.475367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/1/2002",
+        "geocache_title": "Hemlock Creek Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9D99",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4787,
+          41.964783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "11/30/2002",
+        "geocache_title": "\"Miners Tour\"",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC92C1",
+        "owner": "HappySr",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.967617,
+          40.991417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/30/2002",
+        "geocache_title": "Slocum Hollow",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCAEBB",
+        "owner": "Lowerfalls, adopted by Zhanna and Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662517,
+          41.403967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/29/2002",
+        "geocache_title": "Slocum Hollow",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCAEBB",
+        "owner": "Lowerfalls, adopted by Zhanna and Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662517,
+          41.403967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/28/2002",
+        "geocache_title": "RPA-21 Ricketts Glen",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9E7F",
+        "owner": "Bayonets4u",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.292317,
+          41.3347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/28/2002",
+        "geocache_title": "Paul-Mart: Watch out for Falling Water",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9C61",
+        "owner": "PSUPAUL, SmartMart, Spongebob, Maverick, And Chloe",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.269833,
+          41.29775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/28/2002",
+        "geocache_title": "Whispering Pines",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCA62F",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.87925,
+          41.347433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/28/2002",
+        "geocache_title": "I80/I81 Travel Bug Hotel",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCABDC",
+        "owner": "MapLady",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.957817,
+          41.070633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "11/26/2002",
+        "geocache_title": "Cozy Squirrel Lookout",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC79B",
+        "owner": "Rich in NEPA & Zhanna",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70185,
+          41.559967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "11/26/2002",
+        "geocache_title": "Riddler's Revenge",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC879",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711683,
+          41.549483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/24/2002",
+        "geocache_title": "Fiddle Lake Creek Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9D9D",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.533567,
+          41.7665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/23/2002",
+        "geocache_title": "Lock Ridge Park",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC5A2C",
+        "owner": "The Caching Nuts (formerly Team Jim & Linda)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594383,
+          40.509567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/23/2002",
+        "geocache_title": "A Literary Stroll",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8B90",
+        "owner": "The Caching Nuts (formerly Team Jim & Linda)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.484183,
+          40.49515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/20/2002",
+        "geocache_title": "A DAY IN THE ZOO",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCAAD5",
+        "owner": "WOLKPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63825,
+          41.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/19/2002",
+        "geocache_title": "A DAY IN THE ZOO",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCAAD5",
+        "owner": "WOLKPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63825,
+          41.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/17/2002",
+        "geocache_title": "Whispering Pines",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA62F",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.87925,
+          41.347433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/16/2002",
+        "geocache_title": "Preacher's Camp 2",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA6FB",
+        "owner": "ArtVandelay",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.600583,
+          40.864417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/15/2002",
+        "geocache_title": "Lions Park",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC9826",
+        "owner": "BoB393",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.332183,
+          41.411033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/15/2002",
+        "geocache_title": "Epicenter",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCA189",
+        "owner": "Bob393",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.601483,
+          41.459267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/15/2002",
+        "geocache_title": "Round Robin",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC9091",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6947,
+          41.376233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/15/2002",
+        "geocache_title": "Night at the Leanto",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCA6B3",
+        "owner": "Flying Mallard",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.837467,
+          41.1534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "11/14/2002",
+        "geocache_title": "Archbald Pothole",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC7CE6",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573783,
+          41.511383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/12/2002",
+        "geocache_title": "The Bears Pen",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCA751",
+        "owner": "Team GeeOh!",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641167,
+          41.4003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/12/2002",
+        "geocache_title": "Francis E. Walter Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCA3F2",
+        "owner": "Got GPS",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7216,
+          41.118767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/12/2002",
+        "geocache_title": "Francis E. Walter Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA3F2",
+        "owner": "Got GPS",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7216,
+          41.118767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/12/2002",
+        "geocache_title": "The Bears Pen",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA751",
+        "owner": "Team GeeOh!",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641167,
+          41.4003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/10/2002",
+        "geocache_title": "Coxton Duryea Falls",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8FDE",
+        "owner": "TeamCNY",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.801883,
+          41.36355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "11/10/2002",
+        "geocache_title": "Francis E. Walter Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA3F2",
+        "owner": "Got GPS",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7216,
+          41.118767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/8/2002",
+        "geocache_title": "Mickey's Tribute to his Mrs.",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCA3D7",
+        "owner": "artvandelay",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.240017,
+          40.862233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/8/2002",
+        "geocache_title": "Virtual Cache Mickey's Tribute to his Mrs.",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA3D7",
+        "owner": "artvandelay",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.240017,
+          40.862233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/3/2002",
+        "geocache_title": "Wheelin' and Dealin'",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC93D9",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.745733,
+          41.4112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/3/2002",
+        "geocache_title": "Virtual Cache Port Jervis Two-Step",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC9090",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68195,
+          41.35715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/3/2002",
+        "geocache_title": "Virtual Cache Epicenter",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCA189",
+        "owner": "Bob393",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.601483,
+          41.459267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "11/3/2002",
+        "geocache_title": "Virtual Cache Round Robin",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC9091",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6947,
+          41.376233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/31/2002",
+        "geocache_title": "Conglomerate Rocks",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9C49",
+        "owner": "Tomebug, adopted by Team C.R.A.B.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.516967,
+          41.034417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/31/2002",
+        "geocache_title": "Conglomerate Rocks",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9C49",
+        "owner": "Tomebug, adopted by Team C.R.A.B.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.516967,
+          41.034417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "10/27/2002",
+        "geocache_title": "Conglomerate Rocks",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9C49",
+        "owner": "Tomebug, adopted by Team C.R.A.B.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.516967,
+          41.034417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/27/2002",
+        "geocache_title": "Hickory Run Campgrounds",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8C03",
+        "owner": "rayt333 adopted by SNI Road Warrior",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694917,
+          41.025433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "10/27/2002",
+        "geocache_title": "Conglomerate Rocks",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9C49",
+        "owner": "Tomebug, adopted by Team C.R.A.B.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.516967,
+          41.034417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/20/2002",
+        "geocache_title": "Liberty Park Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9AAA",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.823967,
+          41.954233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/20/2002",
+        "geocache_title": "Hemlock Creek Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9D99",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4787,
+          41.964783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/20/2002",
+        "geocache_title": "Fiddle Lake Creek Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9D9D",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.533567,
+          41.7665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "10/20/2002",
+        "geocache_title": "Pocono Cold Air Cave",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9173",
+        "owner": "Zhanna & Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122267,
+          40.963633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "10/20/2002",
+        "geocache_title": "Virtual Cache Almost a Driveby",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC7E9D",
+        "owner": "Cabin Fever and renegadejane",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.504883,
+          41.0267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/19/2002",
+        "geocache_title": "Woodbourne Forest Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9BFA",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.892817,
+          41.763417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "10/19/2002",
+        "geocache_title": "Lost Falls Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9AA6",
+        "owner": "Johnsons06 adopted by ARW",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.081333,
+          41.944033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/19/2002",
+        "geocache_title": "Liberty Park Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9AAA",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.823967,
+          41.954233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/19/2002",
+        "geocache_title": "Woodbourne Forest Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9BFA",
+        "owner": "Johnsons06",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.892817,
+          41.763417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "10/19/2002",
+        "geocache_title": "Penny Rock Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC26A2",
+        "owner": "pendotron",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.865533,
+          41.9093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "10/14/2002",
+        "geocache_title": "Broad Mtn",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC2C1F",
+        "owner": "Stepss",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.768017,
+          40.924167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/14/2002",
+        "geocache_title": "PP3: Gone Fishin'",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC2C1F",
+        "owner": "Stepss",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.768017,
+          40.924167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/14/2002",
+        "geocache_title": "Broad Mtn",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC2C1F",
+        "owner": "Stepss",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.768017,
+          40.924167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/14/2002",
+        "geocache_title": "Virtual Cache PP3: Gone Fishin'",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC2C1F",
+        "owner": "Stepss",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.768017,
+          40.924167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/13/2002",
+        "geocache_title": "Knobs on high",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9A35",
+        "owner": "Thundergunner",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.125,
+          41.301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/13/2002",
+        "geocache_title": "Knobs on high",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9A35",
+        "owner": "Thundergunner",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.125,
+          41.301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/7/2002",
+        "geocache_title": "Harris Hill Fly Away",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC59DD",
+        "owner": "Team Ferret",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.897083,
+          42.129867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "10/6/2002",
+        "geocache_title": "Archbald Pothole",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC7CE6",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573783,
+          41.511383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/6/2002",
+        "geocache_title": "Turkey Path Stumper",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC1331",
+        "owner": "Steve Carter and David Ginn",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.468167,
+          41.700667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/6/2002",
+        "geocache_title": "West Rim Treasure",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC14A6",
+        "owner": "Rich,Mom",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.463333,
+          41.69915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/6/2002",
+        "geocache_title": "Blue Run Rocks - An Adventure!",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC5F40",
+        "owner": "jamqui and Olf D'Coors",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.54725,
+          41.803533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/6/2002",
+        "geocache_title": "Hills Creek Park Cache I",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC77E0",
+        "owner": "Road Kill",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20325,
+          41.816083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Reviewer Attention Requested",
+        "date": "10/5/2002",
+        "geocache_title": "RIVER CAMP GROUND",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC647C",
+        "owner": "nicholas527",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.990083,
+          41.089467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "10/5/2002",
+        "geocache_title": "JQ008-Loyalsock",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA3B",
+        "owner": "TEAM JackQuest- Adopted by Team GeoRemdation",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46985,
+          41.456933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/5/2002",
+        "geocache_title": "Out of Fright, Out of Mined!",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC4368",
+        "owner": "Penguin Packers",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.629467,
+          41.647567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "10/4/2002",
+        "geocache_title": "JQ006-Fern Rock",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC61D",
+        "owner": "TEAM JackQuest adopted by Salvelinus",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62135,
+          41.442933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/29/2002",
+        "geocache_title": "Port Jervis Two-Step",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC9090",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68195,
+          41.35715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "9/29/2002",
+        "geocache_title": "Round Robin",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GC9091",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6947,
+          41.376233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/29/2002",
+        "geocache_title": "Getting \"High\" with the Y",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8BC2",
+        "owner": "renegadejane and the YMCA Hikers",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29145,
+          41.164917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/29/2002",
+        "geocache_title": "Wheelin' and Dealin'",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC93D9",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.745733,
+          41.4112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Eastern PA-NJ picnic",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8C2F",
+        "owner": "Tomebug",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.624517,
+          40.86105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Preacher's Camp",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8BA4",
+        "owner": "Art Vandelay",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6019,
+          40.865467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Chipmunk Haven",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8C2D",
+        "owner": "Tomebug, adopted by Team C.R.A.B.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.323283,
+          41.0559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Letterbox Hybrid Bumblebee from Tennessee",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC4D74",
+        "owner": "KLifeMom",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976417,
+          40.767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Virtual Cache Walkin' through the park ...",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC4F22",
+        "owner": "BassoonPilot",
+        "post_id": "",
+        "website notes": "Add photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.968417,
+          40.7731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Virtual Cache Really Big Show",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC5A40",
+        "owner": "Team Harrald",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9828,
+          40.7635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Letterbox Hybrid Flowers from Tennessee",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC4D80",
+        "owner": "KLifeMom",
+        "post_id": "",
+        "website notes": "Add photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970467,
+          40.778633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Letterbox Hybrid Central Park, Rowboat Lake.",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC6ACC",
+        "owner": "cache kids",
+        "post_id": "",
+        "website notes": "Add photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9713,
+          40.777967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "9/28/2002",
+        "geocache_title": "Letterbox Hybrid Water (from Tennessee)",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC4D80",
+        "owner": "KLifeMom",
+        "post_id": "",
+        "website notes": "Add photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970467,
+          40.778633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "Virtual Cache Busman's Holiday",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC832C",
+        "owner": "Math Teacher",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991,
+          40.756317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/28/2002",
+        "geocache_title": "The Scotsman goes south",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GC484F",
+        "owner": "DJGecko",
+        "post_id": "",
+        "website notes": "Add photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976433,
+          40.766733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/24/2002",
+        "geocache_title": "The Corps of Discovery",
+        "state": "Idaho",
+        "user": "Rich",
+        "gc_link": "GC8E37",
+        "owner": "Perfect Tommy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8596,
+          42.70365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/24/2002",
+        "geocache_title": "The Corps of Discovery",
+        "state": "Idaho",
+        "user": "Zhanna",
+        "gc_link": "GC8E37",
+        "owner": "Perfect Tommy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8596,
+          42.70365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/24/2002",
+        "geocache_title": "Wolf Rocks",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC59DA",
+        "owner": "Wotan",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2244,
+          40.923683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/21/2002",
+        "geocache_title": "Appalachian Spur am Blauen Berg",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC892F",
+        "owner": "Schneeberg Wasserman",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.517117,
+          40.80815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/21/2002",
+        "geocache_title": "Mars Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8F40",
+        "owner": "GWHayduke & Ms. A",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.552317,
+          40.804233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/21/2002",
+        "geocache_title": "Preacher's Camp",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8BA4",
+        "owner": "Art Vandelay",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6019,
+          40.865467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/21/2002",
+        "geocache_title": "Mars Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8F40",
+        "owner": "GWHayduke & Ms. A",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.552317,
+          40.804233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/19/2002",
+        "geocache_title": "Coxton Duryea Falls",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8FDE",
+        "owner": "TeamCNY",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.801883,
+          41.36355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/18/2002",
+        "geocache_title": "New Jersey Statewide Cache Hunt",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC8DA7",
+        "owner": "Geoman007",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.648,
+          40.263167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/18/2002",
+        "geocache_title": "the dragonfly scroll",
+        "state": "California",
+        "user": "Zhanna",
+        "gc_link": "GC7F3A",
+        "owner": "snapplez",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.706917,
+          34.279233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/17/2002",
+        "geocache_title": "The Tree Muskie Nears",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC8798",
+        "owner": "Status Crow",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82855,
+          40.831033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/14/2002",
+        "geocache_title": "Bass Harbor Light",
+        "state": "Maine",
+        "user": "Rich",
+        "gc_link": "GC869C",
+        "owner": "IWCOTTON",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.337517,
+          44.222567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/13/2002",
+        "geocache_title": "Twin Bridges: Marina's birthday cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC2D00",
+        "owner": "Zhanna and Aaron",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682533,
+          41.475367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/13/2002",
+        "geocache_title": "Chipmunk Haven",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8C2D",
+        "owner": "Tomebug, adopted by Team C.R.A.B.",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.323283,
+          41.0559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/11/2002",
+        "geocache_title": "Cadillac Mountain Cache",
+        "state": "Maine",
+        "user": "Rich",
+        "gc_link": "GC85F4",
+        "owner": "IWCOTTON",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.225233,
+          44.353067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/10/2002",
+        "geocache_title": "Getting \"High\" with the Y",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8BC2",
+        "owner": "renegadejane and the YMCA Hikers",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29145,
+          41.164917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/10/2002",
+        "geocache_title": "the dragonfly scroll",
+        "state": "California",
+        "user": "Zhanna",
+        "gc_link": "GC7F3A",
+        "owner": "snapplez",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.706917,
+          34.279233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/9/2002",
+        "geocache_title": "the dragonfly scroll",
+        "state": "California",
+        "user": "Zhanna",
+        "gc_link": "GC7F3A",
+        "owner": "snapplez",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.706917,
+          34.279233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "9/7/2002",
+        "geocache_title": "the dragonfly scroll",
+        "state": "California",
+        "user": "Zhanna",
+        "gc_link": "GC7F3A",
+        "owner": "snapplez",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.706917,
+          34.279233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/6/2002",
+        "geocache_title": "Eliot Mountain Cache",
+        "state": "Maine",
+        "user": "Rich",
+        "gc_link": "GC2F77",
+        "owner": "David Wilson, adopted by Acadiahiker",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.274667,
+          44.2994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/6/2002",
+        "geocache_title": "Cache with a View",
+        "state": "Maine",
+        "user": "Rich",
+        "gc_link": "GC2985",
+        "owner": "N1CJS",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2594,
+          44.305317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/5/2002",
+        "geocache_title": "BOK Joy",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC64EE",
+        "owner": "Team BLT n E",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.733733,
+          40.749333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/5/2002",
+        "geocache_title": "Smith Gap Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC54CF",
+        "owner": "art vandelay gang",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43755,
+          40.81995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/5/2002",
+        "geocache_title": "Appalachian Spur am Blauen Berg",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC892F",
+        "owner": "Schneeberg Wasserman",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.517117,
+          40.80815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/2/2002",
+        "geocache_title": "The Tree Muskie Nears",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GC8798",
+        "owner": "Status Crow",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82855,
+          40.831033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/2/2002",
+        "geocache_title": "Fossil Rocks",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC84A9",
+        "owner": "Chai_pa",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6425,
+          40.847867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/2/2002",
+        "geocache_title": "JT Monument",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC849D",
+        "owner": "Chai_pa",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.725517,
+          40.88505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "9/1/2002",
+        "geocache_title": "Tanks For The Memories",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GC4675",
+        "owner": "PULASKI & TULIP, Adopted by HuckleBuckle",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.188883,
+          40.175183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/31/2002",
+        "geocache_title": "JT Monument",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC849D",
+        "owner": "Chai_pa",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.725517,
+          40.88505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/31/2002",
+        "geocache_title": "Fossil Rocks",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC84A9",
+        "owner": "Chai_pa",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6425,
+          40.847867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/31/2002",
+        "geocache_title": "Beltzville Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC81ED",
+        "owner": "Streak & Ladybug",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63145,
+          40.862883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "8/31/2002",
+        "geocache_title": "Helispot",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GC276E",
+        "owner": "Waterboy with Wife (www)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.083967,
+          40.982133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/26/2002",
+        "geocache_title": "Mullen's View",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC8290",
+        "owner": "TrustyLizard",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.987467,
+          41.174017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/26/2002",
+        "geocache_title": "Mullen's View",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8290",
+        "owner": "TrustyLizard",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.987467,
+          41.174017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/25/2002",
+        "geocache_title": "A Blast From The Past",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC8086",
+        "owner": "Geo-remy and Seeker",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66365,
+          41.4036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/24/2002",
+        "geocache_title": "Beltzville Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC81ED",
+        "owner": "Streak & Ladybug",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63145,
+          40.862883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/24/2002",
+        "geocache_title": "Chestnut hill Park",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC756A",
+        "owner": "Tomebug",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.395767,
+          40.93265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "8/23/2002",
+        "geocache_title": "Fraggle Rock",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCA0A",
+        "owner": "Peteygo and Viper",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.248933,
+          41.69505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
         "date": "8/23/2002",
         "geocache_title": "Fraggle Rock",
         "state": "New York",
