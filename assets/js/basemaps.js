@@ -4,8 +4,6 @@ var objBasemaps = {
     }),
     'USGS Topo': L.tileLayer('https://caltopo.s3.amazonaws.com/topo/{z}/{x}/{y}.png', {
         attribution: 'USDA images from <a target="_blank" href="http://caltopo.com/">CalTopo</a>',
-        maxZoom: 16,
-        minZoom: 6
     }),
     'US National Map': L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', {
         maxZoom: 18,
