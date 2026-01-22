@@ -40,6 +40,6 @@ Breakfast, Anemonemonemone Cave attempt, stopped at Thunder Hole shack (remember
 
 1 strawberry pancake and bacon; 2 eggs, toast, bacon, homefries (R), cranberry juice, coffee at Jeannie's;  whole wheat focaccia, fennel and French breads, curry chicken salad with grape salsa, salmon with lime ginger butter, cheese mashed potatoes, bok choy; lobster crepes, basmati rice, bok choy (R), Bar Harbor Real Ale, lemon tart with blueberry sauce and whipped cream at Maggie's.
 
-{% include gallery.html gallery_id="gallery1" class="" %}
+{% include gallery.html gallery_id="gallery1" class="special" %}
 
 [Movie]

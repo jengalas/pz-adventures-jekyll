@@ -17,9 +17,18 @@ galleries:
   gallery1:
     suffix: cm
     images:
-    - filename: 
-      alt: 
-                 
+    - filename: IMG_0084
+      alt: Rich is thrilled that we finally have a morning dry enough to do some riding!
+    - filename: P1070421
+      alt: Can it be?! We’ve finally found the path of the old Green Mountain Cog Railway!
+    - filename: P1070445
+      alt: Finally, some sun atop Cadillac Mountain!
+    - filename: P1070460
+      alt: The Porcupines are draped in fog.
+    - filename: P1070462
+      alt: Unmistakably Cadillac!
+    - filename: P1070472
+      alt: Rich is ready for Pizzaroni! at Rosalie’s Pizza. (One of those beers is mine!)                 
 ---
 
 {% include tracklog.html %}

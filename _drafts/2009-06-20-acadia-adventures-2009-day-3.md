@@ -15,8 +15,24 @@ galleries:
   gallery1:
     suffix: cm
     images:
-    - filename: 
-      alt: 
+    - filename: P1070151
+      alt: Zhanna rests on Duck Brook Bridge
+    - filename: P1070164
+      alt: Lounging (as much as possible when it’s wet and cold!) on a rocky ledge along the carriage roads.
+    - filename: P1070169
+      alt: Colorful trailside scenery along the carriage roads.
+    - filename: P1070185
+      alt: Are you feeling like moss or fungus yet? Don’t worry, there’s plenty of time left!
+    - filename: P1070242
+      alt: A misty look down one of the carriage roads.
+    - filename: P1070263
+      alt: Blue lupines everywhere!
+    - filename: P1070284
+      alt: Zhanna gets knee-deep in the lupines.
+    - filename: P1070291
+      alt: The poor (spoiled) Outback has never before seen so much rain!
+    - filename: P1070244
+      alt: The Spouting Horn, as seen in Clara Barnes Martin's <em>Mount Desert on the Coast of Maine</em>      
                  
 ---
 

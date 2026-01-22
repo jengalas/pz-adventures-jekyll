@@ -15,14 +15,15 @@ galleries:
   gallery1:
     suffix: cm
     images:
-    - filename: 
-      alt: 
-                 
+    - filename: P1070303
+      alt: Bunchberry flowers are still in their prime. 
+    - filename: IMG_0032
+      alt: A view of the wild ocean waves from the safety of a little alcove along the trail.      
 ---
 
 Breakfast: scrambled eggs and oatmeal toast, cranberry juice for me; French toast with powdered sugar (unintended), crispy bacon, coffee for R. at Jeannie's.  After breakfast, still in search of the _Pathmakers_ book, we checked Sherman's bookstore.  Although they have a lot of local history items, they did not have the book.  We then decided to take advantage of the fact that although it was still chilly and wet, it was not actually pouring for once, and we drove to the Sand Beach parking area to hike to Great Head.  The path was wet, many ruts from extreme erosion due to the constant deluge of rain.  At least we stayed mostly dry, until we reached the top and were exposed to the strong winds off the ocean and spray/sprinkles that accompanied them.  The enveloping dampness of the woods was actually quite cozy, and we spent some time on the way up photographing bunchberry plants and on the way down, the violent ocean viewed from within an alcove of trees.  
 
-{% include gallery.html gallery_id="gallery1" class="" %}
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 After the hike, we drove to the Schooner Head Overlook, where we hoped to catch a glimpse of the bizarrely-named "Spouting Horn" we'd seen mentioned in some of the books in the Thuya Lodge library.  This was a wild guess on our part, since we had no real idea where we should even look.  Not surprisingly, we did not find anything that resembled the "Spouting Horn" in the photos.
 

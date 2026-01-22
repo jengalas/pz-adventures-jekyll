@@ -17,8 +17,18 @@ galleries:
   gallery1:
     suffix: cm
     images:
-    - filename: 
-      alt: 
+    - filename: P1070339
+      alt: We spotted this lovely miniature waterfall—really just massive runoff from the nonstop rain of the past few days—as we began our hike to Man O' War Brook.
+    - filename: P1070353
+      alt: Zhanna perches alongside the Man O’ War Brook Falls.
+    - filename: IMG_0063
+      alt: Rich digs in! He can’t even wait long enough to pull the meat out of the shell!
+    - filename: P1070371
+      alt: Zhanna is eager too.
+    - filename: P1070349
+      alt: It has been a great summer for mushrooms, if nothing else!
+    - filename: P1070376
+      alt: Rich captured this moody harbor scene along Clark Point Road in Southwest Harbor.
                  
 ---
 
