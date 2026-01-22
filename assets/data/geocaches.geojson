@@ -5,6 +5,846 @@
       "type": "Feature",
       "properties": {
         "log_type": "Found it",
+        "date": "6/30/2003",
+        "geocache_title": "Put a Lid on It!",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCG9MK",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6901,
+          41.37675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/30/2003",
+        "geocache_title": "Down By The River",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCG4GX",
+        "owner": "Ziggy Crew",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.739817,
+          41.4058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/30/2003",
+        "geocache_title": "Take Cover!",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCG9QR",
+        "owner": "DogFleazJR",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.969883,
+          41.4871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/28/2003",
+        "geocache_title": "PP2: Flagstaff",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC9174",
+        "owner": "freeside, helen, steven",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73665,
+          40.8561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/28/2003",
+        "geocache_title": "PP2: Flagstaff",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9174",
+        "owner": "freeside, helen, steven",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73665,
+          40.8561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/27/2003",
+        "geocache_title": "Rock Bound Maiden",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCG9QV",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.702383,
+          41.383617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/27/2003",
+        "geocache_title": "Tri-State Cache",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCG903",
+        "owner": "Ziggy Crew",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.693367,
+          41.358217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/27/2003",
+        "geocache_title": "Put a Lid on It!",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCG9MK",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6901,
+          41.37675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "6/26/2003",
+        "geocache_title": "Take Cover!",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCG9QR",
+        "owner": "DogFleazJR",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.969883,
+          41.4871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/26/2003",
+        "geocache_title": "Down By The Lazy Brook",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCGB6D",
+        "owner": "Twodoux's",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.895117,
+          41.5536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/24/2003",
+        "geocache_title": "Bear Fodder",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCGB9N",
+        "owner": "TeamBrewapalooza",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6025,
+          41.063433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/24/2003",
+        "geocache_title": "Bear Fodder",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCGB9N",
+        "owner": "TeamBrewapalooza",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6025,
+          41.063433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/22/2003",
+        "geocache_title": "Paul-Mart II: Watch out for Flooding Water",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCG922",
+        "owner": "Team Geo-Remdation",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.843567,
+          41.300067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/21/2003",
+        "geocache_title": "Paul-Mart II: Watch out for Flooding Water",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG922",
+        "owner": "Team Geo-Remdation",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.843567,
+          41.300067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/21/2003",
+        "geocache_title": "Tri-State Cache",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCG903",
+        "owner": "Ziggy Crew",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.693367,
+          41.358217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/21/2003",
+        "geocache_title": "Rock Bound Maiden",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCG9QV",
+        "owner": "patw",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.702383,
+          41.383617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "6/21/2003",
+        "geocache_title": "Take Cover!",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCG9QR",
+        "owner": "DogFleazJR",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.969883,
+          41.4871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/8/2003",
+        "geocache_title": "The Blairstown Airport Cache",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCF506",
+        "owner": "Misty's Shadow",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.000767,
+          40.968883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "6/8/2003",
+        "geocache_title": "Pocono Cold Air Cave",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9173",
+        "owner": "Zhanna & Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122267,
+          40.963633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/8/2003",
+        "geocache_title": "The Blairstown Airport Cache",
+        "state": "New Jersey",
+        "user": "Zhanna",
+        "gc_link": "GCF506",
+        "owner": "Misty's Shadow",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.000767,
+          40.968883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/2/2003",
+        "geocache_title": "Appalachian Trail Maintenance",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG6ZJ",
+        "owner": "Wife With Waterboy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.477467,
+          40.81245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/28/2003",
+        "geocache_title": "Seven Tubs",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCD06",
+        "owner": "Rich in NEPA (adopted by andGuest)",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8225,
+          41.228317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/28/2003",
+        "geocache_title": "The Keystone Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG5Z5",
+        "owner": "Got GPS",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6726,
+          41.104733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/23/2003",
+        "geocache_title": "Down By The River",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCG4GX",
+        "owner": "Ziggy Crew",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.739817,
+          41.4058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/23/2003",
+        "geocache_title": "Fly Like an Eagle",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCCE81",
+        "owner": "4FUN & Dog",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.109173,
+          41.4699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/23/2003",
+        "geocache_title": "Space Oddity",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG551",
+        "owner": "bradladora",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.125967,
+          41.4503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/20/2003",
+        "geocache_title": "K T 's Back Mountain Mini-cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG3D2",
+        "owner": "the existential outlaw for Team CacherIntherye",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.914833,
+          41.292433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/19/2003",
+        "geocache_title": "Genesis",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG4FV",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.724533,
+          41.92655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/18/2003",
+        "geocache_title": "Paul-Mart: Watch out for Falling Water",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9C61",
+        "owner": "PSUPAUL, SmartMart, Spongebob, Maverick, And Chloe",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.269833,
+          41.29775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/18/2003",
+        "geocache_title": "K T 's Back Mountain Mini-cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCG3D2",
+        "owner": "the existential outlaw for Team CacherIntherye",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.914833,
+          41.292433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/18/2003",
+        "geocache_title": "JQ008-Loyalsock",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCA3B",
+        "owner": "TEAM JackQuest- Adopted by Team GeoRemdation",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46985,
+          41.456933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/16/2003",
+        "geocache_title": "BLUE LIGHT SPECIAL",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG40E",
+        "owner": "WOLFPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.650267,
+          41.4752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/16/2003",
+        "geocache_title": "BLUE LIGHT SPECIAL",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCG40E",
+        "owner": "WOLFPAK",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.650267,
+          41.4752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/10/2003",
+        "geocache_title": "Red Rock and Rolls!",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCD737",
+        "owner": "Dubbsy and Friends",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2797,
+          41.33995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/10/2003",
+        "geocache_title": "Sorber Views",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCG1RE",
+        "owner": "MapLady",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.085083,
+          41.40015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/10/2003",
+        "geocache_title": "Sorber Views",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCG1RE",
+        "owner": "MapLady",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.085083,
+          41.40015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/10/2003",
+        "geocache_title": "Downtown Ricketts",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCG241",
+        "owner": "MikeBurnside",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.277317,
+          41.3905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/10/2003",
+        "geocache_title": "RPA-21 Ricketts Glen",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9E7F",
+        "owner": "Bayonets4u",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.292317,
+          41.3347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/10/2003",
+        "geocache_title": "Event Cache Red Rock and Rolls!",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCD737",
+        "owner": "Dubbsy and Friends",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2797,
+          41.33995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/4/2003",
+        "geocache_title": "What's On Your Mine?",
+        "state": "New Jersey",
+        "user": "Rich",
+        "gc_link": "GCF651",
+        "owner": "HartClimbs",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.803133,
+          40.897233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
         "date": "5/4/2003",
         "geocache_title": "Easy Roadside Cache",
         "state": "New Jersey",
