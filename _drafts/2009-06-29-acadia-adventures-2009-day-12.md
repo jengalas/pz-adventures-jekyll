@@ -20,7 +20,11 @@ galleries:
            
 ---
 
+<!-- TODO: Work on photos from 29 June 2009! -->
+
 Breakfast, Cadillac Mtn Sports, took puzzle photo and then took puzzle to lobby, drive down 102, stopped at Seawall after driving past Manset Church and Mansell area by waterfront, auto museum, Blagden Preserve (checked on HIGGINS)
+
+{% include image.html filename="P1070678cm.jpg" thumb="P1070678b.jpg" caption="Cold, wet, and cheerful at Seawall" %}
 
 Egg over medium, toast; egg sandwich over medium with bacon on white toast (R); apple juice and coffee at Jeannie's.  Half pepperoni, half sausage pizza at Rosalie's; goat cheese and Wheat Thins with 3BM Riesling for snack after blueberry basil sorbet.
 

@@ -25,9 +25,9 @@ galleries:
 
 Raining, breakfast at gazebo, drive over to Bar Island, finished puzzle (kissing moose), checked out a few BMs and the Carroll Homestead on the way to Red Sky. After supper, watched two new episodes of Law & Order: CI.
 
-Breakfast was sticky buns, Earl Grey tea and coffee from Morning Glory.  Supper was bread, cheese plate (parmesan, Seal Cove goat cheese, 4 year aged cheddar, and an orange rind cheese that we can't remember the name of from Colorado, dried cherries and apricots, homemade crackers), panko-crusted halibut, sesame soba noodles, cucumber and red onion salad with black sesame seeds, Flying dog In Heat Wheat, no room for dessert at Red Sky.
-
 {% include image.html filename="P1070640cm.jpg" thumb="P1070640b.jpg" caption="Zhanna searches for shells on the sandbar." %}
+
+Breakfast was sticky buns, Earl Grey tea and coffee from Morning Glory.  Supper was bread, cheese plate (parmesan, Seal Cove goat cheese, 4 year aged cheddar, and an orange rind cheese that we can't remember the name of from Colorado, dried cherries and apricots, homemade crackers), panko-crusted halibut, sesame soba noodles, cucumber and red onion salad with black sesame seeds, Flying dog In Heat Wheat, no room for dessert at Red Sky.
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
