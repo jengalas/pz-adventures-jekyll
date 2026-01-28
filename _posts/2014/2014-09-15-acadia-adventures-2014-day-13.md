@@ -24,7 +24,6 @@ galleries:
       alt:
 ---
 
-[wpv-view name="tracklog-display" ids="5034"]
 
 Look for R's email about finishing the Potholes trail 
 
