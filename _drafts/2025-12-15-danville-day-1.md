@@ -28,7 +28,7 @@ We weren't hungry enough for any of their large entrees, so we all chose items f
 
 The day was still brutally cold, and we all got so thoroughly chilled just walking back across the street from the restaurant that we spent the rest of the afternoon underneath all the blankets we could find, and we turned the heat in the hotel room up to 79 degrees. Dad and Lucy napped while I worked on my website. The chill was finally starting to subside when we decided it was time to check out the hotel restaurant for a "light" supper.
 
-We were all still pretty full from our lunch earlier, so we just had salads (which were also big, but tasty and not overly filling).  I had a spinach salad with pecans, red cabbage, feta, and raisins.  Lucy had a salad with mixed greens, cashews, and mandarin oranges.  And my father had a Caesar salad.  The dessert menu looked good (peach cobbler, apple dumpling, pumpkin roll) and initially we were thinking we might try something, but after finishing the salads, we didn’t have enough room for dessert.  The restaurant was pretty large, simply decorated, and warm.  
+We were all still pretty full from our lunch earlier, so we just had salads (which were also big, but tasty and not overly filling).  I had a spinach salad with pecans, red cabbage, feta, and raisins.  Lucy had a salad with mixed greens, cashews, and mandarin oranges.  And my father had a Caesar salad.  The dessert menu looked good (peach cobbler, apple dumpling, and pumpkin roll were all appealing) and initially we were thinking we might try something, but after finishing the salads, we didn’t have enough room for dessert.  The restaurant was pretty large, simply decorated, and warm.  
 
 
 
