@@ -1,14 +1,18 @@
 <!-- Geocoder API -->
 <link rel="stylesheet" href="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.css">
 <script src="https://dashboard.waterdata.usgs.gov/api/geocoder/1.0.1/geocoder.min.js"></script>
+<!-- Grouped Layer Control -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.css" />
 <script src="https://unpkg.com/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.js"></script>
+<!-- Marker Clusterer -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+<!-- Leaflet AwesomeMarkers -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 <script src="https://unpkg.com/leaflet.awesome-markers@2.0.5/dist/leaflet.awesome-markers.js"></script>
+<!-- NoUI Slider -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
 
@@ -84,6 +88,15 @@
       "Update Coordinates": "darkgreen"
     };
 
+    function getMarkerIcon(user, log_type) {
+      return L.AwesomeMarkers.icon({
+        icon: userIcons[user] || "circle",
+        prefix: "fa",
+        markerColor: typeColors[log_type] || "gray",
+        iconColor: "white"
+      });
+    }
+
     L.geoJSON(geojson, {
       pointToLayer: (feature, latlng) => {
         const marker = L.marker(latlng, {
@@ -145,15 +158,6 @@
       groupedOverlays,
       { collapsed: true }
     ).addTo(map);
-
-    function getMarkerIcon(user, log_type) {
-      return L.AwesomeMarkers.icon({
-        icon: userIcons[user] || "circle",
-        prefix: "fa",
-        markerColor: typeColors[log_type] || "gray",
-        iconColor: "white"
-      });
-    }
 
     /* ------------------ Manage filter state ------------------ */
 
@@ -293,14 +297,14 @@
 
     /* ------------------ Control events ------------------ */
 
-    map.on('overlayadd', e => {
+    map.on('overlayadd', e => {                       // Fires when a checkbox is checked
       if (userLayers[e.name]) activeUsers.add(e.name);
       if (typeLayers[e.name]) activeTypes.add(e.name);
       applyFilters();
       updateCounts();
     });
 
-    map.on('overlayremove', e => {
+    map.on('overlayremove', e => {                    // Fires when a checkbox is unchecked
       if (userLayers[e.name]) activeUsers.delete(e.name);
       if (typeLayers[e.name]) activeTypes.delete(e.name);
       applyFilters();
