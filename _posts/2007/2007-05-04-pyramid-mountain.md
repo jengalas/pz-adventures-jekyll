@@ -49,10 +49,10 @@ After Bear Rock, we hiked on to Tripod Rock, where I had noted in an email to Ri
 I also found this reference in an old email message:
 
 > What were the names of the benchmarks in the 50 Hikes book that I was going to search for?  (Or at least the names of the features?)  I think one was called Bear Rock but I've forgotten the other one. 
- 
-> _I don't know what the names are exactly.  One is near Pyramid Mountain, at Bear Rock.  The text only mentions that the rock itself has been used as a boundary marker for years, and that there are old survey marks near the highest points._  
- 
-> The second one is at Ringwood Manor.  The book says here that there's a large rock to the left of the trail and that it had a BM on it.  Further it mentions that it's a remnant of the Cooper Union Camp.
+> 
+>> I don't know what the names are exactly.  One is near Pyramid Mountain, at Bear Rock.  The text only mentions that the rock itself has been used as a boundary marker for years, and that there are old survey marks near the highest points. 
+>> 
+>> The second one is at Ringwood Manor.  The book says here that there's a large rock to the left of the trail and that it had a BM on it.  Further it mentions that it's a remnant of the Cooper Union Camp.
 
 The direct quote from the book, _50 Hikes in New Jersey_ by Bruce Scofield, Stella Green, and H. Neil Zimmerman (3rd edition, 2006) is:
 
