@@ -30,7 +30,7 @@ So we went back on Route 3 and instead accessed the area via Grove Road. We foun
 
 We were about halfway to the dock when I saw movement, and then a striped body flash across and off the trail, going over a bank. A snake!!! _Finally._ This beautiful maritime garter snake was the first one we've seen here all year. We quietly peeked over the bank to see if we could spot him, and then we saw more movement in the weeds, just off the road. It was a snake - but could it have been the same snake, or a second one? We were pretty sure the first one has slipped right over the edge and down the steep bank, so this may indeed have been a different one.  Too bad they were too quick for us, and we weren't able to get a photo.
 
-Now down at the dock, we spotted the little trickle where the waterfall would typically be. Rich said that according to Marchon, the entire ledge would have water falling over it in a typical year, but now it was nearly dry. IT was still a neat spot to check out. 
+Now down at the dock, we spotted the little trickle where the waterfall would typically be. Rich said that according to Marchon, the entire ledge would have water falling over it in a typical year, but now it was nearly dry. It was still a neat spot to check out. 
 
 While we were there, I happened to look to my left and I spotted a granite post with an NPS boundary marker disk on top. Cool! Then I looked to the south and I saw another one ... and then another! It seemed strange that there were three in such close proximity. I documented all of them.
 
