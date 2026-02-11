@@ -1,12 +1,1692 @@
 {
   "type": "FeatureCollection",
-  "features": [
+"features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/4/2004",
+        "geocache_title": "Money & Ferrets Don't Grow On Trees",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCJCZ5",
+        "owner": "Team Ferret",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.980933,
+          42.350633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/4/2004",
+        "geocache_title": "Whitney Point MBT",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCJGTK",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.971667,
+          42.334267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/4/2004",
+        "geocache_title": "Letterbox Hybrid Money & Ferrets Don't Grow On Trees",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCJCZ5",
+        "owner": "Team Ferret",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.980933,
+          42.350633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/4/2004",
+        "geocache_title": "Whitney Point MBT",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCJGTK",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.971667,
+          42.334267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/2/2004",
+        "geocache_title": "Abby Normal",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJ53B",
+        "owner": "Buzz_Lightfoot",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.979517,
+          41.289783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/2/2004",
+        "geocache_title": "Abby Normal",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJ53B",
+        "owner": "Buzz_Lightfoot",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.979517,
+          41.289783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "6/1/2004",
+        "geocache_title": "Simpson MBT",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJGC6",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.483883,
+          41.5935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/30/2004",
+        "geocache_title": "Whitney Point MBT",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCJGTK",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.971667,
+          42.334267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/30/2004",
+        "geocache_title": "Dunmore MBT",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJG3M",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.636417,
+          41.416017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/30/2004",
+        "geocache_title": "Dunmore MBT",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJG3M",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.636417,
+          41.416017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/29/2004",
+        "geocache_title": "Harley's Hike",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJGGQ",
+        "owner": "Harley's Pack",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.263617,
+          40.781183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/29/2004",
+        "geocache_title": "Historic Jacobsburg",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCH3V0",
+        "owner": "Team SAR-Dogs",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.296017,
+          40.7899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/29/2004",
+        "geocache_title": "Harley's Hike",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJGGQ",
+        "owner": "Harley's Pack",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.263617,
+          40.781183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/29/2004",
+        "geocache_title": "Historic Jacobsburg",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCH3V0",
+        "owner": "Team SAR-Dogs",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.296017,
+          40.7899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/25/2004",
+        "geocache_title": "Simpson MBT",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJGC6",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.483883,
+          41.5935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/23/2004",
+        "geocache_title": "Throop MBT",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJG3K",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60535,
+          41.459867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/23/2004",
+        "geocache_title": "Jessup MBT",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJG3H",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564,
+          41.475383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/23/2004",
+        "geocache_title": "Throop MBT",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJG3K",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60535,
+          41.459867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/23/2004",
+        "geocache_title": "Jessup MBT",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJG3H",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564,
+          41.475383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/22/2004",
+        "geocache_title": "Let’s go for a “Bike-About” (Much Friendlier)",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJG3W",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70745,
+          41.942183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/22/2004",
+        "geocache_title": "Let’s go for a “Bike-About” (Much Friendlier)",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJG3W",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70745,
+          41.942183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/22/2004",
+        "geocache_title": "Let’s go for a “Bike-About” (Much Friendlier)",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJG3W",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70745,
+          41.942183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/16/2004",
+        "geocache_title": "\"Cardio Event\"",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/16/2004",
+        "geocache_title": "Event Cache \"Cardio Event\"",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/11/2004",
+        "geocache_title": "Herrick Center",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJDRY",
+        "owner": "jkur247",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.519517,
+          41.778133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/11/2004",
+        "geocache_title": "Just Another Swamp",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJCW6",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.521867,
+          41.892067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/11/2004",
+        "geocache_title": "Herrick Center",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJDRY",
+        "owner": "jkur247",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.519517,
+          41.778133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/11/2004",
+        "geocache_title": "Just Another Swamp",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJCW6",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.521867,
+          41.892067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/7/2004",
+        "geocache_title": "Starr-Train Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJBZ4",
+        "owner": "TwoDoux's",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.479517,
+          41.900617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/7/2004",
+        "geocache_title": "Starr-Train Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJBZ4",
+        "owner": "TwoDoux's",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.479517,
+          41.900617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "5/7/2004",
+        "geocache_title": "Starr-Train Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJBZ4",
+        "owner": "TwoDoux's",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.479517,
+          41.900617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/4/2004",
+        "geocache_title": "Little Falls Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJAX9",
+        "owner": "Tyson Sprandel",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.238633,
+          41.316867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "5/4/2004",
+        "geocache_title": "Little Falls Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJAX9",
+        "owner": "Tyson Sprandel",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.238633,
+          41.316867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/19/2004",
+        "geocache_title": "Valley View",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCFB69",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5518,
+          41.478067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/8/2004",
+        "geocache_title": "\"Cardio Event\"",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/8/2004",
+        "geocache_title": "Northward Bound",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHY1R",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645817,
+          41.603467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/8/2004",
+        "geocache_title": "Going to a Mets Game Moving Cache",
+        "state": "Wisconsin",
+        "user": "Rich",
+        "gc_link": "GCD4AD",
+        "owner": "Wild George",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.51935,
+          44.807967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/8/2004",
+        "geocache_title": "Event Cache \"Cardio Event\"",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/8/2004",
+        "geocache_title": "Northward Bound",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHY1R",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645817,
+          41.603467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/8/2004",
+        "geocache_title": "Going to a Mets Game Moving Cache",
+        "state": "Wisconsin",
+        "user": "Zhanna",
+        "gc_link": "GCD4AD",
+        "owner": "Wild George",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.51935,
+          44.807967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/6/2004",
+        "geocache_title": "Cary Mountain",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GC6114",
+        "owner": "Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.574017,
+          41.541567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/6/2004",
+        "geocache_title": "King & Queen of Jermyn",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCJ3NW",
+        "owner": "hawken54",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567033,
+          41.53215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "4/6/2004",
+        "geocache_title": "King & Queen of Jermyn",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCJ3NW",
+        "owner": "hawken54",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567033,
+          41.53215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "4/5/2004",
+        "geocache_title": "Pocono Cold Air Cave",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC9173",
+        "owner": "Zhanna & Rich in NEPA",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122267,
+          40.963633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/27/2004",
+        "geocache_title": "\"Cardio Event\"",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/27/2004",
+        "geocache_title": "\"Cardio Event\"",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/27/2004",
+        "geocache_title": "Event Cache \"Cardio Event\"",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/27/2004",
+        "geocache_title": "Event Cache \"Cardio Event\"",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/23/2004",
+        "geocache_title": "Box of blues",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHZ1X",
+        "owner": "olbluesguy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.897983,
+          41.251767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/23/2004",
+        "geocache_title": "Box of blues",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHZ1X",
+        "owner": "olbluesguy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.897983,
+          41.251767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/20/2004",
+        "geocache_title": "Northward Bound",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHY1R",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645817,
+          41.603467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/20/2004",
+        "geocache_title": "\"Cardio Event\"",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/20/2004",
+        "geocache_title": "Southward Bound",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHY1W",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6816,
+          41.672267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/20/2004",
+        "geocache_title": "Event Cache \"Cardio Event\"",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/20/2004",
+        "geocache_title": "Southward Bound",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHY1W",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6816,
+          41.672267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/20/2004",
+        "geocache_title": "Northward Bound",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHY1R",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645817,
+          41.603467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/16/2004",
+        "geocache_title": "\"Cardio Event\"",
+        "state": "New York",
+        "user": "Rich",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "3/16/2004",
+        "geocache_title": "Event Cache \"Cardio Event\"",
+        "state": "New York",
+        "user": "Zhanna",
+        "gc_link": "GCHX8X",
+        "owner": "Green Mountain Bike Club",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803367,
+          42.066867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/15/2004",
+        "geocache_title": "Southward Bound",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHY1W",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6816,
+          41.672267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "3/15/2004",
+        "geocache_title": "Northward Bound",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHY1R",
+        "owner": "Holth",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645817,
+          41.603467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/14/2004",
+        "geocache_title": "Sasha's Cache",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHHNT",
+        "owner": "Team Lyons",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.412483,
+          40.819183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/14/2004",
+        "geocache_title": "Sasha's Cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHHNT",
+        "owner": "Team Lyons",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.412483,
+          40.819183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/7/2004",
+        "geocache_title": "Compass Course 101",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHQC8",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.898133,
+          41.343617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "3/7/2004",
+        "geocache_title": "Compass Course 101",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHQC8",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.898133,
+          41.343617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "2/29/2004",
+        "geocache_title": "Compass Course 101",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHQC8",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.898133,
+          41.343617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "2/29/2004",
+        "geocache_title": "Compass Course 101",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHQC8",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.898133,
+          41.343617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "2/28/2004",
+        "geocache_title": "Compass Course 101",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHQC8",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.898133,
+          41.343617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Didn't find it",
+        "date": "2/28/2004",
+        "geocache_title": "Compass Course 101",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHQC8",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.898133,
+          41.343617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/19/2004",
+        "geocache_title": "Another Swamp",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHHGC",
+        "owner": "GMBC",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694483,
+          41.924133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/19/2004",
+        "geocache_title": "Another Swamp",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHHGC",
+        "owner": "GMBC",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694483,
+          41.924133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/11/2004",
+        "geocache_title": "Old Iron",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHEVZ",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.924083,
+          41.297067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/11/2004",
+        "geocache_title": "Going to a Mets Game Moving Cache",
+        "state": "Wisconsin",
+        "user": "Rich",
+        "gc_link": "GCD4AD",
+        "owner": "Wild George",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.51935,
+          44.807967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/11/2004",
+        "geocache_title": "Old Iron",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHEVZ",
+        "owner": "IMLost",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.924083,
+          41.297067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/11/2004",
+        "geocache_title": "Going to a Mets Game Moving Cache",
+        "state": "Wisconsin",
+        "user": "Zhanna",
+        "gc_link": "GCD4AD",
+        "owner": "Wild George",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.51935,
+          44.807967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/9/2004",
+        "geocache_title": "Rock Garden",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHF9T",
+        "owner": "Wife With Waterboy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2683,
+          40.890933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "1/9/2004",
+        "geocache_title": "Rock Garden",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCHF9T",
+        "owner": "Wife With Waterboy",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2683,
+          40.890933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/31/2003",
+        "geocache_title": "Rat Fink II",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCHCQ3",
+        "owner": "tweedking",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.632933,
+          41.204983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Write note",
+        "date": "12/28/2003",
+        "geocache_title": "Twin Bridges: Marina's birthday cache",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GC2D00",
+        "owner": "Zhanna and Aaron",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682533,
+          41.475367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/10/2003",
+        "geocache_title": "Shades of the past.",
+        "state": "Pennsylvania",
+        "user": "Rich",
+        "gc_link": "GCH7V9",
+        "owner": "Team Dakota & Cheyenne",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88025,
+          41.252167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "log_type": "Found it",
+        "date": "12/10/2003",
+        "geocache_title": "Shades of the past.",
+        "state": "Pennsylvania",
+        "user": "Zhanna",
+        "gc_link": "GCH7V9",
+        "owner": "Team Dakota & Cheyenne",
+        "post_id": "",
+        "website notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88025,
+          41.252167
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "log_type": "Found it",
         "date": "11/30/2003",
-        "geocache_title": "Virtual Cache Fly Like an Eagle",
+        "geocache_title": "Fly Like an Eagle",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCCE81",
@@ -930,7 +2610,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "9/3/2003",
-        "geocache_title": "Virtual Cache Hometown Tour Virtual Cache",
+        "geocache_title": "Hometown Tour Virtual Cache",
         "state": "Delaware",
         "user": "Zhanna",
         "gc_link": "GC4577",
@@ -2694,7 +4374,7 @@
       "properties": {
         "log_type": "Write note",
         "date": "5/1/2003",
-        "geocache_title": "Event Cache Red Rock and Rolls!",
+        "geocache_title": "Red Rock and Rolls!",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCD737",
@@ -2715,7 +4395,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "4/26/2003",
-        "geocache_title": "Virtual Cache That's Progress?!?",
+        "geocache_title": "That's Progress?!?",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC465E",
@@ -2778,7 +4458,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "4/17/2003",
-        "geocache_title": "Webcam Cache * Surfing in Scranton * - Webcam Cache",
+        "geocache_title": "* Surfing in Scranton * - Webcam Cache",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCFAC2",
@@ -3639,7 +5319,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "1/25/2003",
-        "geocache_title": "Virtual Cache Covered Bridge Tour of Berks County",
+        "geocache_title": "Covered Bridge Tour of Berks County",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCC85A",
@@ -3702,7 +5382,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "1/18/2003",
-        "geocache_title": "Virtual Cache CCC4: Let me in",
+        "geocache_title": "CCC4: Let me in",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCA00D",
@@ -3723,7 +5403,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "1/18/2003",
-        "geocache_title": "Virtual Cache CCC1: No way!",
+        "geocache_title": "CCC1: No way!",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC8F81",
@@ -3744,7 +5424,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "1/18/2003",
-        "geocache_title": "Virtual Cache America's Favorite Cookies",
+        "geocache_title": "America's Favorite Cookies",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC65B5",
@@ -3765,7 +5445,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "1/18/2003",
-        "geocache_title": "Virtual Cache Colonial Martyr",
+        "geocache_title": "Colonial Martyr",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC7B88",
@@ -3786,7 +5466,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "1/18/2003",
-        "geocache_title": "Virtual Cache Big Ben",
+        "geocache_title": "Big Ben",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCA660",
@@ -3996,7 +5676,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "12/24/2002",
-        "geocache_title": "Virtual Cache Scranton Scramble",
+        "geocache_title": "Scranton Scramble",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCB769",
@@ -4206,7 +5886,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "12/8/2002",
-        "geocache_title": "Virtual Cache Whispering Pines",
+        "geocache_title": "Whispering Pines",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GCA72E",
@@ -4857,7 +6537,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "11/8/2002",
-        "geocache_title": "Virtual Cache Mickey's Tribute to his Mrs.",
+        "geocache_title": "Mickey's Tribute to his Mrs.",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GCA3D7",
@@ -4899,7 +6579,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "11/3/2002",
-        "geocache_title": "Virtual Cache Port Jervis Two-Step",
+        "geocache_title": "Port Jervis Two-Step",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC9090",
@@ -4920,7 +6600,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "11/3/2002",
-        "geocache_title": "Virtual Cache Epicenter",
+        "geocache_title": "Epicenter",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GCA189",
@@ -4941,7 +6621,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "11/3/2002",
-        "geocache_title": "Virtual Cache Round Robin",
+        "geocache_title": "Round Robin",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC9091",
@@ -5151,7 +6831,7 @@
       "properties": {
         "log_type": "Write note",
         "date": "10/20/2002",
-        "geocache_title": "Virtual Cache Almost a Driveby",
+        "geocache_title": "Almost a Driveby",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC7E9D",
@@ -5340,7 +7020,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "10/14/2002",
-        "geocache_title": "Virtual Cache PP3: Gone Fishin'",
+        "geocache_title": "PP3: Gone Fishin'",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC2C1F",
@@ -5760,7 +7440,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "9/28/2002",
-        "geocache_title": "Letterbox Hybrid Bumblebee from Tennessee",
+        "geocache_title": "Bumblebee from Tennessee",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC4D74",
@@ -5781,7 +7461,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "9/28/2002",
-        "geocache_title": "Virtual Cache Walkin' through the park ...",
+        "geocache_title": "Walkin' through the park ...",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC4F22",
@@ -5802,7 +7482,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "9/28/2002",
-        "geocache_title": "Virtual Cache Really Big Show",
+        "geocache_title": "Really Big Show",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC5A40",
@@ -5823,7 +7503,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "9/28/2002",
-        "geocache_title": "Letterbox Hybrid Flowers from Tennessee",
+        "geocache_title": "Flowers from Tennessee",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC4D80",
@@ -5844,7 +7524,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "9/28/2002",
-        "geocache_title": "Letterbox Hybrid Central Park, Rowboat Lake.",
+        "geocache_title": "Central Park, Rowboat Lake.",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC6ACC",
@@ -5865,7 +7545,7 @@
       "properties": {
         "log_type": "Didn't find it",
         "date": "9/28/2002",
-        "geocache_title": "Letterbox Hybrid Water (from Tennessee)",
+        "geocache_title": "Water (from Tennessee)",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC4D76",
@@ -5886,7 +7566,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "9/28/2002",
-        "geocache_title": "Virtual Cache Busman's Holiday",
+        "geocache_title": "Busman's Holiday",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC832C",
@@ -6810,7 +8490,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "8/18/2002",
-        "geocache_title": "Virtual Cache Woodstock",
+        "geocache_title": "Woodstock",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC4028",
@@ -7062,7 +8742,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "8/13/2002",
-        "geocache_title": "Virtual Cache Almost a Driveby",
+        "geocache_title": "Almost a Driveby",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC7E9D",
@@ -7146,7 +8826,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "8/11/2002",
-        "geocache_title": "Virtual Cache Cactus Cliffs",
+        "geocache_title": "Cactus Cliffs",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC79C9",
@@ -7167,7 +8847,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "8/11/2002",
-        "geocache_title": "Virtual Cache Port Jervis North",
+        "geocache_title": "Port Jervis North",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC661F",
@@ -7440,7 +9120,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "8/1/2002",
-        "geocache_title": "Virtual Cache Dyberry High",
+        "geocache_title": "Dyberry High",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC78BD",
@@ -8721,7 +10401,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "5/26/2002",
-        "geocache_title": "Virtual Cache ANDREA'S CHARM",
+        "geocache_title": "ANDREA'S CHARM",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC15C6",
@@ -8994,7 +10674,7 @@
       "properties": {
         "log_type": "Didn't find it",
         "date": "5/19/2002",
-        "geocache_title": "Virtual Cache ANDREA'S CHARM",
+        "geocache_title": "ANDREA'S CHARM",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC15C6",
@@ -10065,7 +11745,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "3/30/2002",
-        "geocache_title": "Virtual Cache Central Park Guardian (Virtual)",
+        "geocache_title": "Central Park Guardian (Virtual)",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC3CFC",
@@ -10086,7 +11766,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "3/30/2002",
-        "geocache_title": "Virtual Cache 4x per Annum",
+        "geocache_title": "4x per Annum",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC40BE",
@@ -10233,7 +11913,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "3/23/2002",
-        "geocache_title": "Virtual Cache The Long and Winding Road",
+        "geocache_title": "The Long and Winding Road",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC3AD0",
@@ -10506,7 +12186,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "2/24/2002",
-        "geocache_title": "Virtual Cache Bridge Over Troubled Water",
+        "geocache_title": "Bridge Over Troubled Water",
         "state": "Pennsylvania",
         "user": "Zhanna",
         "gc_link": "GC3768",
@@ -10611,7 +12291,7 @@
       "properties": {
         "log_type": "Found it",
         "date": "2/16/2002",
-        "geocache_title": "Virtual Cache Washington Square Park",
+        "geocache_title": "Washington Square Park",
         "state": "New York",
         "user": "Zhanna",
         "gc_link": "GC37FC",
