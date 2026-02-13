@@ -17,6 +17,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
 
 <style>
+  .leaflet-control-layers {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+
+  .leaflet-control-layers-scrollbar {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+
   .timeline-control {
     font-size: 13px;
   }
@@ -117,11 +127,11 @@
         let date = new Date(feature.properties.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
         marker.bindPopup(`
-      <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
-      User: ${feature.properties.user}<br>
-      Type: ${feature.properties.log_type}<br>
-      Date: ${date}
-    `);
+          <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
+          User: ${feature.properties.user}<br>
+          Type: ${feature.properties.log_type}<br>
+          Date: ${date}
+        `);
 
         allMarkers.push(marker);
         return marker;
@@ -146,28 +156,32 @@
       typeLayers[f.properties.log_type] ??= L.layerGroup();
     });
 
-    /* ------------------ Set up grouped control ------------------ */
-
-    const groupedOverlays = {
-      "Users": userLayers,
-      "Log Types": typeLayers
-    };
-
-    L.control.groupedLayers(
-      objBasemaps,
-      groupedOverlays,
-      { collapsed: true }
-    ).addTo(map);
-
     /* ------------------ Manage filter state ------------------ */
 
+    const defaultTypes = new Set([  // Start with most common log types checked/shown on map
+      "Found it",
+      "Write note",
+      "Didn't find it"
+    ]);
+
     // Add dummy layers to map so checkboxes show as checked
-    Object.values(userLayers).forEach(layer => map.addLayer(layer));
-    Object.values(typeLayers).forEach(layer => map.addLayer(layer));
+    Object.entries(userLayers).forEach(([name, layer]) => {
+      map.addLayer(layer);
+    });
+
+    // Types: only some checked by default
+    Object.entries(typeLayers).forEach(([name, layer]) => {
+      if (defaultTypes.has(name)) {
+        map.addLayer(layer);   // checked
+      }
+      // else: leave it off (unchecked)
+    });
 
     // Initialize filter state
     const activeUsers = new Set(Object.keys(userLayers));
-    const activeTypes = new Set(Object.keys(typeLayers));
+    const activeTypes = new Set(
+      Object.keys(typeLayers).filter(t => defaultTypes.has(t))
+    );
 
     /* ------------------ Create AND filter ------------------ */
 
@@ -192,6 +206,91 @@
         map.fitBounds(clusterGroup.getBounds(), { padding: [150, 150] });
       }
     }
+
+    /* ------------------ Set up grouped control ------------------ */
+
+    function computeSortedTypeOrder() {
+      const typeCounts = getTypeCounts();
+
+      return Object.keys(typeLayers).sort((a, b) => {
+        return (typeCounts[b] || 0) - (typeCounts[a] || 0);
+      });
+    }
+
+    function preventMapScrollOnControl(control) {
+      const container = control.getContainer();
+      if (!container) return;
+
+      // Prevent map zoom/pan when interacting with the control
+      L.DomEvent.disableScrollPropagation(container);
+      L.DomEvent.disableClickPropagation(container);
+
+      // Also prevent touch scroll from moving the map
+      L.DomEvent.on(container, 'wheel', L.DomEvent.stopPropagation);
+      L.DomEvent.on(container, 'mousewheel', L.DomEvent.stopPropagation);
+      L.DomEvent.on(container, 'touchstart', L.DomEvent.stopPropagation);
+      L.DomEvent.on(container, 'touchmove', L.DomEvent.stopPropagation);
+    }
+
+    let groupedControl = null;
+
+    function rebuildGroupedControl(sortedTypes) {
+      // Remember whether the control is currently expanded
+      let wasExpanded = false;
+
+      if (groupedControl) {
+        const container = groupedControl.getContainer();
+        if (container && container.classList.contains('leaflet-control-layers-expanded')) {
+          wasExpanded = true;
+        }
+        map.removeControl(groupedControl);
+      }
+
+      const orderedTypeLayers = {};
+      sortedTypes.forEach(t => {
+        orderedTypeLayers[t] = typeLayers[t];
+      });
+
+      const orderedUserLayers = {};
+      Object.keys(userLayers).forEach(u => {
+        orderedUserLayers[u] = userLayers[u];
+      });
+
+      const groupedOverlays = {
+        "Users": orderedUserLayers,
+        "Log Types": orderedTypeLayers
+      };
+
+      groupedControl = L.control.groupedLayers(
+        objBasemaps,
+        groupedOverlays,
+        { collapsed: true }
+      ).addTo(map);
+
+      preventMapScrollOnControl(groupedControl);
+
+      // Restore expanded state if it was open before
+      if (wasExpanded) {
+        const newContainer = groupedControl.getContainer();
+        if (newContainer) {
+          newContainer.classList.add('leaflet-control-layers-expanded');
+        }
+      }
+    }
+
+    lastTypeOrder = computeSortedTypeOrder();
+    rebuildGroupedControl(lastTypeOrder);
+
+    function maybeRebuildGroupedControl() {
+      const newOrder = computeSortedTypeOrder();
+
+      if (!lastTypeOrder || newOrder.join('|') !== lastTypeOrder.join('|')) {
+        lastTypeOrder = newOrder.slice(); // store a copy
+        rebuildGroupedControl(newOrder);
+      }
+    }
+
+
 
     /* ------------------ Timeline control (inside map) ------------------ */
 
@@ -295,21 +394,43 @@
       });
     }
 
+    function getTypeCounts() {
+      const counts = {};
+
+      allMarkers.forEach(m => {
+        const { user, type } = m.meta;
+
+        // Respect current AND filters (optional)
+        if (activeUsers.has(user)) {
+          counts[type] = (counts[type] || 0) + 1;
+        }
+      });
+
+      return counts;
+    }
+
     /* ------------------ Control events ------------------ */
 
-    map.on('overlayadd', e => {                       // Fires when a checkbox is checked
-      if (userLayers[e.name]) activeUsers.add(e.name);
-      if (typeLayers[e.name]) activeTypes.add(e.name);
-      applyFilters();
-      updateCounts();
-    });
+    function onOverlayChange(e, added) {
+      if (userLayers[e.name]) {
+        added ? activeUsers.add(e.name) : activeUsers.delete(e.name);
+      }
+      if (typeLayers[e.name]) {
+        added ? activeTypes.add(e.name) : activeTypes.delete(e.name);
+      }
 
-    map.on('overlayremove', e => {                    // Fires when a checkbox is unchecked
-      if (userLayers[e.name]) activeUsers.delete(e.name);
-      if (typeLayers[e.name]) activeTypes.delete(e.name);
       applyFilters();
       updateCounts();
-    });
+
+      // Only rebuild if sort order actually changed
+      setTimeout(() => {
+        maybeRebuildGroupedControl();
+      }, 0);
+    }
+
+    map.on('overlayadd', e => onOverlayChange(e, true));
+    map.on('overlayremove', e => onOverlayChange(e, false));
+
 
     /* ------------------ Initial map draw ------------------ */
 
