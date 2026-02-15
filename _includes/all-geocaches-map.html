@@ -126,11 +126,14 @@
 
         let date = new Date(feature.properties.date).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
+        const loglink = `${feature.properties.log_link}`;
+
         marker.bindPopup(`
           <strong><a href="https://www.geocaching.com/geocache/${feature.properties.gc_link}" target="_blank">${feature.properties.geocache_title}</a></strong><br>
           User: ${feature.properties.user}<br>
           Type: ${feature.properties.log_type}<br>
-          Date: ${date}
+          Date: ${date}<br>
+          <strong><a href="${loglink}" target="_blank">View Log</a></strong>
         `);
 
         allMarkers.push(marker);
