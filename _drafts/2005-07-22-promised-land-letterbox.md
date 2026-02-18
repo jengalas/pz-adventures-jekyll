@@ -17,19 +17,19 @@ galleries:
     suffix: cs
     images: 
     - filename: P7220070
-      alt: 
+      alt: Mountain laurel abounds here
     - filename: P7220082
-      alt:      
+      alt: This reminded me of a large mammal skeleton.     
     - filename: P7220091
-      alt: 
+      alt: Stamping in, and writing a brief note
     - filename: P7220093
-      alt:  
+      alt: The letterbox 
     - filename: P7220107
-      alt: 
+      alt: Blooming lily
     - filename: P7220109
-      alt:   
+      alt: Fungal decorations  
     - filename: P7220111
-      alt:                                                                          
+      alt: Along the Conservation Island Trail                                                                         
 ---    
 
 
