@@ -16,14 +16,16 @@ galleries:
   gallery1:
     suffix: cs
     images: 
-    - filename: 
-      alt: 
+    - filename: stamped-notebook
+      alt: Today's location and stamp
     - filename: 
       alt:                                                            
 ---    
 
 
 http://www.letterboxing.info/box/silentdoug/pantherswamp.php
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 (See UpNote for formatted details)
 
