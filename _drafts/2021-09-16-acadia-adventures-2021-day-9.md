@@ -24,7 +24,7 @@ After breakfast we took a slow stroll along the Shore Path, something we traditi
 
 The Shore Path wasn't overly busy today and we had opportunities to take a few photos and explore the rocks, plantings, and homes and inns along the route. I met another woman with a "real camera" while we walked around the cobbles on the beach. I tried to photograph the balance rock and small sea stack. Rich and dad spotted a woman with a tiny dog in a backpack carrier and two more in a baby stroller. 
 
-After our walk and checking out the menu at Havana (still the nice summer menu) we split up for a few hours because Dad wanted to take the Park Loop Road bus around the park, and Rich wanted to check out the Acadia Outdoors store downtown. When we pased by Peekytoe Provisions, I spotted Karen from the Flowered Apron bakery delivering her goodies. She confirmed that she will be open Saturday morning with lots of goodies including lemon bars, lemon-blueberry cake, apple walnut cake, and more. 
+After our walk and checking out the menu at Havana (still the nice summer menu) we split up for a few hours because Dad wanted to take the Park Loop Road bus around the park, and Rich wanted to check out the Acadia Outdoors store downtown. When we passed by Peekytoe Provisions, I spotted Karen from the Flowered Apron bakery delivering her goodies. She confirmed that she will be open Saturday morning with lots of goodies including lemon bars, lemon-blueberry cake, apple walnut cake, and more. 
 
 We didn't find much exciting at the shop, but we checked out Paddy's because I was interested in finding out whether they were open all afternoon or closed between lunch and supper. They are open straight through from noon-9pm, so no problems there.
 

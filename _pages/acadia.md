@@ -9,7 +9,9 @@ grid_items:
     link: /travel/acadia/2023  
   - image_filename: 2022/09/17/thumbnails/P1063233-Panocsm.jpg
     year: 2022
-    link: /travel/acadia/2022  
+  - image_filename: 2021/09/11/thumbnails/P1025321csm.jpg
+    year: 2021  
+    link: /travel/acadia/2021 
   - image_filename: 2019/09/06/thumbnails/P1070974csm.jpg
     year: 2019
     link: /travel/acadia/2019
