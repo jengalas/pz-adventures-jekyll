@@ -36,7 +36,7 @@ Our main courses were beef, which is unusual for us, but it's perfectly done her
 
 All of the food is so good, and filling/satisfying but not overly rich; just perfect. We even had room for dessert, one that we had picked out beforehand, a coconut mango mousse cake! It was as good as it sounds. It even came with what Rich called "coconut toenails" on top (large coconut flakes that did indeed resemble toenails). Rich mentioned this jokingly to the server, who caught on immediately and said "Did you say toenails? Yeah, I see what you mean ..._you_ can use that verbiage, but I'm not going to!" But it occurred to me that for the rest of the evening, every time he brings out one of those desserts, he's going to be thinking about toenails.
 
-After finishing up, we took a slow walk back to the room - it's chilly now - stopping only to check out the menu at the new hotel in town (Pathmaker). It is a small menu that looks moderately interesting. We may try it sometime.
+After finishing up, we took a slow walk back to the room - it's chilly now - stopping only to check out the menu at the new hotel in town (The Pathmaker). It is a small menu that looks moderately interesting. We may try it sometime.
 
 I tried a few times but I wasn't able to reach Dinner on the phone, so I ran down to the restaurant to make a reservation in person. We're set for Sunday evening at 5:15. Unfortunately we couldn't get either of the two window tables; both were already reserved until 7:30pm. So we took the only remaining table, which is right in the center. Hopefully it will work out OK.
 
