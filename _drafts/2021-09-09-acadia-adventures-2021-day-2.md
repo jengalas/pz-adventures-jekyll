@@ -18,22 +18,22 @@ galleries:
     suffix: cvx
     images:
     - filename: P1025163
-      alt:     
+      alt: Inside A Slice of Eden bakery    
     - filename: P1025165
-      alt:       
+      alt: COVID protocols on display      
   gallery2:
     suffix: cvx
     images:
     - filename: P1025180-Edit
-      alt:     
+      alt: Gotta have a pint or two at Paddy's!    
     - filename: P1025191
-      alt:      
+      alt: We had a nice quiet table for lunch.     
     - filename: P1025202
-      alt:     
+      alt: Plenty of food to go around!  
     - filename: P1025198
-      alt:      
+      alt: The giant Wexford fish sandwich     
     - filename: P1025193
-      alt:            
+      alt: A hearty burger             
 ---
 
 
@@ -49,7 +49,7 @@ By now it was 7:30am, and we knew we had a long wait before our room would be re
 
 We drove by the hotel and seeing that there was still someone in our parking spot, decided to continue on and go to the visitor center. There are some big changes there for this year, like the ranger stations where you ask questions and get park passes is now outside, and the gift shop area is only accessible from outside and has limited occupancy. The restrooms are accessible and I was surprised to find no one else inside when I used them, and that they were absolutely immaculate. We got our park pass and then decided to drive the park loop road.
 
-{% include image.html filename="P1025170cvx.jpg" thumb="P1025170b.jpg" caption="" %}
+{% include image.html filename="P1025170cvx.jpg" thumb="P1025170b.jpg" caption="Changes at the visitors center" %}
 
 It was a gorgeous morning for the drive, at least at the beginning, and there wasn't too much traffic. We drove the loop [direction] passing Cadillac Mountain with their new reservations system near the end. There were a few spots of rain, some heavy, but the drive was mostly dry, just cloudy. 
 
