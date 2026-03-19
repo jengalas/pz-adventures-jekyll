@@ -4,11 +4,18 @@ permalink: /travel/acadia/
 title: Travel > Acadia
 grid_items:
   cards:
+  - image_filename: 2025/09/16/thumbnails/P9161678csm.jpg
+    year: 2025
+    link: /travel/acadia/2025
+  - image_filename: 2024/09/12/thumbnails/P9120955csm.jpg
+    year: 2024
+    link: /travel/acadia/2024    
   - image_filename: 2023/09/15/thumbnails/P1079448csm.jpg
     year: 2023
     link: /travel/acadia/2023  
   - image_filename: 2022/09/17/thumbnails/P1063233-Panocsm.jpg
     year: 2022
+    link: /travel/acadia/2022
   - image_filename: 2021/09/11/thumbnails/P1025321csm.jpg
     year: 2021  
     link: /travel/acadia/2021 

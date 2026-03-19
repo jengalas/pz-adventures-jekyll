@@ -8,7 +8,7 @@ categories:
   - '2024'
   - hiking
 geocaches: false
-surveymarks: true
+surveymarks: false
 tracklog: 13SEP24.gpx
 post_id: 14390
 layout: post

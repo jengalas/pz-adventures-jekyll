@@ -15,31 +15,31 @@ galleries:
     suffix: cvx
     images:
     - filename: P1100160
-      alt:     
+      alt: Everything sounds good!    
     - filename: P1100161
-      alt:   
+      alt: So much to choose from
     - filename: P1100152
-      alt:    
+      alt: Trying to decide   
     - filename: P1100168
-      alt:  
+      alt: Oh, no, how can I resist?! 
     - filename: P1100169
-      alt:       
+      alt: Evening crowd at the diner      
     - filename: P1100165
-      alt:    
+      alt: More temptation   
     - filename: P1100151
-      alt:        
+      alt: Colorful and cheerful       
     - filename: P1100180
-      alt:    
+      alt: I'm ready to eat!   
     - filename: P1100176
-      alt:   
+      alt: Checking out the pastry case ...  
     - filename: P1100183
-      alt:       
+      alt: Veggie Quesadilla       
     - filename: P1100190
-      alt:   
+      alt: Florentine Eggs Benedict  
     - filename: P1100187
-      alt:                                    
+      alt: This will keep us full until tomorrow morning.                                   
     - filename: P1100203
-      alt: 
+      alt: The Vernon Diner at night
 ---
 
 This year we wanted to test out an earlier departure time, so we left home around 3:15pm. Surprisingly this worked out well for the first half of the trip, which took us to Vernon Center in Connecticut. We arrived there just before 7:30pm, so we were early enough to take our pick of places to get a bite to eat, rather than being relegated to Burger King, which is the only place we could find that's open past 10:00pm (and we arrived well after that time last year). 
@@ -50,4 +50,4 @@ Rich got the veggie quesadillas, a huge tomato tortilla filled with cheddar and 
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-You might expect that the traffic would lighten up as the night went on ... unfortunately, it didn't really get all that much better. The main issue was the abundance of night roadwork on I-90, I-290, and I-495 (my most hated road, I have to say every year). The delays weren't very long, but there were a few areas where three or four lanes had to merge into one with very little warning, and it's heart-stopping to have all these CT and MA wackos flying by and around you with inches to spare at 75mph. Needless to say we were pretty fried by the time we reached the Kittery rest area just after 11:00pm. We cleaned up a bit, put on our eye shades, and had a moderately restful doze until morning.
+You might expect that the traffic would lighten up as the night went on ... unfortunately, it didn't really get all that much better. The main issue was the abundance of night roadwork on I-90, I-290, and I-495 (my most hated road, I have to say every year). The delays weren't very long, but there were a few areas where three or four lanes had to merge into one with very little warning, and it's heart-stopping to have all wacko New England drivers flying by and around you with inches to spare at 75mph. Needless to say we were pretty fried by the time we reached the Kittery rest area just after 11:00pm. We cleaned up a bit, put on our eye shades, and had a moderately restful doze until morning.

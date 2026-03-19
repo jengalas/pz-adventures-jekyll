@@ -153,7 +153,7 @@ On the way back, I noticed a few things I had missed on my first pass by: an Aca
 
 {% include tracklog.html %}
 
-I kept hoping the entire time that we would have come across a snake. We didn't see any along the old road, but not 30 seconds after we were discussing the DOR snake we saw a few years ago on nearby Stanley Brook Road, Rich noticed and pointed out a DOR ring-necked snake, right in the middle of Stable Lane. The poor thing was flattened, with part of his orange belly showing, nearly flush with the pavement but still somewhat soft to the touch. Heartbreaking! He was a beautiful long snake, too, 12 to 14 inches, and vibrant. I wore my snake pendant to dinner tonight in honor and memory of the poor little snake we found, a bit too late.
+I kept hoping the entire time that we would have come across a snake. We didn't see any along the old road, but not 30 seconds after we were discussing the DOR snake we saw a few years ago on nearby Stanley Brook Road, Rich noticed and pointed out a DOR (dead on the road) ring-necked snake, right in the middle of Stable Lane. The poor thing was flattened, with part of his orange belly showing, nearly flush with the pavement but still somewhat soft to the touch. Heartbreaking! He was a beautiful long snake, too, 12 to 14 inches, and vibrant. I wore my snake pendant to dinner tonight in honor and memory of the poor little snake we found, a bit too late.
 
 {% include gallery.html gallery_id="gallery7" class="" %}
 

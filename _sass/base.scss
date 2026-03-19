@@ -1,5 +1,8 @@
 @use 'sass:color';
 @use 'vars' as *;
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 html {
   scroll-behavior: smooth;
   scroll-padding-top: $headerHeight; /* height of sticky header */
@@ -7,7 +10,6 @@ html {
 
 body {
   background: $bodyBackgroundColor;
-  box-sizing: border-box;
   color: $bodyColor;
   font-family: $bodyFont;
   font-size: $bodyFontSize;

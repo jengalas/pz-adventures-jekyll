@@ -153,7 +153,7 @@ When I returned to the spot, I still couldn't find any trees that matched up wit
 
 Next up was one of the old K-series USGS bench mark disks. We really enjoy finding these, and we have found most of the "K" marks around the island over the years. Somehow we had missed this one in the past (as in, we were simply unaware of it). In reading the description and recent recoveries, it sounded easy enough to find. Rich pulled the car over right in front of the Southwest Harbor Town Line sign. We immediately spotted utility pole #111, as mentioned in the description. I crossed the highway and plunged uphill into the woods—quite easy walking once you get past the thicket of weeds in the roadside ditch. Immediately I could see the witness sign placed by JRO in 2018 straight in front of me, about 70 feet or so. The disk was apparent on the ledge right behind the sign. 
 
-{% include gallery.html gallery_id="gallery4" class="" %}
+{% include gallery.html gallery_id="gallery4" class="2by2" %}
 
 Our third find along today's Route 102 benchmark run was A 145, and it was the easiest find of the day. We pulled off the road right before the mailbox for #180, and I could see the boulder (and the disk on top of it) all the way from the road. I was a little concerned because it was so close to the house, but there were no vehicles in the driveway and the house was dark, although I spotted a few open windows. I was able to photograph the mark without incident.
 
