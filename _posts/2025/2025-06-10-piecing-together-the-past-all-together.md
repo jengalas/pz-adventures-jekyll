@@ -13,7 +13,9 @@ layout: post
 featured_image: piecing-together-the-past-puzzlecvx.jpg    
 ---
 
-“Piecing Together the Past” was a unique geocache hunt with twelve separate geocaches to locate. Inside each one were puzzle pieces, each design unique to the particular geocache it was found in. Collect one puzzle piece from each cache and at the end, put them together inside a frame obtained from Steamtown National Historic Site to complete the journey. While I had some quibbles with a few of the locations and the apparent attitude of the geocache hider, it nevertheless was a welcome diversion during the otherwise difficult summer of 2017, and a fun way to learn more about our area's history.
+“Piecing Together the Past” was a unique geocache hunt with twelve separate geocaches to locate. Inside each one were puzzle pieces, each design unique to the particular geocache it was found in. Collect one puzzle piece from each cache and at the end, put them together inside a frame obtained from Steamtown National Historic Site to complete the journey. 
+
+While I had some quibbles with a few of the locations and the apparent attitude of the geocache hider, it nevertheless was a welcome diversion during the otherwise difficult summer of 2017, and a fun way to learn more about our area's history.
 
 Now, eight years later, I came across the completed puzzle and realized that I had never posted about the activity in its entirety. The geocaches are no longer available, so this isn't any kind of a spoiler. Here are links to the geocaches in the order in which I found them:
 
