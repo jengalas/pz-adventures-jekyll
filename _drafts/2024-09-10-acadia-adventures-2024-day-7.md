@@ -95,7 +95,7 @@ galleries:
     suffix: cvx
     images:
     - filename: P9100789
-      alt: "*"      
+      alt: Q 144 RESET (mistakenly stamped Q 114 RESET)      
     - filename: P9100797
       alt: "*"     
     - filename: P9100816
