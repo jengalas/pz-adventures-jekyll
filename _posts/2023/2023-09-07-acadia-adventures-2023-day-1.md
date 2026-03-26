@@ -31,9 +31,6 @@ galleries:
         alt:  
       - filename: P9075304
         alt:  
-      - filename: P9075310
-        alt:        
-    
 ---
 
 One theme for today and this past week (and month) - TIRED! Rich has been suffering from sciatic pain for two weeks and it hasn't improved much in that time.  In the meantime neither of us has been sleeping very well. We planned to leave for Maine very late, around midnight, after sleeping as much as possible during the day. Unfortunately I don't think I got more than 5 minutes' rest last night or today. I had a feeling the long drive was going to be an ordeal.

@@ -6,6 +6,7 @@ categories:
   - travel
   - acadia
   - '2025'
+featured_image: P1100203cvx.jpg 
 geocaches: false
 surveymarks: false
 post_id: 14520

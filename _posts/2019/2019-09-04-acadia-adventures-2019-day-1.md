@@ -9,6 +9,7 @@ categories:
   - '2019'
 excerpt: >-
   The Mooses are heading to Maine!
+featured_image: P1014545clx.jpg  
 geocaches: false
 surveymarks: false
 post_id: 11977
