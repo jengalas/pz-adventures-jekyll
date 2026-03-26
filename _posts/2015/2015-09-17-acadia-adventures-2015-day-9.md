@@ -87,7 +87,7 @@ When we emerged on the road, we took a waypoint at the "trailhead" for future re
 
 ## A very mysterious carved stone
 
-Our final goal for the day was to locate the abandoned "Sweet Waters of Acadia" stone. Most visitors to Acadia have probably seen the boulder near the Sieur de Monts Spring House that is carved with the words "`SWEET WATERS OF ACADIA`." (Makes sense that it's near the spring house, right?!) According to NPS's List of Classified Structures in Acadia ([no. 194](https://hscl.cr.nps.gov/insidenps/report.asp?STATE=ME&PARK=ACAD&STRUCTURE=strath%20eden&SORT=&RECORDNO=193)) the stone was commissioned by George Dorr to be placed at the spring house. There is no mention in any official database or publication that I can find, of _another_ Sweet Waters monument. 
+Our final goal for the day was to locate the abandoned "Sweet Waters of Acadia" stone. Most visitors to Acadia have probably seen the boulder near the Sieur de Monts Spring House that is carved with the words "`SWEET WATERS OF ACADIA`." (Makes sense that it's near the spring house, right?!) According to NPS's List of Classified Structures in Acadia ([MON33](https://web.archive.org/web/20161211043915/http://www.hscl.cr.nps.gov/insidenps/report.asp?STATE=&PARK=&STRUCTURE=&SORT=&RECORDNO=200)) the stone was commissioned by George Dorr to be placed at the spring house. There is no mention in any official database or publication that I can find, of _another_ Sweet Waters monument. 
 
 And yet that's just what we found, half-buried beneath pine debris in open woods just off the Park Loop Road near Sieur de Monts. This semicircular stone contains two engravings: "`SWEET WATERS OF ACADIA`" in English and its translation, "`EAUX DOUCES DE L'ACADIE`," above in French. 
 
