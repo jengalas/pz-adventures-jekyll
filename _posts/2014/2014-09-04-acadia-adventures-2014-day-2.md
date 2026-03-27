@@ -8,12 +8,19 @@ categories:
   - acadia
   - '2014'
   - survey mark hunting
-excerpt: >-
-
+featured_image: P1100357cm.jpg
 geocaches: false
 surveymarks: true
 post_id: 4960
 layout: post   
+galleries:
+  gallery1:
+    suffix: cm
+    images:
+    - filename: P1100343
+      alt:
+    - filename: P1100357
+      alt:        
 ---
 
 <!-- Photos: Bagaduce lunch (2), Bagaduce video, Sunset Acres video. 2 BM photos too, if desired. -->
@@ -25,6 +32,8 @@ Second stop was, much further up the road, Fort Point SP again. We expected it t
 We then continued along Lighthouse Road, past a few seaside "cottages" that we would have loved as a summer home, toward the lighthouse and a different entrance to the state park than we had used in the past. We parked under an apple tree (mmm, the scent of fermenting apples :grimacing:), paid our entrance fee and hiked down toward the pier and beach. To our great delight, the boulder was completely out of the water! With some coaxing, and to the delight of Rich and nearby German tourists, I climbed up on top—we both knew all along that I _would_ eventually do it!—and was able to confirm that the disk was Tidal No. 2. This confirms what we had suspected, but couldn't prove, last year. It still doesn't really help with finding Tidal 3 or 30, though. 
 
 Next was the Bagaduce Lunch!  It was even better than last year. We got a large lobster roll and the huge haddock sandwich ("burger" as they call it). Delicious and filling. Sat out on the pier. Then checked out the reversing falls which this time were going in the opposite direction. Would be great fun to hop in there and pop out on the other side of the bridge!
+
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 Then the goats!  Goats, goats, goats!!!  We just had to stop at Sunset Acres again to see the goats, and goats there were!  Hundreds of goats that came running as soon as they heard one of the babies getting some attention.  This was awesome, getting goat licks and buying some more cheese. I even got a few licks from one of the goat bucks before I was warned not to scratch them or we would be smelling goat for a very long time. Of course, all the way after that Rich was saying "I think I smell goat in here!" (That might have been the little goat baby we put in the back of the car ....)
 

@@ -31,4 +31,4 @@ And that nasty hike was ours to behold! Canon Brook is a truly beautiful trail, 
 
 {% include tracklog.html %}
 
-we went to McKays and had spinach and artichoke dip, lamb burger with feta and olive tapenade, and mushroom sachetti pasta in cream sauce with peas and dried cherries. And plenty of beer after our hike along 2 abandoned trails! Everything was delicious but we were actually too tired to eat, which has never before happened to us in all of recorded m00se-history.
+We went to McKays and had spinach and artichoke dip, lamb burger with feta and olive tapenade, and mushroom sachetti pasta in cream sauce with peas and dried cherries. And plenty of beer after our hike along 2 abandoned trails! Everything was delicious but we were actually too tired to eat, which has never before happened to us in all of recorded m00se-history.

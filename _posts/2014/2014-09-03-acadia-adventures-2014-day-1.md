@@ -7,8 +7,6 @@ categories:
   - travel
   - acadia
   - '2014'
-excerpt: >-
-
 geocaches: false
 surveymarks: false
 post_id: 4958
