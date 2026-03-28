@@ -14,7 +14,13 @@ layout: post
 
 We've expected for several days now that today was going to be a complete rest day due to the weather forecast of all-day heavy rain. And that did occur, both the rain and the resulting rest day. We had our usual quick breakfast of yogurt, muffin, and half a slice of leftover pizza, along with the usual drinks. We braved the chill and sat on the porch to eat, although we didn't last long out there.
 
-The rest of the very rainy day was spent reading and researching and discovering a new abandoned trail to search for near the old (also abandoned) Southwest Valley Road, which we had no luck finding when we tried searching for it from its western end last year. We still might be able to find some sign of it if we search the eastern end. The new trail I discovered on the maps is the McFarland path (or road - it appears to have been a road at some point, later turned into a trail). The only time we left the room this afternoon was for some more tea and coffee, to get a few things out of the back of the car, and at some point I took a quick walk to Hannaford to pick up a few small items we'd forgotten the other day. 
+The rest of the very rainy day was spent reading and researching and discovering a new abandoned trail to search for near the old (also abandoned) Southwest Valley Road, which we had no luck finding when we tried searching for it from its western end last year. We still might be able to find some sign of it if we search the eastern end. The new trail I discovered on the maps is the McFarland path (or road; it appears to have been a road at some point, and later turned into a trail): [#524 in _Pathmakers_](https://archive.org/details/pathmakerscultur00brow/page/266/mode/1up). Although the route description in _Pathmakers_ is a meager 
+
+> From Eagle Lake Road to the summit of Sargent Mountain
+
+the route can be easily followed on the old Path Maps (see the [1911 Path Map](https://www.loc.gov/resource/g3732m.np000033/) for a good example), and it crosses existing carriage roads in several places, so locating whatever remains of it is a possibility.
+
+The only time we left the room this afternoon was for some more tea and coffee, to get a few things out of the back of the car, and at some point I took a quick walk to Hannaford to pick up a few small items we'd forgotten the other day. 
 
 We had been looking forward to our evening meal all day (well, for several days). Although our reservation was for 5:15pm we headed down a bit early, just in case we still might be able to grab our favorite front table. While waiting, we chatted with two women from Phoenix (possibly mother and daughter) and gave them a few restaurant suggestions to try while they are on the island. They didn't have a reservation, but were seated at the bar and hopefully they had a good time and enjoyed their meal.
 
