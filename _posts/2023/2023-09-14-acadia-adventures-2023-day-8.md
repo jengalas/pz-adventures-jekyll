@@ -13,7 +13,7 @@ excerpt: >-
   
 geocaches: false
 surveymarks: false
-tracklog: 14SEP23-wpt.gpx
+tracklog: [14SEP23a.gpx,14SEP23b.gpx]
 post_id: 14140
 layout: post
 galleries:
