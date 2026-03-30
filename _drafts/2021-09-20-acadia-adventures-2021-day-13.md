@@ -43,6 +43,8 @@ We were getting hungry so once we crossed onto the carriage roads, we stopped fo
 
 The only other critter we saw was a frog in a culvert along the carriage roads not too far from our endpoint at Eagle Lake Road. We returned to the car and took our remaining snack (croissant and blueberry hand pie) to a rock at Eagle Lake, right at hts point where the carriage road is closed for construction and storm damage repair, to enjoy them before heading back to town.
 
+{% include tracklog.html %}
+
 As has become customary in recent years, our last night's dinner was at Havana. I had made reservations over a week ago because they were already filling up. We were happy to take the first reservation when they opened at 4pm. We started with two mojitos, as always, and the amuse bouche was a small cucumber slice topped with dill cream sauce and halibut. Like last week, the breads were the multigrain and blueberry cornbread, served with the cinnamon-honey-chive butter, chili oil, and black bean paste.
 
 We wanted something a little different and lighter today, so we opted for two appetizers and one entrée that we split. The appetizers were the mushroom spring rolls, served with aioli and soy glaze, that are one of our long-tie favorites, and for something a little different this time we tried the cheese board. Wow, that was enough for 4 people! Everything was excellent. they brought out a Great Hill blue cheese, brie, cheddar, and tomme, served with crackers and crisps, grapes, strawberries, apple slices, golden raisins, and dried apricots.
