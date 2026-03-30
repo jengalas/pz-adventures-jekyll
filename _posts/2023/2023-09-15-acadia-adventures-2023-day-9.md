@@ -14,7 +14,7 @@ excerpt: >-
   
 geocaches: false
 surveymarks: true
-tracklog: 15SEP23-trk-wpt.gpx
+tracklog: [15SEP23a.gpx,15SEP23b.gpx,15SEP23c.gpx]
 post_id: 14150
 layout: post
 galleries:
