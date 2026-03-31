@@ -8,7 +8,7 @@ categories:
   - '2025'
 geocaches: false
 surveymarks: false
-tracklog: 16SEP25.gpx
+tracklog: [16SEP25a.gpx,16SEP25b.gpx]
 post_id: 14650
 layout: post
 galleries:
