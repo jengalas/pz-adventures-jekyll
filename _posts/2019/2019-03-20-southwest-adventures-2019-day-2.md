@@ -12,7 +12,7 @@ excerpt: "After a long, desperately needed rest, we woke up just after 6:00 this
 featured_image: P1060904clx.jpg
 geocaches: false
 surveymarks: false
-tracklog: 20MAR19.gpx
+tracklog: [20MAR19a.gpx,20MAR19b.gpx]
 post_id: 11167
 layout: post  
 galleries:

@@ -14,7 +14,7 @@ excerpt: >-
   
 geocaches: false
 surveymarks: true
-tracklog: 17SEP23.gpx
+tracklog: [17SEP23a.gpx,17SEP23b.gpx]
 post_id: 14160
 layout: post
 galleries:

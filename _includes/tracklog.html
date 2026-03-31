@@ -44,21 +44,21 @@
   let polygonLLP = L.polygon(latlngsLLP, {});
 
   let lyrME1910Topos = L.esri.imageMapLayer({
-    url: 'https://gis.maine.gov/arcgis/rest/services/imageryBaseMapsEarthCover/topoUsgs24k1910/ImageServer',
+    url: 'https://gis.maine.gov/image/rest/services/Topo/topoUsgs24k1910/ImageServer',
     maxZoom: 16
   });
 
   let lyrME1945Topos = L.esri.imageMapLayer({
-    url: 'https://gis.maine.gov/arcgis/rest/services/imageryBaseMapsEarthCover/topoUsgs24k1945/ImageServer',
+    url: 'https://gis.maine.gov/image/rest/services/Topo/topoUsgs24k1945/ImageServer/',
     maxZoom: 16
   });
 
-  let lyr1903PathMap = L.tileLayer('https://geo.leventhalmap.org/maps/tile/5793/{z}/{x}/{y}.png', {
+  let lyr1903PathMap = L.tileLayer('https://mapwarper.net/maps/tile/103648/{z}/{x}/{y}.png', {
     attribution: "Map reproduction courtesy of the Norman B. Leventhal Map & Education Center at the Boston Public Library",
     maxZoom: 16
   });
 
-  let lyr1911PathMap = L.tileLayer('https://geo.leventhalmap.org/maps/tile/4694/{z}/{x}/{y}.png', {
+  let lyr1911PathMap = L.tileLayer('https://mapwarper.net/maps/tile/103677/{z}/{x}/{y}.png', {
     attribution: "Map reproduction courtesy of the Norman B. Leventhal Map & Education Center at the Boston Public Library",
     maxZoom: 16
   });

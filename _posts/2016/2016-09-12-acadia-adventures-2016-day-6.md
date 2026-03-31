@@ -15,7 +15,7 @@ excerpt: >-
 featured_image: P1070351cl.jpg
 geocaches: false
 surveymarks: true
-tracklog: 12SEP16.gpx
+tracklog: [12SEP16a.gpx,12SEP16b.gpx]
 post_id: 7171
 layout: post                      
 galleries:
