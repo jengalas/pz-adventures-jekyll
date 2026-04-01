@@ -75,6 +75,8 @@ The path looked well-used so we followed it. After a short distance of easy walk
 
 Just before the intersection with that trail, we noticed another trail leading off in roughly the same direction. This is yet another trail that will need to be followed! Maybe it leads to the base of the ledges, the old seastacks? Not sure yet.
 
+{% include tracklog.html %}
+
 And then up came a trail that Rich noticed, leading off to the left. He was hoping we would find a trail leading down to the Champlain monument, and this one did! So cool. We finished our rather convoluted loop by taking the official trail from the monument back out to the Day Mountain trailhead.
 
 {% include gallery.html gallery_id="gallery1" class="" %}

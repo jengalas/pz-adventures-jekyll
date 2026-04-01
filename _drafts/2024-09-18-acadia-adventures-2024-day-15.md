@@ -76,6 +76,8 @@ Because we didn't want to be in their way, we went up to the Day Mountain parkin
 
 ... which, unfortunately, wasn't very far. I will have to check the tracklog, but the trail began to peter out almost immediately after the T-intersection, and within a few hundred feet, once we crossed the park boundary marked by a witness sign and a sturdy bolt, the trail was basically gone. We looked around in several different directions, but there wasn't a hint of a trail anywhere. We suspect that people are keeping the lower part of the old road/trail alive because they're still using it to access the Tilting Rock, but that there is really no reason to use the upper part of the trail, so it has become obscured almost completely.
 
+{% include tracklog.html %}
+
 With that being rather a bust, we turned back to the Tilting Rock. I wanted to see if I could spot any signs of the trail that, according to the 1942 topo map, supposedly passed by the Rock and the headed up the steep slope to the carriage roads. There are little herd paths all over the area, but nothing that really seemed to go anywhere. It's a very steep wall that the trail would need to climb, so it won't be easy to poke around there without a clear idea of where to go. Perhaps getting some solid coordinates from the topo map and then trying again from the carriage road might work better?
 
 {% include gallery.html gallery_id="gallery1" class="" %}

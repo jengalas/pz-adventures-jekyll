@@ -31,6 +31,8 @@ When we were walking back to the bar, and almost there, my father pointed out wh
 
 Walking back along the bar we realized just how hot the day had become under full blazing sun. I borrowed Rich's hat for a few minutes because I hadn't brought one, and had regretted it. We had our sticky buns and blueberry pie waiting for us, so we shared those along with a beer while waiting and resting on the porch for the afternoon.
 
+{% include tracklog.html %}
+
 We had been curious about what was happening with McKays, so I called and to my surprise, got an answer. (Actually I wasn't sure at first because it sounded like the same guy whose voice was on the answering machine.) He was happy to give us a reservation for 5pm. We walked down and joined a line that was already forming (so crazy for September). But we had a decent table in a relatively quiet room, no complaints there or with the others seated there, who were relatively quiet. 
 
 We were all looking for something light to eat, so Dad had caesar salad, Rich had clam chowder and bacon-wrapped scallops, and I had "pappas bravas" (seasoned fingerling potatoes) and the usual McKays salad, which is always very good. Dad had a Narragensett lager to drink, I had the Allagash White, and Rich had the Sebago Runabout Red ale. We passed on dessert because we planned to have something at MDI Ice Cream. Even Dad joined us and had something from there, the strawberry just like R, while I had the tart, refreshing lime-cucumber sorbet.
