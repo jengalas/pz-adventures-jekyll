@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+
+{% if page.posts.size == 1 %}
+  <script>
+    window.location.replace("{{ page.posts.first.url }}");
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url={{ page.posts.first.url }}">
+  </noscript>
+{% endif %}
+
 <section class="category-excerpts">
   <header class="page-header">
     <h1 class="archive-title">{{ page.date | date: "%B %-d, %Y" }}</h1>
