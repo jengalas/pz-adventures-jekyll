@@ -10,7 +10,6 @@ excerpt: >-
 featured_image: 10-63-2034-4g3cm.jpg
 geocaches: false
 surveymarks: true
-tracklog: 28JUN14.gpx
 post_id: 4890
 layout: post
 galleries:

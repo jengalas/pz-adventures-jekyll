@@ -9,7 +9,6 @@ categories:
   - '2023'
 geocaches: false
 surveymarks: false
-tracklog: 08SEP23.gpx
 post_id: 14080
 layout: post
 galleries:

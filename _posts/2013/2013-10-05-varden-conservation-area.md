@@ -10,7 +10,7 @@ excerpt: >-
   Rich and Zhanna check out the Tannery tract of the Varden Conservation area. It was a beautiful fall day for a hike!
 geocaches: false
 surveymarks: true
-tracklog: 05OCT13.gpx
+tracklog: 05OCT13-edit.gpx
 post_id: 10144
 layout: post
 galleries:

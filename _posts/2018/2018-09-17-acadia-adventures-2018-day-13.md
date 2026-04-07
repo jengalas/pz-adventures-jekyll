@@ -10,14 +10,12 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
-excerpt: >-
-  
 featured_image: P1050319clx.jpg
 geocaches: false
 surveymarks: true
 post_id: 11003
 layout: post
-tracklog: 17SEP18.gpx
+tracklog: [17SEP18a.gpx,17SEP18b.gpx]
 galleries:
   gallery1:
     suffix: clx
@@ -102,11 +100,15 @@ We sat and ate ad talked for a while, and then wandered out on the Margaret Todd
 
 {% include gallery.html gallery_id="gallery2" class="" %}
 
-After hiking Hadlock Ponds today, we went in search of 5 survey markers out toward Seal Cove. Only found 1, but found lots of buggy spots and stinging nettles while looking for the others. I still wouldn't trade it for anything! Oh, and we found the entrance to the old Browns Mountain trail. (We'll have to save the hike for next time.) I didn't realize there are two signs for it, very close together!
+After hiking Hadlock Ponds today, we went in search of 5 survey markers out toward Seal Cove. Only found 1, but found lots of buggy spots and stinging nettles while looking for the others. I still wouldn't trade it for anything! 
 
 {% include image.html filename="P1050339clx.jpg" thumb="P1050339b.jpg" caption="NGS Benchmark K 145 (established in 1962), near Seal Cove Pond" %}
 
 {% include gallery.html gallery_id="gallery3" class="" %}
+
+Oh, and we found the entrance to the old Browns Mountain trail. (We'll have to save the hike for next time.) I didn't realize there are two signs for it, very close together!
+
+{% include tracklog.html %}
 
 Dinner at Havana was amazing as always. That place is always perfect! We started with mojitos, bread (multigrain and blueberry cornbread with the assortment of dips: white bean, chili oil and cinnamon honey butter) and the little "treat" of smoked chicken with chipotle on a corn chip. Then we got the usual appetizer: spring rolls stuffed with mushrooms and a soy aioli that melts in your mouth. Best spring rolls I've ever tasted.
 
