@@ -10,7 +10,6 @@ categories:
 excerpt: 
 geocaches: false
 surveymarks: false
-tracklog: 09SEP21.gpx
 post_id: 13223
 layout: post
 galleries:

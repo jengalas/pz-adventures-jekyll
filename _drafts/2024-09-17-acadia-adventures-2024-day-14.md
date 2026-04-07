@@ -8,6 +8,7 @@ categories:
   - '2024'
 geocaches: false
 surveymarks: false
+tracklog: 17SEP24.gpx
 post_id: 14430
 layout: post
 galleries:
@@ -71,6 +72,8 @@ We ended up checking out Grant Park, which we came to this time from Main Street
 It was a hot day with very bright sunlight, and I was feeling very toasty after sitting for a while. So with a huge (3660 passenger) cruise ship looming in the harbor, we headed over into town so I could finish up my shopping.
 
 That was as crazy as you would expect. The sidewalks were packed to the point you could barely move. I did purchase the golf shirt and another t-shirt for my father that I'd had my eye on yesterday, and we took a brief walk through Cadillac Mountain Sports, but that was about all we could tolerate. I couldn't stand the crowds and Rich was feeling wiped out from the heat, so we just went back to the room and spent the rest of the early afternoon reading, researching, and drinking lemonade on the porch.
+
+{% include tracklog.html %}
 
 When Rich went inside to take a shower, I decided to go back into town to pick up a few more items. Instead of dealing with the crowds on lower Main Street and Cottage Street, instead I took the shortcut through the cemetery (checking on Lucreatia along the way) and went down Firefly Lane directly to the tea shop and the two adjacent Acadia Park shops, where I picked up the remaining items I had on my mental list.
 

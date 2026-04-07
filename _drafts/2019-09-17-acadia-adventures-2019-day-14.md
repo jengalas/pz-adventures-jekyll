@@ -10,7 +10,6 @@ categories:
 
 geocaches: false
 surveymarks: false
-tracklog: 
 post_id: 11973
 layout: post  
 galleries:

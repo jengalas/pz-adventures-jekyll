@@ -10,6 +10,7 @@ categories:
   - survey mark hunting
 geocaches: false
 surveymarks: true
+tracklog: 12SEP24.gpx
 post_id: 14380
 layout: post
 galleries:
@@ -102,7 +103,11 @@ Lisa still hadn't returned, so we waited a few minutes until a woman who had bee
 
 The road itself wasn't so exciting. It is marked private and is basically just a series of driveways. After our experiences the other day on private property I didn't feel comfortable driving around in there at all, so we will probably have to try to find the road from the park end, near Eagle Lake. Just something else to add to the list!
 
-Our final little investigation for the day was to check out the old beaver pond near Eagle Lake. It appears to be turning into a bog rapidly. There are still two beaver lodges but no sign that they are active, and nearly the entire surface of the pond is covered with lilypads. We followed small trails along the northern shore, coming across an old dump site and some sundews, which I know I've seen before when we were poking around here with Angie a few years ago. I was just curious whether they were still here.
+Our final little investigation for the day was to check out the old beaver pond near Eagle Lake. It appears to be turning into a bog rapidly. There are still two beaver lodges but no sign that they are active, and nearly the entire surface of the pond is covered with lilypads. 
+
+{% include tracklog.html %}
+
+We followed small trails along the eastern shore, coming across an old dump site and some sundews, which I know I've seen before when we were poking around here with Angie a few years ago. I was just curious whether they were still here.
 
 {% include image.html filename="P9121030cvx.jpg" thumb="P9121030b.jpg" caption="Beaver habitat" %}
 
