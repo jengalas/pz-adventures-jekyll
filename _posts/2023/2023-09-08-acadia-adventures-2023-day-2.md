@@ -9,6 +9,7 @@ categories:
   - '2023'
 geocaches: false
 surveymarks: false
+tracklog: 08SEP23.gpx
 post_id: 14080
 layout: post
 galleries:
@@ -39,6 +40,8 @@ I spent about an hour walking around the area. I incorporated a check of all the
 I wandered down to the "cruise ship Disneyland" area where the passengers were all indeed being washed up on shore, as it were, and milling around like strangely uncoordinated ants, talking about their plans for the day, getting instruction on how and where to drive the Acadia Gem electric carts, and just generally jamming up the place. My fault, since I knew what I was getting into by going there!
 
 Then I walked back and took along walk along the shoreline below the Shore Path. I had given myself only about an hour, so I didn't get quite as far as the area where I wanted to search for the remains of the old tea house, but I got close (and could definitely go there again). Saw Pulpit Rock and Balance rock, two old relics that were very popular in the days of the rusticators but not so well known now. At least Balance Rock is still somewhat obvious and accessible, but it's hard even to spot Pulpit Rock from the Shore Path.
+
+{% include tracklog.html %}
 
 Some ideas that we might want to explore this trip are: looking for any remains of the tea house, looking for the steps on the old Orange and Black path, going to Bear Brook picnic area and looking for the path to Jackson Labs (and old wooden posts from Robin Hood Park) and searching for the Black & White path from this same area.
 

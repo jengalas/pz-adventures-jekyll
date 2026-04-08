@@ -11,6 +11,7 @@ excerpt: >-
   
 geocaches: false
 surveymarks: false
+tracklog: [18SEP23a.gpx,18SEP23b.gpx]
 post_id: 14170
 layout: post
 galleries:
@@ -42,6 +43,8 @@ Near the southern end of the Shore Path, I made a point of looking for the site 
 The weather remained pretty tame, with just some light sprinkles while we walked and a cold breeze in only a few spots. Even right along the shore on a drizzly, chilly day it was calm overall, which was very welcome.
 
 We reached the end of the Shore Path and, coming out to the main street, decided to check out Havana's menu. We haven't been eating many big meals this year, but I really wanted to have one meal at Havana before heading home. And tonight sure felt like the perfect night for it.  As soon as I got back to the room, I made a reservation.
+
+{% include tracklog.html %}
 
 Being unaccustomed to all that walking, Rich wanted to rest in the room while I went back into town to do my shopping. (I hate shopping! But I enjoy picking up some treats for Dad and Elaine, and this year for Donna, who is watching my plants, so it is a necessary evil.) 
 
