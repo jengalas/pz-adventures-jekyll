@@ -9,7 +9,7 @@ categories:
   - hiking
 geocaches: false
 surveymarks: false
-tracklog: 09SEP25.gpx
+tracklog: [09SEP25a.gpx,09SEP25b.gpx]
 post_id: 14580
 layout: post
 ---
