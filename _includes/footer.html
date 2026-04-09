@@ -88,5 +88,18 @@ for (i = 0; i < dropdown.length; i++) {
   searchFile: '/feed.xml'
 });</script>
 
+<script>
+function openPagefindSearch(e) {
+  e.preventDefault();
+
+  const modal = document.querySelector("#search-modal");
+
+  if (modal && modal.open) {
+    modal.open();
+  } else {
+    console.warn("Pagefind modal not ready yet");
+  }
+}
+</script>
 </body>
 </html>
