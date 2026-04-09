@@ -14,7 +14,7 @@ collections:
   pages:
     output: true
     
-permalink: /:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title    
 
 plugins:
   - jemoji # https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/
