@@ -1,5 +1,5 @@
 @use 'sass:color';
-@use 'vars' as *;
+@use 'base/tokens' as *;
 *, *::before, *::after {
   box-sizing: border-box;
 }
