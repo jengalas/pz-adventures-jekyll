@@ -24,7 +24,7 @@
           <a class="card" data-sub-html="<div class='lg-relative-caption-item'>{{ title }}</div>" href="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}clx.jpg">
         {% endif %}
       
-        <img alt="{{ image.alt }}" title="{{ title | strip_html }}" src="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg"/>
+        <img alt="{{ image.alt }}" title="{{ title | strip_html }}" src="{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg" loading="lazy" />
         </a>
     {% endfor %}    
 </div>
