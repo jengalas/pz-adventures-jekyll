@@ -1,14 +1,7 @@
-module Jekyll
-  class PostCompileCommand < Jekyll::Generator
-    safe true
-    priority :lowest
+Jekyll::Hooks.register :site, :post_write do |site|
+  puts "=== Running Pagefind ==="
 
-    def generate(site)
-      Jekyll::Hooks.register :site, :post_write do |_site|
-        command = './_bin/pagefind --site _site'
-        puts "Running: #{command}"
-        system(command)
-      end
-    end
-  end
+  success = system("_bin/pagefind --site #{site.dest}")
+
+  puts "=== Pagefind #{success ? 'SUCCESS' : 'FAILED'} ==="
 end
