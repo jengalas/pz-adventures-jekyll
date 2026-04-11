@@ -1,45 +1,43 @@
 ---
 layout: default
 ---
-
 <section>
-    <header class="entry-header">
-        <div>
-            <div class="post-date">
-                <span class="month">{{ page.date | date: "%b" | upcase }}</span> 
-                <span class="day">{{ page.date | date: "%e" }}</span> 
-                <span class="year">{{ page.date | date: "%Y" }}</span>
-            </div>
-        </div>
-        <div>
-            <span class="cat-links">
-                {% for category in page.categories %}
-                    <a href="/categories/{{ category | slugify }}">{{ category | upcase }}</a>{% unless forloop.last %} • {% endunless %}
-                {% endfor %}
-            </span>
-            <h1 class="entry-title">{{ page.title }}</h1>
-            <span class="byline">By {{ page.author }}</span>
-        </div>    
-    </header>
-    <article>
-        {{ content }}
+  <header class="entry-header">
+    <div>
+      <div class="post-date" data-pagefind-meta="date">
+        <span class="month">{{ page.date | date: "%b" | upcase }}</span>
+        <span class="day">{{ page.date | date: "%e" }}</span>
+        <span class="year">{{ page.date | date: "%Y" }}</span>
+      </div>
+    </div>
+    <div>
+      <span class="cat-links">
+        {% for category in page.categories %}
+        <a href="/categories/{{ category | slugify }}">{{ category | upcase }}</a>{% unless forloop.last %} • {%
+        endunless %}
+        {% endfor %}
+      </span>
+      <h1 class="entry-title" data-pagefind-meta="title">{{ page.title }}</h1>
+      <span class="byline">By {{ page.author }}</span>
+    </div>
+  </header>
+  <article data-pagefind-body>
+    {{ content }}
 
-        {% if page.geocaches %}
-            {% include geocache.html %}    
-        {% endif %}
+    {% if page.geocaches %}
+    {% include geocache.html %}
+    {% endif %}
 
-        {% if page.surveymarks %}
-            {% include surveymark.html %}    
-        {% endif %}
-    </article>
+    {% if page.surveymarks %}
+    {% include surveymark.html %}
+    {% endif %}
+  </article>
 </section>
 <section class="post-navigation">
-    <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
- 
-    <a class="next-post" href="{{page.next.url}}" style="float: right;">{{page.next.title}}</a>
+  <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
+
+  <a class="next-post" href="{{page.next.url}}" style="float: right;">{{page.next.title}}</a>
 </section>
 <section class="comments">
-    {% include comments.html %}
+  {% include comments.html %}
 </section>
-
-

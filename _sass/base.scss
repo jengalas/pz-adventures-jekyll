@@ -61,29 +61,12 @@ body {
       background-color: #000;
     }
   }
-
-  .super-search {
-
-    &__input {
-      color: #999;
-      font-size: 3rem;
-      height: $headerHeight;
-    }
-
-    &__close-btn {
-      color: $bodyBackgroundColor;
-      font-size: 3rem;
-      right: 24px;
-      top: 12px;
-    }
-  }
 }
 
 main {  
   clear: both;
   max-width: 1074px;
-  margin: 0 auto;
-  padding: 1.15em;  
+  margin: 0 auto;  
 
   section {
     background: $innerBackgroundColor;
