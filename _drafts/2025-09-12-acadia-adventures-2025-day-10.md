@@ -9,6 +9,7 @@ categories:
   - survey mark hunting
 geocaches: false
 surveymarks: false
+tracklog: [12SEP25a.gpx,12SEP25b.gpx]
 post_id: 14610
 layout: post
 galleries:
@@ -38,6 +39,8 @@ Back inside the inn lobby, we enjoyed looking through a case of ephemera and odd
 Noticing that it was almost 11:00am, and that we were so close to the Northeast Harbor Marina, we just had to take a drive over there once again for some more lobster rolls. We were the first to arrive but the second to order since it took us a while to decide. But of course we went for the lobster bahn mi rolls again! And we got fries with both orders this time, along with another blueberry lemonade. We sat in the sun at the same table we had the other day. The whole experience was blissful - the warmth of the sun, the tender lobster, the slight spiciness of the sauce, and perfect company. I didn't even want to move! But we eventually worked our way back to the car, and then decided to spend a few minutes down at the boat ramp before heading out of the marina. We didn't see too much other than the usual collection of boats in the harbor and a squawking collection of gulls that gathered at the top of the ramp.
 
 Our final activity for the morning/early afternoon was to search for a few MaineDOT benchmarks that are supposed to be clustered near the small bridge west of Long Pond. We had no luck with any of them, and will have to try again another time, after doing some more research. Most of the utility pole numbers didn't match up, and we didn't spot any large ledges where they were supposed to be. I did, however, find and begin to follow a well-worn trail heading from behind one of the large outcrops that continued on into the woods much farther than I went. (Rich was waiting for me and had no idea I'd found a path, so I didn't want to be gone long. But I did walk far enough to hopefully get a decent tracklog to see where the trail might lead.) We also parked at the lot for the Harbor Brook Trail, which we didn't realize is not open to dogs. So that right there makes it appealing, and we may try it one of these days.
+
+{% include tracklog.html %}
 
 We were initially thinking that we would stay out until 2:00pm so we could drive by the YMCA and I could pick up my packet for tomorrow, but even after driving around through the park, it was only 1:00pm, and it was already getting very busy. We decided just to go back to the room, and maybe order some dinner and pick it up a bit later while also getting the packet on the same trip. And that worked out great! We were both in need of vegetables, so we ordered a Greek salad from Limon Grille, along with a grilled fish sandwich and phyllo "cigars." I picked up my packet, which only took a few minutes because there was no one in line for the 5k, just the half marathon. And then Rich parked alongside the Limon Grille (kind of made his own spot on the side street next to the restaurant, behind the cars that were there) and I went in to pick up the order. It was just being placed into the bag when I arrived, so our timing was just right. They only had one IPA available so we substituted a blueberry ale, which turned out to be excellent. (Wyman's blueberries - I told rich about how I'd heard of them, and that they were the only wild blueberries available to us at home [frozen, of course]).
 

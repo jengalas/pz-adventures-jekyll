@@ -11,7 +11,7 @@ excerpt: >-
 featured_image: 2062tby.jpg
 geocaches: false
 surveymarks: true
-tracklog: 31MAY14.gpx
+tracklog: [31MAY14a.gpx,31MAY14b.gpx]
 post_id: 4772
 layout: post
         

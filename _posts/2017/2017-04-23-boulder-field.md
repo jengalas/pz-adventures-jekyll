@@ -10,7 +10,7 @@ excerpt: >-
   Dad's first visit to Hickory Run's famous boulder field ... and our first visit in years!
 geocaches: false
 surveymarks: true
-tracklog: 23APR17.gpx
+tracklog: [23APR17a.gpx,23APR17b.gpx]
 post_id: 7992
 layout: post                      
 galleries:
