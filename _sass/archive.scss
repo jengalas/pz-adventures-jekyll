@@ -60,7 +60,7 @@
 
   .archive-title {
     color: $lightHeadingColor;
-    font-family: $bodyFont;
+    font-family: $font-body;
     font-size: 1.75rem;
     font-weight: 500;
     margin: 0;
@@ -91,7 +91,7 @@
     }
 
     h2 {
-      font-family: $bodyFont;
+      font-family: $font-body;
       margin: 0;
       text-align: center;
     }

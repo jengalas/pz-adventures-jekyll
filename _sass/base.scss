@@ -9,11 +9,11 @@ html {
 }
 
 body {
-  background: $bodyBackgroundColor;
+  background: $color-bg-body;
   color: $color-text;
-  font-family: $bodyFont;
-  font-size: $bodyFontSize;
-  font-weight: $bodyFontWeight;
+  font-family: $font-body;
+  font-size: $text-base;
+  font-weight: $font-weight-normal;
   line-height: 1.6;
   margin: 0;
   padding-top: 100px;
@@ -45,7 +45,7 @@ body {
   padding: 0 8px;
   
   .fa-search {
-    color: #efefef;
+    color: $color-text-light;
     margin-top: 28px;
   }
 
@@ -177,7 +177,7 @@ blockquote {
   margin: 28px 0 28px;
   padding-bottom: 0;
   padding-top: 0;
-  border-left: 5px solid #d1dce5;
+  border-left: 5px solid $color-border-medium;
   padding: 0 20px;
 }
 
@@ -185,7 +185,7 @@ small {
   font-size: 1.1rem;
 
   a {
-    color: #fff;
+    color: $color-bg-surface;
     text-decoration: none
   }
 
@@ -231,7 +231,7 @@ small {
   font-weight: bold;
 
   a {
-    color: #fff;
+    color: $color-bg-surface;
     text-decoration: none;
 
     &:hover {
@@ -304,7 +304,7 @@ small {
 }
 
 .post-date {
-  background-color: #fff;
+  background-color: $color-bg-surface;
   border-bottom: solid 5px #d1dee9;
   border-radius: 38px;
   border-top: solid 5px #d1dee9;
@@ -330,7 +330,7 @@ small {
   }
 
   .day {
-    color: $bodyBackgroundColor;
+    color: $color-bg-body;
     display: block;
     font: bold 24px/100% Arial, Helvetica, sans-serif;
     padding: 2px 0 4px;
@@ -362,7 +362,7 @@ article a {
   &.button {
     background: #666666;
     border-bottom: 0;
-    color: #fff;
+    color: $color-bg-surface;
     display: inline-block;
     padding: 10px 20px;
 
@@ -375,7 +375,7 @@ article a {
 }
 
 .history-aside {
-  background-color: #efefef;
+  background-color: $color-text-light;
   border-bottom: 2px solid gray;
   border-top: 1px solid gray;
   margin: 2.5rem 0;
@@ -397,7 +397,7 @@ section.comments {
 // SURVEY MARK LIST
 
 .surveymark-heading {
-  font-family: $bodyFont;
+  font-family: $font-body;
   font-size: 1.3125rem;
   font-weight: 600;
 }
@@ -630,7 +630,7 @@ ul.menu {
   list-style: none;
   width: 100%;
   margin: 20px auto;
-  font-family: $bodyFont;
+  font-family: $font-body;
   clear: both;
   display: table;
   text-align: center;
@@ -638,8 +638,8 @@ ul.menu {
 
 
   h2 {
-    color: #efefef;
-    font-family: $bodyFont;
+    color: $color-text-light;
+    font-family: $font-body;
   }
 
   @media (max-width: 768px) {
@@ -663,14 +663,14 @@ ul.menu .list.submenu button:after {
   position: relative;
   left: 10px;
   top: 0;
-  color: #fff;
+  color: $color-bg-surface;
 }
 
 ul.menu .list.submenu button {
   background-color: transparent;
   border: 0;
-  color: #fff;
-  font-family: $bodyFont;
+  color: $color-bg-surface;
+  font-family: $font-body;
 
   &:hover {
     background-color: #3f3f3f;
@@ -686,7 +686,7 @@ ul.menu .list.submenu button {
 ul.menu .list a {
   animation: fadeIn 5s;
   text-decoration: none;
-  color: #fff;
+  color: $color-bg-surface;
   padding: 0.2rem;
   display: block;
   height: 100%;
@@ -714,7 +714,7 @@ ul.menu .list .items a {
 
 ul.menu .list .items a:hover {
   background-color: #4f4f4f;
-  color: #fff;
+  color: $color-bg-surface;
   transition: 300ms all;
 }
 
@@ -727,7 +727,7 @@ ul.menu .submenu.active button:after {
   font-family: FontAwesome;
   position: relative;
   left: 10px;
-  color: #fff;
+  color: $color-bg-surface;
 }
 
 ul.menu .active>.items {
@@ -735,7 +735,7 @@ ul.menu .active>.items {
   background: transparent;
   padding: 0px;
   height: auto;
-  color: #fff;
+  color: $color-bg-surface;
   transition: all 200ms;
   clear: both;
   float: left;
@@ -781,26 +781,26 @@ ul.menu .active .list a {
 
     &:hover {
       background-color: transparent;
-      color: #fff;
+      color: $color-bg-surface;
     }
   }
 
   a {
     background-color: #d1dde6;
-    border: 1px solid #fff;
+    border: 1px solid $color-bg-surface;
     border-radius: 20px;
-    color: $bodyBackgroundColor;
+    color: $color-bg-body;
     padding: 8px 12px;
     text-decoration: none;
 
     &:hover {
-      background-color: #fff;
+      background-color: $color-bg-surface;
     }
   }
 
   span {
-    background-color: #fff;
-    border: 1px solid #fff;
+    background-color: $color-bg-surface;
+    border: 1px solid $color-bg-surface;
     border-radius: 20px;
     padding: 8px 12px;
   }

@@ -2,7 +2,7 @@
 @use 'base/tokens' as *;
 
 .geocache-heading {
-  font-family: $bodyFont;
+  font-family: $font-body;
   font-size: 1.3125rem;
   font-weight: 600;
 }
@@ -75,7 +75,7 @@
 
 .track-info {
   border: 1px solid black;
-  background: #fff;
+  background: $color-bg-surface;
   padding: .5rem;
 
   th {
@@ -109,7 +109,7 @@ path.leaflet-interactive:focus {
 
   h3 {
     color: #246193;
-    font-family: $bodyFont;
+    font-family: $font-body;
     font-size: 1.125rem;
     font-weight: 400;
     margin: 0;
@@ -166,14 +166,14 @@ path.leaflet-interactive:focus {
 [aria-selected="true"].example-tabs-tabs__link {
   color: #000;
   border: 1px solid #ccc;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid $color-bg-surface;
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
   margin-bottom: -1px;
 
   &:hover {
     border: 1px solid #ccc;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid $color-bg-surface;
   }
 }
 
