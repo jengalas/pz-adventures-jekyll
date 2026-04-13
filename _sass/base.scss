@@ -10,7 +10,7 @@ html {
 
 body {
   background: $bodyBackgroundColor;
-  color: $bodyColor;
+  color: $color-text;
   font-family: $bodyFont;
   font-size: $bodyFontSize;
   font-weight: $bodyFontWeight;
@@ -69,7 +69,7 @@ main {
   margin: 0 auto;  
 
   section {
-    background: $innerBackgroundColor;
+    background: $color-bg-surface;
     margin: 0 auto;
     padding: 3rem 5.263rem;
 
@@ -152,7 +152,7 @@ main {
 }
 
 h1 {
-  color: $bodyColor;
+  color: $color-text;
   font-family: $headingFont;
   font-size: 1.75rem;
   font-weight: 700;

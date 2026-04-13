@@ -3,6 +3,9 @@
 
 @use "base/tokens" as *;
 @use "base" as *;
+@use "base/breakpoints" as *;
+@use "components/card" as *;
+@use "components/meta" as *;
 @use "geocache" as *;
 @use "media" as *;
 @use "archive" as *;

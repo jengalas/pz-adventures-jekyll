@@ -1,0 +1,6 @@
+@use 'base/tokens' as *;
+
+@mixin card($padding: 1rem) {
+  background-color: $color-bg-surface; // or your token
+  padding: $padding;
+}

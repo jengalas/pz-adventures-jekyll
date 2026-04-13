@@ -1,0 +1,15 @@
+$bp-sm: 600px;
+$bp-md: 768px;
+$bp-lg: 900px;
+
+@mixin respond-max($bp) {
+  @media (max-width: $bp) {
+    @content;
+  }
+}
+
+@mixin respond-min($bp) {
+  @media (min-width: $bp) {
+    @content;
+  }
+}

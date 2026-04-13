@@ -1,8 +1,9 @@
 $bodyBackgroundColor: #60829e;
-$bodyColor: #6f6361;
 $lightHeadingColor: #efefef;
 $innerBackgroundColor: #fff;
 $footerColor: #fff;
+$mutedText: #90a8bb;
+$borderLight: 1px solid #eee;
 
 $bodyFont: Mulish, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $bodyFontSize: 1.125rem;
@@ -14,5 +15,48 @@ $headerHeight: 80px;
 
 @mixin italic-text {
   font-family: Lora, serif;
+  font-style: italic;
+}
+
+// ========================
+// Colors
+// ========================
+
+$color-bg-body: #60829e;
+$color-bg-surface: #fff;
+
+$color-text: #6f6361;
+$color-text-light: #efefef;
+$color-text-muted: #90a8bb;
+
+$color-border-light: #eee;
+
+
+// ========================
+// Typography
+// ========================
+
+$font-body: Mulish, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+$font-heading: Merriweather, 'Handlee', cursive;
+$font-serif: Lora, serif;
+
+$text-base: 1.125rem;
+$font-weight-normal: 400;
+
+
+// ========================
+// Layout
+// ========================
+
+$header-height: 80px;
+
+
+// ========================
+// Mixins
+// ========================
+
+@mixin italic-text {
+  font-family: $font-serif;
   font-style: italic;
 }

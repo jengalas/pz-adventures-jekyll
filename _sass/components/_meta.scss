@@ -1,0 +1,12 @@
+@use 'base/tokens' as *;
+
+.meta {
+  color: $mutedText; // replace #90a8bb
+  font-size: 80%;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    border: 0;
+  }
+}
