@@ -70,7 +70,11 @@ Next, the route led us to the outflow of the Tarn, a lake that's turning into a 
 
 {% include image.html filename="20150911_150500cl.jpg" thumb="20150911_150500b.jpg" caption="View of Huguenot Head from the Tarn." %}
 
-The final leg of the memorial walk, for us, was to head back to Sieur de Monts and visit the memorial to George Dorr—the father of Acadia National Park and therefore a fitting end to the journey. We had reservations at the Black Friar for 5:15 and it was already almost 3:30, so we decided that rather than walk, we would take the bus back to town. As we were riding back, I noticed the bus driver's name tag said Bill—and then we spotted his large cooler filled with goodies. It was the same driver named Bill we'd spoken with last year!
+The final leg of the memorial walk, for us, was to head back to Sieur de Monts and visit the memorial to George Dorr—the father of Acadia National Park and therefore a fitting end to the journey. 
+
+{% include tracklog.html %}
+
+We had reservations at the Black Friar for 5:15 and it was already almost 3:30, so we decided that rather than walk, we would take the bus back to town. As we were riding back, I noticed the bus driver's name tag said Bill—and then we spotted his large cooler filled with goodies. It was the same driver named Bill we'd spoken with last year!
 
 ## Back at the Black Friar for dinner
 
