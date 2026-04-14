@@ -1,7 +1,7 @@
 @use 'base/tokens' as *;
 
 .meta {
-  color: $mutedText; // replace #90a8bb
+  color: $color-text-muted; // replace #90a8bb
   font-size: 80%;
 
   a {

@@ -55,11 +55,11 @@
 
 // Header
 .page-header {
-  border-bottom: 1px solid $borderLight;
+  border-bottom: 1px solid $color-border-light;
   margin: 0.625rem 0 1.875rem;
 
   .archive-title {
-    color: $lightHeadingColor;
+    color: $color-text-light;
     font-family: $font-body;
     font-size: 1.75rem;
     font-weight: 500;

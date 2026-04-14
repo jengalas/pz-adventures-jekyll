@@ -1,13 +1,4 @@
 
-$lightHeadingColor: #efefef;
-$innerBackgroundColor: #fff;
-$footerColor: #fff;
-$mutedText: #90a8bb;
-$borderLight: 1px solid #eee;
-
-
-$headingFont: Merriweather,'Handlee', cursive;
-
 // ========================
 // Colors
 // ========================
@@ -19,9 +10,68 @@ $color-text: #6f6361;
 $color-text-light: #efefef;
 $color-text-muted: #90a8bb;
 
+$color-nav-bg: #3f3f3f;
+$color-nav-hover: #4f4f4f;
+$color-nav-active: #212635;
+
+// ========================
+// Neutral extensions
+// ========================
+
+$color-black: #000;
+$color-gray-600: #666;
+$color-gray-700: #595959;
+$color-gray-300-alt: #d1dee9;
+
+
+// ========================
+// Links
+// ========================
+
+$color-link: #1e73be;
+$color-link-hover: #018ed3;
+$color-link-underline: #80a5c5;
+
+
+// ========================
+// UI / accents
+// ========================
+
+$color-accent: #4a96d9;
+$color-pagination-bg: #d1dde6;
+$color-pagination-text: #f0f8ff;
+
+
+// ========================
+// Alerts
+// ========================
+
+$color-success-text: #155724;
+$color-success-bg: #d4edda;
+$color-success-border: #c3e6cb;
+
+$color-danger-text: #721c24;
+$color-danger-bg: #f8d7da;
+$color-danger-border: #f5c6cb;
+
+
+// ========================
+// Overlays
+// ========================
+
+$color-overlay-header: rgba(42, 52, 65, 0.95);
+$color-overlay-dark: rgba(0, 0, 0, 0.4);
+$color-overlay-dark-strong: rgba(0, 0, 0, 0.6);
+$color-overlay-light: rgba(255, 255, 255, 0.7);
+
+
+// ========================
+// Borders
+// ========================
+
+$color-border-subtle: rgba(0, 0, 0, 0.1);
 $color-border-light: #eee;
 $color-border-medium: #d1dce5;
-
 
 // ========================
 // Typography

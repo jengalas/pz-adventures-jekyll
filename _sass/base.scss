@@ -44,7 +44,7 @@ body {
   z-index: 400;
 
   &.active {
-    background-color: rgba(42, 52, 65, 0.95);
+    background-color: $color-overlay-header;
     transition: all 400ms ease;
   }
 }
@@ -67,7 +67,7 @@ body {
     z-index: 120;
 
     .nav-visible & {
-      background-color: #000;
+      background-color: $color-black;
     }
   }
 }
@@ -122,7 +122,7 @@ main {
   z-index: 110;
 
   a {
-    color: $lightHeadingColor;
+    color: $color-text-light;
     font-size: 2rem;
     text-decoration: none;
 
@@ -133,13 +133,13 @@ main {
 }
 
 .site-info {
-  color: $footerColor;
+  color: $color-bg-surface;
   padding: 2rem;
   text-align: center;
 }
 
 #scroll-to-top {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: $color-overlay-dark;
   border: none;
   border-radius: 3px;
   bottom: 20px;
@@ -156,19 +156,19 @@ main {
   z-index: 99;
 
   &:hover {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: $color-overlay-dark-strong;
   }
 }
 
 h1 {
   color: $color-text;
-  font-family: $headingFont;
+  font-family: $font-heading;
   font-size: 1.75rem;
   font-weight: 700;
 }
 
 h2 {
-  font-family: $headingFont;
+  font-family: $font-heading;
   font-size: 1.375rem;
   font-weight: 700;
 }
@@ -197,8 +197,6 @@ small {
     color: $color-bg-surface;
     text-decoration: none
   }
-
-  ;
 }
 
 .alert {
@@ -210,15 +208,15 @@ small {
 }
 
 .alert-success {
-  color: #155724;
-  background-color: #d4edda;
-  border-color: #c3e6cb;
+  color: $color-success-text;
+  background-color: $color-success-bg;
+  border-color: $color-success-border;
 }
 
 .alert-danger {
-  color: #721c24;
-  background-color: #f8d7da;
-  border-color: #f5c6cb;
+  color: $color-danger-text;
+  background-color: $color-danger-bg;
+  border-color: $color-danger-border;
 }
 
 .emoji {
@@ -270,7 +268,7 @@ small {
 // POST META
 
 .entry-header {
-  color: #595959;
+  color: $color-gray-700;
   display: flex;
   margin-bottom: 4rem;
 
@@ -280,7 +278,7 @@ small {
   }
 
   .cat-links {
-    font-family: Muli, Arial;
+    font-family: $font-body;
     font-size: 12px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -314,9 +312,9 @@ small {
 
 .post-date {
   background-color: $color-bg-surface;
-  border-bottom: solid 5px #d1dee9;
+  border-bottom: solid 5px $color-gray-300-alt;
   border-radius: 38px;
-  border-top: solid 5px #d1dee9;
+  border-top: solid 5px $color-gray-300-alt;
   float: left;
   margin: 5px 24px 5px 0;
   padding: 10px;
@@ -346,7 +344,7 @@ small {
   }
 
   .year {
-    color: #666;
+    color: $color-gray-600;
     display: block;
     font: 14px/100% Arial, Helvetica, sans-serif;
     padding: 0 0 4px;
@@ -356,20 +354,19 @@ small {
 // ARTICLE/ENTRY CONTENT
 
 article a {
-  border-bottom: 1px dashed #80a5c5;
-  color: #1e73be;
+  border-bottom: 1px dashed $color-link-underline;
+  color: $color-link;
   text-decoration: none;
 
   &:hover,
   &:active,
   &:focus {
-    border-bottom: 1px solid #018ed3;
-    color: #018ed3;
-    text-decoration: none;
+    border-bottom: 1px solid $color-link-hover;
+    color: $color-link-hover;
   }
 
   &.button {
-    background: #666666;
+    background: $color-gray-600;
     border-bottom: 0;
     color: $color-bg-surface;
     display: inline-block;
@@ -378,15 +375,15 @@ article a {
     &:hover,
     &:active,
     &:focus {
-      background-color: #3f3f3f;
+      background-color: $color-nav-bg;
     }
   }
 }
 
 .history-aside {
   background-color: $color-text-light;
-  border-bottom: 2px solid gray;
-  border-top: 1px solid gray;
+  border-bottom: 2px solid $color-gray-600;
+  border-top: 1px solid $color-gray-600;
   margin: 2.5rem 0;
   padding: 1rem 2rem;
 }
@@ -394,7 +391,7 @@ article a {
 // POST COMMENTS (Giscus)
 
 section.comments {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: $color-overlay-light;
 }
 
 .comment-reply-header {
@@ -417,7 +414,7 @@ section.comments {
   padding-left: 8px;
 
   li {
-    border-bottom: 1px solid #0000001a;
+    border-bottom: 1px solid $color-border-subtle;
     line-height: 2.2;
 
     a {
@@ -426,7 +423,7 @@ section.comments {
   }
 
   .fa-arrow-up-right-from-square {
-    color: #4a96d9;
+    color: $color-accent;
     font-size: 80%;
     margin-left: 0.5rem;
   }
@@ -446,7 +443,7 @@ section.comments {
   a:last-child {
     border: 0;
     background-color: transparent;
-    color: #f0f8ff;
+    color: $color-pagination-text;
     font-size: 1rem;
 
     &:hover {
@@ -456,7 +453,7 @@ section.comments {
   }
 
   a {
-    background-color: #d1dde6;
+    background-color: $color-pagination-bg;
     border: 1px solid $color-bg-surface;
     border-radius: 20px;
     color: $color-bg-body;

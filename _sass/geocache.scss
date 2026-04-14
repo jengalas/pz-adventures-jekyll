@@ -72,7 +72,7 @@
 }
 
 .tracklog-map {
-  border: 1px solid #000;
+  border: 1px solid $color-black;
   min-height: 500px;
   width: 100%;
 }
@@ -168,7 +168,7 @@ path.leaflet-interactive:focus {
 }
 
 [aria-selected="true"].example-tabs-tabs__link {
-  color: #000;
+  color: $color-black;
   border: 1px solid #ccc;
   border-bottom: 1px solid $color-bg-surface;
   border-top-left-radius: 0.25rem;
