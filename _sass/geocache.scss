@@ -1,5 +1,9 @@
-// GEOCACHE INDIVIDUAL LAYOUT
 @use 'base/tokens' as *;
+@use 'base/breakpoints' as *;
+@use 'components/card' as *;
+@use 'components/meta' as *;
+
+// GEOCACHE INDIVIDUAL LAYOUT
 
 .geocache-heading {
   font-family: $font-body;
@@ -22,7 +26,7 @@
     padding: 0;
   }
 
-  @media (max-width: 768px) {
+  @include respond-max($bp-md) {
     flex-direction: column;
   }
 }

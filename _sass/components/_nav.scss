@@ -1,0 +1,273 @@
+@use 'sass:color';
+@use '../base/tokens' as *;
+
+
+// ========================
+// Nav Wrapper / Overlay
+// ========================
+
+.nav-wrapper {
+  background-color: #000;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+  margin-top: $header-height;
+
+  visibility: hidden;
+  overflow-y: auto;
+  perspective: 1000px;
+  z-index: 100;
+
+  scrollbar-gutter: stable;
+
+  .nav-visible & {
+    visibility: visible;
+    transform: translateX(0);
+  }
+}
+
+
+// ========================
+// Masthead (nav state)
+// ========================
+
+.nav-visible {
+  #masthead {
+    background-color: #000;
+    position: sticky;
+    top: 0;
+    z-index: 120;
+  }
+}
+
+.navhead {
+  margin-top: 1rem;
+}
+
+// ========================
+// Nav container
+// ========================
+
+.nav {
+  position: relative;
+  padding-top: $header-height;
+  margin-top: 1rem;
+
+  transform: rotateY(90deg);
+  transform-origin: left center;
+  transition: transform 0.6s;
+
+  .nav-visible & {
+    transform: rotateY(0deg);
+  }
+
+  a {
+    display: block;
+    padding: 0.7em 0.5em 0.7em 1.4em;
+    line-height: 1.4;
+    text-transform: uppercase;
+
+    &:hover,
+    &:focus {
+      text-decoration: none;
+    }
+  }
+
+  li.active a {
+    background-color: #212635;
+  }
+}
+
+
+// ========================
+// Nav Marker
+// ========================
+
+.nav-marker {
+  position: absolute;
+  top: $header-height;
+  right: 0;
+
+  width: 3px;
+  height: 2.8rem;
+
+  background-color: currentColor;
+
+  &::before {
+    content: "";
+    position: absolute;
+    right: 3px;
+    top: 50%;
+    transform: translateY(-50%);
+
+    border: 5px solid transparent;
+    border-right-color: inherit;
+  }
+}
+
+
+// ========================
+// Hamburger Button
+// ========================
+
+.button-lines {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  padding: 1rem 0.5rem;
+  user-select: none;
+}
+
+@mixin hamburger-line {
+  background: $color-bg-surface;
+  border-radius: 0.2rem;
+  height: 0.2rem;
+  width: 2rem;
+  display: inline-block;
+}
+
+.lines {
+  @include hamburger-line;
+  position: relative;
+
+  &::before,
+  &::after {
+    @include hamburger-line;
+    content: "";
+    position: absolute;
+    left: 0;
+  }
+
+  &::before {
+    top: -0.5rem;
+  }
+
+  &::after {
+    top: 0.5rem;
+  }
+}
+
+
+// ========================
+// Hamburger Animation
+// ========================
+
+.button-lines-x {
+
+  .lines {
+    transition: background 0.3s ease;
+
+    &::before,
+    &::after {
+      transition: transform 0.3s ease, top 0.3s ease;
+    }
+  }
+
+  .nav-visible & {
+    .lines {
+      background: transparent;
+
+      &::before,
+      &::after {
+        top: 0;
+      }
+
+      &::before {
+        transform: rotate(45deg);
+      }
+
+      &::after {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+}
+
+
+// ========================
+// Accordion Menu
+// ========================
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 20px auto;
+
+  width: 25vw;
+  text-align: center;
+  font-family: $font-body;
+
+  @media (max-width: 768px) {
+    width: 100vw;
+  }
+
+  h2 {
+    color: $color-text-light;
+    font-family: $font-body;
+  }
+
+  .list,
+  button {
+    width: 100%;
+    font-size: 1.2rem;
+    line-height: 29px;
+  }
+
+  .submenu button {
+    background: transparent;
+    border: 0;
+    color: $color-bg-surface;
+    font-family: $font-body;
+
+    cursor: pointer;
+
+    &::after {
+      content: "\f107";
+      font-family: FontAwesome;
+      margin-left: 10px;
+    }
+
+    &:hover,
+    &.active {
+      background-color: #3f3f3f;
+    }
+  }
+
+  .submenu.active button::after {
+    content: "\f106";
+  }
+
+  a {
+    display: block;
+    padding: 0.2rem;
+    color: $color-bg-surface;
+    text-decoration: none;
+
+    &:hover {
+      background-color: #3f3f3f;
+    }
+  }
+
+  .items {
+    height: 0;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0px;
+  }
+
+  .active>.items {
+    display: block;
+    height: auto;
+  }
+
+  .items a {
+    padding: 0px;
+  }
+
+  .items a:hover {
+    background-color: #4f4f4f;
+  }
+}
