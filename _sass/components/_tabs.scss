@@ -1,0 +1,74 @@
+@use 'base/tokens' as *;
+
+// ========================
+// Tabs (for geocache logs)
+// ========================
+
+.invisible {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.example-tabs-tabs__list {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid $color-border-medium;
+}
+
+.example-tabs-tabs__item {
+  display: inline-block;
+}
+
+.example-tabs-tabs__link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: transparent;
+  cursor: pointer;
+  color: $color-link-tab;
+  &:hover {
+    color: $color-link-hover;
+  }
+}
+
+[aria-selected="true"].example-tabs-tabs__link {
+  color: $color-black;
+  border: 1px solid $color-border-medium;
+  border-bottom: 2px solid $color-bg-surface;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  margin-bottom: -1px;
+
+}
+
+[aria-selected="false"].example-tabs-tabs__link {
+  border: 1px solid transparent;
+  border-bottom: 0;
+
+  &:hover {
+    border: 1px solid $color-border-medium;
+    border-bottom: $color-border-light;
+  }
+}
+
+.example-tabs-tabs__content {
+  background: transparent;
+  padding: 1em;
+}
+
+[aria-hidden="true"].example-tabs-tabs__content {
+  display: none;
+}
+
+.js-tablist__item a {
+  border: 0;
+
+  &:hover {
+    // border: 0;
+  }
+}

@@ -1,0 +1,33 @@
+@use 'base/tokens' as *;
+
+// ========================
+// Accordion
+// ========================
+
+.accordionItem {
+  border-bottom: 1px solid $color-border-medium;
+
+  h3 {
+    color: $color-link-tab;
+    font-family: $font-body;
+    font-size: 1.125rem;
+    font-weight: $font-weight-normal;
+    margin: 0;
+    padding: 0.4em;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  >div {
+    margin: 0;
+    padding: 1em 0.4em;
+  }
+
+  &.hide {
+    div {
+      display: none;
+    }
+  }
+}
