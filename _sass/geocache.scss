@@ -3,7 +3,9 @@
 @use 'components/card' as *;
 @use 'components/meta' as *;
 
-// GEOCACHE INDIVIDUAL LAYOUT
+// ========================
+// Geocache Layout
+// ========================
 
 .geocache-heading {
   font-family: $font-body;
@@ -21,7 +23,7 @@
   }
 
   ul {
-    list-style-type: none;
+    list-style: none;
     margin-top: 0;
     padding: 0;
   }
@@ -30,6 +32,9 @@
     flex-direction: column;
   }
 }
+// ========================
+// Map
+// ========================
 
 .map {
   width: 100%;
@@ -44,7 +49,7 @@
   height: 350px;
   margin-top: 2rem;
 
-  @media (min-width:768px) {
+  @include respond-min($bp-md) {
     margin-top: 0;
   }
 
@@ -58,37 +63,43 @@
   }
 }
 
+// ========================
+// Layout Utilities
+// ========================
 .responsive-two-columns {
   display: block;
   column-gap: 1rem;
-}
 
-/* tablet breakpoint */
-@media (min-width:768px) {
-  .responsive-two-columns {
+  @include respond-min($bp-md) {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
 }
 
+// ========================
+// Tracklog
+// ========================
 .tracklog-map {
-  border: 1px solid $color-black;
+  border: 1px solid $color-border-light;
   min-height: 500px;
   width: 100%;
 }
 
 .track-info {
-  border: 1px solid black;
+  border: 1px solid $color-border-light;
   background: $color-bg-surface;
-  padding: .5rem;
+  padding: 0.5rem;
 
   th {
     padding-left: 0;
-    font-size: .9rem;
+    font-size: 0.9rem;
     font-weight: bold;
     text-align: left;
   }
 }
+// ========================
+// Leaflet Overrides
+// ========================
 
 article .leaflet-control a {
   border: 0;
@@ -102,20 +113,18 @@ path.leaflet-interactive:focus {
   outline: none;
 }
 
-// path.leaflet-interactive:hover {
-//   cursor: grab;
-// }
-
-// ACCORDION (for Geocaches)
+// ========================
+// Accordion
+// ========================
 
 .accordionItem {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid $color-border-medium;
 
   h3 {
-    color: #246193;
+    color: $color-link-tab;
     font-family: $font-body;
     font-size: 1.125rem;
-    font-weight: 400;
+    font-weight: $font-weight-normal;
     margin: 0;
     padding: 0.4em;
 
@@ -136,7 +145,9 @@ path.leaflet-interactive:focus {
   }
 }
 
-// TABS (for Geocache logs)
+// ========================
+// Tabs (for geocache logs)
+// ========================
 
 .invisible {
   border: 0;
@@ -152,7 +163,7 @@ path.leaflet-interactive:focus {
 .example-tabs-tabs__list {
   margin: 0;
   padding: 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid $color-border-medium;
 }
 
 .example-tabs-tabs__item {
@@ -164,21 +175,20 @@ path.leaflet-interactive:focus {
   padding: 0.5rem 1rem;
   background: transparent;
   cursor: pointer;
-  color: #148297;
+  color: $color-link-tab;
+  &:hover {
+    color: $color-link-hover;
+  }
 }
 
 [aria-selected="true"].example-tabs-tabs__link {
   color: $color-black;
-  border: 1px solid #ccc;
+  border: 1px solid $color-border-medium;
   border-bottom: 1px solid $color-bg-surface;
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
   margin-bottom: -1px;
 
-  &:hover {
-    border: 1px solid #ccc;
-    border-bottom: 1px solid $color-bg-surface;
-  }
 }
 
 [aria-selected="false"].example-tabs-tabs__link {
@@ -186,8 +196,8 @@ path.leaflet-interactive:focus {
   border-bottom: 0;
 
   &:hover {
-    border: 1px solid #ccc;
-    border-bottom: 0;
+    border: 1px solid $color-border-medium;
+    border-bottom: $color-border-light;
   }
 }
 
@@ -204,6 +214,6 @@ path.leaflet-interactive:focus {
   border: 0;
 
   &:hover {
-    border: 0;
+    // border: 0;
   }
 }
