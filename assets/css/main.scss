@@ -5,10 +5,15 @@
 @use "base" as *;
 @use "base/breakpoints" as *;
 @use "components/nav";
+@use "components/alert" as *;
 @use "components/card" as *;
 @use "components/meta" as *;
 @use "components/accordion" as *;
 @use "components/tabs" as *;
-@use "geocache" as *;
+@use "components/map" as *;
+@use "components/pagination" as *;
+@use "features/comments" as *;
+@use "features/geocache" as *;
+@use "features/posts" as *;
 @use "media" as *;
 @use "archive" as *;

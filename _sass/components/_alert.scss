@@ -1,0 +1,21 @@
+@use 'base/tokens' as *;
+
+.alert {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+}
+
+.alert-success {
+  color: $color-success-text;
+  background-color: $color-success-bg;
+  border-color: $color-success-border;
+}
+
+.alert-danger {
+  color: $color-danger-text;
+  background-color: $color-danger-bg;
+  border-color: $color-danger-border;
+}

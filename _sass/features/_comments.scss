@@ -1,0 +1,15 @@
+@use 'base/tokens' as *;
+
+// ========================
+// Post Comments (Giscus)
+// ========================
+
+
+section.comments {
+  background-color: $color-overlay-light;
+}
+
+.comment-reply-header {
+  font-size: 1rem;
+  text-transform: uppercase;
+}

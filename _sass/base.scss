@@ -199,26 +199,6 @@ small {
   }
 }
 
-.alert {
-  position: relative;
-  padding: .75rem 1.25rem;
-  margin-bottom: 1rem;
-  border: 1px solid transparent;
-  border-radius: .25rem;
-}
-
-.alert-success {
-  color: $color-success-text;
-  background-color: $color-success-bg;
-  border-color: $color-success-border;
-}
-
-.alert-danger {
-  color: $color-danger-text;
-  background-color: $color-danger-bg;
-  border-color: $color-danger-border;
-}
-
 .emoji {
   vertical-align: text-bottom;
 }
@@ -388,18 +368,6 @@ article a {
   padding: 1rem 2rem;
 }
 
-// POST COMMENTS (Giscus)
-
-section.comments {
-  background-color: $color-overlay-light;
-}
-
-.comment-reply-header {
-  font-size: 1rem;
-  text-transform: uppercase;
-}
-
-
 // SURVEY MARK LIST
 
 .surveymark-heading {
@@ -426,49 +394,5 @@ section.comments {
     color: $color-accent;
     font-size: 80%;
     margin-left: 0.5rem;
-  }
-}
-
-
-
-
-// PAGINATION
-
-.pagination {
-  font-size: .8rem;
-  font-weight: bold;
-  text-align: center;
-
-  a:first-child,
-  a:last-child {
-    border: 0;
-    background-color: transparent;
-    color: $color-pagination-text;
-    font-size: 1rem;
-
-    &:hover {
-      background-color: transparent;
-      color: $color-bg-surface;
-    }
-  }
-
-  a {
-    background-color: $color-pagination-bg;
-    border: 1px solid $color-bg-surface;
-    border-radius: 20px;
-    color: $color-bg-body;
-    padding: 8px 12px;
-    text-decoration: none;
-
-    &:hover {
-      background-color: $color-bg-surface;
-    }
-  }
-
-  span {
-    background-color: $color-bg-surface;
-    border: 1px solid $color-bg-surface;
-    border-radius: 20px;
-    padding: 8px 12px;
   }
 }

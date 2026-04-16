@@ -1,0 +1,40 @@
+@use 'base/tokens' as *;
+
+.pagination {
+  font-size: .8rem;
+  font-weight: bold;
+  text-align: center;
+
+  a:first-child,
+  a:last-child {
+    border: 0;
+    background-color: transparent;
+    color: $color-pagination-text;
+    font-size: 1rem;
+
+    &:hover {
+      background-color: transparent;
+      color: $color-bg-surface;
+    }
+  }
+
+  a {
+    background-color: $color-pagination-bg;
+    border: 1px solid $color-bg-surface;
+    border-radius: 20px;
+    color: $color-bg-body;
+    padding: 8px 12px;
+    text-decoration: none;
+
+    &:hover {
+      background-color: $color-bg-surface;
+    }
+  }
+
+  span {
+    background-color: $color-bg-surface;
+    border: 1px solid $color-bg-surface;
+    border-radius: 20px;
+    padding: 8px 12px;
+  }
+}
