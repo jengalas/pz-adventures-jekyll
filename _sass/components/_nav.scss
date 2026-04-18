@@ -14,22 +14,19 @@ body.nav-visible {
 .nav-wrapper {
   background-color: $color-black;
   position: fixed;
-  top: 0;
+  top: $header-height;
   right: 0;
   width: 100vw;
-  height: 100vh;
-  margin-top: $header-height;
+  height: calc(100vh - #{$header-height});
+
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch; // smoother on mobile
 
   visibility: hidden;
-  overflow-y: auto;
-  perspective: 1000px;
-  z-index: 100;
-
-  scrollbar-gutter: stable;
 
   .nav-visible & {
     visibility: visible;
-    transform: translateX(0);
   }
 }
 
@@ -57,8 +54,8 @@ body.nav-visible {
 
 .nav {
   position: relative;
-  padding-top: $header-height;
-  margin-top: 1rem;
+  padding-top: 1rem;
+  margin-top: 0;
 
   transform: rotateY(90deg);
   transform-origin: left center;
