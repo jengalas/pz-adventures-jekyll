@@ -1,0 +1,191 @@
+@use '../base/tokens' as *;
+@use '../base/breakpoints' as *;
+
+// ========================
+// Post Navigation
+// ========================
+
+.post-navigation {
+  background-color: transparent;
+  margin: 0 auto;
+  max-width: 1050px;
+  padding: 1rem 0;
+  font-weight: bold;
+
+  a {
+    color: $color-bg-surface;
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 1px dashed white;
+    }
+  }
+
+  .prev-post {
+    &::before {
+      content: "\02C2";
+      margin-right: 0.5rem;
+    }
+  }
+
+  .next-post {
+    &::after {
+      content: "\02C3";
+      margin-left: 0.5rem;
+    }
+  }
+
+  a:hover::before {
+    text-decoration: none;
+  }
+}
+
+// ========================
+// Post Meta
+// ========================
+
+.entry-header {
+  color: $color-gray-700;
+  display: flex;
+  margin-bottom: 4rem;
+
+  @include respond-max($bp-md) {
+    display: block;
+    margin-bottom: 0;
+  }
+
+  .cat-links {
+    font-family: $font-body;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+    a {
+      border: 0;
+      color: #595959;
+      text-decoration: none;
+
+      &:hover {
+        color: #1e73be;
+      }
+    }
+  }
+
+  h1 {
+    margin: 0;
+
+    &.entry-title {
+      @include respond-max($bp-md) {
+        clear: both;
+        margin-top: 2rem;
+      }
+    }
+  }
+
+  .byline {
+    font-size: 0.875rem;
+  }
+}
+
+.post-date {
+  background-color: $color-bg-surface;
+  border-bottom: solid 5px $color-gray-300-alt;
+  border-radius: 38px;
+  border-top: solid 5px $color-gray-300-alt;
+  float: left;
+  margin: 5px 24px 5px 0;
+  padding: 10px;
+  text-align: center;
+  width: 52px;
+
+  .month {
+    background-image: none;
+    box-shadow: none;
+    display: block;
+    font: 11px/100% Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    padding: 2px 0;
+    text-transform: uppercase;
+    padding: 2px 0;
+    position: relative;
+    top: -1px;
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .day {
+    color: $color-bg-body;
+    display: block;
+    font: bold 24px/100% Arial, Helvetica, sans-serif;
+    padding: 2px 0 4px;
+  }
+
+  .year {
+    color: $color-gray-600;
+    display: block;
+    font: 14px/100% Arial, Helvetica, sans-serif;
+    padding: 0 0 4px;
+  }
+}
+
+// ========================
+// Article/Entry Content
+// ========================
+
+article a {
+  border-bottom: 1px dashed $color-link-underline;
+  color: $color-link;
+  text-decoration: none;
+
+  &:hover,
+  &:active,
+  &:focus {
+    border-bottom: 1px solid $color-link-hover;
+    color: $color-link-hover;
+  }
+
+  &.button {
+    background: $color-gray-600;
+    border-bottom: 0;
+    color: $color-bg-surface;
+    display: inline-block;
+    padding: 10px 20px;
+
+    &:hover,
+    &:active,
+    &:focus {
+      background-color: $color-nav-bg;
+    }
+  }
+}
+
+.history-aside {
+  background-color: $color-text-light;
+  border-bottom: 2px solid $color-gray-600;
+  border-top: 1px solid $color-gray-600;
+  margin: 2.5rem 0;
+  padding: 1rem 2rem;
+}
+
+// ========================
+// Tracklog
+// ========================
+
+.tracklog-map {
+  border: 1px solid $color-border-dark;
+  min-height: 500px;
+  width: 100%;
+}
+
+.track-info {
+  border: 1px solid $color-border-light;
+  background: $color-bg-surface;
+  padding: 0.5rem;
+
+  th {
+    padding-left: 0;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-align: left;
+  }
+}

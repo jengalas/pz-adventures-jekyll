@@ -1,4 +1,4 @@
-@use 'base/tokens' as *;
+@use '../base/tokens' as *;
 
 // ========================
 // Tabs (for geocache logs)
@@ -67,8 +67,4 @@
 
 .js-tablist__item a {
   border: 0;
-
-  &:hover {
-    // border: 0;
-  }
 }

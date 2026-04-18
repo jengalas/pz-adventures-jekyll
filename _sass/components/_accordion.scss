@@ -1,8 +1,4 @@
-@use 'base/tokens' as *;
-
-// ========================
-// Accordion
-// ========================
+@use '../base/tokens' as *;
 
 .accordionItem {
   border-bottom: 1px solid $color-border-medium;

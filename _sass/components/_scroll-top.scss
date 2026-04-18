@@ -1,0 +1,23 @@
+@use '../base/tokens' as *;
+
+#scroll-to-top {
+  background-color: $color-overlay-dark;
+  border: none;
+  border-radius: 3px;
+  bottom: 20px;
+  color: white;
+  cursor: pointer;
+  display: none;
+  font-size: 18px;
+  font-weight: 700;
+  outline: none;
+  padding: 12px 12px 7px 12px;
+  position: fixed;
+  right: 30px;
+  transition: all 3s ease-in-out;
+  z-index: 99;
+
+  &:hover {
+    background-color: $color-overlay-dark-strong;
+  }
+}

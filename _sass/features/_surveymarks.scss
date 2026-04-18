@@ -1,0 +1,28 @@
+@use '../base/tokens' as *;
+
+.surveymark-heading {
+  font-family: $font-body;
+  font-size: 1.3125rem;
+  font-weight: 600;
+}
+
+.surveymark-list {
+  margin: 1em 0;
+  list-style-type: none;
+  padding-left: 8px;
+
+  li {
+    border-bottom: 1px solid $color-border-subtle;
+    line-height: 2.2;
+
+    a {
+      border: 0;
+    }
+  }
+
+  .fa-arrow-up-right-from-square {
+    color: $color-accent;
+    font-size: 80%;
+    margin-left: 0.5rem;
+  }
+}

@@ -1,0 +1,60 @@
+@use '../base/tokens' as *;
+@use '../base/breakpoints' as *;
+
+.wrapper {
+  height: $header-height;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 400;
+
+  &.active {
+    background-color: $color-overlay-header;
+    transition: all 400ms ease;
+  }
+}
+
+#masthead {
+  margin: 0;
+  padding: 0 8px;
+
+  .fa-search {
+    color: $color-text-light;
+    margin-top: 28px;
+  }
+
+  .search-toggle {
+    display: flex;
+    font-size: 1.8rem;
+    justify-content: flex-end;
+    flex: 1;
+    margin-right: 24px;
+    z-index: 120;
+
+    .nav-visible & {
+      background-color: $color-black;
+    }
+  }
+}
+
+.inside-header {
+  display: flex;
+  height: $header-height;
+  margin: 0 auto;
+  max-width: 1080px;
+}
+
+.site-title {
+  float: left;
+  z-index: 110;
+
+  a {
+    color: $color-text-light;
+    font-size: 2rem;
+    text-decoration: none;
+
+    @include respond-max($bp-md) {
+      font-size: 1.4rem;
+    }
+  }
+}

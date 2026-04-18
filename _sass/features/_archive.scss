@@ -1,9 +1,33 @@
-@use 'base/tokens' as *;
-@use 'base/breakpoints' as *;
-@use 'components/card' as *;
-@use 'components/meta' as *;
+@use '../base/tokens' as *;
+@use '../base/breakpoints' as *;
+@use '../components/card' as *;
+@use '../components/meta' as *;
 
 // ARCHIVE PAGES
+
+.excerpt p {
+  display: inline;
+}
+
+.featured-image {
+
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    border: 0;
+  }
+
+  img {
+    height: auto;
+    margin: 1rem 0;
+    max-width: 100%;
+
+    @include respond-max($bp-md) {
+      margin: .6rem 0;
+    }
+  }
+}
 
 .category-excerpts {
   background-color: transparent;
