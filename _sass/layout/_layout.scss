@@ -1,0 +1,10 @@
+@use 'base/breakpoints' as *;
+@use 'components/card' as *;
+
+section {
+  @include card(3rem 5.263rem);
+
+  @include respond-max($bp-md) {
+    padding: 3rem;
+  }
+}

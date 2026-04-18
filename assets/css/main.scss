@@ -7,8 +7,9 @@
 @use "components/nav";
 @use "components/alert";
 @use "components/card";
-@use "components/footer";
-@use "components/header";
+@use "layout/footer";
+@use "layout/header";
+@use "layout/layout";
 @use "components/meta";
 @use "components/accordion";
 @use "components/tabs";
