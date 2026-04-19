@@ -2,7 +2,7 @@
 --- 
 
 @use "base/tokens";
-@use "base";
+@use "base/base";
 @use "base/breakpoints";
 @use "components/nav";
 @use "components/alert";
@@ -19,6 +19,6 @@
 @use "features/archive";
 @use "features/comments";
 @use "features/geocache";
+@use "features/media";
 @use "features/surveymarks";
 @use "features/post";
-@use "media";

@@ -3,7 +3,9 @@
 @use 'components/card' as *;
 @use 'components/meta' as *;
 
-// IMAGE GALLERIES
+// ========================
+// Image Galleries
+// ========================
 
 .gallery {
     background-color: #e7ecf0;
@@ -71,7 +73,9 @@
   background-color: rgba(1,1,1,0.3);
 }
 
-// YOUTUBE
+// ========================
+// YouTube Embeds
+// ========================
 
 .embed-youtube {
     position: relative;
