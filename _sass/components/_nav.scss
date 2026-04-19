@@ -4,7 +4,7 @@
 
 
 // ========================
-// Nav Wrapper / Overlay
+// Nav Wrapper, Overlay
 // ========================
 
 body.nav-visible {
@@ -218,7 +218,7 @@ body.nav-visible {
   text-align: center;
   font-family: $font-body;
 
-  @media (max-width: 768px) {
+  @include respond-max($bp-md) {
     width: 100vw;
   }
 
