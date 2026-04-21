@@ -29,6 +29,8 @@
   }
 
   .next-post {
+    float: right;
+    
     &::after {
       content: "\02C3";
       margin-left: 0.5rem;

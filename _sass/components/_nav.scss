@@ -77,7 +77,8 @@ body.nav-visible {
 }
 
 .navhead {
-  margin-top: 1rem;
+  display: flex; 
+  margin-left: auto;
   z-index: 120;
 }
 
