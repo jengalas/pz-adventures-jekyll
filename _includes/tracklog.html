@@ -129,13 +129,14 @@
       })
 
         .on('loaded', function (e) {
+          const faMountain = `{% include icons/fa-solid-fa-mountain.svg class="icon fa-mountain" %}`;
           gpxTracks.addLayer(e.layers).setStyle({ color: 'red' });
           let track = e.target,
             trackName = track.get_name();
           distMi = track.get_distance_imp();
           elGainFt = track.get_elevation_gain_imp().toFixed(0);
           elLossFt = track.get_elevation_loss_imp().toFixed(0);
-          this.bindTooltip("<b>" + trackName + "</b><br>" + distMi.toFixed(3) + " miles<br><i class='fa-solid fa-mountain'></i> +" + elGainFt + "ft./-" + elLossFt + "ft.", { sticky: true }).addTo(tracklogMap);
+          this.bindTooltip("<b>" + trackName + "</b><br>" + distMi.toFixed(3) + " miles<br>" + faMountain + elGainFt + "ft./-" + elLossFt + "ft.", { sticky: true }).addTo(tracklogMap);
           // tracklogMap.getContainer().addEventListener('mousedown', e => e.preventDefault());
           tracklogMap.getContainer().addEventListener('mousedown', e => {
             // Prevent focus jump, but still allow dragging and panning
