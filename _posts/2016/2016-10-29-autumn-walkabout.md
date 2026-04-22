@@ -38,18 +38,16 @@ galleries:
 
 {% include image.html filename="P1080057cl.jpg" thumb="P1080057b.jpg" caption="" %}
 
-<blockquote>Yet under reason burns a brighter fire, which the bones<br>
-have always preferred.<br>
-It is the story of endless good fortune.<br>
-It says to oblivion: not me!<br><br>
-
-
-It is the light at the center of every cell.<br>
-It is what sent the snake coiling and flowing forward<br>  
-happily all spring through the green leaves before<br> 
-he came to the road.
-
-<span style="float: right; margin-bottom: 1.5rem; margin-top: 1.5rem;">—<em>from <strong>The Black Snake</strong> by Mary Oliver</em></span>
-</blockquote>
+> Yet under reason burns a brighter fire, which the bones  
+> have always preferred.  
+> It is the story of endless good fortune.  
+> It says to oblivion: not me!  
+>   
+> It is the light at the center of every cell.  
+> It is what sent the snake coiling and flowing forward  
+> happily all spring through the green leaves before  
+> he came to the road. 
+> 
+> _—from **The Black Snake** by Mary Oliver_{: .float-right}
 
 {% include gallery.html gallery_id="gallery1" class="" %}
