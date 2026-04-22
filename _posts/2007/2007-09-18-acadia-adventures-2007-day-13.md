@@ -30,7 +30,7 @@ galleries:
 
 We had enjoyed Jeannie's so much for breakfast that we had to go once more before heading home. We spent the early morning packing up and getting the car ready, so by the time we arrived at Jeannie's, the place was already full. We stood in the courtyard while we waited. "Eat. And. Go." we kept saying, in the hope that we could somehow telepathically convince the diners to get their butts in gear and move on. :grin:
 
-Breakfast was filling enough that we knew it would keep us going all day. I had a bowl of fresh fruit with yogurt and granola, and a slice of oat toast, while Rich had an order or pancakces with bacon. We shared a plate of corned beef hash. To drink, we had cranberry juice and Rich also had coffee.
+Breakfast was filling enough that we knew it would keep us going all day. I had a bowl of fresh fruit with yogurt and granola, and a slice of oat toast, while Rich had an order or pancakes with bacon. We shared a plate of corned beef hash. To drink, we had cranberry juice and Rich also had coffee.
 
 It was a beautiful, sunny morning, and we had two more activities on our list before leaving town: searches for two very interesting triangulation stations at the northernmost tip of MDI.
 
