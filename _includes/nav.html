@@ -16,7 +16,10 @@
       {% for item in site.data.navigation.toc2 %}
       {% if item.subfolderitems[0] %}
       <li class="list submenu">
-        <button>{{ item.title }}</button>
+        <button class="submenu-toggle" aria-expanded="false" aria-controls="submenu-1">
+          {{ item.title }}
+          {% include icons/fa-solid-chevron-down.svg class="icon" %}
+        </button>
         <ul class="items">
           {% for entry in item.subfolderitems %}
           <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>

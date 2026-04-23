@@ -70,6 +70,18 @@ for (i = 0; i < list.length; i++) {
   list[i].addEventListener('click', accordion);
 }
 
+// Submenu toggle
+
+document.querySelectorAll('.submenu-toggle').forEach(button => {
+  button.addEventListener('click', () => {
+    const expanded = button.getAttribute('aria-expanded') === 'true';
+    const menu = document.getElementById(button.getAttribute('aria-controls'));
+
+    button.setAttribute('aria-expanded', !expanded);
+    menu.hidden = expanded;
+  });
+});
+
 /* Back-to-top button */
 
 const header = document.querySelector('.wrapper');

@@ -77,7 +77,7 @@ body.nav-visible {
 }
 
 .navhead {
-  display: flex; 
+  display: flex;
   margin-left: auto;
   z-index: 120;
 }
@@ -199,20 +199,10 @@ body.nav-visible {
 
     cursor: pointer;
 
-    &::after {
-      content: "\f107";
-      font-family: FontAwesome;
-      margin-left: 10px;
-    }
-
     &:hover,
     &.active {
       background-color: $color-nav-hover;
     }
-  }
-
-  .submenu.active button::after {
-    content: "\f106";
   }
 
   a {
@@ -224,6 +214,16 @@ body.nav-visible {
     &:hover {
       background-color: $color-nav-bg;
     }
+  }
+
+  .submenu-toggle {
+    align-items: center;
+    vertical-align: -.2em;
+    gap: 0.5em;
+  }
+
+  .submenu-toggle[aria-expanded="true"] .icon {
+    transform: rotate(180deg);
   }
 
   .items {
