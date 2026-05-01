@@ -117,3 +117,14 @@ window.onscroll = function() {
   scrollHeader();
   scrollToTop();
 }
+
+
+// Initialize no-jQuery justified gallery
+
+// document.querySelectorAll('.jg').forEach(gallery => {
+//   new VanillaJustifiedGallery(gallery, {
+//     rowHeight: 200,
+//     margin: 10,
+//     justifyLastRow: false
+//   });
+// });

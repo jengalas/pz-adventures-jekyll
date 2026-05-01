@@ -1,0 +1,31 @@
+{% capture year %}{{ page.date | date: "%Y" }}{% endcapture %}
+{% capture month %}{{ page.date | date: "%m" }}{% endcapture %}
+{% capture day %}{{ page.date | date: "%d" }}{% endcapture %}
+
+{% assign image_host_url = "https://images.planetzhanna.com/" %}
+{% assign gclass = include.class %}
+{% assign gallery = page.galleries[include.gallery_id] %}
+{% assign suffix = gallery.suffix %}
+{% assign no_suffix = gallery.no_suffix %}
+{% assign gallery_id = include.gallery_id | slugify %}
+
+<div class="jg {{ gclass }}">
+  {% for image in gallery.images %}
+  {% if image.title %}
+  {% assign title = image.title %}
+  {% else %}
+  {% assign title = image.alt %}
+  {% endif %}
+
+  {% if no_suffix == true %}
+  {% capture full_url %}{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}.jpg{% endcapture %}
+  {% elsif suffix %}
+  {% capture full_url %}{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}{{ suffix }}.jpg{%
+  endcapture %}
+  {% else %} {% capture full_url %}{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/{{ image.filename }}clx.jpg{%
+  endcapture %} {% endif %}
+  {% capture thumb_url %}{{ image_host_url }}{{ year }}/{{ month }}/{{ day }}/thumbnails/{{ image.filename }}csm.jpg{%
+  endcapture %}
+  {{ image.alt | escape }}
+  {% endfor %}
+</div>
