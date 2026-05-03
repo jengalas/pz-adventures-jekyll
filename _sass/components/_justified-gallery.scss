@@ -11,20 +11,23 @@
   --jg-transition: 0.22s ease;
 
   display: flex;
-  flex-wrap: wrap;
-  gap: var(--jg-gap);
+  flex-direction: column;  /* stack rows vertically */
+  gap: var(--jg-gap);      /* vertical gap between rows */
   width: 100%;
+  padding-bottom: var(--jg-gap);
 
   a {
     border-bottom: 0;
   }
 }
 
-/* Each row is a flex row that stretches images to fill width */
+/* Each row is a horizontal flex container for its images */
 .jg-row {
   display: flex;
-  gap: var(--jg-gap);
+  flex-direction: row;
+  gap: var(--jg-gap);      /* horizontal gap between images */
   width: 100%;
+  flex-shrink: 0;
 }
 
 /* Last row: left-aligned (not stretched), controlled by data-last-row */
@@ -69,7 +72,7 @@
 }
 
 .jg-item:hover img {
-  transform: scale(1.035);
+  transform: scale(1.01);
   filter: brightness(0.88);
 }
 
