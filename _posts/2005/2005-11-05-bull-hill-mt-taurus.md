@@ -67,7 +67,7 @@ Temperatures were in the upper-60s and low-70s, with mostly sunny skies in the m
 
 As usual, everyone's focus was mostly on enjoying the weather, the scenery, and each other's company, so the photo-taking ended up being a sort of neglected afterthought, except for some horsing around snapshots that Rich had managed to capture in the fading daylight while Zhanna tried her hand (and foot!) at a bit of casual bouldering.
 
-{% include gallery.html gallery_id="gallery2" class="" %}
+{% include gallery.html gallery_id="gallery2" class="3by3" %}
 
 Dinner was had at a decent seafood restaurant called The Riverside in nearby Cold Spring (a touristy, somewhat Jim Thorpe-ish hamlet on the Hudson).
 

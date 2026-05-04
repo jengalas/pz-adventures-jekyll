@@ -39,6 +39,7 @@
     maxRowHeight:     0,
     maxLastRowHeight: 0,  // justify falls back to 'left' if row would exceed this (0 = no limit)
     maxCols:          0,    // 0 = no limit; 2 = max 2 images per row, etc.
+    maxSingleWidth:   0.5,  // when maxCols=1, cap width to this fraction of container (0 = no cap)
     margins:          4,
     lastRow:          'justify',
     captions:         true,
@@ -53,7 +54,8 @@
     if (dataAttrs.margins)          o.margins          = parseInt(dataAttrs.margins,          10);
     if (dataAttrs.lastRow)          o.lastRow          = dataAttrs.lastRow;
     if (dataAttrs.maxLastRowHeight) o.maxLastRowHeight = parseInt(dataAttrs.maxLastRowHeight, 10);
-    if (dataAttrs.maxCols)         o.maxCols          = parseInt(dataAttrs.maxCols,          10);
+    if (dataAttrs.maxCols)          o.maxCols          = parseInt(dataAttrs.maxCols,          10);
+    if (dataAttrs.maxSingleWidth)   o.maxSingleWidth   = parseFloat(dataAttrs.maxSingleWidth);
     return o;
   }
 
@@ -185,6 +187,19 @@
             w = Math.round((item._jgAspect || 1.5) / aspSum * usable);
           }
         }
+
+        // For single-column layout, cap width and recalculate height to match
+        if (opts.maxCols === 1 && opts.maxSingleWidth && opts.maxSingleWidth > 0) {
+          const capW = Math.round(W * opts.maxSingleWidth);
+          if (w > capW) {
+            const h = Math.round(capW / (item._jgAspect || 1.5));
+            item.style.width  = capW + 'px';
+            item.style.height = h + 'px';
+            rowEl.appendChild(item);
+            return;
+          }
+        }
+
         item.style.width  = w + 'px';
         item.style.height = row.height + 'px';
         rowEl.appendChild(item);
@@ -223,8 +238,9 @@
     let current = 0;
 
     const open = (index) => {
-      current       = index;
-      const item    = items[index];
+      if (!items.length) return;
+      current       = Math.min(index, items.length - 1);
+      const item    = items[current];
       const img     = item.querySelector('img');
       const src     = getFullSrc(item, img);
       const cap     = getCaptionText(item);
@@ -250,7 +266,11 @@
       lbImg.src = '';
     };
 
-    const nav = (dir) => open((current + dir + items.length) % items.length);
+    const nav = (dir) => {
+      if (!items.length) { close(); return; }
+      current = (current + dir + items.length) % items.length;
+      open(current);
+    };
 
     lb.querySelector('.jg-lightbox__close').addEventListener('click', close);
     lb.querySelector('.jg-lightbox__btn--prev').addEventListener('click', () => nav(-1));
@@ -287,12 +307,21 @@
       margins:          container.dataset.margins,
       lastRow:          container.dataset.lastRow,
       maxLastRowHeight: container.dataset.maxLastRowHeight,
-      maxCols:          container.dataset.cols,  // data-cols="2"
+      maxCols:          container.dataset.cols,        // data-cols="2"
+      maxSingleWidth:   container.dataset.maxSingleWidth,
     };
 
-    // Class name shorthands → maxCols.
-    // Supports: "2by2", "3by3", "cols-2", "cols-3", etc.
-    // A data-cols attribute always takes precedence over a class name.
+    // Class name shorthands — resolved before mergeOptions so data attributes
+    // set explicitly always take precedence.
+
+    // "single" → maxCols:1, lastRow:'left'
+    if (container.classList.contains('single') && !dataAttrs.maxCols) {
+      dataAttrs.maxCols  = '1';
+      dataAttrs.lastRow  = dataAttrs.lastRow || 'left';
+      container.dataset.cols = '1';
+    }
+
+    // "2by2", "3by3", "cols-2", "cols-3" etc. → maxCols:N
     if (!dataAttrs.maxCols) {
       const colsFromClass =
         // matches "2by2", "3by3", "4by4" …
@@ -301,7 +330,7 @@
          container.className.match(/\bcols-(\d+)\b/))?.[1];
       if (colsFromClass) {
         dataAttrs.maxCols = colsFromClass;
-        container.dataset.cols = colsFromClass; // write back so it's inspectable
+        container.dataset.cols = colsFromClass;
       }
     }
     const opts = mergeOptions(DEFAULTS, userOptions || {}, dataAttrs);
@@ -366,20 +395,44 @@
     // else the fallback 1.5). Then re-layout as each image finishes loading
     // to correct any aspects that were estimated.
     //
-    // This avoids the trap of waiting on lazy-loaded images that may never
-    // fire 'load' until the user scrolls to them.
+    // On error: remove the item entirely from the DOM and the items array
+    // so it leaves no gap in the gallery.
     layout();
 
     const imgs = items.map(i => i.querySelector('img')).filter(Boolean);
     imgs.forEach(img => {
-      if (img.complete) return; // already decoded — aspect already correct
-      img.addEventListener('load',  () => {
+      if (img.complete && img.naturalWidth > 0) return; // already decoded fine
+
+      // If complete but naturalWidth is 0, the image already failed
+      if (img.complete && img.naturalWidth === 0) {
+        const item = img.closest('.jg-item');
+        if (item) {
+          const idx = items.indexOf(item);
+          if (idx !== -1) items.splice(idx, 1);
+          item.remove();
+        }
+        layout();
+        return;
+      }
+
+      img.addEventListener('load', () => {
         // Clear the cached aspect so computeRows re-reads naturalWidth/Height
         const item = img.closest('.jg-item');
         if (item) delete item._jgAspect;
         layout();
       }, { once: true });
-      img.addEventListener('error', () => layout(), { once: true });
+
+      img.addEventListener('error', () => {
+        // Remove the item from the DOM and from the items array so it
+        // takes up no space in the layout or lightbox navigation
+        const item = img.closest('.jg-item');
+        if (item) {
+          const idx = items.indexOf(item);
+          if (idx !== -1) items.splice(idx, 1);
+          item.remove();
+        }
+        layout();
+      }, { once: true });
     });
 
     return {
