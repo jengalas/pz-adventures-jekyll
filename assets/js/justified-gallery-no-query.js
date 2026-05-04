@@ -35,9 +35,10 @@
 
   /* ─── defaults ─────────────────────────────────────────────────────────── */
   const DEFAULTS = {
-    rowHeight:        220,
+    rowHeight:        230,
     maxRowHeight:     0,
-    maxLastRowHeight: 420,  // justify falls back to 'left' if row would exceed this (0 = no limit)
+    maxLastRowHeight: 0,  // justify falls back to 'left' if row would exceed this (0 = no limit)
+    maxCols:          0,    // 0 = no limit; 2 = max 2 images per row, etc.
     margins:          4,
     lastRow:          'justify',
     captions:         true,
@@ -48,9 +49,11 @@
   /* ─── helpers ───────────────────────────────────────────────────────────── */
   function mergeOptions(defaults, user, dataAttrs) {
     const o = Object.assign({}, defaults, user);
-    if (dataAttrs.rowHeight) o.rowHeight = parseInt(dataAttrs.rowHeight, 10);
-    if (dataAttrs.margins)   o.margins   = parseInt(dataAttrs.margins,   10);
-    if (dataAttrs.lastRow)   o.lastRow   = dataAttrs.lastRow;
+    if (dataAttrs.rowHeight)        o.rowHeight        = parseInt(dataAttrs.rowHeight,        10);
+    if (dataAttrs.margins)          o.margins          = parseInt(dataAttrs.margins,          10);
+    if (dataAttrs.lastRow)          o.lastRow          = dataAttrs.lastRow;
+    if (dataAttrs.maxLastRowHeight) o.maxLastRowHeight = parseInt(dataAttrs.maxLastRowHeight, 10);
+    if (dataAttrs.maxCols)         o.maxCols          = parseInt(dataAttrs.maxCols,          10);
     return o;
   }
 
@@ -98,7 +101,7 @@
 
   /* ─── layout engine ─────────────────────────────────────────────────────── */
   function computeRows(items, containerWidth, opts) {
-    const { rowHeight, maxRowHeight, margins } = opts;
+    const { rowHeight, maxRowHeight, margins, maxCols } = opts;
     const rows = [];
     let row = [], rowAspectSum = 0;
 
@@ -110,8 +113,10 @@
       row.push(item);
       rowAspectSum += aspect;
 
-      const naturalWidth = rowAspectSum * rowHeight + margins * (row.length - 1);
-      if (naturalWidth >= containerWidth) {
+      const naturalWidth  = rowAspectSum * rowHeight + margins * (row.length - 1);
+      const colLimitHit   = maxCols && row.length >= maxCols;
+
+      if (naturalWidth >= containerWidth || colLimitHit) {
         const usable = containerWidth - margins * (row.length - 1);
         let h = usable / rowAspectSum;
         if (maxRowHeight && h > maxRowHeight) h = maxRowHeight;
@@ -278,19 +283,43 @@
 
     const instanceId = container.id || ('jg' + (++instanceCounter));
     const dataAttrs  = {
-      rowHeight: container.dataset.rowHeight,
-      margins:   container.dataset.margins,
-      lastRow:   container.dataset.lastRow,
+      rowHeight:        container.dataset.rowHeight,
+      margins:          container.dataset.margins,
+      lastRow:          container.dataset.lastRow,
+      maxLastRowHeight: container.dataset.maxLastRowHeight,
+      maxCols:          container.dataset.cols,  // data-cols="2"
     };
+
+    // Class name shorthands → maxCols.
+    // Supports: "2by2", "3by3", "cols-2", "cols-3", etc.
+    // A data-cols attribute always takes precedence over a class name.
+    if (!dataAttrs.maxCols) {
+      const colsFromClass =
+        // matches "2by2", "3by3", "4by4" …
+        (container.className.match(/\b(\d+)by\d+\b/)  ||
+        // matches "cols-2", "cols-3" …
+         container.className.match(/\bcols-(\d+)\b/))?.[1];
+      if (colsFromClass) {
+        dataAttrs.maxCols = colsFromClass;
+        container.dataset.cols = colsFromClass; // write back so it's inspectable
+      }
+    }
     const opts = mergeOptions(DEFAULTS, userOptions || {}, dataAttrs);
 
     container.classList.add('jg-gallery');
     container.style.setProperty('--jg-gap',       opts.margins   + 'px');
     container.style.setProperty('--jg-row-height', opts.rowHeight + 'px');
 
-    // Collect direct-child items, skipping any .jg-row wrappers from a prior run
+    // Unwrap any existing .jg-row divs from a previous run (or from a
+    // conflicting init) so we're always working with the raw items.
+    container.querySelectorAll('.jg-row').forEach(r => {
+      while (r.firstChild) container.insertBefore(r.firstChild, r);
+      r.remove();
+    });
+
+    // Collect direct-child items — now guaranteed to be the real images/anchors
     const items = Array.from(container.children)
-      .filter(el => !el.classList.contains('jg-row'));
+      .filter(el => el.nodeType === 1); // elements only, no text nodes
 
     // Prep each item
     items.forEach(item => {
@@ -388,6 +417,8 @@
     document.querySelectorAll('div.jg, div.jg-gallery').forEach(container => {
       if (container.dataset.jgInit) return; // skip if already initialised
       container.dataset.jgInit = '1';
+      // Options are read from data attributes inside the JustifiedGallery
+      // constructor via mergeOptions — no need to pass them explicitly here.
       new JustifiedGallery(container);
     });
   }

@@ -81,7 +81,7 @@ Rich and I climbed down on the rocks and carefully made our way over to the corn
 
 TIDAL 2, on the other hand, was such an interesting mark, and not easy to find! It was fun to find something obviously old (and to actually know what it was) and to find one that surveyor JRO didn't find. I will admit, it took me a few minutes. Given the description, it wasn't exactly clear what I was searching for or what it would look like. But the only likely location was the large ledge southeast of TIDAL 6, where JRO suspected that TIDAL 2 would be set. He was correct about that. There is so much gray and white lichen on this outcrop that the white-oxidized lead slug blends in and hides quite easily. It took me two passes over the outcrop to notice it, and even then, I wasn't sure until I got down close to the mark and noticed the "X" cut in the center and the punch mark that I was sure I'd found a survey mark.
   
-{% include gallery.html gallery_id="gallery2" class="" %}
+{% include gallery.html gallery_id="gallery2" class="cols-3" %}
 
 We did not really expect to find the third mark on the beach, TIDAL 5, which is a drill hole. Drill holes, in particular, can be notoriously difficult to locate and positively identify after decades of weathering and vegetation growth. But this one was in an obvious location on an obvious rock face, basically glinting in the sun and drawing my attention immediately as soon as I stepped down onto the rocky beach. I also really liked the carved triangle surrounding the drill hole, and the carved horizontal line that runs through it.
 
