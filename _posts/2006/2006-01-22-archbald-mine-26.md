@@ -25,7 +25,8 @@ galleries:
     - filename: P1220021
       alt: Some icy water drains from around the opening.
     - filename: P1220025
-      alt: I’d guess that we walked into someone’s party spot. It’s tidier than most I’ve seen.                 
+      alt: I’d guess that we walked into someone’s party spot. It’s tidier than most I’ve seen. 
+
 ---      
 
 On this sunny, relatively warm (for January) Sunday, Rich and I decided to investigate some areas on Archbald Mountain in search of a potential mine opening.  From various sources we are aware that at least a few small openings still exist in our target area, and Rich even remembered discovering one while mountain biking years ago.  Today was the day to test his memory.  
@@ -38,6 +39,8 @@ We then followed the trail east to the top of the hill, where it dead-ends.  Aft
 
 _Thanks, Rich, for the photos, and the stories of how these roads and trails were all connected in the past!  I wish I could've seen and explored this area back then._
 
-<!-- From Rich's note to Dave: Was tempted to get the bike out this morning, but since it was still rather cold (27°) and Aaron wasn't feeling all that well, we decided to hike part of the way up Archbald Mountain and attempt to locate an abandoned mineshaft I had seen up there many years ago.  My memory of the area was quite vague, but I did recall mountain biking on a trail that branched from the wooden powerline and that reminded me of that old discovery.  After poking around for 1/2 an hour or so we found the entrance to the shaft.  I suppose it's because it has been so rainy this season that a lot of water was running out of it.  And I don't know how deep the opening extends 'cuz we didn't have flashlights bright enough to see more than about 15 feet of the interior walls.  Later we found another potential site for an open mineshaft but will need to return at some future date in order to climb down to it.  Our hike was a bit over 4 miles RT to reach the site.  However, it's easy enough to bike to.  It does appear that "someone else" is aware of the mine, as it's been tagged and flagged.  Not sure why. -->
+{% comment %} 
+From Rich's note to Dave: Was tempted to get the bike out this morning, but since it was still rather cold (27°) and Aaron wasn't feeling all that well, we decided to hike part of the way up Archbald Mountain and attempt to locate an abandoned mineshaft I had seen up there many years ago.  My memory of the area was quite vague, but I did recall mountain biking on a trail that branched from the wooden powerline and that reminded me of that old discovery.  After poking around for 1/2 an hour or so we found the entrance to the shaft.  I suppose it's because it has been so rainy this season that a lot of water was running out of it.  And I don't know how deep the opening extends 'cuz we didn't have flashlights bright enough to see more than about 15 feet of the interior walls.  Later we found another potential site for an open mineshaft but will need to return at some future date in order to climb down to it.  Our hike was a bit over 4 miles RT to reach the site.  However, it's easy enough to bike to.  It does appear that "someone else" is aware of the mine, as it's been tagged and flagged.  Not sure why. 
+{% endcomment %}
 
-{% include gallery.html gallery_id="gallery1" class="" %}
+{% include gallery.html gallery_id="gallery1" class="3by3" %}
