@@ -15,6 +15,14 @@ surveymarks: true
 tracklog: 11SEP21.gpx
 post_id: 13234
 layout: post
+galleries:
+  gallery1:
+    suffix: cvx
+    images:
+    - filename: P1025321
+      alt: A garter snake along the Jesup Path
+    - filename: P1025379
+      alt: On the gravel portion of the path
 ---
 
 We woke to a beautiful sunny day, most welcome for a nice photo walk that we had in mind for the Jesup Path.
@@ -40,6 +48,8 @@ Our plan was simply to hike the Jesup Path (which, now, is basically flooded ben
 We walked very slowly, stopping frequently to look for snakes and other critters, to take photos, or simply to watch in silence (a rare commodity these days). Most people just blew right by us, mouths going a mile a minute, not seeing anything. 
 
 About halfway along the boardwalk section, I spotted a garter snake resting on the wooden support right at Rich's feet! He was so beautiful and stayed still for a long time posing for photos. We showed him to an elderly German-speaking couple who came up to us while we were photographing him. He'd had enough by this point and slithered off the deck and swam away in the water.
+
+{% include gallery.html gallery_id="gallery1" class="2by2" %}
 
 Along the way we also saw mushrooms and fungi, dragonflies, and a colorful frog on the gravel-lined section north of Hemlock Road. Some trees are already starting to change to their autumn colors. 
 
