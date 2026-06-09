@@ -28,6 +28,30 @@ galleries:
   gallery2:
     suffix: cl
     images:
+    - filename: P1000880
+      alt: Cleistocactus strausii just past bloom, Tucson Botanical Gardens
+    - filename: P1000881
+      alt: Tall Cleistocactus strausii
+    - filename: P1000882
+      alt: “Shrimp plant,” Justicia brandegeeana
+    - filename: P1000886
+      alt: “Shrimp plant,” Justicia brandegeeana. Who said shrimp don’t grow on trees?!
+    - filename: P1000890
+      alt: Butterfly on white flowers
+    - filename: P1000892
+      alt: Grapefruit on the tree - Zhanna wants one!
+    - filename: P1000896
+      alt: Blue morpho butterfly
+    - filename: P1000897
+      alt: [butterfly to identify]
+    - filename: P1000899
+      alt: [butterfly to identify]
+    - filename: P1000900
+      alt: [butterfly to identify]
+    - filename: P1000902
+      alt: Nepenthes (pitcher plant) in the butterfly house
+    - filename: P1000904
+      alt: Lots of Nepenthes!                                                               
     - filename: P1080409
       alt: 
     - filename: P1080410
