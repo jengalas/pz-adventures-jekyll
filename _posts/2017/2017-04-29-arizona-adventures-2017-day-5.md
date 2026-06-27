@@ -84,9 +84,10 @@ galleries:
     - filename: P1010348
       alt: Seven Falls Trail, Sabino Canyon                
   gallery2:
+    suffix: cl
     images:
     - filename: P1080496
-      alt: A tray of goodies at El Güero Canelo 
+      alt: A tray of goodies at El Güero Canelo      
     - filename: P1080498
       alt: Steak tacos
     - filename: P1080501
@@ -103,7 +104,7 @@ We weren't very hungry this morning, so breakfast was a quick snack in our motel
 
 While we ate, we tossed around a few thoughts about what to do today, and we ultimately decided on an easy hike to Seven Falls at Sabino Canyon. (Just so we keep them in mind for our next visit, the ideas that didn't quite make the cut for today were hiking at Signal Hill and exploring the northwest corner of the eastern section of Saguaro National Park.)  
 
-By the time we arrived at the parking area, there weren't many spots left. It's Saturday morning, remember (of course, we <i>didn't</i> remember that until we arrived there) and Sabino Canyon is a very popular spot. Fortunately on 100-degree days in Arizona many people start their days even earlier than we do, so plenty of people were already leaving the park as we and many others entered.
+By the time we arrived at the parking area, there weren't many spots left. It's Saturday morning, remember (of course, we _didn't_ remember that until we arrived there) and Sabino Canyon is a very popular spot. Fortunately on 100-degree days in Arizona many people start their days even earlier than we do, so plenty of people were already leaving the park as we and many others entered.
 
 A hikers' shuttle runs to the trailhead every hour on the hour. By the time we purchased our tickets and made our way to the shuttle stop, it was a few minutes after 9:00, so we had almost an hour to wait for the next shuttle. That gave us a chance to explore the visitors center and hike the Bajada Loop Nature Trail around the center, where we found our first crested saguaro! We had lots of time to photograph the unusual desert plants here.
 

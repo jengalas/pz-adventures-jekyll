@@ -24,30 +24,30 @@ galleries:
     - filename: P1080405
       alt: Machaca with over-medium eggs, crisp flour tortilla, and verde sauce  
     - filename: P1080408
-      alt: Chilaquiles with verde sauce, scrambled eggs and beans  
+      alt: Chilaquiles with verde sauce, scrambled eggs and beans 
   gallery2:
     suffix: cl
     images:
     - filename: P1000880
       alt: Cleistocactus strausii just past bloom, Tucson Botanical Gardens
     - filename: P1000881
-      alt: Tall Cleistocactus strausii
+      alt: Tall Cleistocactus strausii      
     - filename: P1000882
       alt: “Shrimp plant,” Justicia brandegeeana
     - filename: P1000886
-      alt: “Shrimp plant,” Justicia brandegeeana. Who said shrimp don’t grow on trees?!
+      alt: “Shrimp plant,” Justicia brandegeeana. Who said shrimp don’t grow on trees?!  
     - filename: P1000890
       alt: Butterfly on white flowers
     - filename: P1000892
-      alt: Grapefruit on the tree - Zhanna wants one!
+      alt: Grapefruit on the tree - Zhanna wants one!   
     - filename: P1000896
       alt: Blue morpho butterfly
     - filename: P1000897
-      alt: [butterfly to identify]
+      alt: (butterfly to identify)
     - filename: P1000899
-      alt: [butterfly to identify]
+      alt: (butterfly to identify)
     - filename: P1000900
-      alt: [butterfly to identify]
+      alt: (butterfly to identify)
     - filename: P1000902
       alt: Nepenthes (pitcher plant) in the butterfly house
     - filename: P1000904
@@ -89,8 +89,127 @@ galleries:
     - filename: P1080475
       alt: “Creeping Devil” cactus, Stenocereus eruca     
     - filename: P1080478
-      alt: Monstrose form of Pachycereus schottii (senita cactus)                   
+      alt: Monstrose form of Pachycereus schottii (senita cactus) 
+    - filename: P1010096
+      alt: Garden railway      
+    - filename: P1010101  
+      alt: Garden railway                   
+    - filename: P1010104
+      alt: Garden railway 
+    - filename: P1010107
+      alt: Zhanna picks a pepper? 
   gallery3:
+    suffix: cl
+    images:
+    - filename: P1010108
+      alt: 
+    - filename: P1010112
+      alt: 
+    - filename: P1010117
+      alt: 
+    - filename: P1010122
+      alt: 
+    - filename: P1010124
+      alt:        
+    - filename: P1010128
+      alt: 
+    - filename: P1010129
+      alt: 
+    - filename: P1010133
+      alt: 
+    - filename: P1010134
+      alt: 
+    - filename: P1010136
+      alt:      
+    - filename: P1010137
+      alt: 
+    - filename: P1010138
+      alt: 
+    - filename: P1010140
+      alt: 
+    - filename: P1010142
+      alt: 
+    - filename: P1010143
+      alt:        
+    - filename: P1010147
+      alt: 
+    - filename: P1010150
+      alt: 
+    - filename: P1010152
+      alt: 
+    - filename: P1010154
+      alt: 
+    - filename: P1010155
+      alt:    
+    - filename: P1010158
+      alt: 
+    - filename: P1010160
+      alt: 
+    - filename: P1010168
+      alt: 
+    - filename: P1010171
+      alt: 
+    - filename: P1010172
+      alt:        
+    - filename: P1010174
+      alt: 
+    - filename: P1010176
+      alt: 
+    - filename: P1010180
+      alt: 
+    - filename: P1010184
+      alt: 
+    - filename: P1010188
+      alt:    
+    - filename: P1010191
+      alt: 
+    - filename: P1010192
+      alt: 
+    - filename: P1010193
+      alt: 
+    - filename: P1010195
+      alt: 
+    - filename: P1010196
+      alt:        
+    - filename: P1010198
+      alt: 
+    - filename: P1010199
+      alt: 
+    - filename: P1010200
+      alt: 
+    - filename: P1010201
+      alt: 
+    - filename: P1010202
+      alt:        
+    - filename: P1010204
+      alt:   
+    - filename: P1010205
+      alt:   
+    - filename: P1010209
+      alt:     
+    - filename: P1010216
+      alt:     
+    - filename: P1010217
+      alt:    
+    - filename: P1010219
+      alt: 
+    - filename: P1010223
+      alt:        
+    - filename: P1010224
+      alt: 
+    - filename: P1010227
+      alt:  
+    - filename: P1010228
+      alt:
+    - filename: P1010231
+      alt:       
+    - filename: P1010233
+      alt:     
+    - filename: P1010235
+      alt:      
+    - filename: P1010237
+      alt:                                                                                                             
+  gallery4:
     suffix: cl
     images:
     - filename: P1080482
@@ -98,8 +217,6 @@ galleries:
     - filename: P1080485
       alt: Margherita pizza at Grimaldi's!      
 ---
-
-photos: 400 (129 in gallery) - 485 (285 in gallery)
 
 The theme for today will become obvious so I'll just state it now- CACTI and lots of them!!!
 
@@ -118,9 +235,11 @@ story here!
 
 Next stop was the B & B cactus farm not far from the eastern section of Saguaro np. As soon as we pulled into the parking area I could trek this was going to be a special place. It might not have been quite as large as the place in Florida but they had get succulents and mostly cacti of ALL A kinds,  shapes and sizes.  Great selection of pots and containers too, including many square and straight-sided round containers that we can't get at home.  Too bad we have no way to take them with us. 
 
+{% include gallery.html gallery_id="gallery3" class="" %}
+
 We did, however, buy 4 small cacti to take with us,  or at least try to. We got a purple Eriosyce, Echinocereus, Echinofossulocactus, and Thelocactus that should bloom with a large scented flower.  We also got a box for them so hopefully  we can get them home in one piece.
 
-We were both in the mood for pizza (I think I surprised Rich with my suggestion of pizza, actually) but I had already found a place that sounded pretty good,  Grimaldi s. It's actually a chain based on the famous pizza place in new York,  but the reviews,  at least for the tucson location, were very good and it sounded like our kind of pizza.  We drove to the restaurant right after leaving the cactus farm rather than going back to the room to wash up as we usually do.  It was only a little after 4pm but it was already getting busy ... it's Friday after all. We both ordered beer - new Belgium Citradelic - and we decided to go big and get 2 twice inch pizzas,  one white with garlic and one margherita. We wanted to try both and figured we could eat any relaying pieces for breakfast tomorrow.  The pizza was crisp and thin with a very tasty crust, which is something we both really appreciate and is hard to find.  We ate all but 2 slices which we brought home with us. A cannoli for dessert sounded great but we didn't have enough room! 
+We were both in the mood for pizza (I think I surprised Rich with my suggestion of pizza, actually) but I had already found a place that sounded pretty good,  Grimaldi s. It's actually a chain based on the famous pizza place in new York,  but the reviews,  at least for the tucson location, were very good and it sounded like our kind of pizza.  We drove to the restaurant right after leaving the cactus farm rather than going back to the room to wash up as we usually do.  It was only a little after 4pm but it was already getting busy ... it's Friday after all. We both ordered beer - new Belgium Citradelic - and we decided to go big and get 2 twelve-inch pizzas,  one white with garlic and one margherita. We wanted to try both and figured we could eat any relaying pieces for breakfast tomorrow.  The pizza was crisp and thin with a very tasty crust, which is something we both really appreciate and is hard to find.  We ate all but 2 slices which we brought home with us. A cannoli for dessert sounded great but we didn't have enough room! 
 
-{% include gallery.html gallery_id="gallery3" class="2by2" %}
+{% include gallery.html gallery_id="gallery4" class="2by2" %}
 
