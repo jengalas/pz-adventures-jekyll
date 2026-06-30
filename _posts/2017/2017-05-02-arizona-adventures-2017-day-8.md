@@ -17,16 +17,61 @@ post_id: 7824
 layout: post
 galleries:
   gallery1:
+    suffix: cl
     images:
-    - filename: 
-      alt: 
+    - filename: P1080648
+      alt: These hallways at the Guest House Inn were once sleeping porches.
+    - filename: P1080651   
+      alt: They are now enclosed and are pleasant places to sit and relax.
+    - filename: P1080653
+      alt: The dining room at the Guest House Inn
+    - filename: P1080654
+      alt: The table is ready for us!
+    - filename: P1080655
+      alt: “Where's Michael with our breakfast?”
+    - filename: P1080658
+      alt: Southwest Frittata with sausage, tomatoes, avocado and cilantro
+  gallery2:
+    suffix: cl
+    images:
+    - filename: P1080669
+      alt: Border fence in a cactus forest
+    - filename: P1080674  
+      alt: Border patrol vehicle
+    - filename: P1080679
+      alt: NGS benchmark disk J 308 along Puerto Blanco Drive 
+    - filename: P1080689
+      alt: At the site of NGS benchmark disk K 308
+    - filename: P1080700
+      alt: NGS benchmark disk M 308, very close to the Mexican border
+    - filename: P1080707
+      alt: NGS benchmark N 308, looking north toward impressive saguaros!    
+  gallery3:
+    suffix: cl
+    images:
+    - filename: P1010551
+      alt: Quitobaquito Springs
+    - filename: P1010556 
+      alt: Quitobaquito Springs; the old cottonwood tree is gone
+    - filename: P1010559
+      alt: Quitobaquito Springs, an oasis in the desert
+    - filename: P1010563
+      alt: Zhanna's first visit to Quitobaquito Springs
+    - filename: P1080723
+      alt: NGS benchmark disk Z 307, just east of Quitobaquito Springs, at the intersection of Puerto Blanco Drive and Pozo Nuevo Road
+    - filename: P1080725
+      alt: These conditions were comfortable for us!          
 ---
 
 photos: 648 (433 in gallery) to 453 (730 in gallery)
 
 {% include gallery.html gallery_id="gallery1" class="" %}
 
-Quite an unusual day. Started off as usual,  had breakfast which was a really great southwest frittata with sausage,  tomatoes, avocado and cilantro on the side.  Fantastic! Another nice chat with the owner.  Then we were getting ready leave,  I was in the bathroom and Rich had gone out to get something from the car.  I heard a knock at the bathroom door.  "Uh, are you busy?"  Rich asked. Well, uh, yeah, I'm on the toilet-but I knew he wouldn't have knocked if it wasn't important.  I just got stung by a scorpion  he said! Holy shit! He said he felt it when he came back in through the gate.  At first he thought it was a cactus spine or thorn from one of the garden plants but he reached down to flick it away and saw the scorpion. We were really concerned and looking online didn't help much.  I knew to give him a Benadryl right away but otherwise didn't know what to do. We got some ice which he used for 20 minutes or so,  then we went to the clinic up the road and saw a nurse. 
+Quite an unusual day. Started off as usual,  had breakfast which was a really great southwest frittata with sausage,  tomatoes, avocado and cilantro on the side.  Fantastic! Another nice chat with the owner. 
+
+Then we were getting ready leave,  I was in the bathroom and Rich had gone out to get something from the car.  I heard a knock at the bathroom door.  "Uh, are you busy?"  Rich asked. Well, uh, yeah, I'm on the toilet-but I knew he wouldn't have knocked if it wasn't important.  I just got stung by a scorpion  he said! Holy shit! He said he felt it when he came back in through the gate.  At first he thought it was a cactus spine or thorn from one of the garden plants but he reached down to flick it away and saw the scorpion. We were really concerned and looking online didn't help much.  I knew to give him a Benadryl right away but otherwise didn't know what to do. We got some ice which he used for 20 minutes or so,  then we went to the clinic up the road and saw a nurse. 
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 I was fine with whatever he wanted to do but rich wanted to try our planned excursion to Quitobaquito Spring, which is in the western section of the park that was closed the last time we were in this area.  The road was rough. It is also lined with benchmarks,  maybe one per mile or so, and we spent some time looking for a few of them for which I had pulled coordinates from the topo map this morning. I think it helped to distract rich from the pain and discomfort he was feeling,  at least I hope so.  We found most but not all of the ones we had been looking for. 
 
@@ -35,6 +80,8 @@ After about 15 miles on the rough road, we reached the spring. It's a large pond
 {% include tracklog.html %}
 
 By now it was very hot and we wanted to take a slow ride back along the rugged road. Rich happened to spot a bm on the topo map near the intersection so we looked and he found it! Then we took a long drive back out, enjoying the views of cactuses all around as we had been all day. Love this area!
+
+{% include gallery.html gallery_id="gallery3" class="" %}
 
 Back at the visitors center we bought a new (well, 2006 edition) Organ Pipe National Monument map and another t-shirt, asked the Rangers about the grave (is still there but there is no trail and they don't know of a good way to explain how to get there), and we watched the video about Organ Pipe: "On the Edges." Then we filled up or water bottle for the 3rd time today and headed back to town. Ate at Marcela's Cafe which was decent Mexican.
 
