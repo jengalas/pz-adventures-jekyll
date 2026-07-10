@@ -31,13 +31,13 @@ galleries:
     suffix: clx
     images:      
     - filename: P1070101
-      alt:             
+      alt: On the patio at Barista del Barrio            
     - filename: P1070103
-      alt:      
+      alt: They've been around for a few years.     
     - filename: P1070107
-      alt:   
+      alt: Tamale bowl  
     - filename: P1070110
-      alt:   
+      alt: Fully stuffed burrito!  
   gallery3:
     suffix: clx
     images:       
@@ -149,9 +149,9 @@ galleries:
     suffix: clx
     images:            
     - filename: P1070356
-      alt:   
+      alt: Pork tacos
     - filename: P1070359
-      alt:                                                                                                       
+      alt: Shrimp and mushrooms Diablo                                                                                                
 ---
 
 {% include gallery.html gallery_id="gallery1" class="2by2" %}
@@ -170,7 +170,7 @@ There was so much to see along the way, so much history in this area! Butterfiel
 
 Our hike back was, as planned, along the Overlook Ridge trail. Talk about amazing views! We would have spent even more time there if it wasn't so windy. Near one overlook we spotted a beautiful rainbow hedgehog cactus beneath an agave. We've never seen one in the wild and it was so exciting! 
 
-Dinner was at La Unica Restaurant & Tortilleria in Willcox, which we had never heard of but I found through a search from my phone when I (intermittently) had service along the way back from ft. Bowie. I had pork tacos, very different from what I'm used to -seasoned pork with pico de gallo and cabbage, and R had shrimps and mushrooms diablo with flour tortillas, rice and beans. R tried Corona Extra for Dave (didn't think it was anything exciting) and I had Negro Mode
+Dinner was at La Unica Restaurant & Tortilleria in Willcox, which we had never heard of but I found through a search from my phone when I (intermittently) had service along the way back from ft. Bowie. I had pork tacos, very different from what I'm used to -seasoned pork with pico de gallo and cabbage, and R had shrimps and mushrooms diablo with flour tortillas, rice and beans. R tried Corona Extra for Dave (didn't think it was anything exciting) and I had Negro Modelo.
 
 {% include gallery.html gallery_id="gallery4" class="2by2" %}
 

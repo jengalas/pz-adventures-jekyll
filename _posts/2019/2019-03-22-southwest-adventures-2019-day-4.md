@@ -20,15 +20,73 @@ galleries:
   gallery1:
     suffix: clx
     images:
-    - filename: 
-      alt:                                       
+    - filename: P1070368
+      alt:         
+    - filename: P1070372
+      alt:       
+    - filename: P1070376
+      alt:         
+    - filename: P1070382
+      alt:   
+    - filename: P1070385  
+      alt:      
+  gallery2:
+    suffix: clx
+    images:            
+    - filename: '20190322_104248'
+      alt:         
+    - filename: '20190322_131439'
+      alt:    
+    - filename: P1070389
+      alt:        
+    - filename: P1050804
+      alt:         
+    - filename: P1050807
+      alt:       
+    - filename: P1050824
+      alt:         
+    - filename: P1070405
+      alt:   
+    - filename: P1070412
+      alt:         
+    - filename: P1070415
+      alt:  
+    - filename: P1070436
+      alt:         
+    - filename: '20190322_103636'
+      alt:          
+    - filename: P1070438
+      alt:       
+    - filename: P1070441
+      alt:         
+    - filename: P1070459
+      alt:   
+    - filename: P1070462
+      alt:         
+    - filename: P1070466
+      alt:  
+    - filename: P1050852
+      alt:                
+  gallery3:
+    suffix: clx
+    images: 
+    - filename: P1070472
+      alt: Barrio Blonde      
+    - filename: P1070476
+      alt: Cheddar cheese burger        
+    - filename: P1070477
+      alt: Southwestern burger                
 ---
 
 After yesterday's long drive and moderate hike, we were both looking for a more laid-back adventure for today.  We decided to try the oatmeal bar at the hotel for breakfast and then stay closer to "home" by exploring some parts of the western section of Saguaro National Park. The oatmeal bar was fun and tasty, and we both enjoyed it. R had only (warmed) milk on his oats while I added some granola, raisins and chia seeds (lots of bugs!). We ate in the little "dining room" next to the bar, and recommended Tucson Mountain Park to another guest when he asked where we would recommend for short hikes in the area.
 
+{% include gallery.html gallery_id="gallery1" class="" %}
+
 Our adventures for the day would take us very close to that area, in the busy western section of Saguaro National Park. Rich had spotted a few interesting benchmarks on the map this morning that we had never looked for, and he devised a nice loop so that we could search for all of them, and incorporate a hike we wanted to try as well. The first mark we found along Kinney Road was B 291, a very straightforward find in a round concrete monument in an open area, surrounded by a cool assortment of cacti (and guarded by a special little Mammillaria)! We found the mark immediately and documented it, and then poked around for a few minutes enjoying all the cacti.
 
 The second mark was a real challenge! When we pulled over to park, ahead of us rose a steep rocky slope covered, and I mean covered, with teddy bear cholla. The disk was in a large boulder that appeared to be somewhere near the top of this steep, loose gravel slope. We kept walking toward the coordinates and they kept leading us up and up. At one point, Rich exclaimed "I got stuck!" and I looked down to see a fat cholla segment stuck firmly into the side of his right calf. Our tweezers were in the car but he tried removing it wit his knife - mostly successfully, but a few very fine spines were left stuck in the skin that we would have to remove later. It was a beautiful spot but a very precarious one due to the density of the cholla! 
+
+{% include gallery.html gallery_id="gallery2" class="" %}
 
 After that episode, I climbed a little higher and spotted the disk on the far edge of the large boulder, but the entire base of he boulder and all the area around it was carpeted with cholla. There was no safe way to get onto the boulder to photograph the mark, so I had to do so from a distance. I was pleased to see that the disk's stamping is still legible. We climbed down without incident other than a few cholla pieces sticking to my shoe (but not piercing it) and spent a few minutes at the parking pulloff removing the remaining cholla spines. We love the desert, but it always manages to get us in one way or another!
 
@@ -49,6 +107,8 @@ We then took Hohokam Rd toward the valley view overlook trailhead. It was packed
 By now we were pretty tired and took a quick trip to the visitors center just to check it out. It was packed too! They seemed like bus-tour type people, but I didn't see any buses. Either way, they were very annoying. We ended up getting one t shirt each, prickly pear licorice, prickly pear butter mints(!),  and a cactus mug that might work as a cactus planter. 
 
 Supper was at Barrio again. R wanted a burger. The first place we were interested in was over by the university and the entire area was completely packed with people, no parking, etc. I can't stand driving around in places like that. We couldn't think of anywhere else on the spot so we went to Barrio which was close. Quite a different crowd on a Friday night and very busy but it was still delicious. R had a Barrio Blonde and I had the Citrazona IPA. And by now I was craving a burger too! R had a plain cheese burger with cheddar cheese (and attempted to get a slice of onion) and I had the southwestern burger he had the other night (green chile, pepper jack cheese, tomatillo-avocado sauce). Both had fries. Crazy and loud with lots of rail traffic and people, but it was still great.
+
+{% include gallery.html gallery_id="gallery3" class="" %}
 
 Early night, snuggles!
 
