@@ -19,11 +19,49 @@ galleries:
   gallery1:
     suffix: clx
     images:
-    - filename: 
-      alt:                                       
+    - filename: P1050862
+      alt:          
+    - filename: P1050864
+      alt:  
+    - filename: P1070481
+      alt:  
+    - filename: P1070487
+      alt:  
+    - filename: P1070491
+      alt:  
+    - filename: P1070497
+      alt:  
+    - filename: P1070500
+      alt:                               
+    - filename: P1070508
+      alt:  
+    - filename: P1070511
+      alt:          
+    - filename: P1070522
+      alt:  
+    - filename: P1070523
+      alt:  
+    - filename: P1070527
+      alt:  
+    - filename: P1070534
+      alt:  
+    - filename: P1070540
+      alt:  
+    - filename: P1070545
+      alt:                               
+    - filename: P1070554
+      alt: 
+    - filename: P1070564
+      alt:                               
+    - filename: P1070573
+      alt:      
+    - filename: '20190323_113535'
+      alt:         
 ---
 
 Another "hike through history" and "hike for health" day! This time after our morning oats we headed south to Coronado National Memorial, where we hoped to do some climbing and hiking, see some beautiful views and maybe even visit a cave. The drive was pretty uneventful and easy enough after we got off I-10. It was chilly and windy this morning! The chilliness would be welcome as we knew we'd be climbing in full sun, but not so much the wind. Turned out to be just slightly annoying at times, but not really too much of a problem.
+
+{% include gallery.html gallery_id="gallery1" class="" %}
 
 We had planned to do the Windmill Hike before going tot he visitors center, but it wasn't clear where the trail or trailhead was (we saw a Windmill Road but there was only a sign prohibiting unauthorized vehicles and nothing about it being a trail, although we found out later that that road was the trail). We continued on for a mile or so to the visitors center. It was packed! We were pretty surprised, even though today was Saturday, because the location is relatively remote and we didn't expect it to be that popular. We found a spot to park down by the road and went inside to ask about the trails and if they still had the Hike for Health pins.
 
