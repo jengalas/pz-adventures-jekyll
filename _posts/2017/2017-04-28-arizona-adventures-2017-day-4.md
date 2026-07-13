@@ -58,10 +58,56 @@ galleries:
       alt: 
     - filename: P1080411
       alt: Blue morpho butterfly on orchids
+    - filename: P1000907
+      alt: Orchid      
+    - filename: P1000880
+      alt: Hibiscus     
+    - filename: P1000910
+      alt: [butterfly to identify]  
+    - filename: P1000913
+      alt: Air plants   
     - filename: P1080414
       alt: Nepenthes     
     - filename: P1080416
       alt: Hibiscus
+    - filename: P1000917
+      alt: Blue poison dart frog      
+    - filename: P1000919
+      alt: Another blue poison dart frog?  
+    - filename: P1000920
+      alt: Ocotillo with leaves  
+    - filename: P1000922
+      alt: Euphorbia  
+    - filename: P1000925
+      alt: Pomegranate
+    - filename: P1000928
+      alt: Lizard camouflaged on bark  
+    - filename: P1000930
+      alt: Cleistocactus winteri cactus  
+    - filename: P1000933
+      alt: Garden tour group  
+    - filename: P1000935
+      alt: Tree cactus (Opuntia)  
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
+          - filename: P1080416
+      alt:   
     - filename: P1080424
       alt: Rich gives it a try, comes up empty.
     - filename: P1080426
