@@ -88,25 +88,25 @@ galleries:
       alt: Garden tour group  
     - filename: P1000935
       alt: Tree cactus (Opuntia)  
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
-          - filename: P1080416
+    - filename: P1080416
       alt:   
     - filename: P1080424
       alt: Rich gives it a try, comes up empty.
