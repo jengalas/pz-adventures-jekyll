@@ -10,6 +10,7 @@ excerpt: >-
   
 geocaches: false
 surveymarks: true
+tracklog: 22SEP06.gpx
 post_id: 64
 layout: post     
 galleries:
@@ -47,3 +48,5 @@ Beautiful views over the Hudson, Haverstraw and Haverstraw Bay abound up here, a
 We then turned our attention to another intriguing nearby station, GRASSY 2. This mark has one of the most bizarre descriptions I've ever encountered. First, the station is described as being set "in a large mass of concrete lying on the beach." It seems to me that no matter how large the concrete chunk, if it's lying on sand it's going to shift. Next, we read that the reference marks were placed in trees. Was there any thought given to the permanence of this mark?
 
 Without any hope of finding the remains of a tri-station of such admittedly questionable stability, I nevertheless was unable to resist searching for the marks while in the area. After hiking the Tors and documenting what remains of LX4216 and LX4218, Rich and I took a rather harrowing drive through Haverstraw to this point, where we found that a neighborhood park now exists. Enduring a chilly wind we crossed the parking lot to the rocky beach and investigated the area around the coordinates. The very spot is now occupied by a high stone jetty decorated with a bench overlooking the river, presumably to provide the parkgoers an opportunity for relaxation and reflection. It provided for us only some slight frustration. It's possible the mass of concrete, with the mark intact, still lies beneath the jetty but we saw no evidence of this. The reference marks are long gone; there are no willow trees anywhere in the immediate area.
+
+{% include tracklog.html %}
