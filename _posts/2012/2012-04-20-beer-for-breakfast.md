@@ -69,7 +69,7 @@ We snacked on trail mix and a couple of apples, and hydrated ourselves for the n
 
 {% include image.html filename="IMG_0447cm.jpg" thumb="IMG_0447b.jpg" caption="Rich and Dave enjoy a break along the River of Rocks." %}
 
-Rich claims that I bounced around the rugged trail like a chipmunk while he and my father were both feeling a little whipped. (Truth be told, I think we were <em>all</em> just a bit relieved when we got back to the car!)  But there's no better way to spend a beautiful spring day. The conditions were really gorgeous, with temperatures in the mid 70s.  It was mostly sunny and dry and just a little breezy.  Simply ideal for being outdoors! 
+Rich claims that I bounced around the rugged trail like a chipmunk while he and my father were both feeling a little whipped. (Truth be told, I think we were _all_ just a bit relieved when we got back to the car!)  But there's no better way to spend a beautiful spring day. The conditions were really gorgeous, with temperatures in the mid 70s.  It was mostly sunny and dry and just a little breezy.  Simply ideal for being outdoors! 
 
 {% include gallery.html gallery_id="gallery2" class="special2" %}
 
