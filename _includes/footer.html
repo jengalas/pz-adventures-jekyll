@@ -78,17 +78,22 @@ for (i = 0; i < dropdown.length; i++) {
 </script>
 
 <script>
-function openPagefindSearch(e) {
-  e.preventDefault();
+  function openPagefindSearch(e) {
+    e.preventDefault();
 
-  const modal = document.querySelector("#search-modal");
+    const modal = document.querySelector("#search-modal");
 
-  if (modal && modal.open) {
-    modal.open();
-  } else {
-    console.warn("Pagefind modal not ready yet");
+    if (!modal) return;
+
+    // Wait until the custom element is ready
+    if (customElements.get("pagefind-modal")) {
+      modal.open();
+    } else {
+      customElements.whenDefined("pagefind-modal").then(() => {
+        modal.open();
+      });
+    }
   }
-}
 </script>
 </body>
 </html>
