@@ -3904,6 +3904,26 @@
   mark_type: Survey Mark  
   date: 2006-07-21
   post_id: 56 
+- designation: BALD HILL RESET
+  pid: LX4439
+  mark_type: Survey Mark  
+  date: 2006-06-10
+  post_id: 3529  
+- designation: BALD HILL RESET RM 1
+  mark_type: Reference Mark  
+  date: 2006-06-10
+  custom_permalink: lx4439-rm-1
+  post_id: 3529   
+- designation: BALD HILL RESET RM 2
+  mark_type: Reference Mark  
+  date: 2006-06-10
+  custom_permalink: lx4439-rm-2
+  post_id: 3529 
+- designation: BALD HILL RESET RM 3 
+  mark_type: Reference Mark  
+  date: 2006-06-10
+  custom_permalink: lx4439-rm-3
+  post_id: 3529 
 - designation: PTOLEMY
   pid: AB3880
   mark_type: Survey Mark  

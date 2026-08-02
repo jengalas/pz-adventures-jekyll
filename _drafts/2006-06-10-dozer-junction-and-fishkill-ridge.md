@@ -1,5 +1,27 @@
 ---
+title: Dozer Junction and Fishkill Ridge
+author: Zhanna
+date: 2006-06-10
+categories:
+  - hiking
+excerpt: >- 
+   
+geocaches: false
+surveymarks: true
+tracklog: 10JUN06-estimate.gpx
+post_id: 3529
+layout: post           
+galleries:
+  gallery1:
+    suffix: cs
+    images: 
+    - filename: 
+      alt: 
+    - filename: 
+      alt:        
 ---
+
+{% include tracklog.html %}
 
 Usually, since we have the coords, it’s the station we find right away, and then we have to search for the RMs! 
  
