@@ -8,9 +8,9 @@ post_id: 14710
 layout: post
 ---
 
-We were apprehensive 
+This week's excursion was not for pleasure, but rather for Dad's surgery at the Geisinger hospital in Danville. Although we were apprehensive about the whole situation, we were determined to enjoy what we could, make the most of our time together, and hope for the best from Dad's operation.
 
-We packed up and headed out on this very cold morning, a bit earlier than necessary, but we wanted to avoid the snow showers in the forecast from a clipper system expected to cross the state later in the day. If I've learned anything from all those years of watching the local news, it's that you don't want to be on I-80 in the vicinity of Columbia County when it's snowing.
+Dad, Lucy, and I packed up and headed out on this very cold morning, a bit earlier than necessary, but we wanted to avoid the snow showers in the forecast from a clipper system expected to cross the state later in the day. If I've learned anything from all those years of watching the local news, it's that you don't want to be on I-80 in the vicinity of Columbia County when it's snowing.
 
 The drive was uneventful, and we arrived much earlier than the standard check-in time at the Pine Barn Inn. Fortunately a room was available, so we were able to check in and get situated immediately after arriving. While we were signing the paperwork at check-in, someone called my father from the hospital to inform us of his report time for tomorrow morning: 8:30am. We'll have plenty of time for a decent night's rest and to get ourselves up to the hospital without hurrying.
 
