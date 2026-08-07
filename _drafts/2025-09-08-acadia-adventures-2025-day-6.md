@@ -15,7 +15,7 @@ layout: post
 
 This morning Rich was suffering with more pressure in his ears, an affliction that has been getting worse over the past few days. He decided to see if we could find an urgent care facility where a doctor might be able to clean out his ears or at least give us some idea what the problem was and how to treat it.
 
-The only urgent care office anywhere remotely nearby is in Ellsworth, and it had really horrible online reviews, both factors which gave us pause. Then I happened to notice a very small family medicine practice right here in town, so we thought it might be worth checking it out to see if we could at least get an apointment within the next day or so.
+The only urgent care office anywhere remotely nearby is in Ellsworth, and it had really horrible online reviews, both factors which gave us pause. Then I happened to notice a very small family medicine practice right here in town, so we thought it might be worth checking it out to see if we could at least get an appointment within the next day or so.
 
 The medical office apparently shares a building with a dental practice. We asked the receptionist if we could possibly get an appointment, but she sets up appointments for the dental office only and asked that we phone the medical office, so I did. We called while in the building just in case we could be seen quickly, but it turned out that the next available appointment wasn't until Wednesday at 10:00am. We'll take it, and see what happens. In the meantime, they were going to send Rich some forms to fill out ahead of time.
 
