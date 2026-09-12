@@ -50,3 +50,7 @@ Got cleaned up and went for pizza as always! Got there around 4:30 and Surprisin
 
 Talked to Christopher in the evening after getting more lemonade. Nothing much new from him either, except that Stephen Costen (who now owns the motel) has bought the CHerystones block and Cherrystones is now a pancake house. He also offered the Ovens discount (just don't go there for lobster!) and didn't think that Maureen had done anything with the food shack on the way to SWH. She's such a great chef, and artist really, but she just has trouble focusing on the business side of things! ALso the story abuot the larger table and how once people saw it everyone wanted one, and how he ended up buying them for all the rooms in our building. NO one had ever suggsted it before! They will firever be known as the Galas tables. (Ooh! Naming rights - can we get little bronze plaques? No, but I'll give you a SHarpie.)
 
+Powder house diagram: https://www.loc.gov/pictures/item/me0106.sheet.00003a/resource/
+
+
+

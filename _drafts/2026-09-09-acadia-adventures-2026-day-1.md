@@ -6,8 +6,6 @@ categories:
   - travel
   - acadia
   - '2026'
-geocaches: false
-surveymarks: true
 post_id: 14780
 layout: post                                        
 ---
