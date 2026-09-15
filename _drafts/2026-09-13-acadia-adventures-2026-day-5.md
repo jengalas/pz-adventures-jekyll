@@ -6,6 +6,7 @@ categories:
   - travel
   - acadia
   - '2026'
+  - abandoned trails
   - hiking
 post_id: 14784
 layout: post                                        
