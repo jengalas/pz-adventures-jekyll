@@ -9,6 +9,7 @@ categories:
   - abandoned trails
   - hiking
   - survey mark hunting
+surveymarks: true
 post_id: 14785
 layout: post                                        
 ---
