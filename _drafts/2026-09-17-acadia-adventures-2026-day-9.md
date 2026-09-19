@@ -32,7 +32,7 @@ After the run, I was feeling in need of protein (that is my excuse, anyway) so I
 
 I must have really lucked out and gotten the last of the prepared lobster salad, because they person behind me also tried to order a lobster crepe and she was told that it would take at least 25 minutes. I was so glad that after waiting about that long in the line, my crepe only took about 5 minutes to be prepared. And somehow, just somehow, a slice of blueberry pie also made its way into my bag!
 
-We ate the lobster crepes on the porch, as usual, and it was a really delicious lunch.  Perfecly filling but we didn't end up overly stuffed, because later in the afternoon ...
+We ate the lobster crepes on the porch, as usual, and it was a really delicious lunch.  Perfectly filling but we didn't end up overly stuffed, because later in the afternoon ...
 
 It's time for our every-other-day pizza at Rosalie's! Today's choice was a medium with sausage. We were the first ones at the door, as usual,  but today it didn't take long for a line to form. The couple behind us sat in the booth next to us (we got the first booth on the first floor, as we have each time so far this trip). The man and Rich were ordering at the same time. Rich said that he ordered a medium with sausage. Then the guy, who was at the register next to him, also ordered a medium with sausage. The cashier asked for Rich's name, and he said "Rich." The other cashier asked for the other guy's name, and he said "Rich." Seemed so bizarre! Rich told me the story when he sat down. And when the waiter brought over our pizza, he commented jokingly on how weird it was that they were both Richs that had ordered a medium sausage pizza. It may have caused some momentary confusion in the pizza kitchen!
 
