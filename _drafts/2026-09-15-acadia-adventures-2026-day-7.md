@@ -1,5 +1,5 @@
 ---
-title: "Acadia Adventures 2026 – Day 6"
+title: "Acadia Adventures 2026 – Day 7"
 author: Zhanna
 date: 2026-09-15
 categories: 
