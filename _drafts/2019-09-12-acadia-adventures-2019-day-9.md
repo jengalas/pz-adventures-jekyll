@@ -32,7 +32,7 @@ We took our time and enjoyed our hours here! We still had some time in the after
 
 {% include tracklog.html %}
 
-Dinner at Red Sky was amazing as usual! We arrived a few minutes before 5:30, after buying some different cheeses to try at the cheese shop on the corner. We were seated right away and we all appreciated how they spaced everyone out as they arrived. It makes for amuch more pleasant experience for the early parties and also as the evening goes on, because at least if you have someone annoying next to you, at least they probably won't be there for the entire time.
+Dinner at Red Sky was amazing as usual! We arrived a few minutes before 5:30, after buying some different cheeses to try at the cheese shop on the corner. We were seated right away and we all appreciated how they spaced everyone out as they arrived. It makes for a much more pleasant experience for the early parties and also as the evening goes on, because at least if you have someone annoying next to you, at least they probably won't be there for the entire time.
 
 We started with martinis (for our special occasion!) and the salmon mousse and  bread and then appetizers, which this time were the smoked salmon for dad and salads for me and Rich - sailor's salad for him with apples and mustard vinaigrette and house salad for me with cucumbers and sesame ginger dressing. Rich and I both had the tagliatelle with chanterelles, cherry tomatoes, and leeks and dad had the chicken, which he simply must get every time! We talked abotu some old TV shows, which was inspired by the fact that the guy next to us looked like Ducky from NCIS. And then some new ones, like the Masterpiece Mysteries that we have been watching.
 
