@@ -14,6 +14,12 @@ post_id: 14580
 layout: post
 ---
 
+Breakfast: 507-511
+Duck Brook area: 512-608
+Lobster roll: 610-617
+Rosalie's: 618-630, phone photos
+
+
 We awoke to a sunny but very chilly morning! It was tough to get moving, but we got our usual light breakfast from the hotel lobby and sat on the porch for as long as we could stand it, talking about what we might do today. My idea was to run the Witch Hole Pond carriage road loop (following and logging the rest of the Fern Trail along the way, and also seeing if I could locate an old quarry) while Rich poked around and took some photographs near Duck Brook Bridge. This worked out really well! Rich got in a nice walk of at least a half mile and found a few interesting photographic subjects, and I thoroughly enjoyed my run and exploration of the area. (I followed the trail out to Paradise Hill Road without any problems, but I had no luck in locating the quarry this time.) There was only one other runner on the carriage roads at the time, and a few walkers, among dozens of cyclists. One group of ladies was a real hoot - one of them said "Impressive!" as I trotted up the steepest hill along the way, nearly keeping pace with them (for a short time) while her friend said "We're earning it - these AREN'T ebikes!" "I agree completely!" I said cheerfully. "No judgment but yeah ... I agree!" (You might have guessed that in 2025, the vast majority of cyclists we see on the carriage roads are riding ebikes. Anything that gets people out there is great, but it still doesn't give me, at least, the same feeling of accomplishment. I guess it all depends on your goals, which is just fine.)
 
 When I returned to Duck Brook Bridge, I was very close to 7.5km, so I repeated a bit of the carriage road and turned around, hoping to make the 7.5km, which I did. Then I still felt good, so I continued running out to the road, where I ran into Rich coming the other way. "Gotta make 8k!" I said, as I ran past him. I did and then returned to the car where he was putting away his tripod.

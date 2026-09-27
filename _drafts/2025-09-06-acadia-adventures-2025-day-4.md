@@ -13,6 +13,10 @@ post_id: 14550
 layout: post
 ---
 
+Breakfast: 310-316
+Lobster roll: 317-322
+Dinner: 325-346
+
 Today was a warm, increasingly humid, and windy day that was perfect for another relaxed day of restful activities and just poking around. While eating our breakfast (leftover pizza and blueberry yogurt, and then a little later on a blueberry muffin that we shared), and discussing everything from dinner plans to personal knowledge management systems to the book "Timekeepers," at some point we decided that I would go for a practice run on part of the 5K course this morning. This worked out well because Rich could take a shower and relax for a while as I ran and then made my way to the Frenchman Bay lobster storefront across from Agamont Park to pick up a light lunch for us.
 
 Everything worked out pretty much as planned. Rather than beginning at the course's official starting point on Main Street, I just ran down Holland Avenue and joined West Street there. The reason for this was mainly that I just wanted to test out the hilly section on West Street and Cleftstone Avenue, but it turned out that it was a good idea not to go further into town anyway because it was so incredibly busy that running there was nearly impossible (as I found out later).

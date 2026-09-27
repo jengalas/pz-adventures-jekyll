@@ -12,6 +12,10 @@ post_id: 14540
 layout: post
 ---
 
+Breakfast: 228-241
+Walk: 242-266, phone photos
+Dinner: 267-309
+
 We were both desperately in need of a rest day today, and I think we mostly got one. 
 
 Our breakfast was very simple: one and a half slices of leftover pizza for me, a small yogurt for Rich, and coffee, Constant Comment tea, and juice as usual. We ate on the porch, noting the mild and cloudy morning, and expecting rain at any time. 

@@ -12,6 +12,10 @@ post_id: 14560
 layout: post
 ---
 
+Breakfast: 352-353, 357-360
+Book: 367
+Dinner: 369-404, phone photos
+
 We've expected for several days now that today was going to be a complete rest day due to the weather forecast of all-day heavy rain. And that did occur, both the rain and the resulting rest day. We had our usual quick breakfast of yogurt, muffin, and half a slice of leftover pizza, along with the usual drinks. We braved the chill and sat on the porch to eat, although we didn't last long out there.
 
 The rest of the very rainy day was spent reading and researching and discovering a new abandoned trail to search for near the old (also abandoned) Southwest Valley Road, which we had no luck finding when we tried searching for it from its western end last year. We still might be able to find some sign of it if we search the eastern end. The new trail I discovered on the maps is the McFarland path (or road; it appears to have been a road at some point, and later turned into a trail): [#524 in _Pathmakers_](https://archive.org/details/pathmakerscultur00brow/page/266/mode/1up). Although the route description in _Pathmakers_ is a meager 
