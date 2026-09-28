@@ -14,6 +14,8 @@ post_id: 14785
 layout: post                                        
 ---
 
+S 7
+
 Last night's rain was long gone this morning, and although it was cloudy, it wasn't nearly as foggy as expected. Breakfast was the usual oatmeal, banana, and half of a blueberry muffin eaten at our new table on the porch, while we watched the clouds and felt the wind blowing them away. 
 
 When we emerged a little while later from our room, ready to set out on our little adventure, the sun was already blindingly bright! So nice. It was still very windy, though, and the wind was about to get even worse.
@@ -24,15 +26,15 @@ Based on the description in the book, it seemed that the better option would be 
 
 This was a peaceful trail, one that Rich found particularly pretty. He was poking around taking some photos of mushrooms when I noticed what looked like an old road grade going off into the distance past a large rock and a concrete cube - things that the park service often uses to either obscure old roads or paths or just keep vehicles from driving on them. We decided to follow the path, which in places certainly looked like it had been a wide path or even a road at one time, and it kept going, and gonig, all the way down to the shore! It emerged at a rocky cove not far from Anemone Cave.
 
-While I poked around and made sure to get a tracklog of the old path, Rich took som emore photos of mushrooms we found along the way, and the view over the bay from the end of the path. (And he took a little tumble, too, when a branch he was leaning on to try to get a photo of me out on the rocks gave way, but no damage was done.) 
+While I poked around and made sure to get a tracklog of the old path, Rich took some more photos of mushrooms we found along the way, and the view over the bay from the end of the path. (And he took a little tumble, too, when a branch he was leaning on to try to get a photo of me out on the rocks gave way, but no damage was done.) 
 
 This was an exciting find, and we hadn't even come near to our goal for the morning! So we hiked back out to the Schooner Head Path and continued on for another few tenths of a mile to look for the spot where we should enter the woods to climb Cranberry Hill.
 
-The directions in the book were accurate enough that we knew right away when we were in the correct spot. Just knowing that we needed to start right after the boundary marker for the park was enough. We coudl basically see the summit from teh road, and we headed straight toward it through mostly open woods, only switchbacking here and there to get around the steepest chunkiest rocks.
+The directions in the book were accurate enough that we knew right away when we were in the correct spot. Just knowing that we needed to start right after the boundary marker for the park was enough. We could basically see the summit from teh road, and we headed straight toward it through mostly open woods, only switchbacking here and there to get around the steepest chunkiest rocks.
 
-Marchon was right, this certainly offers a payoff for such a simple hike! There are views of Champlain, where we could actually watch people as they climbed up the Precipice Trail - no technical climbers on the main slabs, though, and there is even a partially-obstructed view over the bay which Marchon didn't mention. The best part by far, though, was that we had hte place entirely to ourselves, and it was so quiet and peaceful. This is what we come here for, and it's increasingly hard to find.
+Marchon was right, this certainly offers a payoff for such a simple hike! There are views of Champlain, where we could actually watch people as they climbed up the Precipice Trail - no technical climbers on the main slabs, though, and there is even a partially-obstructed view over the bay which Marchon didn't mention. The best part by far, though, was that we had the place entirely to ourselves, and it was so quiet and peaceful. This is what we come here for, and it's increasingly hard to find.
 
-The wind was insane but the sun was warm and the air was warming by the minute. We loved our time on top of Cranberry Hill. Our walk back aolng the path was also very peaceful, and we even saw a garter snake out basking just south of the little bridge over the marsh. He was red-chocolatey brown and beautiful! He stared at us for a second but took off back into the weeds as soon as we reached for the camera. HE sure has a great spot here, with everything a snake could need.
+The wind was insane but the sun was warm and the air was warming by the minute. We loved our time on top of Cranberry Hill. Our walk back along the path was also very peaceful, and we even saw a garter snake out basking just south of the little bridge over the marsh. He was red-chocolatey brown and beautiful! He stared at us for a second but took off back into the weeds as soon as we reached for the camera. He sure has a great spot here, with everything a snake could need.
 
 on our way back into town, Rich stopped at A&B Naturals so I could pick up some crackers to enjoy with our goat cheese. They have so mcuh great stuff in that tiny store! Even crackers, just way too many to choose from. I ended up with plain Sesmark rice crackers and standard sea salt Firehook crackers, in addition to Better with Buckwheat Maine crisps (blueberry and walnut variety). I had to get them! Believe it or not, Rich even really liked the buckwheat crackers and would like to try some of their other flavors (Which they supposedly stock at Wegmans) and mayube even their plan buckwheat crackers.
 
