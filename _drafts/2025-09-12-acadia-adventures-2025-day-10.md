@@ -20,6 +20,13 @@ galleries:
       alt:     
 ---
 
+Breakfast: 035-038
+Asticou Trail: 039-069, phone: 101218-101355
+Asticou Inn and cottages: 070-161, phone: 101802-104719
+Bucking Lobster: 162-184
+Unmarked trail: phone: 123408
+
+
 Breakfast for this morning was waiting for us in the fridge: the blueberry-cheese and raspberry-cheese pastries we purchased yesterday at the Sugar Bakery. Although it was another cold morning, we bundled up and sat on the porch as usual for breakfast. With coffee and tea, we were warm enough for a while. The pastries were still quite good after a day, and we cut them in half to share as always. It was just enough for a morning treat.
 
 We've been so curious about what happened with the Asticou Inn (now the Asticou Hotel?) after seeing the major construction work going on last year while we were here. According to what we saw online, the place has been turned into a resort, essentially, with the inn refurbished and large "cabin" homes taking the place of where the strange alien pods used to be. We thought we would take another stroll along the Asticou Stream Trail to check it out.

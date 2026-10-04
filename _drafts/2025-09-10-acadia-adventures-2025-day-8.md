@@ -13,6 +13,9 @@ post_id: 14590
 layout: post
 ---
 
+Breakfast: 643-648
+Red Sky: 661-711, phone photos 
+
 Morning was leftover pizza on the porch while waiting for it to warm up, and then going into town for R's doctor's appointment.
 
 We arrived early, as usual, and Marina at the desk recognized us immediately. She notified the doctor that we were there, and he popped out a few minutes later to take us back to the exam room. 
@@ -31,7 +34,7 @@ I was feeling OK, just extremely sweaty, so of course I went for Kebo. And it wa
 
 {% include tracklog.html %}
 
-[Afternoon run - write more here about how part of teh Great Meadow Loop was closed and I had to go on the road, and then sneak back past the guy who had told me the trail was closed]
+[Afternoon run - write more here about how part of the Great Meadow Loop was closed and I had to go on the road, and then sneak back past the guy who had told me the trail was closed]
 
 Red Sky is always a special spot for dinner. The food is understated but spectacular, and as long as people are considerate and quiet, the atmosphere is cozy and pleasant. We arrived this evening in Southwest Harbor with about 30 minutes to spare before Red Sky opened, so first we checked out the wine and cheese shop around the corner. The aroma of cheese (and, interestingly enough, olives) when we first stepped inside was intoxicating ... to someone who likes cheese, anyway, and we do. It really made us want to buy some (which is probably the point or at least a side effect of having so much cheese in the shop), but we decided against it because we didn't think we would finish the cheese while we're here, and we don't have a cooler with us to bring anything home this time. I did purchase their last jar of guava marmalade, which sounds amazing and which Elaine will probably like as well.
 

@@ -13,6 +13,21 @@ post_id: 14600
 layout: post
 ---
 
+Breakfast: 712-717
+Bus: 718-744
+12487-51 and K 10: 745-801
+IRESON: 802-817
+K 11: 818-845
+K 144: 846-896
+Sugar Bakery: 897-904
+12797-20: 905-918
+K 3: 906-954
+M 144: 955-985
+P 144?: 986-994
+Lunch/snack: 995-008
+Lobster on trash can: 009-024
+Rosalie's: 025-034
+
 This morning's breakfast was something a little different: bagels from A  Slice of Eden bakery. This was the first morning I went to pick up something for breakfast other than what we can get in the hotel lobby. Not that we were very hungry, but we just wanted a little change of pace. They were excellent as usual. Rich got the whole wheat bagel with veggie cream cheese, while I got the salt & pepper bagel with olive pimento cream cheese. The bagel of the week was cinnamon raisin, while I had really been hoping for rosemary.
 
 While parking to search for our first mark of the day in Hull's Cove, we spotted the adorable Bar Harbor or Bust bus across the highway at the Salt Cottages, a revamp of the old Colony Motel. These cottages are actually very cute and tidy and attractive, and if it was just a bit closer to town I would definitely consider staying there sometime.
