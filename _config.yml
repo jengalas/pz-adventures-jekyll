@@ -8,6 +8,8 @@ author: Zhanna
 lang: en
 timezone: 'America/New_York'
 
+port: 4002
+
 collections:
   geocaches:
     output: false
