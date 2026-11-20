@@ -12,27 +12,27 @@ galleries:
     suffix: cvx
     images:
     - filename: PA250864
-      alt:         
+      alt: Old Route 407, looking south         
     - filename: PA250865
-      alt: 
+      alt: Still plenty of autumn color on this gorgeous day
     - filename: PA250882
-      alt: 
+      alt: Cracked mud makes it look almost like a desert scene
     - filename: PA250889
-      alt: 
+      alt: “Quickmud” beneath the modern Route 407 bridge 
     - filename: PA250901
-      alt: 
+      alt: South Branch Tunkhannock Creek flowing between the abutments of the really old bridge
     - filename: PA250909
       alt: PDH Elevation Mark F&W B A1 M
     - filename: PA250921
-      alt: 
+      alt: Taking a photo of the benchmark on the old Route 407 bridge
     - filename: PA250953
-      alt:      
+      alt: Along the usual shoreline     
     - filename: PA250971
-      alt:
+      alt: Typically-submerged tree trunk
     - filename: PA250995
-      alt:   
+      alt: The northern abutment of the old stone bridge  
     - filename: PA250996
-      alt:     
+      alt: The two Route 407 bridges, viewed from the old stone bridge. Note fish habitats.    
 featured_image: three_bridges_pano1vx.jpg                          
 ---
 
