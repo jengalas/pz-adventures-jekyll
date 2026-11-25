@@ -42,9 +42,9 @@ For some reason, we hadn't checked the time and still assumed it was quite early
 
 Even getting to Young's was a bit of an adventure. Route that looked like it was taking us on the little shortcut on 90 to Camden but we ended up going through all these little rural back roads. At least we finally got to Youngs around 12:15, and we expected it to be very busy, but it wasn't at all. We had our choice of very windy tables, and our lobster rolls were ready within about 5 minutes. Great as always! Just SO windy at that time. 
 
-Then continued on maknig our way to Bar Harbor. No real problems here, also remember trying Court Street rather than the goofy hill/stop sign that always gets backed up on the way into Ellsworth.
+Then continued on making our way to Bar Harbor. No real problems here, also remember trying Court Street rather than the goofy hill/stop sign that always gets backed up on the way into Ellsworth.
 
-Arrived at the hotel at 2:30. Larger table in place thanks to christopher! Constance checked us in. Nothiong much new to report other than Siren and Sailor, and 15% discount at the Ovens restaurant. 
+Arrived at the hotel at 2:30. Larger table in place thanks to christopher! Constance checked us in. Nothing much new to report other than Siren and Sailor, and 15% discount at the Ovens restaurant. 
 
 Got cleaned up and went for pizza as always! Got there around 4:30 and Surprisingly not busy at all. We were able to get a booth on the first floor. Got our usual medium plain and two large Allagash Whites. Excellent pizza, company, and conversation as always! Quick stop at Hannaford on the way back for paper towels and toilet paper.
 
